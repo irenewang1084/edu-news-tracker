@@ -396,64 +396,117 @@ def fetch_feed(feed):
     return articles
 
 
-# ── AI INSIGHT UPGRADE — 通义千问 (Qwen) via 阿里云百炼 ──────────────────────
-# 启用方式：在 GitHub Actions Secrets 中添加 DASHSCOPE_API_KEY
-# 阿里云百炼控制台：https://bailian.console.aliyun.com/
-# 兼容 OpenAI 格式，免费额度充足（qwen-plus 每月 100 万 token 免费）
-#
-# 如不需要 AI 解读，保持此函数不调用即可，模板 insight 仍会正常生效。
+# ── QWEN API HELPER ───────────────────────────────────────────────────────────
+def qwen_call(api_key, prompt, max_tokens=200, temperature=0.3):
+    """Single call to Qwen via DashScope compatible-mode endpoint."""
+    payload = json.dumps({
+        "model": "qwen-plus",
+        "max_tokens": max_tokens,
+        "temperature": temperature,
+        "messages": [{"role": "user", "content": prompt}]
+    }).encode()
+    req = urllib.request.Request(
+        "https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions",
+        data=payload,
+        headers={"Content-Type": "application/json",
+                 "Authorization": f"Bearer {api_key}"},
+        method="POST"
+    )
+    with urllib.request.urlopen(req, timeout=30) as r:
+        resp = json.loads(r.read())
+    return resp["choices"][0]["message"]["content"].strip()
 
-def upgrade_insights_with_qwen(articles):
-    api_key = os.environ.get("DASHSCOPE_API_KEY", "")
+
+# ── STEP 1: AI RELEVANCE SCORING & SELECTION (top 10) ────────────────────────
+def qwen_select_top(articles, api_key, top_n=10):
+    """
+    Ask Qwen to score each article 1-10 for relevance to university
+    international student recruitment. Return top_n articles sorted by score.
+    Uses a single batched API call for efficiency.
+    """
     if not api_key:
-        print("  ℹ DASHSCOPE_API_KEY not set — using template insights", file=sys.stderr)
+        # Fallback: return top_n by rule-based impact score
+        rank = {"High": 0, "Medium": 1, "Low": 2}
+        articles.sort(key=lambda a: (rank.get(a["impact"], 2), a["pubDate"]))
+        print(f"  ℹ No API key — top {top_n} selected by rule-based impact score")
+        return articles[:top_n]
+
+    print(f"  🤖 Qwen scoring {len(articles)} articles for recruitment relevance…")
+
+    # Build numbered list for the prompt (title + 1-sentence summary)
+    lines = []
+    for i, a in enumerate(articles, 1):
+        lines.append(f"{i}. [{a['impact']}] {a['title']} | {a['summary'][:120]}")
+    article_list = "\n".join(lines)
+
+    prompt = (
+        "You are a senior analyst at a university international admissions office. "
+        "Score each article below on its relevance to university international student "
+        "recruitment and enrolment strategy (visa policy, student numbers, market trends, "
+        "compliance, scholarships, geopolitical risks affecting student flows). "
+        "Score 1–10 where 10 = directly actionable for admissions teams today.\n\n"
+        f"{article_list}\n\n"
+        "Reply with ONLY a JSON array of objects, one per article, in this exact format "
+        "(no markdown, no explanation):\n"
+        '[{"i":1,"score":8},{"i":2,"score":3}, ...]'
+    )
+
+    try:
+        raw = qwen_call(api_key, prompt, max_tokens=600, temperature=0.1)
+        # Strip any accidental markdown fences
+        raw = re.sub(r"```[a-z]*", "", raw).strip().strip("`")
+        scores = json.loads(raw)
+        score_map = {int(s["i"]): int(s["score"]) for s in scores}
+    except Exception as e:
+        print(f"  ⚠ Qwen scoring error: {e} — falling back to impact sort", file=sys.stderr)
+        rank = {"High": 0, "Medium": 1, "Low": 2}
+        articles.sort(key=lambda a: (rank.get(a["impact"], 2), a["pubDate"]))
+        return articles[:top_n]
+
+    # Attach scores and sort descending
+    for i, a in enumerate(articles, 1):
+        a["relevanceScore"] = score_map.get(i, 5)
+
+    articles.sort(key=lambda a: a["relevanceScore"], reverse=True)
+    selected = articles[:top_n]
+    print(f"  ✓ Top {len(selected)} selected (scores: "
+          f"{[a['relevanceScore'] for a in selected]})")
+    return selected
+
+
+# ── STEP 2: AI INSIGHT GENERATION for selected articles ──────────────────────
+def qwen_generate_insights(articles, api_key):
+    """Generate professional 2-sentence insight for each selected article."""
+    if not api_key:
+        print("  ℹ No API key — using template insights", file=sys.stderr)
         return articles
 
-    print(f"  🤖 Upgrading {len(articles)} insights with Qwen…")
-    url = "https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions"
+    print(f"  🤖 Generating Qwen insights for {len(articles)} articles…")
 
     for a in articles:
         src = ", ".join(a["sources"]) if a["sources"] else "international students"
         dst = ", ".join(a["dests"])   if a["dests"]   else "major study destinations"
         prompt = (
-            f"Article title: {a['title']}\n"
+            f"Article: {a['title']}\n"
             f"Summary: {a['summary']}\n"
-            f"Student origin regions: {src}\n"
-            f"Destination countries: {dst}\n\n"
-            "You are an expert analyst for international education recruitment agencies. "
-            "Write exactly 2 concise, actionable sentences of professional insight for "
-            "recruiters and admissions staff. Focus on pipeline implications, market shifts, "
-            "or strategic opportunities. Be specific — name regions and countries. "
-            "Do not start with 'This article' or repeat the title. Plain text only."
-        )
-        payload = json.dumps({
-            "model": "qwen-plus",
-            "max_tokens": 120,
-            "temperature": 0.4,
-            "messages": [{"role": "user", "content": prompt}]
-        }).encode()
-        req = urllib.request.Request(
-            url, data=payload,
-            headers={
-                "Content-Type": "application/json",
-                "Authorization": f"Bearer {api_key}",
-            },
-            method="POST"
+            f"Origin regions: {src} → Destinations: {dst}\n\n"
+            "You are an expert analyst for university international admissions offices. "
+            "Write exactly 2 concise, actionable sentences of professional insight. "
+            "Focus on what admissions teams should DO in response — specific actions, "
+            "pipeline implications, or risks to monitor. Name specific regions/countries. "
+            "Do NOT start with 'This article'. Plain text only, no bullet points."
         )
         try:
-            with urllib.request.urlopen(req, timeout=25) as r:
-                resp = json.loads(r.read())
-            text = resp["choices"][0]["message"]["content"].strip()
+            text = qwen_call(api_key, prompt, max_tokens=130, temperature=0.4)
             if text:
                 a["insight"] = text
                 a["insightSource"] = "qwen"
-            time.sleep(0.3)   # stay within free-tier rate limits
+            time.sleep(0.4)
         except Exception as e:
-            print(f"  ⚠ Qwen insight error [{a['title'][:40]}]: {e}", file=sys.stderr)
-            # keep template insight on error
+            print(f"  ⚠ Insight error [{a['title'][:40]}]: {e}", file=sys.stderr)
 
     upgraded = sum(1 for a in articles if a.get("insightSource") == "qwen")
-    print(f"  ✓ Qwen upgraded {upgraded}/{len(articles)} insights")
+    print(f"  ✓ Qwen insights generated: {upgraded}/{len(articles)}")
     return articles
 
 
@@ -462,44 +515,58 @@ def main():
     now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
     print(f"\nFetching {len(FEEDS)} RSS feeds  [{now}]")
 
+    api_key = os.environ.get("DASHSCOPE_API_KEY", "")
+
+    # 1. Fetch all feeds
     all_articles = []
     for feed in FEEDS:
         all_articles.extend(fetch_feed(feed))
 
-    # Deduplicate by URL
+    # 2. Deduplicate by URL
     seen, unique = set(), []
     for a in all_articles:
         if a["url"] not in seen:
             seen.add(a["url"])
             unique.append(a)
 
-    # Sort by impact level then date (most recent first within each tier)
-    rank = {"High": 0, "Medium": 1, "Low": 2}
-    unique.sort(key=lambda a: (rank.get(a["impact"], 2), a["pubDate"]), reverse=False)
-    unique.sort(key=lambda a: rank.get(a["impact"], 2))
+    print(f"\n  Total after dedup: {len(unique)} articles")
 
-    # Assign sequential IDs
-    for i, a in enumerate(unique, 1):
+    # 3. AI scoring: select top 10 most relevant to university recruitment
+    selected = qwen_select_top(unique, api_key, top_n=10)
+
+    # 4. AI insights: generate professional insight for each selected article
+    selected = qwen_generate_insights(selected, api_key)
+
+    # 5. Final sort: by relevance score (desc), then impact, then date
+    rank = {"High": 0, "Medium": 1, "Low": 2}
+    selected.sort(key=lambda a: (
+        -a.get("relevanceScore", 5),
+        rank.get(a["impact"], 2),
+        a["pubDate"]
+    ))
+
+    # 6. Assign sequential IDs
+    for i, a in enumerate(selected, 1):
         a["id"] = i
 
-    # Upgrade template insights with Qwen AI (runs only if DASHSCOPE_API_KEY is set)
-    unique = upgrade_insights_with_qwen(unique)
-
     output = {
-        "updated":  datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
-        "count":    len(unique),
-        "articles": unique,
+        "updated":      datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "count":        len(selected),
+        "totalFetched": len(unique),
+        "articles":     selected,
     }
 
     os.makedirs("public", exist_ok=True)
     with open("public/news.json", "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
 
-    by_imp    = {k: sum(1 for a in unique if a["impact"] == k) for k in ["High", "Medium", "Low"]}
-    translated = sum(1 for a in unique if a.get("translated"))
-    print(f"\n✓ {len(unique)} articles → public/news.json")
+    by_imp     = {k: sum(1 for a in selected if a["impact"] == k) for k in ["High", "Medium", "Low"]}
+    translated = sum(1 for a in selected if a.get("translated"))
+    ai_insights = sum(1 for a in selected if a.get("insightSource") == "qwen")
+    print(f"\n✓ {len(selected)} articles saved → public/news.json")
+    print(f"  (selected from {len(unique)} total fetched)")
     print(f"  High: {by_imp['High']}  Medium: {by_imp['Medium']}  Low: {by_imp['Low']}")
-    print(f"  Translated from non-English: {translated}")
+    print(f"  AI insights: {ai_insights}  |  Translated: {translated}")
 
 if __name__ == "__main__":
     main()
