@@ -16,6 +16,7 @@ Output: public/news.json
 """
 
 import json, re, os, sys, time, html, urllib.request, urllib.parse
+import xml.etree.ElementTree as ET
 from datetime import datetime, timezone, timedelta
 from email.utils import parsedate_to_datetime
 
@@ -282,42 +283,87 @@ def is_recent(date_str, days=14):
     except: return True
 
 
-# ── FETCH ONE FEED ────────────────────────────────────────────────────────────
+# ── FETCH ONE FEED (direct XML, no third-party proxy) ────────────────────────
+# Namespaces used in RSS/Atom feeds
+NS = {
+    "atom":    "http://www.w3.org/2005/Atom",
+    "content": "http://purl.org/rss/1.0/modules/content/",
+    "dc":      "http://purl.org/dc/elements/1.1/",
+    "media":   "http://search.yahoo.com/mrss/",
+}
+
+def _text(el, *tags):
+    """Return first non-empty text found among tag names (supports namespace prefixes)."""
+    for tag in tags:
+        if ":" in tag:
+            prefix, local = tag.split(":", 1)
+            uri = NS.get(prefix, "")
+            child = el.find(f"{{{uri}}}{local}")
+        else:
+            child = el.find(tag)
+        if child is not None and child.text:
+            return child.text.strip()
+    return ""
+
 def fetch_feed(feed):
-    api_url = RSS2JSON.format(urllib.parse.quote(feed["url"], safe=""))
-    req = urllib.request.Request(api_url, headers={"User-Agent": "EduNewsTracker/2.0"})
+    headers = {
+        "User-Agent": "Mozilla/5.0 (compatible; EduNewsTracker/2.0; +https://github.com)",
+        "Accept":     "application/rss+xml, application/xml, text/xml, */*",
+    }
+    req = urllib.request.Request(feed["url"], headers=headers)
     try:
-        with urllib.request.urlopen(req, timeout=15) as r:
-            data = json.loads(r.read().decode("utf-8"))
+        with urllib.request.urlopen(req, timeout=20) as r:
+            raw = r.read()
     except Exception as e:
         print(f"  ✗ {feed['name']}: {e}", file=sys.stderr)
         return []
 
-    if data.get("status") != "ok":
-        print(f"  ✗ {feed['name']}: status={data.get('status')}", file=sys.stderr)
+    try:
+        root = ET.fromstring(raw)
+    except ET.ParseError as e:
+        print(f"  ✗ {feed['name']}: XML parse error: {e}", file=sys.stderr)
         return []
+
+    # Support both RSS 2.0 (<item>) and Atom (<entry>)
+    items = root.findall(".//item") or root.findall(f".//{{{NS['atom']}}}entry")
 
     lang     = feed.get("lang", "en")
     articles = []
 
-    for item in data.get("items", []):
-        raw_title   = strip_html(item.get("title", "")).strip()
-        raw_summary = strip_html(item.get("description", ""))[:500]
-        pub         = parse_date(item.get("pubDate", ""))
+    for item in items[:30]:
+        # Title
+        raw_title = strip_html(_text(item, "title", "atom:title")).strip()
 
-        # ── URL: guid first, then link ────────────────────────────────────────
-        url = resolve_url(item)
+        # Summary / description
+        raw_summary = strip_html(
+            _text(item, "description", "content:encoded", "atom:summary", "atom:content", "dc:description")
+        )[:500]
+
+        # Date
+        pub = parse_date(_text(item, "pubDate", "dc:date", "atom:published", "atom:updated"))
+
+        # URL: try guid, then link, then atom:link href
+        guid = _text(item, "guid")
+        link = _text(item, "link", "atom:link")
+        # atom:link is often an empty element with href attribute
+        if not link:
+            al = item.find(f"{{{NS['atom']}}}link")
+            if al is not None:
+                link = al.get("href", "")
+
+        url = resolve_url({"guid": guid, "link": link})
+
         if not raw_title or not url:
             continue
         if not is_recent(pub):
             continue
 
-        # ── Translate non-English content ─────────────────────────────────────
+        # Translate non-English content
         if lang != "en":
             title      = google_translate(raw_title,   lang)
             summary    = google_translate(raw_summary, lang)
             translated = True
-            time.sleep(0.3)   # polite rate-limiting on free endpoint
+            time.sleep(0.3)
         else:
             title, summary, translated = raw_title, raw_summary, False
 
@@ -330,7 +376,7 @@ def fetch_feed(feed):
         insight = generate_insight(title, summary, sources, dests, impact)
 
         articles.append({
-            "id":         0,          # set after dedup
+            "id":         0,
             "title":      title,
             "source":     feed["name"],
             "color":      feed["color"],
