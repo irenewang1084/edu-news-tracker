@@ -22,37 +22,32 @@ from email.utils import parsedate_to_datetime
 
 # ── FEEDS ─────────────────────────────────────────────────────────────────────
 FEEDS = [
-    {"name": "ICEF Monitor",         "url": "https://monitor.icef.com/feed/",                                                          "color": "#1a3a5c", "lang": "en"},
-    {"name": "The PIE News",         "url": "https://thepienews.com/feed/",                                                            "color": "#7b341e", "lang": "en"},
-    {"name": "Times Higher Ed",      "url": "https://www.timeshighereducation.com/news/rss.xml",                                       "color": "#c0820a", "lang": "en"},
-    {"name": "Inside Higher Ed",     "url": "https://www.insidehighered.com/rss.xml",                                                  "color": "#285e61", "lang": "en"},
-    {"name": "HEPI",                 "url": "https://www.hepi.ac.uk/category/blog/feed/",                                              "color": "#4a235a", "lang": "en"},
-    {"name": "Higher Ed Dive",       "url": "https://www.highereddive.com/feeds/news/",                                                "color": "#1e5631", "lang": "en"},
-    # China — replaced jyb.cn and thepaper.cn (no article URLs in RSS) with verified alternatives
-    # Caixin & Sixth Tone: link field = full article permalink ✓
-    {"name": "Caixin Global",        "url": "https://www.caixinglobal.com/rss/",                                                       "color": "#c0392b", "lang": "en"},
-    {"name": "Sixth Tone",           "url": "https://www.sixthtone.com/rss",                                                           "color": "#922b21", "lang": "en"},
-    # SCMP Education & Community: link field = full article permalink ✓
-    {"name": "SCMP (Education)",     "url": "https://www.scmp.com/rss/318207/feed",                                                    "color": "#7b241c", "lang": "en"},
-    # Jiemian Education: link field = full article permalink ✓ (zh, auto-translated)
-    {"name": "界面新闻 Jiemian",      "url": "https://www.jiemian.com/lists/250.rss",                                                  "color": "#8e1a1a", "lang": "zh"},
-    # India
-    {"name": "Times of India (Edu)", "url": "https://timesofindia.indiatimes.com/rssfeeds/913168846.cms",                              "color": "#d4820a", "lang": "en"},
-    {"name": "The Hindu (Edu)",      "url": "https://www.thehindu.com/education/?service=rss",                                        "color": "#145a32", "lang": "en"},
-    # Southeast Asia
-    # VnExpress VI: link field = full article permalink ✓ (vi, auto-translated)
-    {"name": "VnExpress (EN)",       "url": "https://e.vnexpress.net/rss/news.rss",                                                    "color": "#d35400", "lang": "en"},
-    {"name": "VnExpress (Giáo dục)", "url": "https://vnexpress.net/rss/giao-duc.rss",                                                 "color": "#b94500", "lang": "vi"},
-    {"name": "Straits Times (Edu)",  "url": "https://www.straitstimes.com/singapore/education.rss",                                   "color": "#b9770e", "lang": "en"},
-    # West Africa
-    {"name": "Guardian Nigeria",     "url": "https://guardian.ng/education/feed/",                                                    "color": "#1e8449", "lang": "en"},
-    {"name": "Punch Nigeria",        "url": "https://punchng.com/topics/education/feed/",                                             "color": "#196f3d", "lang": "en"},
-    {"name": "Premium Times NG",     "url": "https://www.premiumtimesng.com/category/education/feed/",                                "color": "#0e6655", "lang": "en"},
-    # Latin America
-    # El País English: link field = full article permalink ✓ (replaces unreliable ES section feed)
-    {"name": "El País (English)",    "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/english.elpais.com/portada",              "color": "#1a5276", "lang": "en"},
-    # Folha: guid field = full article permalink ✓ (pt, auto-translated)
-    {"name": "Folha de S.Paulo",     "url": "https://feeds.folha.uol.com.br/educacao/rss091.xml",                                     "color": "#154360", "lang": "pt"},
+    # ── Global / International specialist ────────────────────────────────────
+    {"name": "ICEF Monitor",          "url": "https://monitor.icef.com/feed/",                                          "color": "#1a3a5c", "lang": "en"},
+    {"name": "The PIE News",          "url": "https://thepienews.com/feed/",                                            "color": "#7b341e", "lang": "en"},
+    {"name": "Inside Higher Ed",      "url": "https://www.insidehighered.com/rss.xml",                                  "color": "#285e61", "lang": "en"},
+    {"name": "HEPI",                  "url": "https://www.hepi.ac.uk/category/blog/feed/",                              "color": "#4a235a", "lang": "en"},
+    {"name": "Higher Ed Dive",        "url": "https://www.highereddive.com/feeds/news/",                                "color": "#1e5631", "lang": "en"},
+    # Replaces Times Higher Ed (404) — UWN is the leading independent intl HE publication
+    {"name": "University World News", "url": "https://www.universityworldnews.com/rss.php",                             "color": "#0e4d8c", "lang": "en"},
+    # ── China ─────────────────────────────────────────────────────────────────
+    {"name": "Sixth Tone",            "url": "https://www.sixthtone.com/rss",                                           "color": "#922b21", "lang": "en"},
+    {"name": "SCMP (Education)",      "url": "https://www.scmp.com/rss/318207/feed",                                    "color": "#7b241c", "lang": "en"},
+    # Replaces Caixin (403) — China Daily is official EN paper, RSS open access
+    {"name": "China Daily",           "url": "https://www.chinadaily.com.cn/rss/china_rss.xml",                        "color": "#c0392b", "lang": "en"},
+    # ── India ─────────────────────────────────────────────────────────────────
+    {"name": "Times of India (Edu)",  "url": "https://timesofindia.indiatimes.com/rssfeeds/913168846.cms",              "color": "#d4820a", "lang": "en"},
+    {"name": "The Hindu (Edu)",       "url": "https://www.thehindu.com/education/?service=rss",                        "color": "#145a32", "lang": "en"},
+    # ── Southeast Asia ────────────────────────────────────────────────────────
+    {"name": "VnExpress (EN)",        "url": "https://e.vnexpress.net/rss/news.rss",                                    "color": "#d35400", "lang": "en"},
+    {"name": "VnExpress (Giáo dục)",  "url": "https://vnexpress.net/rss/giao-duc.rss",                                 "color": "#b94500", "lang": "vi"},
+    # ── West Africa ───────────────────────────────────────────────────────────
+    # Replaces Guardian Nigeria (403) + Punch/Premium Times (0 articles)
+    # UWN Africa edition covers Nigerian/West African HE reliably
+    {"name": "UWN Africa",            "url": "https://www.universityworldnews.com/rss.php?edition=africa",              "color": "#1e8449", "lang": "en"},
+    # ── Latin America ─────────────────────────────────────────────────────────
+    {"name": "El País (English)",     "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/english.elpais.com/portada", "color": "#1a5276", "lang": "en"},
+    {"name": "Folha de S.Paulo",      "url": "https://feeds.folha.uol.com.br/educacao/rss091.xml",                     "color": "#154360", "lang": "pt"},
 ]
 
 RSS2JSON = "https://api.rss2json.com/v1/api.json?count=30&rss_url={}"
@@ -440,14 +435,16 @@ def qwen_select_top(articles, api_key, top_n=10):
     article_list = "\n".join(lines)
 
     prompt = (
-        "You are a senior analyst at a university international admissions office. "
-        "Score each article below on its relevance to university international student "
-        "recruitment and enrolment strategy (visa policy, student numbers, market trends, "
-        "compliance, scholarships, geopolitical risks affecting student flows). "
-        "Score 1–10 where 10 = directly actionable for admissions teams today.\n\n"
+        "You are a senior international student recruitment strategist advising university "
+        "admissions teams in the USA, UK, Australia, and New Zealand. "
+        "Score each article 1–10 on how directly it affects international student recruitment "
+        "at these destination universities — considering visa policy changes, student flow data, "
+        "geopolitical risks affecting source markets, compliance requirements, competitor moves, "
+        "or shifts in student demand from China, India, Southeast Asia, South Asia, West Africa, "
+        "and Latin America. Score 10 = immediate action required by admissions teams today; "
+        "Score 1 = no relevance to university international recruitment.\n\n"
         f"{article_list}\n\n"
-        "Reply with ONLY a JSON array of objects, one per article, in this exact format "
-        "(no markdown, no explanation):\n"
+        "Reply with ONLY a JSON array, one object per article, no markdown, no explanation:\n"
         '[{"i":1,"score":8},{"i":2,"score":3}, ...]'
     )
 
@@ -489,12 +486,16 @@ def qwen_generate_insights(articles, api_key):
         prompt = (
             f"Article: {a['title']}\n"
             f"Summary: {a['summary']}\n"
-            f"Origin regions: {src} → Destinations: {dst}\n\n"
-            "You are an expert analyst for university international admissions offices. "
-            "Write exactly 2 concise, actionable sentences of professional insight. "
-            "Focus on what admissions teams should DO in response — specific actions, "
-            "pipeline implications, or risks to monitor. Name specific regions/countries. "
-            "Do NOT start with 'This article'. Plain text only, no bullet points."
+            f"Student origin regions: {src}\n\n"
+            "You are a strategic advisor to international student recruitment teams at universities "
+            "in the USA, UK, Australia, and New Zealand. Analyse how this news affects their "
+            "ability to recruit international students. Write exactly 2 sentences: "
+            "the first explains the specific impact on international student recruitment "
+            "(e.g. changes to applicant volume, visa risk, competitor positioning, compliance); "
+            "the second gives a concrete, actionable recommendation for admissions teams "
+            "(e.g. what to communicate to agents, how to adjust pipeline, what to monitor). "
+            "Be specific — name countries, visa types, or student cohorts where relevant. "
+            "Do NOT start with 'This article'. Plain text only."
         )
         try:
             text = qwen_call(api_key, prompt, max_tokens=130, temperature=0.4)
