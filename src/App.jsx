@@ -3,32 +3,31 @@ import { useState, useEffect } from "react";
 // ── MEDIA SOURCES for RSS panel ──────────────────────────────────────────────
 const MEDIA_SOURCES = {
   "🌐 International Specialist": [
-    { name: "ICEF Monitor",          url: "https://monitor.icef.com/feed/",              color: "#1a3a5c" },
-    { name: "The PIE News",          url: "https://thepienews.com/feed/",                color: "#7b341e" },
-    { name: "Inside Higher Ed",      url: "https://www.insidehighered.com/rss.xml",      color: "#285e61" },
-    { name: "HEPI",                  url: "https://www.hepi.ac.uk/category/blog/feed/",  color: "#4a235a" },
-    { name: "Higher Ed Dive",        url: "https://www.highereddive.com/feeds/news/",    color: "#1e5631" },
-    { name: "WENR (WES)",            url: "https://wenr.wes.org/feed",                                             color: "#0e4d8c" },
+    { name: "ICEF Monitor",        url: "https://monitor.icef.com/feed/",                          color: "#1a3a5c" },
+    { name: "The PIE News",        url: "https://thepienews.com/feed/",                            color: "#7b341e" },
+    { name: "Inside Higher Ed",    url: "https://www.insidehighered.com/rss.xml",                  color: "#285e61" },
+    { name: "HEPI",                url: "https://www.hepi.ac.uk/category/blog/feed/",              color: "#4a235a" },
+    { name: "Higher Ed Dive",      url: "https://www.highereddive.com/feeds/news/",                color: "#1e5631" },
+    { name: "Wonkhe",              url: "https://wonkhe.com/feed/",                                color: "#0e4d8c" },
+    { name: "Study International", url: "https://www.studyinternational.com/news/feed/",           color: "#6c3483" },
+    { name: "ACE Higher Ed Today", url: "https://higheredtoday.org/feed/",                         color: "#c0820a" },
   ],
   "🇨🇳 China": [
-    { name: "Sixth Tone",          url: "https://www.sixthtone.com/rss",                                             color: "#922b21" },
-    { name: "SCMP (Education)",    url: "https://www.scmp.com/rss/318207/feed",                                      color: "#7b241c" },
-    { name: "China Daily",         url: "https://www.chinadaily.com.cn/rss/china_rss.xml",                          color: "#c0392b" },
+    { name: "Sixth Tone",          url: "https://www.sixthtone.com/rss",                           color: "#922b21" },
+    { name: "SCMP (Education)",    url: "https://www.scmp.com/rss/318207/feed",                    color: "#7b241c" },
+    { name: "China Daily",         url: "https://www.chinadaily.com.cn/rss/china_rss.xml",         color: "#c0392b" },
   ],
   "🇮🇳 India": [
-    { name: "Times of India",      url: "https://timesofindia.indiatimes.com/rssfeeds/913168846.cms",                color: "#d4820a" },
-    { name: "The Hindu (Edu)",     url: "https://www.thehindu.com/education/?service=rss",                          color: "#145a32" },
+    { name: "Times of India",      url: "https://timesofindia.indiatimes.com/rssfeeds/913168846.cms", color: "#d4820a" },
+    { name: "The Hindu (Edu)",     url: "https://www.thehindu.com/education/?service=rss",         color: "#145a32" },
   ],
   "🌏 Southeast Asia": [
-    { name: "VnExpress (EN)",      url: "https://e.vnexpress.net/rss/news.rss",                                     color: "#d35400" },
-    { name: "VnExpress (Giáo dục)",url: "https://vnexpress.net/rss/giao-duc.rss",                                   color: "#b94500" },
-  ],
-  "🌐 Global": [
-    { name: "Times Higher Ed",     url: "https://www.timeshighereducation.com/news/rss.xml",                      color: "#c0820a" },
+    { name: "VnExpress (EN)",      url: "https://e.vnexpress.net/rss/news.rss",                    color: "#d35400" },
+    { name: "VnExpress (Giáo dục)",url: "https://vnexpress.net/rss/giao-duc.rss",                  color: "#b94500" },
   ],
   "🌎 Latin America": [
     { name: "El País (English)",   url: "https://feeds.elpais.com/mrss-s/pages/ep/site/english.elpais.com/portada", color: "#1a5276" },
-    { name: "Folha de S.Paulo",    url: "https://feeds.folha.uol.com.br/educacao/rss091.xml",                      color: "#154360" },
+    { name: "Folha de S.Paulo",    url: "https://feeds.folha.uol.com.br/educacao/rss091.xml",      color: "#154360" },
   ],
 };
 
