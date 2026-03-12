@@ -8,7 +8,7 @@ const MEDIA_SOURCES = {
     { name: "Inside Higher Ed",      url: "https://www.insidehighered.com/rss.xml",      color: "#285e61" },
     { name: "HEPI",                  url: "https://www.hepi.ac.uk/category/blog/feed/",  color: "#4a235a" },
     { name: "Higher Ed Dive",        url: "https://www.highereddive.com/feeds/news/",    color: "#1e5631" },
-    { name: "University World News", url: "https://www.universityworldnews.com/backend/UWN_Global.rss", color: "#0e4d8c" },
+    { name: "WENR (WES)",            url: "https://wenr.wes.org/feed",                                             color: "#0e4d8c" },
   ],
   "🇨🇳 China": [
     { name: "Sixth Tone",          url: "https://www.sixthtone.com/rss",                                             color: "#922b21" },
@@ -23,8 +23,8 @@ const MEDIA_SOURCES = {
     { name: "VnExpress (EN)",      url: "https://e.vnexpress.net/rss/news.rss",                                     color: "#d35400" },
     { name: "VnExpress (Giáo dục)",url: "https://vnexpress.net/rss/giao-duc.rss",                                   color: "#b94500" },
   ],
-  "🌍 West Africa": [
-    { name: "UWN Africa",          url: "https://www.universityworldnews.com/backend/UWN_Africa.rss",               color: "#1e8449" },
+  "🌐 Global": [
+    { name: "Times Higher Ed",     url: "https://www.timeshighereducation.com/news/rss.xml",                      color: "#c0820a" },
   ],
   "🌎 Latin America": [
     { name: "El País (English)",   url: "https://feeds.elpais.com/mrss-s/pages/ep/site/english.elpais.com/portada", color: "#1a5276" },
