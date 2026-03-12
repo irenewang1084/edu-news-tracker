@@ -9,8 +9,6 @@ const MEDIA_SOURCES = {
     { name: "HEPI",                url: "https://www.hepi.ac.uk/category/blog/feed/",              color: "#4a235a" },
     { name: "Higher Ed Dive",      url: "https://www.highereddive.com/feeds/news/",                color: "#1e5631" },
     { name: "NAFSA",               url: "https://www.nafsa.org/rss-feed.xml?feed=am_news",         color: "#0e4d8c" },
-    { name: "Hotcourses Abroad",   url: "https://www.hotcoursesabroad.com/study-abroad-info/international-student-news/rss/", color: "#6c3483" },
-    { name: "IIE Blog",            url: "https://www.iie.org/rss/blog/",                           color: "#c0820a" },
   ],
   "🇨🇳 China": [
     { name: "Sixth Tone",          url: "https://www.sixthtone.com/rss",                           color: "#922b21" },
