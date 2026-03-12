@@ -8,9 +8,9 @@ const MEDIA_SOURCES = {
     { name: "Inside Higher Ed",    url: "https://www.insidehighered.com/rss.xml",                  color: "#285e61" },
     { name: "HEPI",                url: "https://www.hepi.ac.uk/category/blog/feed/",              color: "#4a235a" },
     { name: "Higher Ed Dive",      url: "https://www.highereddive.com/feeds/news/",                color: "#1e5631" },
-    { name: "Wonkhe",              url: "https://wonkhe.com/feed/",                                color: "#0e4d8c" },
-    { name: "Study International", url: "https://www.studyinternational.com/news/feed/",           color: "#6c3483" },
-    { name: "ACE Higher Ed Today", url: "https://higheredtoday.org/feed/",                         color: "#c0820a" },
+    { name: "NAFSA",               url: "https://www.nafsa.org/rss-feed.xml?feed=am_news",         color: "#0e4d8c" },
+    { name: "Hotcourses Abroad",   url: "https://www.hotcoursesabroad.com/study-abroad-info/international-student-news/rss/", color: "#6c3483" },
+    { name: "IIE Blog",            url: "https://www.iie.org/rss/blog/",                           color: "#c0820a" },
   ],
   "🇨🇳 China": [
     { name: "Sixth Tone",          url: "https://www.sixthtone.com/rss",                           color: "#922b21" },
