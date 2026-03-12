@@ -28,8 +28,8 @@ FEEDS = [
     {"name": "Inside Higher Ed",      "url": "https://www.insidehighered.com/rss.xml",                                  "color": "#285e61", "lang": "en"},
     {"name": "HEPI",                  "url": "https://www.hepi.ac.uk/category/blog/feed/",                              "color": "#4a235a", "lang": "en"},
     {"name": "Higher Ed Dive",        "url": "https://www.highereddive.com/feeds/news/",                                "color": "#1e5631", "lang": "en"},
-    # Replaces Times Higher Ed (404) — UWN is the leading independent intl HE publication
-    {"name": "University World News", "url": "https://www.universityworldnews.com/backend/UWN_Global.rss",              "color": "#0e4d8c", "lang": "en"},
+    # Replaces Times Higher Ed (404) — WENR is WES's authoritative intl HE news source
+    {"name": "WENR (WES)",            "url": "https://wenr.wes.org/feed",                                                 "color": "#0e4d8c", "lang": "en"},
     # ── China ─────────────────────────────────────────────────────────────────
     {"name": "Sixth Tone",            "url": "https://www.sixthtone.com/rss",                                           "color": "#922b21", "lang": "en"},
     {"name": "SCMP (Education)",      "url": "https://www.scmp.com/rss/318207/feed",                                    "color": "#7b241c", "lang": "en"},
@@ -41,16 +41,12 @@ FEEDS = [
     # ── Southeast Asia ────────────────────────────────────────────────────────
     {"name": "VnExpress (EN)",        "url": "https://e.vnexpress.net/rss/news.rss",                                    "color": "#d35400", "lang": "en"},
     {"name": "VnExpress (Giáo dục)",  "url": "https://vnexpress.net/rss/giao-duc.rss",                                 "color": "#b94500", "lang": "vi"},
-    # ── West Africa ───────────────────────────────────────────────────────────
-    # Replaces Guardian Nigeria (403) + Punch/Premium Times (0 articles)
-    # UWN Africa edition covers Nigerian/West African HE reliably
-    {"name": "UWN Africa",            "url": "https://www.universityworldnews.com/backend/UWN_Africa.rss",              "color": "#1e8449", "lang": "en"},
+    # ── West Africa / Global ──────────────────────────────────────────────────
+    {"name": "Times Higher Ed",       "url": "https://www.timeshighereducation.com/news/rss.xml",                        "color": "#c0820a", "lang": "en"},
     # ── Latin America ─────────────────────────────────────────────────────────
     {"name": "El País (English)",     "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/english.elpais.com/portada", "color": "#1a5276", "lang": "en"},
     {"name": "Folha de S.Paulo",      "url": "https://feeds.folha.uol.com.br/educacao/rss091.xml",                     "color": "#154360", "lang": "pt"},
 ]
-
-RSS2JSON = "https://api.rss2json.com/v1/api.json?count=30&rss_url={}"
 
 # ── URL RESOLVER ──────────────────────────────────────────────────────────────
 # Known homepage / channel URLs that should never be used as article URLs.
