@@ -28,8 +28,9 @@ FEEDS = [
     {"name": "Inside Higher Ed",      "url": "https://www.insidehighered.com/rss.xml",                                  "color": "#285e61", "lang": "en"},
     {"name": "HEPI",                  "url": "https://www.hepi.ac.uk/category/blog/feed/",                              "color": "#4a235a", "lang": "en"},
     {"name": "Higher Ed Dive",        "url": "https://www.highereddive.com/feeds/news/",                                "color": "#1e5631", "lang": "en"},
-    # Replaces Times Higher Ed (404) — WENR is WES's authoritative intl HE news source
-    {"name": "WENR (WES)",            "url": "https://wenr.wes.org/feed",                                                 "color": "#0e4d8c", "lang": "en"},
+    # Wonkhe: leading UK HE policy analysis; Study International: intl student recruitment focus
+    {"name": "Wonkhe",                "url": "https://wonkhe.com/feed/",                                                "color": "#0e4d8c", "lang": "en"},
+    {"name": "Study International",   "url": "https://www.studyinternational.com/news/feed/",                           "color": "#6c3483", "lang": "en"},
     # ── China ─────────────────────────────────────────────────────────────────
     {"name": "Sixth Tone",            "url": "https://www.sixthtone.com/rss",                                           "color": "#922b21", "lang": "en"},
     {"name": "SCMP (Education)",      "url": "https://www.scmp.com/rss/318207/feed",                                    "color": "#7b241c", "lang": "en"},
@@ -42,7 +43,8 @@ FEEDS = [
     {"name": "VnExpress (EN)",        "url": "https://e.vnexpress.net/rss/news.rss",                                    "color": "#d35400", "lang": "en"},
     {"name": "VnExpress (Giáo dục)",  "url": "https://vnexpress.net/rss/giao-duc.rss",                                 "color": "#b94500", "lang": "vi"},
     # ── West Africa / Global ──────────────────────────────────────────────────
-    {"name": "Times Higher Ed",       "url": "https://www.timeshighereducation.com/news/rss.xml",                        "color": "#c0820a", "lang": "en"},
+    # THE RSS 404 — replaced with ACE Higher Ed Today (US-focused intl HE policy)
+    {"name": "ACE Higher Ed Today",   "url": "https://higheredtoday.org/feed/",                                         "color": "#c0820a", "lang": "en"},
     # ── Latin America ─────────────────────────────────────────────────────────
     {"name": "El País (English)",     "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/english.elpais.com/portada", "color": "#1a5276", "lang": "en"},
     {"name": "Folha de S.Paulo",      "url": "https://feeds.folha.uol.com.br/educacao/rss091.xml",                     "color": "#154360", "lang": "pt"},
