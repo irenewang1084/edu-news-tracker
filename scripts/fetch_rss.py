@@ -1,0 +1,459 @@
+#!/usr/bin/env python3
+"""
+fetch_rss.py  —  Daily RSS fetcher for Global Study Abroad News Tracker
+------------------------------------------------------------------------
+Free stack, no paid API required:
+  - rss2json.com     : free RSS-to-JSON proxy (1000 req/day)
+  - Google Translate : free unofficial endpoint for non-English content
+  - Rule engine      : region/destination classification + impact scoring
+  - Insight engine   : template-based professional insights by article type
+
+URL fix: RSS items sometimes give homepage URL in 'link' but the real
+article URL in 'guid'. We try guid first, validate it looks like an
+article URL, then fall back to link.
+
+Output: public/news.json
+"""
+
+import json, re, os, sys, time, html, urllib.request, urllib.parse
+from datetime import datetime, timezone, timedelta
+from email.utils import parsedate_to_datetime
+
+# ── FEEDS ─────────────────────────────────────────────────────────────────────
+FEEDS = [
+    {"name": "ICEF Monitor",         "url": "https://monitor.icef.com/feed/",                                                          "color": "#1a3a5c", "lang": "en"},
+    {"name": "The PIE News",         "url": "https://thepienews.com/feed/",                                                            "color": "#7b341e", "lang": "en"},
+    {"name": "Times Higher Ed",      "url": "https://www.timeshighereducation.com/news/rss.xml",                                       "color": "#c0820a", "lang": "en"},
+    {"name": "Inside Higher Ed",     "url": "https://www.insidehighered.com/rss.xml",                                                  "color": "#285e61", "lang": "en"},
+    {"name": "HEPI",                 "url": "https://www.hepi.ac.uk/category/blog/feed/",                                              "color": "#4a235a", "lang": "en"},
+    {"name": "Higher Ed Dive",       "url": "https://www.highereddive.com/feeds/news/",                                                "color": "#1e5631", "lang": "en"},
+    # China — replaced jyb.cn and thepaper.cn (no article URLs in RSS) with verified alternatives
+    # Caixin & Sixth Tone: link field = full article permalink ✓
+    {"name": "Caixin Global",        "url": "https://www.caixinglobal.com/rss/",                                                       "color": "#c0392b", "lang": "en"},
+    {"name": "Sixth Tone",           "url": "https://www.sixthtone.com/rss",                                                           "color": "#922b21", "lang": "en"},
+    # SCMP Education & Community: link field = full article permalink ✓
+    {"name": "SCMP (Education)",     "url": "https://www.scmp.com/rss/318207/feed",                                                    "color": "#7b241c", "lang": "en"},
+    # Jiemian Education: link field = full article permalink ✓ (zh, auto-translated)
+    {"name": "界面新闻 Jiemian",      "url": "https://www.jiemian.com/lists/250.rss",                                                  "color": "#8e1a1a", "lang": "zh"},
+    # India
+    {"name": "Times of India (Edu)", "url": "https://timesofindia.indiatimes.com/rssfeeds/913168846.cms",                              "color": "#d4820a", "lang": "en"},
+    {"name": "The Hindu (Edu)",      "url": "https://www.thehindu.com/education/?service=rss",                                        "color": "#145a32", "lang": "en"},
+    # Southeast Asia
+    # VnExpress VI: link field = full article permalink ✓ (vi, auto-translated)
+    {"name": "VnExpress (EN)",       "url": "https://e.vnexpress.net/rss/news.rss",                                                    "color": "#d35400", "lang": "en"},
+    {"name": "VnExpress (Giáo dục)", "url": "https://vnexpress.net/rss/giao-duc.rss",                                                 "color": "#b94500", "lang": "vi"},
+    {"name": "Straits Times (Edu)",  "url": "https://www.straitstimes.com/singapore/education.rss",                                   "color": "#b9770e", "lang": "en"},
+    # West Africa
+    {"name": "Guardian Nigeria",     "url": "https://guardian.ng/education/feed/",                                                    "color": "#1e8449", "lang": "en"},
+    {"name": "Punch Nigeria",        "url": "https://punchng.com/topics/education/feed/",                                             "color": "#196f3d", "lang": "en"},
+    {"name": "Premium Times NG",     "url": "https://www.premiumtimesng.com/category/education/feed/",                                "color": "#0e6655", "lang": "en"},
+    # Latin America
+    # El País English: link field = full article permalink ✓ (replaces unreliable ES section feed)
+    {"name": "El País (English)",    "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/english.elpais.com/portada",              "color": "#1a5276", "lang": "en"},
+    # Folha: guid field = full article permalink ✓ (pt, auto-translated)
+    {"name": "Folha de S.Paulo",     "url": "https://feeds.folha.uol.com.br/educacao/rss091.xml",                                     "color": "#154360", "lang": "pt"},
+]
+
+RSS2JSON = "https://api.rss2json.com/v1/api.json?count=30&rss_url={}"
+
+# ── URL RESOLVER ──────────────────────────────────────────────────────────────
+# Known homepage / channel URLs that should never be used as article URLs.
+# If resolved URL matches any of these patterns, we skip the item.
+HOMEPAGE_PATTERNS = [
+    r"^https?://[^/]+/?$",                       # bare domain
+    r"^https?://[^/]+/rss",                      # RSS feed URL itself
+    r"^https?://[^/]+/category/",               # category pages
+    r"^https?://[^/]+/tag/",                    # tag pages
+    r"^https?://[^/]+/education/?$",            # section index
+    r"^https?://[^/]+/giao-duc/?$",             # VnExpress section
+    r"^https?://[^/]+/educacion/?$",            # El País section
+    r"^https?://[^/]+/educacao/?$",             # Folha section
+    r"thepaper\.cn/rss",                        # Thepaper feed URL
+    r"jyb\.cn/rmtzgjyb/rss",                   # jyb feed URL
+]
+
+def is_article_url(url):
+    """Return True if the URL looks like a real article (not a homepage/section)."""
+    if not url or not url.startswith("http"):
+        return False
+    for pattern in HOMEPAGE_PATTERNS:
+        if re.search(pattern, url):
+            return False
+    # Must have a meaningful path (at least one slash after domain + some slug)
+    path = urllib.parse.urlparse(url).path.rstrip("/")
+    return len(path) > 5
+
+def resolve_url(item):
+    """
+    Pick the best article URL from an RSS item.
+    Priority: guid (if it looks like an article URL) > link > None
+    Also handles guid wrapped in a dict (rss2json sometimes returns {"_value": url, "isPermaLink": ...})
+    """
+    candidates = []
+
+    # guid can be a string or a dict
+    guid = item.get("guid", "")
+    if isinstance(guid, dict):
+        guid = guid.get("_value") or guid.get("#text") or ""
+    if guid:
+        candidates.append(str(guid).strip())
+
+    link = item.get("link", "")
+    if link:
+        candidates.append(str(link).strip())
+
+    for url in candidates:
+        if is_article_url(url):
+            return url
+
+    # Last resort: return link even if it looks like a homepage
+    return link or ""
+
+
+# ── GOOGLE TRANSLATE ──────────────────────────────────────────────────────────
+def google_translate(text, src_lang, retries=3):
+    if not text or src_lang == "en":
+        return text
+    text = text[:800]
+    params = urllib.parse.urlencode({
+        "client": "gtx", "sl": src_lang, "tl": "en", "dt": "t", "q": text
+    })
+    url = f"https://translate.googleapis.com/translate_a/single?{params}"
+    for attempt in range(retries):
+        try:
+            req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+            with urllib.request.urlopen(req, timeout=10) as r:
+                data = json.loads(r.read().decode("utf-8"))
+            return "".join(seg[0] for seg in data[0] if seg[0]).strip()
+        except Exception as e:
+            if attempt < retries - 1:
+                time.sleep(1)
+            else:
+                print(f"    translate error ({src_lang}): {e}", file=sys.stderr)
+    return text
+
+
+# ── CLASSIFIERS ───────────────────────────────────────────────────────────────
+SOURCE_KW = {
+    "China":          ["china", "chinese", "beijing", "shanghai", "mainland", "prc", "sino",
+                       "中国", "留学生", "出国留学"],
+    "Southeast Asia": ["southeast asia", "vietnam", "vietnamese", "malaysia", "indonesia",
+                       "thailand", "philippines", "myanmar", "cambodia", "singapore", "asean",
+                       "sinh viên", "du học"],
+    "India":          ["india", "indian", "delhi", "mumbai", "bangalore", "hyderabad"],
+    "South Asia":     ["pakistan", "bangladesh", "sri lanka", "nepal", "south asia"],
+    "West Africa":    ["nigeria", "nigerian", "ghana", "ghanaian", "cameroon", "west africa",
+                       "senegal"],
+    "Latin America":  ["latin america", "brazil", "brazilian", "mexico", "mexican", "colombia",
+                       "venezuela", "argentina", "chile", "brasil", "latinoamérica",
+                       "estudiante internacional", "estudante"],
+}
+DEST_KW = {
+    "USA":         ["united states", " u.s.", "american universit", "sevis", "f-1",
+                    "opt ", "stem opt", "us visa", "dhs"],
+    "UK":          ["united kingdom", " u.k.", " uk ", "british", "ucas", "home office",
+                    "ukvi", "graduate route", "reino unido"],
+    "Canada":      ["canada", "canadian", "ircc", "study permit", "pgwp", "ontario",
+                    "vancouver", "toronto", "montreal"],
+    "Australia":   ["australia", "australian", "esos", "cricos", "485 visa",
+                    "subclass 500", "australi"],
+    "New Zealand": ["new zealand", " nz ", "nzqa", "auckland", "wellington"],
+}
+EDU_KW = [
+    "international student", "study abroad", "foreign student", "student visa",
+    "enrolment", "enrollment", "higher education", "university", "college",
+    "tuition", "scholarship", "overseas student", "postgraduate", "undergraduate",
+    "留学", "签证", "大学", "奖学金", "du học", "estudiante internacional",
+]
+HIGH_KW = ["ban", "suspend", "restrict", "halt", "block", "cancel", "cap", "surge",
+           "crisis", "record", "historic", "emergency", "doubles", "halts", "revokes",
+           "禁止", "限制", "取消"]
+MED_KW  = ["policy", "update", "reform", "announce", "increase", "decrease",
+           "new programme", "partnership", "agreement", "target", "launches", "raises",
+           "政策", "宣布", "合作"]
+
+def classify(text):
+    t = text.lower()
+    sources = [k for k, kws in SOURCE_KW.items() if any(w in t for w in kws)]
+    dests   = [k for k, kws in DEST_KW.items()   if any(w in t for w in kws)]
+    is_edu  = any(w in t for w in EDU_KW) or bool(sources) or bool(dests)
+    return sources, dests, is_edu
+
+def score_impact(title):
+    t = title.lower()
+    if any(w in t for w in HIGH_KW): return "High"
+    if any(w in t for w in MED_KW):  return "Medium"
+    return "Low"
+
+
+# ── PROFESSIONAL INSIGHT TEMPLATES ───────────────────────────────────────────
+def _alts(dests):
+    mapping = {
+        "USA":         ["Canada", "UK", "Australia"],
+        "UK":          ["Canada", "Australia", "Germany"],
+        "Canada":      ["Australia", "UK", "New Zealand"],
+        "Australia":   ["Canada", "New Zealand", "UK"],
+        "New Zealand": ["Australia", "Canada"],
+    }
+    out, seen = [], set()
+    for d in (dests or []):
+        for s in mapping.get(d, []):
+            if s not in seen and s not in (dests or []):
+                out.append(s); seen.add(s)
+    return ", ".join(out[:2])
+
+def generate_insight(title, summary, sources, dests, impact):
+    t   = (title + " " + summary).lower()
+    src = " & ".join(sources) if sources else "affected markets"
+    dst = " & ".join(dests)   if dests   else "target destinations"
+    alt = _alts(dests)
+
+    if any(w in t for w in ["ban", "suspend", "halt", "restrict", "block", "revoke", "emergency brake"]):
+        return (
+            f"Immediate action required for {src} students with pending or planned "
+            f"applications to {dst}. Audit your current pipeline and prepare contingency "
+            f"pathways{(' — consider ' + alt) if alt else ''}. "
+            f"Students already enrolled are typically unaffected; clarify status proactively."
+        )
+    if any(w in t for w in ["fee", "doubles", "cost"]) and any(w in t for w in ["visa", "tuition"]):
+        return (
+            f"Cost shock for {src} applicants targeting {dst}. Update ROI calculations "
+            f"in student consultations immediately."
+            + (f" Position {alt} as a cost-competitive alternative." if alt else "")
+            + " Highlight scholarships and on-campus work rights to offset sticker shock."
+        )
+    if any(w in t for w in ["decline", "fall", "drop", "decrease", "down", "contract"]) and \
+       any(w in t for w in ["enrol", "student", "applicant"]):
+        return (
+            f"Structural decline signal for {dst} from {src}. Diversify destination "
+            f"portfolio now. Focus messaging on post-study work rights, PR pathways, "
+            f"and safety — these consistently outrank prestige for cost-sensitive markets."
+        )
+    if any(w in t for w in ["scholarship", "fund", "invest", "new pathway", "partnership", "mou", "agreement"]):
+        return (
+            f"Opportunity signal for {src} applicants: new initiative opens in {dst}. "
+            f"Fast-track pipeline building while competition is low — early awareness "
+            f"creates strong conversion advantage. Research eligibility criteria now."
+        )
+    if any(w in t for w in ["cap", "quota", "limit", "allocation", "planning level"]):
+        return (
+            f"Capacity constraint in {dst} affecting {src} pipeline. Prioritise "
+            f"high-quality applications and submit early. Graduate students often sit "
+            f"under separate (higher) caps — segment your pipeline accordingly."
+        )
+    if any(w in t for w in ["transnational", "tne", "joint", "domestic campus"]):
+        return (
+            f"TNE expansion in {src} may reduce outbound demand over a 3–5 year horizon. "
+            f"Institutions with {src} partnerships should renegotiate value propositions; "
+            f"those without should establish a presence before domestic alternatives consolidate."
+        )
+    if any(w in t for w in ["ai", "artificial intelligence", "technology", "digital"]):
+        return (
+            f"Domestic education quality signals from {src}. Monitor whether AI-driven "
+            f"upgrades begin closing the quality gap that drives outbound mobility. "
+            f"Medium-term pipeline risk is low but worth tracking in annual strategy reviews."
+        )
+    return (
+        f"Monitor closely: this development affects the {src} → {dst} corridor. "
+        f"Review implications for your current pipeline and update student briefings. "
+        f"{'High-impact — recommend immediate client communication.' if impact == 'High' else 'File for quarterly market review.'}"
+    )
+
+
+# ── HELPERS ───────────────────────────────────────────────────────────────────
+def strip_html(text):
+    if not text: return ""
+    text = re.sub(r"<[^>]+>", " ", text)
+    return re.sub(r"\s+", " ", html.unescape(text)).strip()
+
+def parse_date(s):
+    if not s: return datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    for fmt in ("%a, %d %b %Y %H:%M:%S %z", "%Y-%m-%dT%H:%M:%S%z", "%Y-%m-%d %H:%M:%S"):
+        try: return datetime.strptime(s[:30], fmt).strftime("%Y-%m-%d")
+        except ValueError: pass
+    try: return parsedate_to_datetime(s).strftime("%Y-%m-%d")
+    except: pass
+    return datetime.now(timezone.utc).strftime("%Y-%m-%d")
+
+def is_recent(date_str, days=14):
+    try:
+        d = datetime.strptime(date_str, "%Y-%m-%d").replace(tzinfo=timezone.utc)
+        return (datetime.now(timezone.utc) - d) <= timedelta(days=days)
+    except: return True
+
+
+# ── FETCH ONE FEED ────────────────────────────────────────────────────────────
+def fetch_feed(feed):
+    api_url = RSS2JSON.format(urllib.parse.quote(feed["url"], safe=""))
+    req = urllib.request.Request(api_url, headers={"User-Agent": "EduNewsTracker/2.0"})
+    try:
+        with urllib.request.urlopen(req, timeout=15) as r:
+            data = json.loads(r.read().decode("utf-8"))
+    except Exception as e:
+        print(f"  ✗ {feed['name']}: {e}", file=sys.stderr)
+        return []
+
+    if data.get("status") != "ok":
+        print(f"  ✗ {feed['name']}: status={data.get('status')}", file=sys.stderr)
+        return []
+
+    lang     = feed.get("lang", "en")
+    articles = []
+
+    for item in data.get("items", []):
+        raw_title   = strip_html(item.get("title", "")).strip()
+        raw_summary = strip_html(item.get("description", ""))[:500]
+        pub         = parse_date(item.get("pubDate", ""))
+
+        # ── URL: guid first, then link ────────────────────────────────────────
+        url = resolve_url(item)
+        if not raw_title or not url:
+            continue
+        if not is_recent(pub):
+            continue
+
+        # ── Translate non-English content ─────────────────────────────────────
+        if lang != "en":
+            title      = google_translate(raw_title,   lang)
+            summary    = google_translate(raw_summary, lang)
+            translated = True
+            time.sleep(0.3)   # polite rate-limiting on free endpoint
+        else:
+            title, summary, translated = raw_title, raw_summary, False
+
+        full_text = f"{title} {summary}"
+        sources, dests, is_edu = classify(full_text)
+        if not is_edu:
+            continue
+
+        impact  = score_impact(title)
+        insight = generate_insight(title, summary, sources, dests, impact)
+
+        articles.append({
+            "id":         0,          # set after dedup
+            "title":      title,
+            "source":     feed["name"],
+            "color":      feed["color"],
+            "url":        url,
+            "pubDate":    pub,
+            "summary":    summary,
+            "insight":    insight,
+            "impact":     impact,
+            "sources":    sources,
+            "dests":      dests,
+            "translated": translated,
+            "origLang":   lang if translated else None,
+        })
+
+    tag = " [translated]" if lang != "en" else ""
+    print(f"  ✓ {feed['name']}: {len(articles)} articles{tag}")
+    return articles
+
+
+# ── AI INSIGHT UPGRADE — 通义千问 (Qwen) via 阿里云百炼 ──────────────────────
+# 启用方式：在 GitHub Actions Secrets 中添加 DASHSCOPE_API_KEY
+# 阿里云百炼控制台：https://bailian.console.aliyun.com/
+# 兼容 OpenAI 格式，免费额度充足（qwen-plus 每月 100 万 token 免费）
+#
+# 如不需要 AI 解读，保持此函数不调用即可，模板 insight 仍会正常生效。
+
+def upgrade_insights_with_qwen(articles):
+    api_key = os.environ.get("DASHSCOPE_API_KEY", "")
+    if not api_key:
+        print("  ℹ DASHSCOPE_API_KEY not set — using template insights", file=sys.stderr)
+        return articles
+
+    print(f"  🤖 Upgrading {len(articles)} insights with Qwen…")
+    url = "https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions"
+
+    for a in articles:
+        src = ", ".join(a["sources"]) if a["sources"] else "international students"
+        dst = ", ".join(a["dests"])   if a["dests"]   else "major study destinations"
+        prompt = (
+            f"Article title: {a['title']}\n"
+            f"Summary: {a['summary']}\n"
+            f"Student origin regions: {src}\n"
+            f"Destination countries: {dst}\n\n"
+            "You are an expert analyst for international education recruitment agencies. "
+            "Write exactly 2 concise, actionable sentences of professional insight for "
+            "recruiters and admissions staff. Focus on pipeline implications, market shifts, "
+            "or strategic opportunities. Be specific — name regions and countries. "
+            "Do not start with 'This article' or repeat the title. Plain text only."
+        )
+        payload = json.dumps({
+            "model": "qwen-plus",
+            "max_tokens": 120,
+            "temperature": 0.4,
+            "messages": [{"role": "user", "content": prompt}]
+        }).encode()
+        req = urllib.request.Request(
+            url, data=payload,
+            headers={
+                "Content-Type": "application/json",
+                "Authorization": f"Bearer {api_key}",
+            },
+            method="POST"
+        )
+        try:
+            with urllib.request.urlopen(req, timeout=25) as r:
+                resp = json.loads(r.read())
+            text = resp["choices"][0]["message"]["content"].strip()
+            if text:
+                a["insight"] = text
+                a["insightSource"] = "qwen"
+            time.sleep(0.3)   # stay within free-tier rate limits
+        except Exception as e:
+            print(f"  ⚠ Qwen insight error [{a['title'][:40]}]: {e}", file=sys.stderr)
+            # keep template insight on error
+
+    upgraded = sum(1 for a in articles if a.get("insightSource") == "qwen")
+    print(f"  ✓ Qwen upgraded {upgraded}/{len(articles)} insights")
+    return articles
+
+
+# ── MAIN ──────────────────────────────────────────────────────────────────────
+def main():
+    now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+    print(f"\nFetching {len(FEEDS)} RSS feeds  [{now}]")
+
+    all_articles = []
+    for feed in FEEDS:
+        all_articles.extend(fetch_feed(feed))
+
+    # Deduplicate by URL
+    seen, unique = set(), []
+    for a in all_articles:
+        if a["url"] not in seen:
+            seen.add(a["url"])
+            unique.append(a)
+
+    # Sort by impact level then date (most recent first within each tier)
+    rank = {"High": 0, "Medium": 1, "Low": 2}
+    unique.sort(key=lambda a: (rank.get(a["impact"], 2), a["pubDate"]), reverse=False)
+    unique.sort(key=lambda a: rank.get(a["impact"], 2))
+
+    # Assign sequential IDs
+    for i, a in enumerate(unique, 1):
+        a["id"] = i
+
+    # Upgrade template insights with Qwen AI (runs only if DASHSCOPE_API_KEY is set)
+    unique = upgrade_insights_with_qwen(unique)
+
+    output = {
+        "updated":  datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "count":    len(unique),
+        "articles": unique,
+    }
+
+    os.makedirs("public", exist_ok=True)
+    with open("public/news.json", "w", encoding="utf-8") as f:
+        json.dump(output, f, ensure_ascii=False, indent=2)
+
+    by_imp    = {k: sum(1 for a in unique if a["impact"] == k) for k in ["High", "Medium", "Low"]}
+    translated = sum(1 for a in unique if a.get("translated"))
+    print(f"\n✓ {len(unique)} articles → public/news.json")
+    print(f"  High: {by_imp['High']}  Medium: {by_imp['Medium']}  Low: {by_imp['Low']}")
+    print(f"  Translated from non-English: {translated}")
+
+if __name__ == "__main__":
+    main()
