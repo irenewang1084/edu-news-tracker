@@ -1,26 +1,38 @@
 name: Daily RSS Fetch
+
 on:
   schedule:
+    # Every day at 06:00 UTC = 14:00 Beijing / 11:30 India / 07:00 Lagos
     - cron: '0 6 * * *'
-  workflow_dispatch:
+  workflow_dispatch:  # Manual trigger from GitHub UI anytime
+
 jobs:
   fetch-and-deploy:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
+
+      # No pip installs needed — script uses only Python stdlib + urllib
+
       - name: Fetch RSS feeds & write news.json
         env:
           DASHSCOPE_API_KEY: ${{ secrets.DASHSCOPE_API_KEY }}
         run: python scripts/fetch_rss.py
+
       - name: Commit updated news.json
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
           git add public/news.json
           git diff --cached --quiet \
             || git commit -m "chore: rss update $(date -u +'%Y-%m-%d %H:%M UTC')"
