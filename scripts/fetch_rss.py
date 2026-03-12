@@ -28,11 +28,8 @@ FEEDS = [
     {"name": "Inside Higher Ed",      "url": "https://www.insidehighered.com/rss.xml",                                  "color": "#285e61", "lang": "en"},
     {"name": "HEPI",                  "url": "https://www.hepi.ac.uk/category/blog/feed/",                              "color": "#4a235a", "lang": "en"},
     {"name": "Higher Ed Dive",        "url": "https://www.highereddive.com/feeds/news/",                                "color": "#1e5631", "lang": "en"},
-    # Wonkhe timed out from GitHub servers; Study International 0 articles after filter
     # NAFSA: world's largest intl education association — US visa/immigration policy RSS
     {"name": "NAFSA",                 "url": "https://www.nafsa.org/rss-feed.xml?feed=am_news",                         "color": "#0e4d8c", "lang": "en"},
-    # Hotcourses Abroad: IDP-owned, covers intl student news across all destination countries
-    {"name": "Hotcourses Abroad",     "url": "https://www.hotcoursesabroad.com/study-abroad-info/international-student-news/rss/",  "color": "#6c3483", "lang": "en"},
     # ── China ─────────────────────────────────────────────────────────────────
     {"name": "Sixth Tone",            "url": "https://www.sixthtone.com/rss",                                           "color": "#922b21", "lang": "en"},
     {"name": "SCMP (Education)",      "url": "https://www.scmp.com/rss/318207/feed",                                    "color": "#7b241c", "lang": "en"},
@@ -45,8 +42,6 @@ FEEDS = [
     {"name": "VnExpress (EN)",        "url": "https://e.vnexpress.net/rss/news.rss",                                    "color": "#d35400", "lang": "en"},
     {"name": "VnExpress (Giáo dục)",  "url": "https://vnexpress.net/rss/giao-duc.rss",                                 "color": "#b94500", "lang": "vi"},
     # ── West Africa / Global ──────────────────────────────────────────────────
-    # ACE only 1 article/run — replaced with IIE Open Doors blog (US intl enrolment data)
-    {"name": "IIE Blog",              "url": "https://www.iie.org/rss/blog/",                                           "color": "#c0820a", "lang": "en"},
     # ── Latin America ─────────────────────────────────────────────────────────
     {"name": "El País (English)",     "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/english.elpais.com/portada", "color": "#1a5276", "lang": "en"},
     {"name": "Folha de S.Paulo",      "url": "https://feeds.folha.uol.com.br/educacao/rss091.xml",                     "color": "#154360", "lang": "pt"},
@@ -428,10 +423,10 @@ def qwen_select_top(articles, api_key, top_n=10):
 
     print(f"  🤖 Qwen scoring {len(articles)} articles for recruitment relevance…")
 
-    # Build numbered list for the prompt (title + 1-sentence summary)
+    # Build numbered list — titles only to keep prompt short and avoid truncation
     lines = []
     for i, a in enumerate(articles, 1):
-        lines.append(f"{i}. [{a['impact']}] {a['title']} | {a['summary'][:120]}")
+        lines.append(f"{i}. {a['title'][:100]}")
     article_list = "\n".join(lines)
 
     prompt = (
@@ -449,7 +444,7 @@ def qwen_select_top(articles, api_key, top_n=10):
     )
 
     try:
-        raw = qwen_call(api_key, prompt, max_tokens=600, temperature=0.1)
+        raw = qwen_call(api_key, prompt, max_tokens=1000, temperature=0.1)
         # Strip markdown fences and any text before/after the JSON array
         raw = re.sub(r"```[a-z]*", "", raw).strip().strip("`")
         # Extract just the JSON array in case model adds preamble
