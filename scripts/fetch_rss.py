@@ -29,7 +29,7 @@ FEEDS = [
     {"name": "HEPI",                  "url": "https://www.hepi.ac.uk/category/blog/feed/",                              "color": "#4a235a", "lang": "en"},
     {"name": "Higher Ed Dive",        "url": "https://www.highereddive.com/feeds/news/",                                "color": "#1e5631", "lang": "en"},
     # Replaces Times Higher Ed (404) — UWN is the leading independent intl HE publication
-    {"name": "University World News", "url": "https://www.universityworldnews.com/rss.php",                             "color": "#0e4d8c", "lang": "en"},
+    {"name": "University World News", "url": "https://www.universityworldnews.com/backend/UWN_Global.rss",              "color": "#0e4d8c", "lang": "en"},
     # ── China ─────────────────────────────────────────────────────────────────
     {"name": "Sixth Tone",            "url": "https://www.sixthtone.com/rss",                                           "color": "#922b21", "lang": "en"},
     {"name": "SCMP (Education)",      "url": "https://www.scmp.com/rss/318207/feed",                                    "color": "#7b241c", "lang": "en"},
@@ -44,7 +44,7 @@ FEEDS = [
     # ── West Africa ───────────────────────────────────────────────────────────
     # Replaces Guardian Nigeria (403) + Punch/Premium Times (0 articles)
     # UWN Africa edition covers Nigerian/West African HE reliably
-    {"name": "UWN Africa",            "url": "https://www.universityworldnews.com/rss.php?edition=africa",              "color": "#1e8449", "lang": "en"},
+    {"name": "UWN Africa",            "url": "https://www.universityworldnews.com/backend/UWN_Africa.rss",              "color": "#1e8449", "lang": "en"},
     # ── Latin America ─────────────────────────────────────────────────────────
     {"name": "El País (English)",     "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/english.elpais.com/portada", "color": "#1a5276", "lang": "en"},
     {"name": "Folha de S.Paulo",      "url": "https://feeds.folha.uol.com.br/educacao/rss091.xml",                     "color": "#154360", "lang": "pt"},
@@ -450,8 +450,12 @@ def qwen_select_top(articles, api_key, top_n=10):
 
     try:
         raw = qwen_call(api_key, prompt, max_tokens=600, temperature=0.1)
-        # Strip any accidental markdown fences
+        # Strip markdown fences and any text before/after the JSON array
         raw = re.sub(r"```[a-z]*", "", raw).strip().strip("`")
+        # Extract just the JSON array in case model adds preamble
+        match = re.search(r'\[.*\]', raw, re.DOTALL)
+        if match:
+            raw = match.group(0)
         scores = json.loads(raw)
         score_map = {int(s["i"]): int(s["score"]) for s in scores}
     except Exception as e:
