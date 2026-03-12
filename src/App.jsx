@@ -3,18 +3,17 @@ import { useState, useEffect } from "react";
 // ── MEDIA SOURCES for RSS panel ──────────────────────────────────────────────
 const MEDIA_SOURCES = {
   "🌐 International Specialist": [
-    { name: "ICEF Monitor",     url: "https://monitor.icef.com/feed/",              color: "#1a3a5c" },
-    { name: "The PIE News",     url: "https://thepienews.com/feed/",                color: "#7b341e" },
-    { name: "Inside Higher Ed", url: "https://www.insidehighered.com/rss.xml",      color: "#285e61" },
-    { name: "HEPI",             url: "https://www.hepi.ac.uk/category/blog/feed/",  color: "#4a235a" },
-    { name: "Times Higher Ed",  url: "https://www.timeshighereducation.com/news/rss.xml", color: "#c0820a" },
-    { name: "Higher Ed Dive",   url: "https://www.highereddive.com/feeds/news/",    color: "#1e5631" },
+    { name: "ICEF Monitor",          url: "https://monitor.icef.com/feed/",              color: "#1a3a5c" },
+    { name: "The PIE News",          url: "https://thepienews.com/feed/",                color: "#7b341e" },
+    { name: "Inside Higher Ed",      url: "https://www.insidehighered.com/rss.xml",      color: "#285e61" },
+    { name: "HEPI",                  url: "https://www.hepi.ac.uk/category/blog/feed/",  color: "#4a235a" },
+    { name: "Higher Ed Dive",        url: "https://www.highereddive.com/feeds/news/",    color: "#1e5631" },
+    { name: "University World News", url: "https://www.universityworldnews.com/rss.php", color: "#0e4d8c" },
   ],
   "🇨🇳 China": [
-    { name: "Caixin Global",       url: "https://www.caixinglobal.com/rss/",                                         color: "#c0392b" },
     { name: "Sixth Tone",          url: "https://www.sixthtone.com/rss",                                             color: "#922b21" },
     { name: "SCMP (Education)",    url: "https://www.scmp.com/rss/318207/feed",                                      color: "#7b241c" },
-    { name: "界面新闻 Jiemian",     url: "https://www.jiemian.com/lists/250.rss",                                    color: "#8e1a1a" },
+    { name: "China Daily",         url: "https://www.chinadaily.com.cn/rss/china_rss.xml",                          color: "#c0392b" },
   ],
   "🇮🇳 India": [
     { name: "Times of India",      url: "https://timesofindia.indiatimes.com/rssfeeds/913168846.cms",                color: "#d4820a" },
@@ -23,12 +22,9 @@ const MEDIA_SOURCES = {
   "🌏 Southeast Asia": [
     { name: "VnExpress (EN)",      url: "https://e.vnexpress.net/rss/news.rss",                                     color: "#d35400" },
     { name: "VnExpress (Giáo dục)",url: "https://vnexpress.net/rss/giao-duc.rss",                                   color: "#b94500" },
-    { name: "Straits Times (Edu)", url: "https://www.straitstimes.com/singapore/education.rss",                    color: "#b9770e" },
   ],
   "🌍 West Africa": [
-    { name: "Guardian Nigeria",    url: "https://guardian.ng/education/feed/",                                     color: "#1e8449" },
-    { name: "Punch Nigeria",       url: "https://punchng.com/topics/education/feed/",                              color: "#196f3d" },
-    { name: "Premium Times NG",    url: "https://www.premiumtimesng.com/category/education/feed/",                 color: "#0e6655" },
+    { name: "UWN Africa",          url: "https://www.universityworldnews.com/rss.php?edition=africa",               color: "#1e8449" },
   ],
   "🌎 Latin America": [
     { name: "El País (English)",   url: "https://feeds.elpais.com/mrss-s/pages/ep/site/english.elpais.com/portada", color: "#1a5276" },
