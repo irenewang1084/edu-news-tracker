@@ -71,8 +71,6 @@ export default function App() {
   const [loading,     setLoading]     = useState(true);
   const [error,       setError]       = useState("");
   const [fSrc,        setFSrc]        = useState("All");
-  const [fDst,        setFDst]        = useState("All");
-  const [sort,        setSort]        = useState("date");
   const [showSources, setShowSources] = useState(false);
 
   // Load news.json on mount
@@ -90,17 +88,9 @@ export default function App() {
       });
   }, []);
 
-  const RANK = { High: 0, Medium: 1, Low: 2 };
   const shown = articles
-    .filter(a =>
-      (fSrc === "All" || (a.sources || []).includes(fSrc)) &&
-      (fDst === "All" || (a.dests   || []).includes(fDst))
-    )
-    .sort((a, b) =>
-      sort === "impact"
-        ? RANK[a.impact] - RANK[b.impact]
-        : new Date(b.pubDate) - new Date(a.pubDate)
-    );
+    .filter(a => fSrc === "All" || (a.sources || []).includes(fSrc))
+    .sort((a, b) => (a.relevanceScore || 0) > (b.relevanceScore || 0) ? -1 : 1);
 
   const dateRange = (() => {
     const dates = articles.map(a => a.pubDate).filter(Boolean).sort();
@@ -122,9 +112,8 @@ export default function App() {
             <h1 style={{ margin: 0, fontSize: 24, fontWeight: 700, lineHeight: 1.25 }}>
               Global Study Abroad News Tracker
             </h1>
-            <div style={{ marginTop: 6, fontSize: 12, color: "#8a90a8", fontFamily: "'DM Sans',sans-serif", lineHeight: 1.6 }}>
-              China (Caixin · Sixth Tone) · India (TOI · The Hindu) · SE Asia (Straits Times · Bangkok Post)<br />
-              West Africa (Guardian NG · Punch) · LatAm (El País · Folha) · Global (ICEF · PIE · THE · HEPI)
+            <div style={{ marginTop: 6, fontSize: 13, color: "#8a90a8", fontFamily: "'DM Sans',sans-serif", lineHeight: 1.7, maxWidth: 540 }}>
+              Daily briefing for university international admissions teams — AI-curated from 15+ sources across 6 student origin regions, updated every morning.
             </div>
           </div>
           {/* Top-right: article date range */}
@@ -166,10 +155,10 @@ export default function App() {
             {/* STATS */}
             <div style={{ display: "grid", gridTemplateColumns: "repeat(4,1fr)", gap: 10, marginBottom: 16 }}>
               {[
-                { label: "Articles",       val: shown.length,                                             color: "#0f0f23" },
-                { label: "High-Impact",    val: shown.filter(a => a.impact === "High").length,            color: "#c0392b" },
-                { label: "Source Regions", val: [...new Set(shown.flatMap(a => a.sources))].length || "—",color: "#7d3c98" },
-                { label: "Destinations",   val: [...new Set(shown.flatMap(a => a.dests))].length   || "—",color: "#1e5631" },
+                { label: "Today's Briefing", val: shown.length,                                              color: "#0f0f23" },
+                { label: "AI-Selected",       val: articles.length,                                          color: "#c9a84c" },
+                { label: "Source Regions",    val: [...new Set(shown.flatMap(a => a.sources))].length || "—", color: "#7d3c98" },
+                { label: "Sources Monitored", val: "15+",                                                    color: "#1e5631" },
               ].map(s => (
                 <div key={s.label} style={{ background: "white", border: "1px solid #e5e0d6", borderRadius: 8, padding: "10px 12px", textAlign: "center" }}>
                   <div style={{ fontSize: 22, fontWeight: 700, color: s.color, fontFamily: "'DM Sans',sans-serif" }}>{s.val}</div>
@@ -178,10 +167,10 @@ export default function App() {
               ))}
             </div>
 
-            {/* FILTERS */}
+            {/* FILTERS — source region only */}
             <div style={{ background: "white", borderRadius: 8, border: "1px solid #e5e0d6", padding: "12px 15px", marginBottom: 14 }}>
               <div style={{ display: "flex", flexWrap: "wrap", gap: 7, alignItems: "center" }}>
-                <span style={{ fontSize: 10, color: "#bbb", letterSpacing: 1.5, fontFamily: "'DM Sans',sans-serif" }}>SOURCE</span>
+                <span style={{ fontSize: 10, color: "#bbb", letterSpacing: 1.5, fontFamily: "'DM Sans',sans-serif" }}>FILTER BY ORIGIN</span>
                 {SRC_OPTS.map(f => (
                   <button key={f} onClick={() => setFSrc(f)} style={{
                     padding: "3px 10px", borderRadius: 20, fontSize: 12, cursor: "pointer", fontFamily: "'DM Sans',sans-serif",
@@ -190,32 +179,11 @@ export default function App() {
                     color: fSrc === f ? "white" : "#666", transition: "all 0.15s",
                   }}>{f}</button>
                 ))}
-                <div style={{ width: 1, height: 18, background: "#e5e0d6" }} />
-                <span style={{ fontSize: 10, color: "#bbb", letterSpacing: 1.5, fontFamily: "'DM Sans',sans-serif" }}>DEST</span>
-                {DEST_OPTS.map(f => (
-                  <button key={f} onClick={() => setFDst(f)} style={{
-                    padding: "3px 10px", borderRadius: 20, fontSize: 12, cursor: "pointer", fontFamily: "'DM Sans',sans-serif",
-                    border: `1.5px solid ${fDst === f ? (DST_TAG[f] || "#0f0f23") : "#e0dbd2"}`,
-                    background: fDst === f ? (DST_TAG[f] || "#0f0f23") : "transparent",
-                    color: fDst === f ? "white" : "#666", transition: "all 0.15s",
-                  }}>{f}</button>
-                ))}
-                <div style={{ marginLeft: "auto", display: "flex", gap: 5 }}>
-                  <span style={{ fontSize: 10, color: "#bbb", fontFamily: "'DM Sans',sans-serif", alignSelf: "center" }}>SORT</span>
-                  {["date", "impact"].map(s => (
-                    <button key={s} onClick={() => setSort(s)} style={{
-                      padding: "3px 9px", borderRadius: 4, fontSize: 11, cursor: "pointer", fontFamily: "'DM Sans',sans-serif",
-                      border: `1.5px solid ${sort === s ? "#c9a84c" : "#e0dbd2"}`,
-                      background: sort === s ? "#c9a84c22" : "transparent",
-                      color: sort === s ? "#9a6f00" : "#999",
-                    }}>{s === "date" ? "Newest" : "Impact"}</button>
-                  ))}
-                </div>
               </div>
-              {(fSrc !== "All" || fDst !== "All") && (
+              {fSrc !== "All" && (
                 <div style={{ marginTop: 7, fontSize: 11, color: "#aaa", fontFamily: "'DM Sans',sans-serif" }}>
-                  Showing {shown.length} of {articles.length} ·{" "}
-                  <span style={{ color: "#c9a84c", cursor: "pointer" }} onClick={() => { setFSrc("All"); setFDst("All"); }}>Clear</span>
+                  Showing {shown.length} article{shown.length !== 1 ? "s" : ""} from {fSrc} ·{" "}
+                  <span style={{ color: "#c9a84c", cursor: "pointer" }} onClick={() => setFSrc("All")}>Clear</span>
                 </div>
               )}
             </div>
@@ -224,7 +192,7 @@ export default function App() {
             {shown.length === 0 ? (
               <div style={{ textAlign: "center", padding: 50, color: "#aaa", fontFamily: "'DM Sans',sans-serif" }}>
                 No articles match current filters.{" "}
-                <span style={{ color: "#c9a84c", cursor: "pointer" }} onClick={() => { setFSrc("All"); setFDst("All"); }}>Clear filters</span>
+                <span style={{ color: "#c9a84c", cursor: "pointer" }} onClick={() => setFSrc("All")}>Clear filters</span>
               </div>
             ) : (
               <div style={{ display: "flex", flexDirection: "column", gap: 12 }}>
