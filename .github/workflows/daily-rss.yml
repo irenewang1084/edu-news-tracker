@@ -1,4 +1,4 @@
-yamlname: Daily RSS Fetch
+name: Daily RSS Fetch
 
 on:
   schedule:
