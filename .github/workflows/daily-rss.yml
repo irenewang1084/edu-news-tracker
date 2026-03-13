@@ -3,7 +3,7 @@ name: Daily RSS Fetch
 on:
   schedule:
     # Every day at 06:00 UTC = 14:00 Beijing / 11:30 India / 07:00 Lagos
-    - cron: '0 6 * * *'
+    - cron: '0 1 * * *'
   workflow_dispatch:  # Manual trigger from GitHub UI anytime
 
 jobs:
