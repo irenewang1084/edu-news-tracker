@@ -407,15 +407,26 @@ def qwen_call(api_key, prompt, max_tokens=200, temperature=0.3):
     return resp["choices"][0]["message"]["content"].strip()
 
 
+def load_previous_urls():
+    """Load URLs that were shown in the last run to avoid repeats."""
+    try:
+        with open("public/news.json", "r", encoding="utf-8") as f:
+            data = json.load(f)
+        urls = {a["url"] for a in data.get("articles", [])}
+        print(f"  📋 Loaded {len(urls)} previously shown URLs")
+        return urls
+    except Exception:
+        return set()
+
+
 # ── STEP 1: AI RELEVANCE SCORING & SELECTION (top 10) ────────────────────────
-def qwen_select_top(articles, api_key, top_n=10):
+def qwen_select_top(articles, api_key, prev_urls, top_n=10):
     """
-    Ask Qwen to score each article 1-10 for relevance to university
-    international student recruitment. Return top_n articles sorted by score.
-    Uses a single batched API call for efficiency.
+    Score articles 1-10 for recruitment relevance, then apply a freshness
+    penalty (-3) to any article already shown in the previous run, so that
+    new articles are preferred over repeated ones at equal quality.
     """
     if not api_key:
-        # Fallback: return top_n by rule-based impact score
         rank = {"High": 0, "Medium": 1, "Low": 2}
         articles.sort(key=lambda a: (rank.get(a["impact"], 2), a["pubDate"]))
         print(f"  ℹ No API key — top {top_n} selected by rule-based impact score")
@@ -444,10 +455,8 @@ def qwen_select_top(articles, api_key, top_n=10):
     )
 
     try:
-        raw = qwen_call(api_key, prompt, max_tokens=1000, temperature=0.1)
-        # Strip markdown fences and any text before/after the JSON array
+        raw = qwen_call(api_key, prompt, max_tokens=1800, temperature=0.1)
         raw = re.sub(r"```[a-z]*", "", raw).strip().strip("`")
-        # Extract just the JSON array in case model adds preamble
         match = re.search(r'\[.*\]', raw, re.DOTALL)
         if match:
             raw = match.group(0)
@@ -459,14 +468,24 @@ def qwen_select_top(articles, api_key, top_n=10):
         articles.sort(key=lambda a: (rank.get(a["impact"], 2), a["pubDate"]))
         return articles[:top_n]
 
-    # Attach scores and sort descending
+    # Attach base scores, then apply freshness penalty for repeated articles
+    repeat_count = 0
     for i, a in enumerate(articles, 1):
-        a["relevanceScore"] = score_map.get(i, 5)
+        base = score_map.get(i, 5)
+        if a["url"] in prev_urls:
+            a["relevanceScore"] = max(1, base - 3)  # -3 penalty, floor at 1
+            repeat_count += 1
+        else:
+            a["relevanceScore"] = base
+
+    if repeat_count:
+        print(f"  🔄 Freshness penalty applied to {repeat_count} repeated articles")
 
     articles.sort(key=lambda a: a["relevanceScore"], reverse=True)
     selected = articles[:top_n]
-    print(f"  ✓ Top {len(selected)} selected (scores: "
-          f"{[a['relevanceScore'] for a in selected]})")
+    fresh = sum(1 for a in selected if a["url"] not in prev_urls)
+    print(f"  ✓ Top {len(selected)} selected — {fresh} new, {len(selected)-fresh} repeated "
+          f"(scores: {[a['relevanceScore'] for a in selected]})")
     return selected
 
 
@@ -488,16 +507,15 @@ def qwen_generate_insights(articles, api_key):
             f"Student origin regions: {src}\n\n"
             "You are a strategic advisor to international student recruitment teams at universities "
             "in the USA, UK, Australia, and New Zealand. Analyse how this news affects their "
-            "ability to recruit international students. Write exactly 2 sentences: "
+            "ability to recruit international students. Write exactly 2 sentences, maximum 80 words total: "
             "the first explains the specific impact on international student recruitment "
             "(e.g. changes to applicant volume, visa risk, competitor positioning, compliance); "
-            "the second gives a concrete, actionable recommendation for admissions teams "
-            "(e.g. what to communicate to agents, how to adjust pipeline, what to monitor). "
-            "Be specific — name countries, visa types, or student cohorts where relevant. "
-            "Do NOT start with 'This article'. Plain text only."
+            "the second gives one concrete, actionable recommendation for admissions teams. "
+            "Be specific — name countries or visa types where relevant. "
+            "Do NOT start with 'This article'. Plain text only. Stop after 2 sentences."
         )
         try:
-            text = qwen_call(api_key, prompt, max_tokens=130, temperature=0.4)
+            text = qwen_call(api_key, prompt, max_tokens=120, temperature=0.4)
             if text:
                 a["insight"] = text
                 a["insightSource"] = "qwen"
@@ -517,12 +535,15 @@ def main():
 
     api_key = os.environ.get("DASHSCOPE_API_KEY", "")
 
-    # 1. Fetch all feeds
+    # 1. Load previously shown URLs for freshness deduplication
+    prev_urls = load_previous_urls()
+
+    # 2. Fetch all feeds
     all_articles = []
     for feed in FEEDS:
         all_articles.extend(fetch_feed(feed))
 
-    # 2. Deduplicate by URL
+    # 3. Deduplicate by URL
     seen, unique = set(), []
     for a in all_articles:
         if a["url"] not in seen:
@@ -531,10 +552,10 @@ def main():
 
     print(f"\n  Total after dedup: {len(unique)} articles")
 
-    # 3. AI scoring: select top 10 most relevant to university recruitment
-    selected = qwen_select_top(unique, api_key, top_n=10)
+    # 4. AI scoring: select top 10, penalising repeated articles
+    selected = qwen_select_top(unique, api_key, prev_urls, top_n=10)
 
-    # 4. AI insights: generate professional insight for each selected article
+    # 5. AI insights: generate professional insight for each selected article
     selected = qwen_generate_insights(selected, api_key)
 
     # 5. Final sort: by relevance score (desc), then impact, then date
