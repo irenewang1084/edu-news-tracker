@@ -507,15 +507,13 @@ def qwen_generate_insights(articles, api_key):
             f"Student origin regions: {src}\n\n"
             "You are a strategic advisor to international student recruitment teams at universities "
             "in the USA, UK, Australia, and New Zealand. Analyse how this news affects their "
-            "ability to recruit international students. Write exactly 2 sentences, maximum 80 words total: "
-            "the first explains the specific impact on international student recruitment "
-            "(e.g. changes to applicant volume, visa risk, competitor positioning, compliance); "
-            "the second gives one concrete, actionable recommendation for admissions teams. "
-            "Be specific — name countries or visa types where relevant. "
-            "Do NOT start with 'This article'. Plain text only. Stop after 2 sentences."
+            "ability to recruit international students. Write exactly 2 sentences, 25–35 words each: "
+            "sentence 1 states the specific recruitment impact (applicant volume, visa risk, compliance, or competitor moves); "
+            "sentence 2 gives one concrete action for admissions teams. "
+            "Name specific countries or visa types. Do NOT start with 'This article'. Plain text only."
         )
         try:
-            text = qwen_call(api_key, prompt, max_tokens=120, temperature=0.4)
+            text = qwen_call(api_key, prompt, max_tokens=150, temperature=0.4)
             if text:
                 a["insight"] = text
                 a["insightSource"] = "qwen"
