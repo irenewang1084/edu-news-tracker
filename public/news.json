@@ -1,7 +1,7 @@
 {
-  "updated": "2026-03-13T08:26:26Z",
+  "updated": "2026-03-14T05:17:36Z",
   "count": 10,
-  "totalFetched": 161,
+  "totalFetched": 165,
   "articles": [
     {
       "id": 1,
@@ -11,7 +11,7 @@
       "url": "https://monitor.icef.com/2026/03/inbound-outbound-and-transnational-the-landscape-for-international-education-in-china-continues-to-evolve/",
       "pubDate": "2026-03-04",
       "summary": "China is broadening its approach to international education and talent attraction. The Chinese government continues to support the recruitment of international students, especially through targeted scholarships. At the same time, it is aware of public concern about the perceived special treatment of those students amidst a competitive job market and high unemployment. As a result,… The post Inbound, outbound, and transnational: the landscape for international education in China continues to evol",
-      "insight": "Applicant volume from China to the USA, UK, Australia, and New Zealand may decline as Beijing intensifies scholarship incentives for inbound study and promotes domestic alternatives amid rising youth unemployment and scrutiny of overseas degrees’ ROI.  \nAdmissions teams should immediately expand targeted outreach to Chinese students applying for US F-1, UK Student Route, Australian Subclass 500, and New Zealand Student Visa pathways—highlighting post-study work rights, alumni employment outcomes, and cost-of-living scholarships.",
+      "insight": "Applicant volume from China to the USA, UK, Australia, and New Zealand may decline as Beijing intensifies scholarship incentives for inbound study and promotes domestic transnational programs, directly competing with Western degrees.  \nAdmissions teams should proactively co-develop dual-degree pathways with Chinese universities—especially those partnered with CSC scholarship programs—and explicitly highlight post-study work rights under US F-1 OPT, UK Graduate Visa, Australian Subclass 485, and NZ Post-Study Work Visa.",
       "impact": "High",
       "sources": [
         "China"
@@ -29,7 +29,7 @@
       "url": "https://monitor.icef.com/2026/03/australia-doubles-post-study-work-visa-application-fee/",
       "pubDate": "2026-03-04",
       "summary": "The Temporary Graduate Visa (Subclass 485) visa allows eligible foreign graduates to work in Australia from 18 months to up to 3 years once they complete their studies, and it can be a pathway towards permanent residency. Effective immediately, the non-refundable application fee for this visa is AU$4,600 (US$3,000), up from the AU$2,300 fee that… The post Australia doubles post-study work visa application fee appeared first on ICEF Monitor - Market intelligence for international student recruitm",
-      "insight": "Applicant volume for Australian universities will likely decline, especially among cost-sensitive students from India, Nigeria, and Bangladesh applying for the Subclass 485 visa, as the doubled AU$4,600 fee raises total study-cost barriers relative to UK (Graduate Visa, £822) and Canadian (PGWP, CAD$235) alternatives.  \nAdmissions teams must immediately update cost-of-study calculators and financial aid briefings to reflect the new Subclass 485 fee—and proactively highlight scholarship-linked visa support for high-achieving applicants from India and Southeast Asia.",
+      "insight": "Australian universities will likely see reduced applicant volume from India, Nigeria, and Bangladesh—key feeder markets for Subclass 485 visas—as the doubled AU$4,600 fee raises affordability concerns and amplifies perceived visa risk versus UK’s Graduate Visa or US OPT pathways.  \nAdmissions teams must urgently co-develop targeted scholarship supplements (e.g., AU$2,000–3,000 “485 Fee Support Grants”) tied to enrolment in CRICOS-registered bachelor’s and master’s programs, with clear communication via agent portals and pre-departure webinars.",
       "impact": "High",
       "sources": [],
       "dests": [
@@ -47,7 +47,7 @@
       "url": "https://redir.folha.com.br/redir/online/educacao/rss091/*https://www1.folha.uol.com.br/educacao/2026/03/os-efeitos-colaterais-de-banir-adolescentes-de-redes-sociais.shtml",
       "pubDate": "2026-03-05",
       "summary": "Governments around the world have sought quick responses to legitimate concerns about the safety and well-being of children and adolescents on the internet. Australia, by prohibiting access to social networks for those under 16 years of age, became the most visible example of a measure that has a strong emotional appeal and, in the collective imagination, offers the sensation of firm action against a clear villain. Read more (03/05/2026 - 08:00)",
-      "insight": "Applicant volume will decline for Australian universities, especially from China and India, as under-16 international students—often enrolled in foundation or pathway programs requiring social media for orientation and peer connection—face visa complications under the new eSafety Act’s age-gated platform restrictions.  \nAdmissions teams must immediately update pre-enrolment digital onboarding for Subclass 500 visa applicants to include approved, age-compliant communication channels (e.g., university-hosted forums, WhatsApp Business verified accounts) and train agents in China and Vietnam to explain compliant alternatives during counselling sessions.",
+      "insight": "Applicant volume will decline for Australian universities, especially from China and India, as under-16 international students—often enrolled in foundation or pathway programs requiring social media for orientation and peer connection—face visa complications under the new eSafety Act’s age-gated platform restrictions.  \nAdmissions teams must immediately update pre-departure guides for Subclass 500 visa applicants to include approved, age-compliant communication tools (e.g., university-hosted forums, WhatsApp Business) and train agents in China and Vietnam to address parental concerns about digital isolation.",
       "impact": "High",
       "sources": [],
       "dests": [
@@ -59,33 +59,13 @@
     },
     {
       "id": 4,
-      "title": "Derby suspends Pakistan and Bangladesh recruitment as UK compliance pressures grow",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/derby-suspends-pakistan-and-bangladesh-recruitment-as-uk-compliance-pressures-grow/",
-      "pubDate": "2026-03-10",
-      "summary": "The University of Derby has paused recruitment from Pakistan and Bangladesh due to high visa refusals from applicants in the two countries, as it seeks to remain in line with the UK government’s tightened compliance metrics. The post Derby suspends Pakistan and Bangladesh recruitment as UK compliance pressures grow appeared first on The PIE News .",
-      "insight": "Derby’s suspension signals heightened UK Home Office scrutiny of South Asian applications, particularly Tier 4/Student Route visas from Pakistan and Bangladesh, increasing refusal risks and likely reducing applicant volume for all UK universities targeting these high-intake regions.  \nAdmissions teams should immediately audit current Pakistan/Bangladesh applicant pipelines for academic readiness, financial evidence robustness, and Genuine Student compliance—then deploy targeted pre-application visa readiness workshops aligned with UKVI’s latest guidance on maintenance funds and credibility interviews.",
-      "impact": "High",
-      "sources": [
-        "South Asia"
-      ],
-      "dests": [
-        "UK"
-      ],
-      "translated": false,
-      "origLang": null,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 5,
       "title": "Ho Chi Minh City University of Technology wants to 'keep its historical value' for nearly 70 years",
       "source": "VnExpress (Giáo dục)",
       "color": "#b94500",
       "url": "https://vnexpress.net/dai-hoc-bach-khoa-tp-hcm-len-tieng-ve-de-xuat-di-doi-cua-cong-ty-bat-dong-san-phat-dat-5048898.html",
       "pubDate": "2026-03-10",
       "summary": "Ho Chi Minh City University of Technology agrees with the policy of expansion but hopes to preserve the historical value and academic tradition of nearly 70 years.",
-      "insight": "Applicant volume may decline from Vietnam and ASEAN countries as Ho Chi Minh City University of Technology’s emphasis on preserving historical identity—rather than global rankings or English-taught programs—reduces its perceived competitiveness against U.S. (F-1), UK (Student Route), Australian (Subclass 500), and New Zealand (Student Visa) institutions offering faster degree pathways and post-study work rights.  \nAdmissions teams should proactively target Vietnamese high school counselors and education fairs in Hanoi and Ho Chi Minh City with data-driven comparisons highlighting superior graduate outcomes, English-language support, and streamlined visa processes for F-1, Student Route, Subclass 500, and NZ Student Visa applicants.",
+      "insight": "Applicant volume may decline from Vietnam and ASEAN countries as Ho Chi Minh City University of Technology’s emphasis on historical preservation signals slower modernization, potentially weakening its appeal versus Western universities offering faster-track STEM degrees under UK Student Route or US F-1 visas.  \nAdmissions teams should proactively highlight accelerated degree pathways and post-study work rights—e.g., UK’s 2-year Graduate Visa, Australia’s 4–6-year PSW for STEM graduates—to counter perceived inertia in Vietnamese institutional development.",
       "impact": "High",
       "sources": [],
       "dests": [],
@@ -94,14 +74,14 @@
       "insightSource": "qwen"
     },
     {
-      "id": 6,
+      "id": 5,
       "title": "GSA plan would ban DEI for all federal funding recipients — including colleges",
       "source": "Higher Ed Dive",
       "color": "#1e5631",
       "url": "https://www.highereddive.com/news/gsa-plan-would-ban-dei-for-all-federal-funding-recipients-including-schoo/814353/",
       "pubDate": "2026-03-11",
       "summary": "The General Services Administration proposal comes after a similar policy from the U.S. Department of Education was blocked in courts.",
-      "insight": "Applicant volume may decline as prospective international students from India, Nigeria, and Vietnam perceive U.S. universities as less inclusive or riskier for F-1 visa approval due to perceived DEI restrictions affecting campus climate and support services.  \nAdmissions teams should proactively highlight existing, legally compliant DEI initiatives—such as UCL’s Race Equality Charter or Australia’s PR visa pathway for STEM graduates—to reassure applicants from these countries about institutional commitment and post-study opportunities.",
+      "insight": "Applicant volume may decline as prospective international students from India, Nigeria, and Vietnam perceive U.S. universities as less inclusive or riskier for F-1 visa approval due to perceived DEI restrictions affecting campus climate and support services.  \nAdmissions teams should proactively highlight existing, legally compliant DEI initiatives—such as UCL’s Race Equality Charter in the UK or Australia’s PRISMS framework for student support—to reassure applicants from these regions during virtual fairs and agent training.",
       "impact": "High",
       "sources": [],
       "dests": [
@@ -112,14 +92,32 @@
       "insightSource": "qwen"
     },
     {
-      "id": 7,
+      "id": 6,
       "title": "Vietnam fast-tracks metro extension to Long Thanh Airport under emergency order",
       "source": "VnExpress (EN)",
       "color": "#d35400",
       "url": "https://e.vnexpress.net/news/news/traffic/vietnam-fast-tracks-metro-extension-to-long-thanh-airport-under-emergency-order-5049758.html",
       "pubDate": "2026-03-12",
       "summary": "Ho Chi Minh City's only metro line will be extended to Long Thanh International Airport under an emergency fast-track mechanism after the government approved the project in principle, a move aimed at solving a looming transport bottleneck before the mega-airport opens for commercial flights.",
-      "insight": "Applicant volume from Vietnam—especially for US F-1, UK Student Route, and Australian Subclass 500 visa holders—may rise as improved Long Thanh Airport connectivity reduces perceived travel friction and strengthens confidence in Vietnam’s infrastructure modernization.  \nAdmissions teams should partner with Vietnamese education agents to co-host virtual webinars highlighting seamless airport-to-university transit routes and include updated Long Thanh access timelines in country-specific recruitment materials for Vietnam.",
+      "insight": "Applicant volume from Vietnam—especially for US F-1, UK Student Route, and Australian Subclass 500 visa holders—may rise as improved Long Thanh Airport connectivity reduces perceived travel complexity and strengthens confidence in Vietnam’s infrastructure modernization.  \nAdmissions teams should partner with Vietnamese education agents to co-host virtual webinars highlighting seamless airport access and updated flight routes to major hubs, emphasizing reduced transit time for students flying from Ho Chi Minh City to Los Angeles, London, Sydney, or Auckland.",
+      "impact": "High",
+      "sources": [
+        "Southeast Asia"
+      ],
+      "dests": [],
+      "translated": false,
+      "origLang": null,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 7,
+      "title": "Middle East oil crisis hits Phu Quoc megaprojects for APEC 2027",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/middle-east-oil-crisis-hits-phu-quoc-megaprojects-for-apec-2027-5049232.html",
+      "pubDate": "2026-03-12",
+      "summary": "A global oil crisis triggered by the Middle East conflict is choking diesel supplies to Phu Quoc Island, where Vietnam is racing to build a convention center, roads, and hotels and expand the airport for the APEC 2027 Economic Leaders' Week.",
+      "insight": "Applicant volume from Vietnam—especially for master’s programs in business, engineering, and hospitality—is likely to decline as families divert savings from overseas education toward domestic crisis-related expenses and APEC-driven inflation erodes disposable income.  \nAdmissions teams should proactively waive application fees and offer targeted scholarships for Vietnamese students applying by 30 June 2025, explicitly referencing economic hardship in outreach emails to high schools and universities in Ho Chi Minh City and Hanoi.",
       "impact": "High",
       "sources": [
         "Southeast Asia"
@@ -131,35 +129,33 @@
     },
     {
       "id": 8,
-      "title": "Middle East oil crisis hits Phu Quoc megaprojects for APEC 2027",
-      "source": "VnExpress (EN)",
-      "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/middle-east-oil-crisis-hits-phu-quoc-megaprojects-for-apec-2027-5049232.html",
-      "pubDate": "2026-03-12",
-      "summary": "A global oil crisis triggered by the Middle East conflict is choking diesel supplies to Phu Quoc Island, where Vietnam is racing to build a convention center, roads, and hotels and expand the airport for the APEC 2027 Economic Leaders' Week.",
-      "insight": "Applicant volume from Vietnam—especially for master’s programs in business and engineering—will likely decline as families divert funds from overseas education to cover soaring domestic fuel and transport costs linked to the Phu Quoc infrastructure delays.  \nAdmissions teams should proactively waive application fees and extend deadlines for Vietnamese students applying for UK Student visas and Australia’s Subclass 500 visas, while partnering with Ho Chi Minh City and Hanoi-based agents to co-host virtual financial aid webinars.",
+      "title": "UK rejects visa ban exemption for Chevening scholars",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/uk-rejects-visa-ban-exemption-for-chevening-scholars/",
+      "pubDate": "2026-03-13",
+      "summary": "The UK Home Office has rejected calls from within government to exempt “exceptional” Chevening scholars from new rules halting study visa issuance for certain countries. The post UK rejects visa ban exemption for Chevening scholars appeared first on The PIE News .",
+      "insight": "UK universities face heightened visa refusal risks for Chevening applicants from high-risk countries like Nigeria, Pakistan, and Bangladesh under the new Student Route restrictions, directly reducing enrolment yield from these priority recruitment markets.  \nAdmissions teams must immediately flag Chevening applicants from those countries in CRM systems and assign dedicated visa advisors to co-ordinate with Chevening Secretariat and UKVI for pre-submission document checks and expedited casework.",
       "impact": "High",
-      "sources": [
-        "Southeast Asia"
+      "sources": [],
+      "dests": [
+        "UK"
       ],
-      "dests": [],
       "translated": false,
       "origLang": null,
       "insightSource": "qwen"
     },
     {
       "id": 9,
-      "title": "Igbo-Ora, the scientific enigma of the ‘twin capital of the world’",
-      "source": "El País (English)",
-      "color": "#1a5276",
-      "url": "https://english.elpais.com/international/2026-03-12/igbo-ora-the-scientific-enigma-of-the-twin-capital-of-the-world.html",
-      "pubDate": "2026-03-12",
-      "summary": "The small city in Nigeria is known for its high rate of multiple pregnancies, and to date there is no conclusive explanation for the phenomenon",
-      "insight": "Applicant volume from Nigeria—especially Igbo-Ora and surrounding Oyo State—may rise as prospective students leverage local twin-related cultural prestige to strengthen personal statements for UK Student visas and US F-1 applications, increasing competition for limited slots.  \nAdmissions teams should partner with trusted Nigerian education agents in Oyo State to co-host virtual info sessions highlighting STEM scholarships, explicitly addressing visa documentation requirements for dependents under UK Appendix D and US Form I-20 dependent rules.",
+      "title": "Harvard to Tackle Grade Inflation With Cap on A’s",
+      "source": "Inside Higher Ed",
+      "color": "#285e61",
+      "url": "https://www.insidehighered.com/news/faculty-issues/learning-assessment/2026/03/13/harvard-tackle-grade-inflation-cap",
+      "pubDate": "2026-03-13",
+      "summary": "Harvard to Tackle Grade Inflation With Cap on A’s Emma Whitford Fri, 03/13/2026 - 03:00 AM Students are worried about what a cap on top grades will mean for their GPAs and postcollege prospects. Faculty largely view the cap as long overdue. Byline(s) Emma Whitford",
+      "insight": "Applicant volume from high-achieving international students—especially from India (F-1 visa), China (F-1), and Nigeria (F-1)—may decline as grade caps weaken GPA competitiveness for US graduate school and scholarship applications.  \nAdmissions teams should proactively host virtual info sessions for agents and students in these countries, highlighting alternative academic differentiators like research portfolios and standardized test scores to offset perceived GPA disadvantages.",
       "impact": "High",
-      "sources": [
-        "West Africa"
-      ],
+      "sources": [],
       "dests": [],
       "translated": false,
       "origLang": null,
@@ -167,18 +163,15 @@
     },
     {
       "id": 10,
-      "title": "Inside China’s Historic Electricity Milestone and Clean Energy Revolution",
-      "source": "Sixth Tone",
-      "color": "#922b21",
-      "url": "https://www.sixthtone.com/news/1018217/Inside China’s Historic Electricity Milestone and Clean Energy Revolution",
+      "title": "What Canceling ‘Magic City Monday’ Conveys to College Women Who Work in Strip Clubs",
+      "source": "Inside Higher Ed",
+      "color": "#285e61",
+      "url": "https://www.insidehighered.com/opinion/columns/resident-scholar/2026/03/13/what-canceling-magic-city-monday-conveys-college-women",
       "pubDate": "2026-03-13",
-      "summary": "China’s power usage now exceeds the combined consumption of the EU, Russia, India, and Japan as renewables drive a cleaner energy mix.",
-      "insight": "Applicant volume from India may decline as China’s clean energy leadership enhances its domestic STEM education appeal and scholarship offerings, competing directly with US F-1, UK Student Route, and Australian Subclass 500 visa pathways.  \nAdmissions teams should partner with Indian engineering colleges to co-host virtual “Green Tech Career Pathways” webinars featuring alumni working in China’s renewable energy sector and US/UK/AU/NZ faculty.",
+      "summary": "What Canceling ‘Magic City Monday’ Conveys to College Women Who Work in Strip Clubs Sara Brady Fri, 03/13/2026 - 03:00 AM It reinforces a long-standing message to exotic dancers: You work in a shameful place. Byline(s) Shaun Harper",
+      "insight": "Applicant volume may decline among international students from Nigeria, India, and the Philippines—countries with high numbers of F-1 and Student Visa applicants—who perceive U.S. campus policies like canceling “Magic City Monday” as stigmatizing low-income or marginalized student identities, including those working in informal sectors to fund studies.  \nAdmissions teams should proactively host virtual town halls with current international students in non-traditional employment (e.g., dancers, ride-share drivers) and explicitly affirm institutional support for visa-compliant work—citing USCIS OPT rules and UK’s Student Route work allowances—to counter stigma and rebuild trust.",
       "impact": "High",
-      "sources": [
-        "China",
-        "India"
-      ],
+      "sources": [],
       "dests": [],
       "translated": false,
       "origLang": null,
