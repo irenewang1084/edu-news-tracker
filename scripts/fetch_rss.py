@@ -42,9 +42,12 @@ FEEDS = [
     {"name": "VnExpress (EN)",        "url": "https://e.vnexpress.net/rss/news.rss",                                    "color": "#d35400", "lang": "en"},
     {"name": "VnExpress (Giáo dục)",  "url": "https://vnexpress.net/rss/giao-duc.rss",                                 "color": "#b94500", "lang": "vi"},
     # ── West Africa / Global ──────────────────────────────────────────────────
+    # ── Global policy analysis ────────────────────────────────────────────────
+    # LSE Higher Education Blog: UK policy analysis, open access, stable RSS
+    {"name": "LSE HE Blog",           "url": "https://blogs.lse.ac.uk/highereducation/feed/",                           "color": "#1a3a5c", "lang": "en"},
     # ── MENA ──────────────────────────────────────────────────────────────────
-    # The National: UAE-based English daily, explicit RSS service, MENA education coverage
-    {"name": "The National (MENA)",   "url": "https://www.thenationalnews.com/rss/mena.xml",                            "color": "#0e6655", "lang": "en"},
+    # Al-Fanar Media: leading independent HE publication for Arab world (XML cleaned on fetch)
+    {"name": "Al-Fanar Media",        "url": "https://al-fanarmedia.org/feed/",                                         "color": "#0e6655", "lang": "en"},
     {"name": "El País (English)",     "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/english.elpais.com/portada", "color": "#1a5276", "lang": "en"},
     {"name": "Folha de S.Paulo",      "url": "https://feeds.folha.uol.com.br/educacao/rss091.xml",                     "color": "#154360", "lang": "pt"},
 ]
@@ -305,6 +308,13 @@ def _text(el, *tags):
             return child.text.strip()
     return ""
 
+def _clean_xml(raw_bytes):
+    """Strip invalid XML characters that cause parse errors (e.g. Al-Fanar, some Asian feeds)."""
+    text = raw_bytes.decode("utf-8", errors="replace")
+    # Remove control characters except tab, newline, carriage return
+    text = re.sub(r'[\x00-\x08\x0b\x0c\x0e-\x1f\x7f]', '', text)
+    return text.encode("utf-8")
+
 def fetch_feed(feed):
     headers = {
         "User-Agent": "Mozilla/5.0 (compatible; EduNewsTracker/2.0; +https://github.com)",
@@ -320,9 +330,13 @@ def fetch_feed(feed):
 
     try:
         root = ET.fromstring(raw)
-    except ET.ParseError as e:
-        print(f"  ✗ {feed['name']}: XML parse error: {e}", file=sys.stderr)
-        return []
+    except ET.ParseError:
+        # Retry with invalid character stripping
+        try:
+            root = ET.fromstring(_clean_xml(raw))
+        except ET.ParseError as e:
+            print(f"  ✗ {feed['name']}: XML parse error: {e}", file=sys.stderr)
+            return []
 
     # Support both RSS 2.0 (<item>) and Atom (<entry>)
     items = root.findall(".//item") or root.findall(f".//{{{NS['atom']}}}entry")
