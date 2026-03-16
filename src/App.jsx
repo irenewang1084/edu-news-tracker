@@ -32,6 +32,7 @@ const MEDIA_SOURCES = {
 const SRC_TAG = {
   China: "#c0392b", "Southeast Asia": "#d35400", India: "#c0820a",
   "South Asia": "#7d3c98", "West Africa": "#1e8449", "Latin America": "#1a5276",
+  "MENA": "#0e6655",
 };
 const DST_TAG = {
   USA: "#1a3a5c", UK: "#1e5631", Canada: "#7b341e",
@@ -42,7 +43,7 @@ const IMP = {
   Medium: { bar: "#c9a84c", bg: "#fefce8", fg: "#9a6f00", icon: "●" },
   Low:    { bar: "#1e8449", bg: "#f0fdf4", fg: "#1e8449", icon: "○" },
 };
-const SRC_OPTS  = ["All","China","Southeast Asia","India","South Asia","West Africa","Latin America"];
+const SRC_OPTS  = ["All","China","Southeast Asia","India","South Asia","West Africa","Latin America","MENA"];
 const DEST_OPTS = ["All","USA","UK","Canada","Australia","New Zealand"];
 
 function fmtDate(iso) {
@@ -93,7 +94,7 @@ export default function App() {
 
   return (
     <div style={{ fontFamily: "'Libre Baskerville',Georgia,serif", minHeight: "100vh", background: "#fff" }}>
-      <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=DM+Sans:wght@400;500;600&display=swap" rel="stylesheet" />
+      <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Lora:ital,wght@0,400;1,400;1,500&family=DM+Sans:wght@400;500;600&display=swap" rel="stylesheet" />
 
       {/* MASTHEAD */}
       <header style={{ background: "#fff", padding: "20px 20px 0", borderBottom: "3px double #0f0f23" }}>
@@ -209,7 +210,7 @@ export default function App() {
                     {item.insight && (
                       <div style={{ background: "#f5f0e8", borderLeft: "3px solid #c9a84c", padding: "11px 14px", marginBottom: 14 }}>
                         <div style={{ fontSize: 9, letterSpacing: 2, color: "#c9a84c", fontFamily: "'DM Sans',sans-serif", fontWeight: 600, marginBottom: 6 }}>RECRUITMENT INSIGHT</div>
-                        <p style={{ margin: 0, fontSize: 13, color: "#2d2d2d", lineHeight: 1.75, fontStyle: "italic", fontFamily: "'Libre Baskerville',Georgia,serif" }}>{item.insight}</p>
+                        <p style={{ margin: 0, fontSize: 13, color: "#2d2d2d", lineHeight: 1.75, fontStyle: "italic", fontFamily: "'Lora',Georgia,serif" }}>{item.insight}</p>
                       </div>
                     )}
 
