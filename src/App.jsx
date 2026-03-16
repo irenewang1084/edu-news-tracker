@@ -22,9 +22,10 @@ const MEDIA_SOURCES = {
   "🌏 Southeast Asia": [
     { name: "VnExpress (EN)",      url: "https://e.vnexpress.net/rss/news.rss",                    color: "#d35400" },
     { name: "VnExpress (Giáo dục)",url: "https://vnexpress.net/rss/giao-duc.rss",                  color: "#b94500" },
+    { name: "LSE HE Blog",         url: "https://blogs.lse.ac.uk/highereducation/feed/",  color: "#1a3a5c" },
   ],
   "🌍 MENA": [
-    { name: "The National (MENA)", url: "https://www.thenationalnews.com/rss/mena.xml",  color: "#0e6655" },
+    { name: "Al-Fanar Media",      url: "https://al-fanarmedia.org/feed/",                color: "#0e6655" },
   ],
   "🌎 Latin America": [
     { name: "El País (English)",   url: "https://feeds.elpais.com/mrss-s/pages/ep/site/english.elpais.com/portada", color: "#1a5276" },
