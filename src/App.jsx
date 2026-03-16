@@ -24,7 +24,7 @@ const MEDIA_SOURCES = {
     { name: "VnExpress (Giáo dục)",url: "https://vnexpress.net/rss/giao-duc.rss",                  color: "#b94500" },
   ],
   "🌍 MENA": [
-    { name: "Arab News (Edu)",     url: "https://www.arabnews.com/taxonomy/term/11/feed",                color: "#0e6655" },
+    { name: "The National (MENA)", url: "https://www.thenationalnews.com/rss/mena.xml",  color: "#0e6655" },
   ],
   "🌎 Latin America": [
     { name: "El País (English)",   url: "https://feeds.elpais.com/mrss-s/pages/ep/site/english.elpais.com/portada", color: "#1a5276" },
