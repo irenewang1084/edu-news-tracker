@@ -43,8 +43,8 @@ FEEDS = [
     {"name": "VnExpress (Giáo dục)",  "url": "https://vnexpress.net/rss/giao-duc.rss",                                 "color": "#b94500", "lang": "vi"},
     # ── West Africa / Global ──────────────────────────────────────────────────
     # ── MENA ──────────────────────────────────────────────────────────────────
-    # Arab News: largest English daily in Middle East, education section RSS
-    {"name": "Arab News (Edu)",       "url": "https://www.arabnews.com/taxonomy/term/11/feed",                          "color": "#0e6655", "lang": "en"},
+    # The National: UAE-based English daily, explicit RSS service, MENA education coverage
+    {"name": "The National (MENA)",   "url": "https://www.thenationalnews.com/rss/mena.xml",                            "color": "#0e6655", "lang": "en"},
     {"name": "El País (English)",     "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/english.elpais.com/portada", "color": "#1a5276", "lang": "en"},
     {"name": "Folha de S.Paulo",      "url": "https://feeds.folha.uol.com.br/educacao/rss091.xml",                     "color": "#154360", "lang": "pt"},
 ]
@@ -140,11 +140,14 @@ SOURCE_KW = {
     "Latin America":  ["latin america", "brazil", "brazilian", "mexico", "mexican", "colombia",
                        "venezuela", "argentina", "chile", "brasil", "latinoamérica",
                        "estudiante internacional", "estudante"],
-    "MENA":           ["middle east", "north africa", "saudi arabia", "saudi", "uae",
-                       "united arab emirates", "egypt", "egyptian", "jordan", "jordanian",
-                       "iran", "iranian", "iraq", "iraqi", "kuwait", "qatar", "bahrain",
-                       "oman", "lebanon", "lebanese", "morocco", "moroccan", "tunisia",
-                       "algeria", "algerian", "libya", "mena", "gulf"],
+    "MENA":           ["middle east", "north africa", "saudi arabia", "saudi student",
+                       "united arab emirates", " uae ", "egypt", "egyptian student",
+                       "jordan", "jordanian", "iran", "iranian student",
+                       "iraq", "iraqi", "kuwait", "qatar", "bahrain",
+                       "sultanate of oman", "lebanon", "lebanese",
+                       "morocco", "moroccan", "tunisia", "algeria", "algerian",
+                       "libya", "mena region", "gulf student", "arab student",
+                       "arab university", "arab world education"],
 }
 DEST_KW = {
     "USA":         ["united states", " u.s.", "american universit", "sevis", "f-1",
@@ -449,13 +452,20 @@ def qwen_select_top(articles, api_key, prev_urls, top_n=10):
 
     prompt = (
         "You are a senior international student recruitment strategist advising university "
-        "admissions teams in the USA, UK, Australia, and New Zealand. "
-        "Score each article 1–10 on how directly it affects international student recruitment "
-        "at these destination universities — considering visa policy changes, student flow data, "
-        "geopolitical risks affecting source markets, compliance requirements, competitor moves, "
-        "or shifts in student demand from China, India, Southeast Asia, South Asia, West Africa, "
-        "and Latin America. Score 10 = immediate action required by admissions teams today; "
-        "Score 1 = no relevance to university international recruitment.\n\n"
+        "admissions teams in the USA, UK, Australia, and New Zealand.\n\n"
+        "Score each article 1–10 using these STRICT criteria:\n"
+        "- Score 8–10: Directly affects international student recruitment — visa/immigration policy, "
+        "international enrolment data, compliance changes, geopolitical risks to source markets "
+        "(China, India, Southeast Asia, South Asia, West Africa, Latin America, MENA), "
+        "or destination country policy shifts (USA, UK, Canada, Australia, NZ).\n"
+        "- Score 5–7: Indirectly relevant — higher education trends that may influence "
+        "international student demand or perception of destination countries.\n"
+        "- Score 1–4: NOT relevant — domestic-only education news, local school issues, "
+        "individual student incidents, campus crime, sports, cultural events, "
+        "or anything that affects only domestic (non-international) students.\n\n"
+        "IMPORTANT: A story about a local incident, a domestic student, or a single university's "
+        "internal affairs scores 1–3. Only score 6+ if international students or cross-border "
+        "student flows are explicitly or very directly implicated.\n\n"
         f"{article_list}\n\n"
         "Reply with ONLY a JSON array, one object per article, no markdown, no explanation:\n"
         '[{"i":1,"score":8},{"i":2,"score":3}, ...]'
@@ -480,7 +490,7 @@ def qwen_select_top(articles, api_key, prev_urls, top_n=10):
     for i, a in enumerate(articles, 1):
         base = score_map.get(i, 5)
         if a["url"] in prev_urls:
-            a["relevanceScore"] = max(1, base - 3)  # -3 penalty, floor at 1
+            a["relevanceScore"] = max(1, base - 3)
             repeat_count += 1
         else:
             a["relevanceScore"] = base
@@ -488,8 +498,14 @@ def qwen_select_top(articles, api_key, prev_urls, top_n=10):
     if repeat_count:
         print(f"  🔄 Freshness penalty applied to {repeat_count} repeated articles")
 
-    articles.sort(key=lambda a: a["relevanceScore"], reverse=True)
-    selected = articles[:top_n]
+    # Hard filter: discard anything scored below 5 (not relevant to intl recruitment)
+    eligible = [a for a in articles if a["relevanceScore"] >= 5]
+    discarded = len(articles) - len(eligible)
+    if discarded:
+        print(f"  🚫 Discarded {discarded} articles scoring below 5 (not intl-relevant)")
+
+    eligible.sort(key=lambda a: a["relevanceScore"], reverse=True)
+    selected = eligible[:top_n]
     fresh = sum(1 for a in selected if a["url"] not in prev_urls)
     print(f"  ✓ Top {len(selected)} selected — {fresh} new, {len(selected)-fresh} repeated "
           f"(scores: {[a['relevanceScore'] for a in selected]})")
