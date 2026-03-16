@@ -43,8 +43,8 @@ FEEDS = [
     {"name": "VnExpress (Giáo dục)",  "url": "https://vnexpress.net/rss/giao-duc.rss",                                 "color": "#b94500", "lang": "vi"},
     # ── West Africa / Global ──────────────────────────────────────────────────
     # ── MENA ──────────────────────────────────────────────────────────────────
-    # Al-Fanar Media: only independent English/Arabic HE publication covering Arab world
-    {"name": "Al-Fanar Media",        "url": "https://al-fanarmedia.org/feed/",                                         "color": "#0e6655", "lang": "en"},
+    # Arab News: largest English daily in Middle East, education section RSS
+    {"name": "Arab News (Edu)",       "url": "https://www.arabnews.com/taxonomy/term/11/feed",                          "color": "#0e6655", "lang": "en"},
     {"name": "El País (English)",     "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/english.elpais.com/portada", "color": "#1a5276", "lang": "en"},
     {"name": "Folha de S.Paulo",      "url": "https://feeds.folha.uol.com.br/educacao/rss091.xml",                     "color": "#154360", "lang": "pt"},
 ]
@@ -536,6 +536,32 @@ def qwen_generate_insights(articles, api_key):
     return articles
 
 
+# ── STEP 3: AI SUMMARY GENERATION for selected articles ─────────────────────
+def qwen_generate_summaries(articles, api_key):
+    """Replace raw RSS summary with a clean 1-2 sentence AI summary."""
+    if not api_key:
+        return articles
+
+    print(f"  🤖 Generating Qwen summaries for {len(articles)} articles…")
+    for a in articles:
+        prompt = (
+            f"Article title: {a['title']}\n"
+            f"Raw content: {a['summary'][:600]}\n\n"
+            "Write a factual summary of this article in exactly 2 complete sentences. "
+            "Cover the key facts only. Plain text, no markdown, no commentary."
+        )
+        try:
+            text = qwen_call(api_key, prompt, max_tokens=120, temperature=0.2)
+            if text:
+                a["summary"] = text
+            time.sleep(0.3)
+        except Exception as e:
+            print(f"  ⚠ Summary error [{a['title'][:40]}]: {e}", file=sys.stderr)
+
+    print(f"  ✓ Qwen summaries generated: {len(articles)}/{len(articles)}")
+    return articles
+
+
 # ── MAIN ──────────────────────────────────────────────────────────────────────
 def main():
     now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
@@ -563,10 +589,13 @@ def main():
     # 4. AI scoring: select top 10, penalising repeated articles
     selected = qwen_select_top(unique, api_key, prev_urls, top_n=10)
 
-    # 5. AI insights: generate professional insight for each selected article
+    # 5. AI summaries: replace raw RSS text with clean 2-sentence summary
+    selected = qwen_generate_summaries(selected, api_key)
+
+    # 6. AI insights: generate professional insight for each selected article
     selected = qwen_generate_insights(selected, api_key)
 
-    # 5. Final sort: by relevance score (desc), then impact, then date
+    # 7. Final sort: by date descending
     rank = {"High": 0, "Medium": 1, "Low": 2}
     selected.sort(key=lambda a: (
         -a.get("relevanceScore", 5),
