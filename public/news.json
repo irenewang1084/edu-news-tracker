@@ -1,7 +1,7 @@
 {
-  "updated": "2026-03-15T05:53:53Z",
+  "updated": "2026-03-16T06:13:47Z",
   "count": 10,
-  "totalFetched": 169,
+  "totalFetched": 162,
   "articles": [
     {
       "id": 1,
@@ -11,7 +11,7 @@
       "url": "https://monitor.icef.com/2026/03/inbound-outbound-and-transnational-the-landscape-for-international-education-in-china-continues-to-evolve/",
       "pubDate": "2026-03-04",
       "summary": "China is broadening its approach to international education and talent attraction. The Chinese government continues to support the recruitment of international students, especially through targeted scholarships. At the same time, it is aware of public concern about the perceived special treatment of those students amidst a competitive job market and high unemployment. As a result,… The post Inbound, outbound, and transnational: the landscape for international education in China continues to evol",
-      "insight": "China’s intensified scholarship programs and streamlined inbound visa pathways (e.g., X1 visas) are likely to reduce outbound student volumes to the USA, UK, Australia, and New Zealand—especially among high-achieving STEM and business applicants targeting subsidized degrees.  \nAdmissions teams should immediately co-develop dual-degree or articulation pathways with top Chinese universities (e.g., Tsinghua, Fudan) and align recruitment messaging with China’s “dual circulation” policy priorities to retain competitive appeal amid rising domestic incentives.",
+      "insight": "Applicant volume from China to the USA, UK, Australia, and New Zealand may decline as Beijing intensifies scholarship incentives for inbound study and promotes domestic alternatives amid rising youth unemployment and scrutiny of overseas degrees’ ROI.  \nAdmissions teams should immediately expand targeted outreach to Chinese students applying for US F-1, UK Student Route, Australian Subclass 500, and New Zealand Student Visa pathways—highlighting post-study work rights, alumni employment outcomes, and cost-of-living scholarships.",
       "impact": "High",
       "sources": [
         "China"
@@ -29,7 +29,7 @@
       "url": "https://monitor.icef.com/2026/03/australia-doubles-post-study-work-visa-application-fee/",
       "pubDate": "2026-03-04",
       "summary": "The Temporary Graduate Visa (Subclass 485) visa allows eligible foreign graduates to work in Australia from 18 months to up to 3 years once they complete their studies, and it can be a pathway towards permanent residency. Effective immediately, the non-refundable application fee for this visa is AU$4,600 (US$3,000), up from the AU$2,300 fee that… The post Australia doubles post-study work visa application fee appeared first on ICEF Monitor - Market intelligence for international student recruitm",
-      "insight": "Applicant volume for Australian universities will likely decline, especially among cost-sensitive students from India, Nigeria, and Bangladesh applying for the Subclass 485 visa, as the doubled AU$4,600 fee raises total study-cost barriers relative to UK (Graduate Visa) and Canadian (PGWP) alternatives.  \nAdmissions teams must immediately update cost-of-education calculators and financial aid briefings to reflect the new Subclass 485 fee—and proactively compare net post-study ROI against the UK’s £822 Graduate Visa and Canada’s CAD$235 PGWP.",
+      "insight": "Applicant volume for Australian universities will likely decline, especially among students from India, Nigeria, and the Philippines, as the doubled AU$4,600 Subclass 485 visa fee raises total cost-of-study barriers and intensifies competition from the UK’s Graduate Visa and Canada’s PGWP.  \nAdmissions teams must immediately update cost-of-attendance calculators and scholarship eligibility criteria to offset the new fee—e.g., offering AU$2,300 post-study work visa grants for high-achieving Indian or Nigerian undergraduates commencing in 2024.",
       "impact": "High",
       "sources": [],
       "dests": [
@@ -41,29 +41,13 @@
     },
     {
       "id": 3,
-      "title": "Ho Chi Minh City University of Technology wants to 'keep its historical value' for nearly 70 years",
-      "source": "VnExpress (Giáo dục)",
-      "color": "#b94500",
-      "url": "https://vnexpress.net/dai-hoc-bach-khoa-tp-hcm-len-tieng-ve-de-xuat-di-doi-cua-cong-ty-bat-dong-san-phat-dat-5048898.html",
-      "pubDate": "2026-03-10",
-      "summary": "Ho Chi Minh City University of Technology agrees with the policy of expansion but hopes to preserve the historical value and academic tradition of nearly 70 years.",
-      "insight": "Applicant volume may decline from Vietnam and ASEAN countries as Ho Chi Minh City University of Technology’s emphasis on historical preservation signals slower modernization, potentially weakening its appeal versus Western universities offering faster-track STEM degrees under UK Student Route or US F-1 visas.  \nAdmissions teams should proactively highlight accelerated degree pathways and post-study work rights—e.g., UK’s 2-year Graduate Visa, Australia’s 4–6-year PSW for STEM graduates—to counter perceived inertia in Vietnamese institutional development.",
-      "impact": "High",
-      "sources": [],
-      "dests": [],
-      "translated": true,
-      "origLang": "vi",
-      "insightSource": "qwen"
-    },
-    {
-      "id": 4,
       "title": "GSA plan would ban DEI for all federal funding recipients — including colleges",
       "source": "Higher Ed Dive",
       "color": "#1e5631",
       "url": "https://www.highereddive.com/news/gsa-plan-would-ban-dei-for-all-federal-funding-recipients-including-schoo/814353/",
       "pubDate": "2026-03-11",
       "summary": "The General Services Administration proposal comes after a similar policy from the U.S. Department of Education was blocked in courts.",
-      "insight": "Applicant volume may decline as prospective international students from India, Nigeria, and Vietnam perceive U.S. universities as less inclusive or riskier for F-1 visa approval due to perceived DEI restrictions affecting campus climate and support services.  \nAdmissions teams should proactively highlight existing, legally compliant DEI initiatives—such as UCL’s Race Equality Charter in the UK or Australia’s PRISMS framework for student support—to reassure applicants from these regions during virtual fairs and agent training.",
+      "insight": "Applicant volume may decline from China, India, and Nigeria as prospective students perceive U.S. universities as less inclusive or more legally volatile under GSA’s proposed DEI ban—especially those relying on F-1 visas tied to institutional diversity commitments in admissions essays or scholarship applications.  \nAdmissions teams should immediately audit all recruitment materials targeting Tier 4 (UK), Student Visa Subclass 500 (Australia), and New Zealand Student Visa applicants to replace U.S.-centric DEI language with locally resonant equity frameworks aligned with each country’s education policies.",
       "impact": "High",
       "sources": [],
       "dests": [
@@ -74,14 +58,14 @@
       "insightSource": "qwen"
     },
     {
-      "id": 5,
+      "id": 4,
       "title": "UK rejects visa ban exemption for Chevening scholars",
       "source": "The PIE News",
       "color": "#7b341e",
       "url": "https://thepienews.com/uk-rejects-visa-ban-exemption-for-chevening-scholars/",
       "pubDate": "2026-03-13",
       "summary": "The UK Home Office has rejected calls from within government to exempt “exceptional” Chevening scholars from new rules halting study visa issuance for certain countries. The post UK rejects visa ban exemption for Chevening scholars appeared first on The PIE News .",
-      "insight": "Applicant volume from Bangladesh, Nigeria, and Pakistan will likely decline as Chevening scholars—prestigious UK government scholarship recipients—now face the same study visa suspension as other nationals from those countries under the new Home Office policy.  \nAdmissions teams must immediately flag Chevening applicants from these three countries in CRM systems and proactively offer alternative pathways, such as deferred 2025 entry or dual-degree options with partner universities in Ireland or Canada.",
+      "insight": "UK universities face heightened visa refusal risks for Chevening applicants from high-risk countries like Nigeria, Pakistan, and Bangladesh under the new Student Route restrictions, directly reducing enrolment yield from these priority recruitment markets.  \nAdmissions teams must immediately flag Chevening applicants from those countries in CRM systems and assign dedicated visa advisors to co-ordinate with Chevening Secretariat and UKVI for pre-submission document checks and expedited casework.",
       "impact": "High",
       "sources": [],
       "dests": [
@@ -92,14 +76,14 @@
       "insightSource": "qwen"
     },
     {
-      "id": 6,
+      "id": 5,
       "title": "Harvard to Tackle Grade Inflation With Cap on A’s",
       "source": "Inside Higher Ed",
       "color": "#285e61",
       "url": "https://www.insidehighered.com/news/faculty-issues/learning-assessment/2026/03/13/harvard-tackle-grade-inflation-cap",
       "pubDate": "2026-03-13",
       "summary": "Harvard to Tackle Grade Inflation With Cap on A’s Emma Whitford Fri, 03/13/2026 - 03:00 AM Students are worried about what a cap on top grades will mean for their GPAs and postcollege prospects. Faculty largely view the cap as long overdue. Byline(s) Emma Whitford",
-      "insight": "Applicant volume from high-achieving international students—especially from India (F-1 visa), China (F-1), and Nigeria (F-1)—may decline as grade caps weaken GPA competitiveness for US graduate school and scholarship applications.  \nAdmissions teams should proactively host virtual info sessions for agents and students in these countries, highlighting alternative academic differentiators like research portfolios and standardized test scores to offset perceived GPA disadvantages.",
+      "insight": "Applicant volume from high-achieving international students—especially from India, China, and Nigeria applying under U.S. F-1 and UK Student Route visas—may decline as grade-capping undermines GPA competitiveness for scholarships, OPT/STEM extensions, and post-study work eligibility.  \nAdmissions teams should proactively revise marketing materials to highlight holistic evaluation, publish grade-contextualization guides for key sending countries (e.g., CBSE, Gaokao, WAEC), and train regional recruiters to address GPA concerns during virtual fairs targeting India’s JEE/NEET cohorts and China’s Gaokao applicants.",
       "impact": "High",
       "sources": [],
       "dests": [],
@@ -108,7 +92,7 @@
       "insightSource": "qwen"
     },
     {
-      "id": 7,
+      "id": 6,
       "title": "What Canceling ‘Magic City Monday’ Conveys to College Women Who Work in Strip Clubs",
       "source": "Inside Higher Ed",
       "color": "#285e61",
@@ -124,7 +108,7 @@
       "insightSource": "qwen"
     },
     {
-      "id": 8,
+      "id": 7,
       "title": "Oil, the crisis crushing Cuba and giving Trump new leverage",
       "source": "El País (English)",
       "color": "#1a5276",
@@ -142,18 +126,34 @@
       "insightSource": "qwen"
     },
     {
-      "id": 9,
+      "id": 8,
       "title": "Philippines, the call‑center capital: Taking a deluge of calls for under $2 an hour",
       "source": "El País (English)",
       "color": "#1a5276",
       "url": "https://english.elpais.com/economy-and-business/2026-03-14/philippines-the-callcenter-capital-taking-a-deluge-of-calls-for-under-2-an-hour.html",
       "pubDate": "2026-03-14",
       "summary": "The Asian country is a global leader in customer services, with Western corporations employing young people at salaries well below the cost of living",
-      "insight": "Applicant volume from the Philippines may decline as rising call-center wages and improved local job prospects reduce financial motivation to pursue overseas degrees, particularly among vocational and business undergraduates targeting immediate employment.  \nAdmissions teams should partner with Philippine universities offering BPO-adjacent programs (e.g., De La Salle–College of Saint Benilde) to co-develop articulation pathways for students on U.S. F-1, UK Student Route, Australian Subclass 500, and New Zealand Student Visa pathways.",
+      "insight": "Applicant volume from the Philippines may decline as rising call-center wages and improved local job prospects reduce financial motivation for undergraduate and vocational study abroad, particularly among students targeting Australia’s Subclass 485 visa or the UK’s Graduate Route.  \nAdmissions teams should partner with Philippine universities to co-develop articulation pathways into high-demand fields like data science and cybersecurity—offering guaranteed scholarships and internship placements with UK tech firms or Australian regional employers.",
       "impact": "High",
       "sources": [
         "Southeast Asia"
       ],
+      "dests": [],
+      "translated": false,
+      "origLang": null,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 9,
+      "title": "Federal judge halts Trump bid to force colleges to hand over race-linked admissions data",
+      "source": "Times of India (Edu)",
+      "color": "#d4820a",
+      "url": "https://timesofindia.indiatimes.com/education/news/federal-judge-halts-trump-bid-to-force-colleges-to-hand-over-race-linked-admissions-data/articleshow/129589911.cms",
+      "pubDate": "2026-03-15",
+      "summary": "A federal judge in Boston has temporarily blocked a Trump administration directive requiring universities to submit extensive admissions data linked to race and gender. The ruling pauses the policy after 17 Democratic attorneys general challenged it, arguing it imposed heavy reporting demands and risked turning federal education data systems into tools for political enforcement.",
+      "insight": "Applicant volume from India, Nigeria, and Vietnam may dip as prospective students perceive heightened U.S. visa scrutiny and data collection risks under the stalled—but still politically volatile—race-linked admissions reporting rule.  \nAdmissions teams should proactively update recruitment webpages and agent briefings with clear, country-specific reassurances—for example, confirming that F-1 visa applicants from Australia or Canada face no new data requirements under current SEVIS or I-20 processes.",
+      "impact": "High",
+      "sources": [],
       "dests": [],
       "translated": false,
       "origLang": null,
@@ -167,7 +167,7 @@
       "url": "https://english.elpais.com/technology/2026-03-15/what-can-the-left-do-against-technocapitalism.html",
       "pubDate": "2026-03-15",
       "summary": "Silicon Valley oligarchs are manipulating our attention and paving the way for the populist authoritarianism of Trump and the European far right. What can progressives do to stop this technological dictatorship and overcome dependence on the United States?",
-      "insight": "Applicant volume from India, Nigeria, and Brazil is likely to decline as concerns over U.S. visa restrictions (F-1), UK’s Skilled Worker visa salary thresholds, and Australia’s tightened student visa financial requirements amplify perceptions of instability linked to technocapitalist governance.  \nAdmissions teams should co-develop targeted webinars with alumni in Germany, Canada, and Japan—featuring visa success stories and digital literacy scholarships—to position their institutions as ethical, tech-resilient alternatives amid rising geopolitical skepticism.",
+      "insight": "Applicant volume may decline from India, Nigeria, and Brazil as concerns grow over U.S. visa restrictions (F-1), UK’s Skilled Worker visa salary thresholds, and Australia’s tightened student visa English and financial requirements amid rising anti-tech sentiment.  \nAdmissions teams should co-host virtual town halls with alumni in Delhi, Lagos, and São Paulo to directly address visa myths, showcase post-study work pathways (e.g., U.S. OPT, UK Graduate Visa, Australia’s 485), and highlight university-led digital ethics initiatives.",
       "impact": "High",
       "sources": [],
       "dests": [
