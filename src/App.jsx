@@ -92,11 +92,11 @@ export default function App() {
   })();
 
   return (
-    <div style={{ fontFamily: "'Libre Baskerville',Georgia,serif", minHeight: "100vh", background: "#F4F1EB" }}>
+    <div style={{ fontFamily: "'Libre Baskerville',Georgia,serif", minHeight: "100vh", background: "#fff" }}>
       <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=DM+Sans:wght@400;500;600&display=swap" rel="stylesheet" />
 
       {/* MASTHEAD */}
-      <header style={{ background: "#F4F1EB", padding: "20px 20px 0", borderBottom: "3px double #0f0f23" }}>
+      <header style={{ background: "#fff", padding: "20px 20px 0", borderBottom: "3px double #0f0f23" }}>
         <div style={{ maxWidth: 900, margin: "0 auto" }}>
           <h1 style={{ margin: "0 0 8px", fontSize: 52, fontWeight: 700, lineHeight: 1.05, color: "#0f0f23", letterSpacing: -1, fontFamily: "'Libre Baskerville',Georgia,serif" }}>
             Global Study Abroad Intelligence
@@ -171,57 +171,54 @@ export default function App() {
                 <span style={{ color: "#c9a84c", cursor: "pointer" }} onClick={() => setFSrc("All")}>Clear filters</span>
               </div>
             ) : (
-              <div style={{ display: "flex", flexDirection: "column" }}>
+              <div style={{ display: "grid", gridTemplateColumns: "repeat(3, 1fr)", gap: "0 32px", borderTop: "2px solid #0f0f23" }}>
                 {shown.map((item, idx) => (
                   <article key={item.id || item.url} style={{
-                    borderTop: idx === 0 ? "2px solid #0f0f23" : "1px solid #d6d1c8",
-                    padding: "20px 0 22px",
+                    padding: "20px 0 24px",
+                    borderTop: idx < 3 ? "none" : "1px solid #d6d1c8",
+                    borderRight: (idx % 3 !== 2) ? "1px solid #d6d1c8" : "none",
+                    paddingRight: (idx % 3 !== 2) ? 32 : 0,
+                    paddingLeft: (idx % 3 !== 0) ? 0 : 0,
                   }}>
-                    {/* Meta row */}
-                    <div style={{ display: "flex", flexWrap: "wrap", gap: 5, marginBottom: 10, alignItems: "center" }}>
-                      {(item.sources || []).map(s => (
-                        <span key={s} style={{
-                          padding: "1px 7px", border: `1px solid ${SRC_TAG[s] || "#555"}`,
-                          color: SRC_TAG[s] || "#555", borderRadius: 2,
-                          fontSize: 10, fontFamily: "'DM Sans',sans-serif", letterSpacing: 0.5,
-                        }}>{s}</span>
-                      ))}
-                      {(item.dests || []).map(d => (
-                        <span key={d} style={{
-                          padding: "1px 7px", border: `1px solid ${DST_TAG[d] || "#888"}`,
-                          color: DST_TAG[d] || "#888", borderRadius: 2,
-                          fontSize: 10, fontFamily: "'DM Sans',sans-serif", letterSpacing: 0.5,
-                        }}>→ {d}</span>
-                      ))}
-                      <span style={{ marginLeft: "auto", fontSize: 11, fontFamily: "'DM Sans',sans-serif", color: "#999", whiteSpace: "nowrap" }}>
-                        <span style={{ color: item.color || "#555", fontWeight: 600 }}>{item.source}</span>
-                        {" · "}
-                        {fmtDate(item.pubDate)}
-                      </span>
+                    {/* Source · Date */}
+                    <div style={{ fontSize: 11, fontFamily: "'DM Sans',sans-serif", color: "#888", letterSpacing: 0.5, marginBottom: 8 }}>
+                      <span style={{ fontWeight: 600, color: item.color || "#555" }}>{item.source}</span>
+                      {" · "}
+                      {fmtDate(item.pubDate)}
                     </div>
 
-                    {/* Title */}
-                    <h2 style={{ margin: "0 0 10px", fontSize: 18, fontWeight: 700, lineHeight: 1.4, color: "#0f0f23", fontFamily: "'Libre Baskerville',Georgia,serif" }}>
+                    {/* Tags */}
+                    <div style={{ display: "flex", flexWrap: "wrap", gap: 4, marginBottom: 10 }}>
+                      {(item.sources || []).map(s => (
+                        <span key={s} style={{ padding: "1px 7px", border: `1px solid #aaa`, color: "#444", borderRadius: 2, fontSize: 11, fontFamily: "'DM Sans',sans-serif" }}>{s}</span>
+                      ))}
+                      {(item.dests || []).map(d => (
+                        <span key={d} style={{ padding: "1px 7px", border: `1px solid #aaa`, color: "#444", borderRadius: 2, fontSize: 11, fontFamily: "'DM Sans',sans-serif" }}>→ {d}</span>
+                      ))}
+                    </div>
+
+                    {/* Headline */}
+                    <h2 style={{ margin: "0 0 12px", fontSize: 17, fontWeight: 700, lineHeight: 1.35, color: "#0f0f23", fontFamily: "'Libre Baskerville',Georgia,serif" }}>
                       {item.title}
                     </h2>
 
                     {/* Summary */}
                     {item.summary && (
-                      <p style={{ margin: "0 0 14px", fontSize: 14, lineHeight: 1.85, color: "#4a5568", fontFamily: "'Libre Baskerville',Georgia,serif" }}>
+                      <p style={{ margin: "0 0 14px", fontSize: 14, lineHeight: 1.8, color: "#333", fontFamily: "'Libre Baskerville',Georgia,serif" }}>
                         {item.summary}{item.summary.length >= 399 ? "…" : ""}
                       </p>
                     )}
 
                     {/* Insight */}
                     {item.insight && (
-                      <div style={{ background: "#f5f0e8", borderLeft: "3px solid #c9a84c", padding: "14px 16px", marginBottom: 16 }}>
-                        <div style={{ fontSize: 10, letterSpacing: 2, color: "#c9a84c", fontFamily: "'DM Sans',sans-serif", fontWeight: 600, marginBottom: 8 }}>RECRUITMENT INSIGHT</div>
-                        <p style={{ margin: 0, fontSize: 15, color: "#2d2d2d", lineHeight: 1.85, fontStyle: "italic", fontFamily: "'Libre Baskerville',Georgia,serif" }}>{item.insight}</p>
+                      <div style={{ background: "#f5f0e8", borderLeft: "3px solid #c9a84c", padding: "12px 14px", marginBottom: 14 }}>
+                        <div style={{ fontSize: 10, letterSpacing: 2, color: "#c9a84c", fontFamily: "'DM Sans',sans-serif", fontWeight: 600, marginBottom: 7 }}>RECRUITMENT INSIGHT</div>
+                        <p style={{ margin: 0, fontSize: 14, color: "#2d2d2d", lineHeight: 1.8, fontStyle: "italic", fontFamily: "'Libre Baskerville',Georgia,serif" }}>{item.insight}</p>
                       </div>
                     )}
 
                     {/* Footer */}
-                    <div style={{ display: "flex", alignItems: "center", justifyContent: "space-between" }}>
+                    <div style={{ display: "flex", alignItems: "center", justifyContent: "space-between", marginTop: 4 }}>
                       <div>
                         {item.translated && (
                           <span style={{ fontSize: 10, padding: "1px 6px", background: "#f0f4ff", color: "#3b5bdb", fontFamily: "'DM Sans',sans-serif", letterSpacing: 0.5, border: "1px solid #c7d2fe" }}>
@@ -230,14 +227,12 @@ export default function App() {
                         )}
                       </div>
                       <a href={item.url} target="_blank" rel="noopener noreferrer" style={{
-                        fontSize: 12, color: "#0f0f23", fontFamily: "'DM Sans',sans-serif",
-                        fontWeight: 600, textDecoration: "none", letterSpacing: 0.5,
-                        borderBottom: "1px solid #c9a84c", paddingBottom: 1,
+                        fontSize: 13, color: "#0f0f23", fontFamily: "'Libre Baskerville',Georgia,serif",
+                        textDecoration: "none", borderBottom: "1px solid #0f0f23", paddingBottom: 1,
                       }}>Read full article →</a>
                     </div>
                   </article>
                 ))}
-                <div style={{ borderTop: "2px solid #0f0f23" }} />
               </div>
             )}
 
