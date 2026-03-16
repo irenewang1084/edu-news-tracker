@@ -1,183 +1,205 @@
 {
-  "updated": "2026-03-16T09:09:12Z",
+  "updated": "2026-03-16T09:19:36Z",
   "count": 10,
-  "totalFetched": 173,
+  "totalFetched": 178,
   "articles": [
     {
       "id": 1,
-      "title": "Inbound, outbound, and transnational: the landscape for international education in China continues to evolve",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/03/inbound-outbound-and-transnational-the-landscape-for-international-education-in-china-continues-to-evolve/",
-      "pubDate": "2026-03-04",
-      "summary": "China is expanding its international education initiatives by supporting the recruitment of international students, particularly through targeted scholarship programs. At the same time, the government is responding to domestic public concerns about perceived preferential treatment for international students amid high unemployment and a competitive job market.",
-      "insight": "China’s intensified focus on inbound international student recruitment—paired with domestic backlash over perceived inequities—may indirectly dampen outbound student mobility if nationalist sentiment grows or policy shifts prioritize domestic graduate employment over overseas study. However, concrete impacts on demand remain uncertain, as long-standing drivers like academic quality and post-study opportunities retain strong influence.\n\nAdmissions teams should monitor Chinese social media discourse, Ministry of Education announcements, and scholarship policy updates for signs of tightening outbound regulations or shifting messaging around overseas education value; concurrently, reinforcing transparent support pathways for Chinese students may help mitigate reputational risks tied to equity concerns.",
-      "impact": "High",
-      "sources": [
-        "China"
+      "title": "Recent Correspondence Between Schmitt and Noem Indicates OPT Reform Still on DHS Agenda",
+      "source": "NAFSA",
+      "color": "#0e4d8c",
+      "url": "https://www.nafsa.org/professional-resources/browse-by-interest/practical-training-reform",
+      "pubDate": "2026-03-16",
+      "summary": "Senator Eric Schmitt (R-Missouri) recently corresponded with DHS Secretary Kristi Noem regarding reform or termination of the Optional Practical Training (OPT) program. In her response, Secretary Noem referenced a Spring 2025 regulatory agenda item on practical training—posted September 4, 2025—and stated it would proceed through the standard Administrative Procedure Act notice-and-comment process.",
+      "insight": "This news signals potential future tightening of U.S. post-study work pathways, which may modestly dampen U.S. appeal for international students prioritizing OPT as a career bridge—though immediate demand shifts are unlikely given the regulatory timeline and lack of finalized policy.  \nAdmissions teams should track the Spring 2025 DHS regulatory docket for proposed rule language, consult legal advisors on likely implementation timelines, and prepare nuanced messaging that balances U.S. academic strengths with realistic post-graduation planning—without preemptively alarming applicants.",
+      "impact": "Medium",
+      "sources": [],
+      "dests": [
+        "USA"
       ],
-      "dests": [],
       "translated": false,
       "origLang": null,
+      "relevanceScore": 9,
       "insightSource": "qwen"
     },
     {
       "id": 2,
-      "title": "Australia doubles post-study work visa application fee",
+      "title": "US: Student visa issuances fell by -36% in summer 2025; OPT uncertainty among factors affecting international student demand",
       "source": "ICEF Monitor",
       "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/03/australia-doubles-post-study-work-visa-application-fee/",
-      "pubDate": "2026-03-04",
-      "summary": "Australia has doubled the non-refundable application fee for the Temporary Graduate Visa (Subclass 485) to AU$4,600, effective immediately. This visa permits eligible foreign graduates to work in Australia for 18 months to up to 3 years after completing their studies and serves as a pathway to permanent residency.",
-      "insight": "The fee hike for Australia’s post-study work visa may dampen perceived value for cost-sensitive students—particularly from price-responsive markets like India and Nigeria—though its impact on overall demand remains uncertain without concurrent shifts in graduate outcomes or alternative destination policies.  \nAdmissions teams should track application and enrolment trends among prospective Australian-bound students, especially those weighing post-study work as a key decision factor, while reviewing comparative messaging on career pathways across their global recruitment portfolio.",
-      "impact": "High",
+      "url": "https://monitor.icef.com/2026/03/us-student-visa-issuances-fell-by-36-in-summer-2025-opt-uncertainty-among-factors-affecting-international-student-demand/",
+      "pubDate": "2026-03-10",
+      "summary": "US student visa issuances fell by 36% in summer 2025, with uncertainty surrounding the Optional Practical Training (OPT) programme cited as a key factor affecting international student demand. The US government has renewed its focus on the OPT programme, and former Secretary of Homeland Security Kristi Noem, who was replaced on 5 March, had previously responded favourably to Senator Eric…",
+      "insight": "The 36% drop in US student visa issuances during summer 2025—linked partly to OPT uncertainty—suggests growing caution among international applicants, though it remains unclear whether this reflects temporary policy anxiety or a deeper, sustained shift in destination preferences across key source markets.  \nAdmissions teams should track real-time application and enrolment trends by region and programme level, while closely monitoring US regulatory developments around OPT, visa processing timelines, and comparative messaging from peer destinations to assess evolving competitive positioning.",
+      "impact": "Low",
       "sources": [],
       "dests": [
-        "Australia"
+        "USA"
       ],
       "translated": false,
       "origLang": null,
+      "relevanceScore": 9,
       "insightSource": "qwen"
     },
     {
       "id": 3,
-      "title": "UK rejects visa ban exemption for Chevening scholars",
+      "title": "US visa issuance fell by 36% last summer",
       "source": "The PIE News",
       "color": "#7b341e",
-      "url": "https://thepienews.com/uk-rejects-visa-ban-exemption-for-chevening-scholars/",
-      "pubDate": "2026-03-13",
-      "summary": "The UK Home Office has declined internal government requests to exempt Chevening scholars from new restrictions that suspend study visa issuance for applicants from certain countries. These restrictions apply even to individuals selected for the prestigious Chevening Scholarship programme, which is funded by the UK government.",
-      "insight": "This development signals potential reputational and operational challenges for UK universities, as tightening visa rules—even for flagship government-sponsored scholars—may amplify perceptions of reduced UK accessibility, possibly influencing student choice in competitive source markets, though direct demand impacts remain uncertain pending broader policy trends.  \nAdmissions teams should monitor application and enrolment data from affected countries, track sentiment shifts via agent feedback and social listening, and assess whether peer institutions in Australia, Canada, or the US are positioning themselves as more predictable alternatives for high-potential applicants previously considering Chevening pathways.",
-      "impact": "High",
+      "url": "https://thepienews.com/us-visa-issuance-fell-by-36-last-summer/",
+      "pubDate": "2026-03-11",
+      "summary": "New State Department data shows a 36% year-on-year decline in U.S. study visa issuance last summer. Stakeholders attribute this drop to policy volatility under the Trump administration.",
+      "insight": "The 36% drop in US study visa issuances last summer—linked to Trump-era policy volatility—may reflect heightened perceived risk among prospective students, though it’s unclear whether this signals sustained demand erosion or short-term administrative disruption amid broader geopolitical and economic factors.  \nAdmissions teams should track real-time application trends, visa processing timelines, and sentiment shifts in key source markets—noting that competitor nations may gain traction if US visa uncertainty persists, but avoiding premature strategic pivots without corroborating enrollment data.",
+      "impact": "Low",
       "sources": [],
+      "dests": [
+        "USA"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 9,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 4,
+      "title": "New Zealand expands post-study work opportunities for international students",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/03/new-zealand-expands-post-study-work-opportunities-for-international-students/",
+      "pubDate": "2026-03-12",
+      "summary": "New Zealand plans to introduce a new Short Term Graduate Work Visa and extend eligibility for the Post Study Work Visa, with implementation scheduled for late 2026. No specific launch date has been confirmed, and the government’s international education strategy emphasizes managed growth over the coming years.",
+      "insight": "New Zealand’s planned 2026 visa reforms signal a strategic effort to retain talent post-study, potentially strengthening its appeal—especially among students from Asia and the Pacific—though actual demand shifts depend on implementation details and concurrent policy changes elsewhere.  \nAdmissions teams should track New Zealand’s final visa criteria, timeline clarity, and comparative post-study work offerings in the UK, Australia, and Canada, while assessing how these developments influence student conversations and application patterns in key source markets over the next 12–18 months.",
+      "impact": "Low",
+      "sources": [],
+      "dests": [
+        "New Zealand"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 9,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 5,
+      "title": "DOS Rulemaking on Subpart C of the Exchange Visitor Regulations",
+      "source": "NAFSA",
+      "color": "#0e4d8c",
+      "url": "https://www.nafsa.org/regulatory-information/dos-rulemaking-subpart-c-exchange-visitor-regulations",
+      "pubDate": "2026-03-16",
+      "summary": "On March 10, 2026, the U.S. Department of State submitted a proposed rule titled “Exchange Visitor Rules: Records” to the Office of Management and Budget for regulatory review. The proposal would replace existing provisions at 22 CFR 62.43 (Extension of program) and 22 CFR 62.45 (Reinstatement to valid program status) to align the Exchange Visitor Regulations with the current functionality of the Student and Exchange Visitor Information System (SEVIS).",
+      "insight": "This regulatory update reflects ongoing U.S. efforts to modernize exchange visitor administration via SEVIS, potentially improving processing efficiency for J-1 visa holders—but its direct impact on broader international student demand or F-1 visa pathways remains unclear and likely minimal in the near term.  \nAdmissions teams should track whether these changes coincide with broader U.S. policy shifts affecting exchange programs, and consider reviewing institutional partnerships with J-1 sponsors to ensure alignment with evolving compliance expectations and student support needs.",
+      "impact": "Low",
+      "sources": [],
+      "dests": [
+        "USA"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 9,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 6,
+      "title": "SEVP Page - Beware of DHS Imposters: Protecting Foreign Students from Scams",
+      "source": "NAFSA",
+      "color": "#0e4d8c",
+      "url": "https://studyinthestates.dhs.gov/2026/02/beware-of-dhs-imposters-protecting-foreign-students-from-scams",
+      "pubDate": "2026-03-16",
+      "summary": "A February 19, 2026 SEVP resource titled “Beware of DHS Imposters: Protecting Foreign Students from Scams” warns international students about scammers impersonating U.S. Department of Homeland Security officials to solicit money or personal information. The guidance instructs Designated School Officials to remind students that government agencies do not demand payment by phone, to share scam-prevention information, and to direct affected students to report suspicious contacts and seek assistance from their schools.",
+      "insight": "This advisory signals growing risks of fraud targeting international students, potentially amplifying pre-enrolment anxiety in key source markets—though direct impacts on demand or visa policy remain unconfirmed, it may subtly erode trust in U.S. immigration processes among prospective applicants and their families.  \nAdmissions teams should monitor regional scam-reporting trends and student support queries for early signs of heightened concern, while reviewing orientation materials to reinforce official communication protocols and institutional safeguards against impersonation scams.",
+      "impact": "Low",
+      "sources": [],
+      "dests": [
+        "USA"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 9,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 7,
+      "title": "Webinar for Students Transitioning from F-1 to H-1B",
+      "source": "NAFSA",
+      "color": "#0e4d8c",
+      "url": "https://us02web.zoom.us/webinar/register/WN_n0hlqHoVRV6UMyY0AAgPEg#/registration",
+      "pubDate": "2026-03-16",
+      "summary": "The International Student Resource Center (ISRC) is partnering with Interstride to host a webinar titled “F-1 Student to H-1B Worker: Process and Planning in Turbulent Times” on February 12, 2026, at 1:00 PM ET. The webinar will feature a panel of immigration attorneys and international education professionals who will explain the F-1 to H-1B transition pathway and address recent immigration policy and regulatory changes affecting the process.",
+      "insight": "This webinar signals growing institutional concern about post-study work pathway uncertainty, potentially reflecting heightened anxiety among prospective international students—especially from high-application markets—regarding U.S. immigration volatility, though direct demand shifts remain unconfirmed without enrollment or application trend data.  \nAdmissions teams should track whether similar webinars emerge across peer institutions and monitor source-market social media sentiment around U.S. H-1B lottery outcomes and policy announcements, as these may foreshadow subtle shifts in destination preferences or counseling needs ahead of key application cycles.",
+      "impact": "Low",
+      "sources": [],
+      "dests": [
+        "USA"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 9,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 8,
+      "title": "Dozens of international students who won Chevening scholarships were denied visas",
+      "source": "VnExpress (Giáo dục)",
+      "color": "#b94500",
+      "url": "https://vnexpress.net/hang-chuc-du-hoc-sinh-gianh-hoc-bong-chevening-bi-tu-choi-visa-5050541.html",
+      "pubDate": "2026-03-16",
+      "summary": "The UK Home Office denied visa applications for dozens of international students who had been awarded Chevening scholarships from Afghanistan, Cameroon, Myanmar, and Sudan. This decision followed a prior ban on student visas for nationals from these countries.",
+      "insight": "This incident signals potential volatility in UK student visa policy for high-risk origin countries, which may indirectly influence global student demand as applicants reassess destination safety, fairness, and predictability—though direct spillover to other English-speaking nations remains unproven and context-dependent.  \nAdmissions teams should monitor visa refusal trends, government statements, and agent feedback from Afghanistan, Cameroon, Myanmar, and Sudan—noting shifts in application volumes or expressed concerns—while reviewing their own pre-application support and contingency messaging for affected cohorts.",
+      "impact": "Low",
+      "sources": [
+        "Southeast Asia",
+        "West Africa"
+      ],
+      "dests": [
+        "UK"
+      ],
+      "translated": true,
+      "origLang": "vi",
+      "relevanceScore": 9,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 9,
+      "title": "Canada and India deepen educational ties; India repositions as an equal player in international education",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/03/canada-and-india-deepen-educational-ties-india-repositions-as-an-equal-player-in-international-education/",
+      "pubDate": "2026-03-04",
+      "summary": "Canada and India are strengthening their educational ties, reflecting a broader shift in how India is perceived in international education. India’s status as the world’s fastest-growing economy last year, with a 7.5% expansion surpassing that of the US, China, Germany, and Japan, underscores its repositioning as an equal player—not merely an emerging economy—in global education and geopolitics.",
+      "insight": "This news signals growing Indian institutional confidence and potential shifts in student mobility patterns, though direct impacts on Western enrolments remain uncertain—India’s economic rise may bolster outbound demand but could also accelerate domestic higher education investment.  \nAdmissions teams should monitor India-specific scholarship expansions, bilateral credit-transfer agreements, and visa policy adjustments between Canada-India, while assessing whether Canadian partnerships catalyse increased Indian applications to other English-speaking destinations.",
+      "impact": "Low",
+      "sources": [
+        "China",
+        "India"
+      ],
+      "dests": [
+        "Canada"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 10,
+      "title": "British Council says student recruitment to UK higher education will get a boost this year from South Asia and the “Trump effect”",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/03/british-council-says-student-recruitment-to-uk-higher-education-will-get-a-boost-this-year-from-south-asia-and-the-trump-effect/",
+      "pubDate": "2026-03-12",
+      "summary": "The British Council’s latest “5 Trends to Watch” report forecasts that student recruitment to UK higher education will increase this year, driven by growing demand from South Asia and the so-called “Trump effect.” The report notes that demand for UK education will remain resilient despite heightened competition from intra-regional mobility in East Asia and a slowdown in student flows from China.",
+      "insight": "This news suggests potential upward pressure on UK student enrolments from South Asia and possible spillover demand from US policy shifts, though the “Trump effect” remains speculative and may reflect sentiment rather than measurable visa or policy changes affecting global student flows.  \nAdmissions teams should track real-time application data from India, Bangladesh, and Pakistan—and monitor US visa processing times and rhetoric around international education—to assess whether perceived instability is translating into tangible enrolment shifts across destination countries.",
+      "impact": "Low",
+      "sources": [
+        "China",
+        "South Asia"
+      ],
       "dests": [
         "UK"
       ],
       "translated": false,
       "origLang": null,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 4,
-      "title": "Harvard to Tackle Grade Inflation With Cap on A’s",
-      "source": "Inside Higher Ed",
-      "color": "#285e61",
-      "url": "https://www.insidehighered.com/news/faculty-issues/learning-assessment/2026/03/13/harvard-tackle-grade-inflation-cap",
-      "pubDate": "2026-03-13",
-      "summary": "Harvard University plans to implement a cap on the percentage of A grades awarded to undergraduate students in an effort to address grade inflation. The policy has sparked concern among students about its impact on GPAs and postgraduate opportunities, while faculty members largely support it as a long-overdue measure.",
-      "insight": "Harvard’s grade cap may subtly influence international student perceptions of U.S. academic rigor and credential value, though direct shifts in demand are uncertain given varied institutional practices and regional priorities in key markets like China, India, and Nigeria.  \nAdmissions teams should monitor whether peer institutions adopt similar policies and track any emerging sentiment shifts in agent feedback or application data—particularly around GPA-related concerns—but avoid premature curriculum or messaging changes without clearer evidence of impact.",
-      "impact": "High",
-      "sources": [],
-      "dests": [],
-      "translated": false,
-      "origLang": null,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 5,
-      "title": "What Canceling ‘Magic City Monday’ Conveys to College Women Who Work in Strip Clubs",
-      "source": "Inside Higher Ed",
-      "color": "#285e61",
-      "url": "https://www.insidehighered.com/opinion/columns/resident-scholar/2026/03/13/what-canceling-magic-city-monday-conveys-college-women",
-      "pubDate": "2026-03-13",
-      "summary": "The article discusses the cancellation of “Magic City Monday,” a promotional event at the Magic City strip club in Atlanta, and its implications for college women who work there. It argues that the cancellation reinforces the stigmatization of exotic dancers by conveying that their workplace is shameful.",
-      "insight": "This news indirectly signals potential shifts in how international students—especially from conservative or stigma-sensitive source markets—perceive the acceptability and safety of U.S. campus-adjacent employment, though concrete demand impacts remain unproven and likely marginal.  \nAdmissions teams may want to monitor student forums and agent feedback for emerging concerns about off-campus work stigma, particularly among undergraduates from regions where sex work carries strong cultural or legal taboos, and assess whether support services adequately address employment-related anxieties.",
-      "impact": "High",
-      "sources": [],
-      "dests": [],
-      "translated": false,
-      "origLang": null,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 6,
-      "title": "Oil, the crisis crushing Cuba and giving Trump new leverage",
-      "source": "El País (English)",
-      "color": "#1a5276",
-      "url": "https://english.elpais.com/international/2026-03-14/oil-the-crisis-crushing-cuba-and-giving-trump-new-leverage.html",
-      "pubDate": "2026-03-14",
-      "summary": "Fuel shortages are severely disrupting Cuba’s economy, causing widespread paralysis across key sectors. The United States is simultaneously offering incentives to support Cuba’s private sector, thereby increasing its diplomatic and economic leverage over the island.",
-      "insight": "Cuba’s fuel crisis may indirectly affect international student recruitment by straining household finances and travel logistics for Cuban students, potentially reducing short-term application volumes—though broader regional trends and US policy shifts remain more decisive drivers.  \nAdmissions teams should monitor US visa processing times for Cuban nationals, any new sanctions impacting remittances or flight availability, and whether Cuban private-sector partnerships (e.g., with universities) emerge as alternative support pathways for students.",
-      "impact": "High",
-      "sources": [],
-      "dests": [
-        "USA"
-      ],
-      "translated": false,
-      "origLang": null,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 7,
-      "title": "Philippines, the call‑center capital: Taking a deluge of calls for under $2 an hour",
-      "source": "El País (English)",
-      "color": "#1a5276",
-      "url": "https://english.elpais.com/economy-and-business/2026-03-14/philippines-the-callcenter-capital-taking-a-deluge-of-calls-for-under-2-an-hour.html",
-      "pubDate": "2026-03-14",
-      "summary": "The Philippines is a global leader in the customer service industry, particularly known for its large call-center sector. Western corporations employ young Filipino workers in this sector at wages under $2 per hour, which are significantly below the local cost of living.",
-      "insight": "This news may indirectly signal shifting economic perceptions in Southeast Asia, where rising awareness of low-wage service-sector roles could modestly influence student aspirations toward higher-value qualifications—though direct links to enrolment decisions remain uncertain and likely mediated by broader socioeconomic factors.  \nAdmissions teams should monitor local discourse around graduate employability and wage expectations in the Philippines and neighboring countries, while assessing whether career services partnerships with multinational employers can strengthen value propositions for students seeking upward mobility beyond entry-level outsourcing roles.",
-      "impact": "High",
-      "sources": [
-        "Southeast Asia"
-      ],
-      "dests": [],
-      "translated": false,
-      "origLang": null,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 8,
-      "title": "What can the left do against technocapitalism?",
-      "source": "El País (English)",
-      "color": "#1a5276",
-      "url": "https://english.elpais.com/technology/2026-03-15/what-can-the-left-do-against-technocapitalism.html",
-      "pubDate": "2026-03-15",
-      "summary": "The article argues that Silicon Valley oligarchs are manipulating public attention and contributing to the rise of populist authoritarianism, including figures like Donald Trump and far-right movements in Europe. It calls for progressive action to counter what it terms a “technological dictatorship” and reduce dependence on the United States.",
-      "insight": "This news may indirectly influence international student demand as concerns about U.S. tech dominance and political polarization could amplify existing anxieties among students from regions wary of American soft power or digital surveillance, though empirical evidence linking such discourse to enrollment decisions remains limited.  \nAdmissions teams should monitor source-market media narratives around U.S. technological influence and political stability, particularly in high-potential markets like India, Nigeria, and Brazil, while assessing whether partner institutions or governments begin referencing these themes in education policy or scholarship criteria.",
-      "impact": "High",
-      "sources": [],
-      "dests": [
-        "USA"
-      ],
-      "translated": false,
-      "origLang": null,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 9,
-      "title": "DOS Announces No Routine Visa Processing in Lebanon and Israel",
-      "source": "NAFSA",
-      "color": "#0e4d8c",
-      "url": "https://www.nafsa.org/regulatory-information/limited-visa-services-notices",
-      "pubDate": "2026-03-16",
-      "summary": "The U.S. Department of State announced that routine visa processing is not currently available at its consular posts in Beirut, Lebanon, and in Jerusalem and Tel Aviv, Israel. This suspension applies to standard nonimmigrant and immigrant visa services in those locations.",
-      "insight": "This suspension of routine U.S. visa processing in Lebanon and Israel may indirectly affect student demand from the broader MENA region, as it could heighten regional perceptions of U.S. visa accessibility—though actual impact on enrolment depends on applicant nationality, alternative consular options, and whether students pivot to other destinations.  \nAdmissions teams should monitor application volumes and visa appointment wait times for applicants from Lebanon and Israel specifically, while also reviewing outreach messaging to ensure clarity about visa pathways and potential delays—noting that many MENA students apply via third-country posts or remain unaffected by this localized suspension.",
-      "impact": "High",
-      "sources": [
-        "MENA"
-      ],
-      "dests": [],
-      "translated": false,
-      "origLang": null,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 10,
-      "title": "Indian Embassy official addresses CBSE school principals in Saudi Arabia after class 12 exam cancellation",
-      "source": "Times of India (Edu)",
-      "color": "#d4820a",
-      "url": "https://timesofindia.indiatimes.com/education/news/indian-embassy-official-addresses-cbse-school-principals-in-saudi-arabia-after-class-12-exam-cancellation/articleshow/129600318.cms",
-      "pubDate": "2026-03-16",
-      "summary": "Deputy Chief of Mission Abu Mathen George, accompanied by First Secretary Vipul Bawa, held a virtual meeting with principals of CBSE-affiliated schools across Saudi Arabia. During the session, the DCM briefed attendees on the current regional situation, the Indian Embassy’s initiatives supporting the Indian community, and addressed queries regarding the CBSE Board Examinations.",
-      "insight": "The cancellation of CBSE Class 12 exams in Saudi Arabia—coupled with embassy engagement on academic continuity—may signal heightened uncertainty for Indian and MENA-origin students planning overseas university entry, potentially influencing application timing, documentation readiness, or preference for institutions with flexible admissions policies.  \nAdmissions teams should monitor CBSE’s official grade-allocation methodology and Saudi-based schools’ internal assessment practices, as these will shape transcript credibility and eligibility verification—especially for intake cycles beginning late 2024 and early 2025.",
-      "impact": "High",
-      "sources": [
-        "India",
-        "MENA"
-      ],
-      "dests": [],
-      "translated": false,
-      "origLang": null,
+      "relevanceScore": 8,
       "insightSource": "qwen"
     }
   ]
