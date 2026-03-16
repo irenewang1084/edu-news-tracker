@@ -214,9 +214,9 @@ export default function App() {
 
                     {/* Insight */}
                     {item.insight && (
-                      <div style={{ background: "#f5f0e8", borderLeft: "3px solid #b8a98a", padding: "14px 16px", marginBottom: 16 }}>
-                        <div style={{ fontSize: 10, letterSpacing: 2, color: "#888", fontFamily: "'DM Sans',sans-serif", fontWeight: 600, marginBottom: 8 }}>RECRUITMENT INSIGHT</div>
-                        <p style={{ margin: 0, fontSize: 15, color: "#2d2d2d", lineHeight: 1.8, fontStyle: "italic", fontFamily: "'Libre Baskerville',Georgia,serif" }}>{item.insight}</p>
+                      <div style={{ background: "#f5f0e8", borderLeft: "3px solid #c9a84c", padding: "14px 16px", marginBottom: 16 }}>
+                        <div style={{ fontSize: 10, letterSpacing: 2, color: "#c9a84c", fontFamily: "'DM Sans',sans-serif", fontWeight: 600, marginBottom: 8 }}>RECRUITMENT INSIGHT</div>
+                        <p style={{ margin: 0, fontSize: 15, color: "#2d2d2d", lineHeight: 1.85, fontStyle: "italic", fontFamily: "'Libre Baskerville',Georgia,serif" }}>{item.insight}</p>
                       </div>
                     )}
 
