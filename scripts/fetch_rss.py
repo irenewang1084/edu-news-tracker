@@ -42,7 +42,9 @@ FEEDS = [
     {"name": "VnExpress (EN)",        "url": "https://e.vnexpress.net/rss/news.rss",                                    "color": "#d35400", "lang": "en"},
     {"name": "VnExpress (Giáo dục)",  "url": "https://vnexpress.net/rss/giao-duc.rss",                                 "color": "#b94500", "lang": "vi"},
     # ── West Africa / Global ──────────────────────────────────────────────────
-    # ── Latin America ─────────────────────────────────────────────────────────
+    # ── MENA ──────────────────────────────────────────────────────────────────
+    # Al-Fanar Media: only independent English/Arabic HE publication covering Arab world
+    {"name": "Al-Fanar Media",        "url": "https://al-fanarmedia.org/feed/",                                         "color": "#0e6655", "lang": "en"},
     {"name": "El País (English)",     "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/english.elpais.com/portada", "color": "#1a5276", "lang": "en"},
     {"name": "Folha de S.Paulo",      "url": "https://feeds.folha.uol.com.br/educacao/rss091.xml",                     "color": "#154360", "lang": "pt"},
 ]
@@ -332,7 +334,7 @@ def fetch_feed(feed):
         # Summary / description
         raw_summary = strip_html(
             _text(item, "description", "content:encoded", "atom:summary", "atom:content", "dc:description")
-        )[:500]
+        )[:800]
 
         # Date
         pub = parse_date(_text(item, "pubDate", "dc:date", "atom:published", "atom:updated"))
