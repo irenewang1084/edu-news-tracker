@@ -167,6 +167,7 @@ EDU_KW = [
     "international student", "study abroad", "foreign student", "student visa",
     "enrolment", "enrollment", "higher education", "university", "college",
     "tuition", "scholarship", "overseas student", "postgraduate", "undergraduate",
+    "academic", "faculty", "research funding", "degree", "campus",
     "留学", "签证", "大学", "奖学金", "du học", "estudiante internacional",
 ]
 HIGH_KW = ["ban", "suspend", "restrict", "halt", "block", "cancel", "cap", "surge",
@@ -309,10 +310,13 @@ def _text(el, *tags):
     return ""
 
 def _clean_xml(raw_bytes):
-    """Strip invalid XML characters that cause parse errors (e.g. Al-Fanar, some Asian feeds)."""
+    """Strip characters that cause XML parse errors — invalid control chars,
+    raw ampersands not part of entities, and non-XML-safe Unicode sequences."""
     text = raw_bytes.decode("utf-8", errors="replace")
-    # Remove control characters except tab, newline, carriage return
+    # Remove control characters except tab (9), newline (10), carriage return (13)
     text = re.sub(r'[\x00-\x08\x0b\x0c\x0e-\x1f\x7f]', '', text)
+    # Escape bare ampersands not already part of an entity (e.g. &amp; &#123; &lt;)
+    text = re.sub(r'&(?!(?:[a-zA-Z][a-zA-Z0-9]*|#[0-9]+|#x[0-9a-fA-F]+);)', '&amp;', text)
     return text.encode("utf-8")
 
 def fetch_feed(feed):
@@ -458,6 +462,14 @@ def qwen_select_top(articles, api_key, prev_urls, top_n=10):
 
     print(f"  🤖 Qwen scoring {len(articles)} articles for recruitment relevance…")
 
+    # Pre-filter: articles with no source region AND no destination tag are very unlikely
+    # to be relevant — exclude them before sending to Qwen to reduce noise
+    pre_filtered = [a for a in articles if a.get("sources") or a.get("dests")]
+    excluded_pre = len(articles) - len(pre_filtered)
+    if excluded_pre:
+        print(f"  🚫 Pre-filtered {excluded_pre} articles with no region/destination tags")
+    articles = pre_filtered
+
     # Build numbered list — titles only to keep prompt short and avoid truncation
     lines = []
     for i, a in enumerate(articles, 1):
@@ -474,12 +486,12 @@ def qwen_select_top(articles, api_key, prev_urls, top_n=10):
         "or destination country policy shifts (USA, UK, Canada, Australia, NZ).\n"
         "- Score 5–7: Indirectly relevant — higher education trends that may influence "
         "international student demand or perception of destination countries.\n"
-        "- Score 1–4: NOT relevant — domestic-only education news, local school issues, "
-        "individual student incidents, campus crime, sports, cultural events, "
-        "or anything that affects only domestic (non-international) students.\n\n"
-        "IMPORTANT: A story about a local incident, a domestic student, or a single university's "
-        "internal affairs scores 1–3. Only score 6+ if international students or cross-border "
-        "student flows are explicitly or very directly implicated.\n\n"
+        "- Score 1–4: NOT relevant — domestic-only education news, single-university internal "
+        "affairs, local student incidents, campus lifestyle, sports, cultural events, "
+        "anything that does not affect cross-border student flows.\n\n"
+        "STRICT RULE: If the article does not explicitly mention international students, "
+        "foreign students, student visas, or a named source/destination country in the context "
+        "of student mobility, score it 4 or below.\n\n"
         f"{article_list}\n\n"
         "Reply with ONLY a JSON array, one object per article, no markdown, no explanation:\n"
         '[{"i":1,"score":8},{"i":2,"score":3}, ...]'
