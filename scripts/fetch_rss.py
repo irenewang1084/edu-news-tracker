@@ -138,6 +138,11 @@ SOURCE_KW = {
     "Latin America":  ["latin america", "brazil", "brazilian", "mexico", "mexican", "colombia",
                        "venezuela", "argentina", "chile", "brasil", "latinoamérica",
                        "estudiante internacional", "estudante"],
+    "MENA":           ["middle east", "north africa", "saudi arabia", "saudi", "uae",
+                       "united arab emirates", "egypt", "egyptian", "jordan", "jordanian",
+                       "iran", "iranian", "iraq", "iraqi", "kuwait", "qatar", "bahrain",
+                       "oman", "lebanon", "lebanese", "morocco", "moroccan", "tunisia",
+                       "algeria", "algerian", "libya", "mena", "gulf"],
 }
 DEST_KW = {
     "USA":         ["united states", " u.s.", "american universit", "sevis", "f-1",
@@ -506,11 +511,14 @@ def qwen_generate_insights(articles, api_key):
             f"Summary: {a['summary']}\n"
             f"Student origin regions: {src}\n\n"
             "You are a strategic advisor to international student recruitment teams at universities "
-            "in the USA, UK, Australia, and New Zealand. Analyse how this news affects their "
-            "ability to recruit international students. Write exactly 2 sentences, 25–35 words each: "
-            "sentence 1 states the specific recruitment impact (applicant volume, visa risk, compliance, or competitor moves); "
-            "sentence 2 gives one concrete action for admissions teams. "
-            "Name specific countries or visa types. Do NOT start with 'This article'. Plain text only."
+            "in the USA, UK, Australia, and New Zealand. Analyse how this news may be relevant to "
+            "international student recruitment — consider whether it signals changes in student demand, "
+            "visa conditions, source market sentiment, or competitive dynamics. "
+            "Write exactly 2 sentences, 25–35 words each: "
+            "sentence 1 explains what this news means for the international student recruitment landscape "
+            "(be measured — acknowledge uncertainty where the link is indirect); "
+            "sentence 2 suggests what admissions teams may want to monitor or consider, without overstating urgency. "
+            "Do NOT start with 'This article'. Plain text only."
         )
         try:
             text = qwen_call(api_key, prompt, max_tokens=150, temperature=0.4)
