@@ -171,49 +171,45 @@ export default function App() {
                 <span style={{ color: "#c9a84c", cursor: "pointer" }} onClick={() => setFSrc("All")}>Clear filters</span>
               </div>
             ) : (
-              <div style={{ display: "grid", gridTemplateColumns: "repeat(3, 1fr)", gap: "0 32px", borderTop: "2px solid #0f0f23" }}>
+              <div style={{ display: "flex", flexDirection: "column" }}>
                 {shown.map((item, idx) => (
                   <article key={item.id || item.url} style={{
-                    padding: "20px 0 24px",
-                    borderTop: idx < 3 ? "none" : "1px solid #d6d1c8",
-                    borderRight: (idx % 3 !== 2) ? "1px solid #d6d1c8" : "none",
-                    paddingRight: (idx % 3 !== 2) ? 32 : 0,
-                    paddingLeft: (idx % 3 !== 0) ? 0 : 0,
+                    borderTop: idx === 0 ? "2px solid #0f0f23" : "1px solid #d6d1c8",
+                    padding: "22px 0 24px",
                   }}>
                     {/* Source · Date */}
                     <div style={{ fontSize: 11, fontFamily: "'DM Sans',sans-serif", color: "#888", letterSpacing: 0.5, marginBottom: 8 }}>
                       <span style={{ fontWeight: 600, color: item.color || "#555" }}>{item.source}</span>
-                      {" · "}
-                      {fmtDate(item.pubDate)}
+                      {" · "}{fmtDate(item.pubDate)}
                     </div>
 
                     {/* Tags */}
-                    <div style={{ display: "flex", flexWrap: "wrap", gap: 4, marginBottom: 10 }}>
+                    <div style={{ display: "flex", flexWrap: "wrap", gap: 4, marginBottom: 12 }}>
                       {(item.sources || []).map(s => (
-                        <span key={s} style={{ padding: "1px 7px", border: `1px solid #aaa`, color: "#444", borderRadius: 2, fontSize: 11, fontFamily: "'DM Sans',sans-serif" }}>{s}</span>
+                        <span key={s} style={{ padding: "1px 8px", border: "1px solid #bbb", color: "#555", borderRadius: 2, fontSize: 11, fontFamily: "'DM Sans',sans-serif" }}>{s}</span>
                       ))}
                       {(item.dests || []).map(d => (
-                        <span key={d} style={{ padding: "1px 7px", border: `1px solid #aaa`, color: "#444", borderRadius: 2, fontSize: 11, fontFamily: "'DM Sans',sans-serif" }}>→ {d}</span>
+                        <span key={d} style={{ padding: "1px 8px", border: "1px solid #bbb", color: "#555", borderRadius: 2, fontSize: 11, fontFamily: "'DM Sans',sans-serif" }}>→ {d}</span>
                       ))}
                     </div>
 
                     {/* Headline */}
-                    <h2 style={{ margin: "0 0 12px", fontSize: 17, fontWeight: 700, lineHeight: 1.35, color: "#0f0f23", fontFamily: "'Libre Baskerville',Georgia,serif" }}>
+                    <h2 style={{ margin: "0 0 12px", fontSize: 20, fontWeight: 700, lineHeight: 1.35, color: "#0f0f23", fontFamily: "'Libre Baskerville',Georgia,serif" }}>
                       {item.title}
                     </h2>
 
                     {/* Summary */}
                     {item.summary && (
-                      <p style={{ margin: "0 0 14px", fontSize: 14, lineHeight: 1.8, color: "#333", fontFamily: "'Libre Baskerville',Georgia,serif" }}>
+                      <p style={{ margin: "0 0 14px", fontSize: 14.5, lineHeight: 1.85, color: "#333", fontFamily: "'Libre Baskerville',Georgia,serif" }}>
                         {item.summary}{item.summary.length >= 399 ? "…" : ""}
                       </p>
                     )}
 
                     {/* Insight */}
                     {item.insight && (
-                      <div style={{ background: "#f5f0e8", borderLeft: "3px solid #c9a84c", padding: "12px 14px", marginBottom: 14 }}>
-                        <div style={{ fontSize: 10, letterSpacing: 2, color: "#c9a84c", fontFamily: "'DM Sans',sans-serif", fontWeight: 600, marginBottom: 7 }}>RECRUITMENT INSIGHT</div>
-                        <p style={{ margin: 0, fontSize: 14, color: "#2d2d2d", lineHeight: 1.8, fontStyle: "italic", fontFamily: "'Libre Baskerville',Georgia,serif" }}>{item.insight}</p>
+                      <div style={{ background: "#f5f0e8", borderLeft: "3px solid #c9a84c", padding: "11px 14px", marginBottom: 14 }}>
+                        <div style={{ fontSize: 9, letterSpacing: 2, color: "#c9a84c", fontFamily: "'DM Sans',sans-serif", fontWeight: 600, marginBottom: 6 }}>RECRUITMENT INSIGHT</div>
+                        <p style={{ margin: 0, fontSize: 13, color: "#2d2d2d", lineHeight: 1.75, fontStyle: "italic", fontFamily: "'Libre Baskerville',Georgia,serif" }}>{item.insight}</p>
                       </div>
                     )}
 
@@ -233,6 +229,7 @@ export default function App() {
                     </div>
                   </article>
                 ))}
+                <div style={{ borderTop: "2px solid #0f0f23" }} />
               </div>
             )}
 
