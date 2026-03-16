@@ -1,7 +1,7 @@
 {
-  "updated": "2026-03-16T08:04:46Z",
+  "updated": "2026-03-16T08:18:00Z",
   "count": 10,
-  "totalFetched": 168,
+  "totalFetched": 176,
   "articles": [
     {
       "id": 1,
@@ -11,7 +11,7 @@
       "url": "https://monitor.icef.com/2026/03/inbound-outbound-and-transnational-the-landscape-for-international-education-in-china-continues-to-evolve/",
       "pubDate": "2026-03-04",
       "summary": "China is broadening its approach to international education and talent attraction. The Chinese government continues to support the recruitment of international students, especially through targeted scholarships. At the same time, it is aware of public concern about the perceived special treatment of those students amidst a competitive job market and high unemployment. As a result,… The post Inbound, outbound, and transnational: the landscape for international education in China continues to evol",
-      "insight": "Applicant volume from China to the USA, UK, Australia, and New Zealand may decline as Beijing intensifies scholarship incentives for inbound study and promotes domestic alternatives amid rising youth unemployment and scrutiny of overseas degrees’ ROI.  \nAdmissions teams should immediately expand targeted outreach to Chinese students applying for US F-1, UK Student Route, Australian Subclass 500, and New Zealand Student Visa pathways—highlighting post-study work rights, alumni employment outcomes, and cost-of-living scholarships.",
+      "insight": "China’s intensified focus on inbound international students—coupled with domestic concerns over equity and employment—may modestly dampen outbound student mobility, though current data doesn’t yet confirm a broad shift in enrolment intentions. Competitive pressures in China’s job market could make overseas degrees seem less uniquely advantageous, potentially affecting application volumes to Western institutions over the medium term.  \n\nAdmissions teams should track Chinese provincial scholarship announcements, graduate unemployment trends, and policy shifts around work-integrated learning for international students in China—as these may indirectly influence perceptions of overseas study value and timing.",
       "impact": "High",
       "sources": [
         "China"
@@ -29,7 +29,7 @@
       "url": "https://monitor.icef.com/2026/03/australia-doubles-post-study-work-visa-application-fee/",
       "pubDate": "2026-03-04",
       "summary": "The Temporary Graduate Visa (Subclass 485) visa allows eligible foreign graduates to work in Australia from 18 months to up to 3 years once they complete their studies, and it can be a pathway towards permanent residency. Effective immediately, the non-refundable application fee for this visa is AU$4,600 (US$3,000), up from the AU$2,300 fee that… The post Australia doubles post-study work visa application fee appeared first on ICEF Monitor - Market intelligence for international student recruitm",
-      "insight": "Applicant volume for Australian universities will likely decline, especially among cost-sensitive students from India, Nigeria, and Bangladesh applying for the Subclass 485 visa, as the doubled AU$4,600 fee raises total study-cost barriers relative to UK (Graduate Visa) and Canadian (PGWP) alternatives.  \nAdmissions teams must immediately update cost-of-education calculators and financial aid briefings to reflect the new Subclass 485 fee—and proactively compare net post-study ROI against the UK’s £822 Graduate Visa and Canada’s CAD$235 PGWP.",
+      "insight": "Australia’s doubling of the Subclass 485 visa fee signals potential downward pressure on post-study work appeal—particularly for cost-sensitive students from South Asia and Southeast Asia—though actual enrolment impact remains uncertain pending broader economic and policy trends.  \nAdmissions teams should track application volume and conversion rates from Australia-bound prospects, while reviewing comparative value propositions against UK, Canada, and NZ pathways—especially messaging around return on investment and alternative work-integrated study options.",
       "impact": "High",
       "sources": [],
       "dests": [
@@ -47,7 +47,7 @@
       "url": "https://www.highereddive.com/news/gsa-plan-would-ban-dei-for-all-federal-funding-recipients-including-schoo/814353/",
       "pubDate": "2026-03-11",
       "summary": "The General Services Administration proposal comes after a similar policy from the U.S. Department of Education was blocked in courts.",
-      "insight": "Applicant volume may decline as prospective international students from India, Nigeria, and Vietnam perceive U.S. universities as less inclusive or riskier for F-1 visa approval due to perceived DEI restrictions affecting campus climate and support services.  \nAdmissions teams should proactively highlight existing, legally compliant DEI initiatives—such as UCL’s Race Equality Charter or Australia’s PR visa pathway for STEM graduates—to reassure applicants from these countries about institutional commitment and post-study opportunities.",
+      "insight": "This GSA proposal—though currently unenforced and legally contested—may indirectly affect international student recruitment by amplifying perceptions of U.S. higher education as increasingly politicized or less inclusive, potentially influencing source market sentiment, especially among students from regions prioritizing diversity and equity in institutional values.  \nAdmissions teams should monitor legal developments closely, track regional survey data on brand perception shifts, and assess whether peer institutions are adjusting messaging around inclusion—while avoiding premature policy changes given the proposal’s uncertain trajectory and limited direct impact on visa eligibility or funding for most international students.",
       "impact": "High",
       "sources": [],
       "dests": [
@@ -65,7 +65,7 @@
       "url": "https://thepienews.com/uk-rejects-visa-ban-exemption-for-chevening-scholars/",
       "pubDate": "2026-03-13",
       "summary": "The UK Home Office has rejected calls from within government to exempt “exceptional” Chevening scholars from new rules halting study visa issuance for certain countries. The post UK rejects visa ban exemption for Chevening scholars appeared first on The PIE News .",
-      "insight": "UK universities face heightened visa refusal risks for Chevening applicants from high-risk countries like Nigeria, Pakistan, and Bangladesh under the new Student Route restrictions, directly reducing enrolment yield from these priority recruitment markets.  \nAdmissions teams must immediately flag Chevening applicants from those countries in CRM systems and assign dedicated visa advisors to co-ordinate with Chevening Secretariat and UKVI for pre-submission document checks and expedited casework.",
+      "insight": "This development signals potential reputational and operational challenges for UK universities, as tightening visa rules for high-potential Chevening scholars—often future academic and professional leaders—may dampen perceptions of the UK as a welcoming destination, though broader demand impacts remain uncertain pending data on application trends.  \nAdmissions teams should monitor shifts in inquiry volumes and application rates from affected countries, particularly among high-achieving candidates, while reviewing messaging around visa support and post-study opportunities to proactively address emerging concerns.",
       "impact": "High",
       "sources": [],
       "dests": [
@@ -83,7 +83,7 @@
       "url": "https://www.insidehighered.com/news/faculty-issues/learning-assessment/2026/03/13/harvard-tackle-grade-inflation-cap",
       "pubDate": "2026-03-13",
       "summary": "Harvard to Tackle Grade Inflation With Cap on A’s Emma Whitford Fri, 03/13/2026 - 03:00 AM Students are worried about what a cap on top grades will mean for their GPAs and postcollege prospects. Faculty largely view the cap as long overdue. Byline(s) Emma Whitford",
-      "insight": "Applicant volume from high-achieving international students—especially from India (F-1 visa), China (F-1), and Nigeria (F-1)—may decline as grade caps weaken GPA competitiveness for US graduate school and scholarship applications.  \nAdmissions teams should proactively host virtual info sessions for agents and students in these countries, highlighting alternative academic differentiators like research portfolios and standardized test scores to offset perceived GPA disadvantages.",
+      "insight": "Harvard’s grade cap may subtly influence international student perceptions of U.S. academic rigor and credential value, though direct demand shifts are uncertain given limited evidence linking grading policy to enrollment decisions across diverse source markets.  \nAdmissions teams should monitor whether peer institutions adopt similar policies and track any emerging sentiment shifts in key markets—especially among high-achieving applicants from East Asia and India—through agent feedback and application data trends.",
       "impact": "High",
       "sources": [],
       "dests": [],
@@ -99,7 +99,7 @@
       "url": "https://www.insidehighered.com/opinion/columns/resident-scholar/2026/03/13/what-canceling-magic-city-monday-conveys-college-women",
       "pubDate": "2026-03-13",
       "summary": "What Canceling ‘Magic City Monday’ Conveys to College Women Who Work in Strip Clubs Sara Brady Fri, 03/13/2026 - 03:00 AM It reinforces a long-standing message to exotic dancers: You work in a shameful place. Byline(s) Shaun Harper",
-      "insight": "Applicant volume may decline among international students from Nigeria, India, and the Philippines—countries with high numbers of F-1 and Student Visa applicants—who perceive U.S. campus policies like canceling “Magic City Monday” as stigmatizing low-income or marginalized student identities, including those working in informal sectors to fund studies.  \nAdmissions teams should proactively host virtual town halls with current international students in non-traditional employment (e.g., dancers, ride-share drivers) and explicitly affirm institutional support for visa-compliant work—citing USCIS OPT rules and UK’s Student Route work allowances—to counter stigma and rebuild trust.",
+      "insight": "This news may indirectly signal shifting perceptions of campus culture and student support systems among prospective international students, particularly those from regions where stigma around sex work intersects with financial precarity—though direct impacts on enrollment demand remain unproven and highly contextual.  \nAdmissions teams should monitor student-led advocacy trends and campus climate surveys for early signs of reputational sensitivity around labor equity, while reviewing support services for financially vulnerable students—including undocumented or visa-restricted international learners—without assuming immediate policy implications.",
       "impact": "High",
       "sources": [],
       "dests": [],
@@ -109,13 +109,31 @@
     },
     {
       "id": 7,
+      "title": "ITA students create a game project in which a kidnapped young woman has to escape the island and mention Epstein",
+      "source": "Folha de S.Paulo",
+      "color": "#154360",
+      "url": "https://redir.folha.com.br/redir/online/educacao/rss091/*https://www1.folha.uol.com.br/educacao/2026/03/alunos-do-ita-fazem-projeto-de-jogo-em-que-jovem-sequestrada-tem-de-fugir-de-ilha-e-citam-epstein.shtml",
+      "pubDate": "2026-03-13",
+      "summary": "Students from the computer engineering course at the Technological Institute of Aeronautics (ITA) presented, in class, a project for a game in which the main character would be a kidnapped teenager trying to escape from men on an island. Read more (03/13/2026 - 4:23 pm)",
+      "insight": "This incident—though isolated and context-specific—may subtly influence perceptions of academic freedom and campus climate among prospective MENA students, particularly if amplified by regional media or advocacy groups, though direct impact on enrollment decisions remains uncertain.  \nAdmissions teams should monitor social media sentiment and student-led discussions in key MENA markets for emerging concerns about institutional values or creative expression, while reinforcing transparent communication about academic integrity policies and support structures.",
+      "impact": "High",
+      "sources": [
+        "MENA"
+      ],
+      "dests": [],
+      "translated": true,
+      "origLang": "pt",
+      "insightSource": "qwen"
+    },
+    {
+      "id": 8,
       "title": "Oil, the crisis crushing Cuba and giving Trump new leverage",
       "source": "El País (English)",
       "color": "#1a5276",
       "url": "https://english.elpais.com/international/2026-03-14/oil-the-crisis-crushing-cuba-and-giving-trump-new-leverage.html",
       "pubDate": "2026-03-14",
       "summary": "Fuel shortages are paralyzing the economy, while the United States is incentivizing the island’s private sector",
-      "insight": "Cuban student applicant volume will likely decline sharply due to fuel shortages disrupting education access, visa processing at the U.S. Embassy in Havana, and heightened financial hardship—especially for F-1 and UK Student Route applicants needing in-person biometrics or travel to third countries.  \nAdmissions teams should proactively waive Cuban applicants’ application fees, extend deadlines, and partner with NGOs like Cuba Educational Travel to verify academic documents remotely for F-1, UK Student Route, and Australian Subclass 500 applications.",
+      "insight": "Cuba’s fuel crisis may indirectly affect international student demand, as economic strain could reduce families’ capacity to fund overseas study—though direct enrollment impacts remain uncertain given Cuba’s relatively small contribution to global student flows.  \nAdmissions teams should monitor Cuban government policy shifts on foreign currency access and educational emigration, while reviewing regional outreach strategies in case of increased interest from Cuban students seeking stability amid domestic hardship.",
       "impact": "High",
       "sources": [],
       "dests": [
@@ -126,14 +144,14 @@
       "insightSource": "qwen"
     },
     {
-      "id": 8,
+      "id": 9,
       "title": "Philippines, the call‑center capital: Taking a deluge of calls for under $2 an hour",
       "source": "El País (English)",
       "color": "#1a5276",
       "url": "https://english.elpais.com/economy-and-business/2026-03-14/philippines-the-callcenter-capital-taking-a-deluge-of-calls-for-under-2-an-hour.html",
       "pubDate": "2026-03-14",
       "summary": "The Asian country is a global leader in customer services, with Western corporations employing young people at salaries well below the cost of living",
-      "insight": "Applicant volume from the Philippines may decline as rising call-center wages and local job growth reduce financial motivation to pursue overseas degrees, particularly among vocational and business undergraduates targeting immediate employment.  \nAdmissions teams should partner with Philippine universities offering BPO-adjacent programs (e.g., De La Salle–College of Saint Benilde) to co-develop articulation pathways for students on U.S. F-1, UK Student Route, Australian Subclass 500, and New Zealand Student Visa applicants.",
+      "insight": "This news highlights growing economic pressures in key Southeast Asian source markets, potentially influencing students’ cost-benefit calculations around overseas study—though direct impact on enrolment demand remains uncertain without data on household income trends or scholarship uptake.  \nAdmissions teams should monitor local wage growth, remittance patterns, and government policies supporting overseas education, as well as track shifts in agent partnerships and student inquiries from the Philippines and neighbouring countries for early signals of changing affordability perceptions.",
       "impact": "High",
       "sources": [
         "Southeast Asia"
@@ -144,37 +162,19 @@
       "insightSource": "qwen"
     },
     {
-      "id": 9,
+      "id": 10,
       "title": "What can the left do against technocapitalism?",
       "source": "El País (English)",
       "color": "#1a5276",
       "url": "https://english.elpais.com/technology/2026-03-15/what-can-the-left-do-against-technocapitalism.html",
       "pubDate": "2026-03-15",
       "summary": "Silicon Valley oligarchs are manipulating our attention and paving the way for the populist authoritarianism of Trump and the European far right. What can progressives do to stop this technological dictatorship and overcome dependence on the United States?",
-      "insight": "Applicant volume may decline from EU and Indian students due to heightened concerns over U.S. visa restrictions (e.g., H-1B lottery uncertainty) and perceived political instability linked to tech-driven polarization, amplifying fears of discrimination or reduced post-study work prospects.  \nAdmissions teams should proactively co-host virtual town halls with immigration lawyers to clarify UK Graduate Visa, Australian Subclass 485, and New Zealand Post-Study Work Visa pathways—emphasizing stability, rights, and tech-ethics curriculum differentiators.",
+      "insight": "This news reflects growing global scrutiny of U.S. tech power and its political spillovers, which may subtly influence international students’ perceptions of study destinations—particularly regarding digital rights, academic freedom, and geopolitical stability—though direct impacts on enrolment decisions remain uncertain and highly context-dependent.  \nAdmissions teams should monitor source-market media narratives around tech ethics and U.S. soft power, track student survey data on values-driven destination preferences, and assess how partner institutions frame critical digital literacy in curricula—without assuming immediate policy or demand shifts.",
       "impact": "High",
       "sources": [],
       "dests": [
         "USA"
       ],
-      "translated": false,
-      "origLang": null,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 10,
-      "title": "Indian Embassy official addresses CBSE school principals in Saudi Arabia after class 12 exam cancellation",
-      "source": "Times of India (Edu)",
-      "color": "#d4820a",
-      "url": "https://timesofindia.indiatimes.com/education/news/indian-embassy-official-addresses-cbse-school-principals-in-saudi-arabia-after-class-12-exam-cancellation/articleshow/129600318.cms",
-      "pubDate": "2026-03-16",
-      "summary": "In a post on X, he said, \"DCM Abu Mathen George, joined by First Secretary Vipul Bawa, held a virtual interaction with Principals of CBSE-affiliated schools across Saudi Arabia. The DCM briefed them on current regional situation and the Embassy's initiatives to support Indian community, and also addressed queries related to the CBSE Board Examinations.\"",
-      "insight": "Applicant volume from Saudi Arabia may dip for 2024–25 intake as CBSE Class 12 cancellations delay final transcripts and IELTS/TOEFL timing, increasing uncertainty for U.S. F-1, UK Student Visa, and Australian Subclass 500 applicants.  \nAdmissions teams should proactively issue conditional offers to affected CBSE students in Saudi Arabia and accept provisional academic documents—such as school-issued grade summaries or predicted scores—validating them via direct verification with CBSE-affiliated schools and the Indian Embassy in Riyadh.",
-      "impact": "High",
-      "sources": [
-        "India"
-      ],
-      "dests": [],
       "translated": false,
       "origLang": null,
       "insightSource": "qwen"
