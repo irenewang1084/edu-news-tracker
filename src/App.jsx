@@ -83,7 +83,7 @@ export default function App() {
 
   const shown = articles
     .filter(a => fSrc === "All" || (a.sources || []).includes(fSrc))
-    .sort((a, b) => (a.relevanceScore || 0) > (b.relevanceScore || 0) ? -1 : 1);
+    .sort((a, b) => (a.pubDate > b.pubDate ? -1 : 1));
 
   const dateRange = (() => {
     const dates = articles.map(a => a.pubDate).filter(Boolean).sort();
@@ -95,33 +95,19 @@ export default function App() {
     <div style={{ fontFamily: "'Libre Baskerville',Georgia,serif", minHeight: "100vh", background: "#F4F1EB" }}>
       <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=DM+Sans:wght@400;500;600&display=swap" rel="stylesheet" />
 
-      {/* HEADER */}
-      <header style={{ background: "#0f0f23", color: "#f0ede6", padding: "24px 20px 20px", borderBottom: "3px solid #c9a84c" }}>
-        <div style={{ maxWidth: 900, margin: "0 auto", display: "flex", justifyContent: "space-between", alignItems: "flex-start", flexWrap: "wrap", gap: 14 }}>
-          <div>
-            <div style={{ fontSize: 10, letterSpacing: 4, color: "#c9a84c", fontFamily: "'DM Sans',sans-serif", fontStyle: "italic", marginBottom: 5 }}>
-              INTERNATIONAL EDUCATION INTELLIGENCE DAILY
-            </div>
-            <h1 style={{ margin: 0, fontSize: 24, fontWeight: 700, lineHeight: 1.25 }}>
-              Global Study Abroad News Tracker
-            </h1>
-            <div style={{ marginTop: 6, fontSize: 13, color: "#8a90a8", fontFamily: "'DM Sans',sans-serif", lineHeight: 1.7, maxWidth: 540 }}>
-              Daily briefing for university international admissions teams — AI-curated from 15+ sources across 6 student origin regions, updated every morning.
-            </div>
-          </div>
-          {/* Top-right: article date range */}
-          <div style={{ textAlign: "right", fontFamily: "'DM Sans',sans-serif" }}>
-            {dateRange && (
-              <div style={{ background: "#c9a84c22", border: "1px solid #c9a84c55", borderRadius: 5, padding: "8px 13px", marginBottom: 6 }}>
-                <div style={{ fontSize: 9, color: "#c9a84c", letterSpacing: 1.5, marginBottom: 3 }}>ARTICLES DATED</div>
-                <div style={{ fontSize: 13, color: "#f0ede6", fontWeight: 600 }}>{dateRange}</div>
-              </div>
-            )}
-            {updated && (
-              <div style={{ fontSize: 11, color: "#555a70" }}>
-                🔄 Auto-updated: {fmtUpdated(updated)}
-              </div>
-            )}
+      {/* MASTHEAD */}
+      <header style={{ background: "#F4F1EB", padding: "20px 20px 0", borderBottom: "3px double #0f0f23" }}>
+        <div style={{ maxWidth: 900, margin: "0 auto" }}>
+          <h1 style={{ margin: "0 0 8px", fontSize: 52, fontWeight: 700, lineHeight: 1.05, color: "#0f0f23", letterSpacing: -1, fontFamily: "'Libre Baskerville',Georgia,serif" }}>
+            Global Study Abroad Intelligence
+          </h1>
+          <div style={{ borderTop: "1px solid #0f0f23", borderBottom: "1px solid #0f0f23", padding: "5px 0", margin: "0 0 0", display: "flex", justifyContent: "space-between", alignItems: "center", flexWrap: "wrap", gap: 6 }}>
+            <span style={{ fontSize: 12, fontFamily: "'DM Sans',sans-serif", color: "#444" }}>International Education Intelligence Daily</span>
+            <span style={{ fontSize: 12, fontFamily: "'DM Sans',sans-serif", color: "#444" }}>AI-curated from 15+ sources · 6 student origin regions</span>
+            <span style={{ fontSize: 12, fontFamily: "'DM Sans',sans-serif", color: "#444" }}>
+              Auto-updated daily
+              {updated && ` · ${new Date(updated).toLocaleDateString("en-GB", { day: "numeric", month: "short", year: "numeric" })}`}
+            </span>
           </div>
         </div>
       </header>
@@ -146,40 +132,37 @@ export default function App() {
         {!loading && !error && (
           <>
             {/* STATS */}
-            <div style={{ display: "grid", gridTemplateColumns: "repeat(4,1fr)", gap: 10, marginBottom: 16 }}>
+            <div style={{ display: "flex", borderTop: "2px solid #0f0f23", borderBottom: "1px solid #d6d1c8", marginBottom: 16 }}>
               {[
-                { label: "Today's Briefing", val: shown.length,                                              color: "#0f0f23" },
-                { label: "AI-Selected",       val: articles.length,                                          color: "#c9a84c" },
-                { label: "Source Regions",    val: [...new Set(shown.flatMap(a => a.sources))].length || "—", color: "#7d3c98" },
-                { label: "Sources Monitored", val: "15+",                                                    color: "#1e5631" },
-              ].map(s => (
-                <div key={s.label} style={{ background: "white", border: "1px solid #e5e0d6", borderRadius: 8, padding: "10px 12px", textAlign: "center" }}>
-                  <div style={{ fontSize: 22, fontWeight: 700, color: s.color, fontFamily: "'DM Sans',sans-serif" }}>{s.val}</div>
-                  <div style={{ fontSize: 11, color: "#999", fontFamily: "'DM Sans',sans-serif", marginTop: 1 }}>{s.label}</div>
+                { label: "SOURCE REGIONS",    val: [...new Set(shown.flatMap(a => a.sources))].length || "—", color: "#0f0f23" },
+                { label: "SOURCES MONITORED", val: "15+", color: "#0f0f23" },
+              ].map((s, i) => (
+                <div key={s.label} style={{ flex: 1, padding: "12px 0", textAlign: "center", borderRight: i === 0 ? "1px solid #d6d1c8" : "none" }}>
+                  <div style={{ fontSize: 26, fontWeight: 700, color: s.color, fontFamily: "'Libre Baskerville',Georgia,serif" }}>{s.val}</div>
+                  <div style={{ fontSize: 10, color: "#888", fontFamily: "'DM Sans',sans-serif", letterSpacing: 2, marginTop: 3 }}>{s.label}</div>
                 </div>
               ))}
             </div>
 
-            {/* FILTERS — source region only */}
-            <div style={{ background: "white", borderRadius: 8, border: "1px solid #e5e0d6", padding: "12px 15px", marginBottom: 14 }}>
-              <div style={{ display: "flex", flexWrap: "wrap", gap: 7, alignItems: "center" }}>
-                <span style={{ fontSize: 10, color: "#bbb", letterSpacing: 1.5, fontFamily: "'DM Sans',sans-serif" }}>FILTER BY ORIGIN</span>
-                {SRC_OPTS.map(f => (
-                  <button key={f} onClick={() => setFSrc(f)} style={{
-                    padding: "3px 10px", borderRadius: 20, fontSize: 12, cursor: "pointer", fontFamily: "'DM Sans',sans-serif",
-                    border: `1.5px solid ${fSrc === f ? (SRC_TAG[f] || "#0f0f23") : "#e0dbd2"}`,
-                    background: fSrc === f ? (SRC_TAG[f] || "#0f0f23") : "transparent",
-                    color: fSrc === f ? "white" : "#666", transition: "all 0.15s",
-                  }}>{f}</button>
-                ))}
-              </div>
+            {/* FILTERS */}
+            <div style={{ display: "flex", flexWrap: "wrap", gap: 6, alignItems: "center", marginBottom: 16, paddingBottom: 14, borderBottom: "1px solid #d6d1c8" }}>
+              <span style={{ fontSize: 10, color: "#888", letterSpacing: 2, fontFamily: "'DM Sans',sans-serif", marginRight: 4 }}>FILTER BY ORIGIN</span>
+              {SRC_OPTS.map(f => (
+                <button key={f} onClick={() => setFSrc(f)} style={{
+                  padding: "4px 14px", fontSize: 12, cursor: "pointer", fontFamily: "'DM Sans',sans-serif",
+                  border: `1px solid ${fSrc === f ? "#0f0f23" : "#c8c3ba"}`,
+                  borderRadius: 20,
+                  background: fSrc === f ? "#0f0f23" : "transparent",
+                  color: fSrc === f ? "white" : "#555",
+                }}>{f}</button>
+              ))}
               {fSrc !== "All" && (
-                <div style={{ marginTop: 7, fontSize: 11, color: "#aaa", fontFamily: "'DM Sans',sans-serif" }}>
-                  Showing {shown.length} article{shown.length !== 1 ? "s" : ""} from {fSrc} ·{" "}
-                  <span style={{ color: "#c9a84c", cursor: "pointer" }} onClick={() => setFSrc("All")}>Clear</span>
-                </div>
+                <span style={{ fontSize: 11, color: "#c9a84c", cursor: "pointer", fontFamily: "'DM Sans',sans-serif", marginLeft: 4 }} onClick={() => setFSrc("All")}>✕ Clear</span>
               )}
             </div>
+
+            {/* SECTION LABEL */}
+            <div style={{ fontSize: 11, fontFamily: "'DM Sans',sans-serif", fontWeight: 600, letterSpacing: 3, color: "#555", marginBottom: 0 }}>TODAY'S BRIEFING</div>
 
             {/* ARTICLES */}
             {shown.length === 0 ? (
@@ -188,108 +171,106 @@ export default function App() {
                 <span style={{ color: "#c9a84c", cursor: "pointer" }} onClick={() => setFSrc("All")}>Clear filters</span>
               </div>
             ) : (
-              <div style={{ display: "flex", flexDirection: "column", gap: 12 }}>
-                {shown.map(item => {
-                  const imp = IMP[item.impact] || IMP.Low;
-                  return (
-                    <article key={item.id || item.url} style={{
-                      background: "white", borderRadius: 8, border: "1px solid #e5e0d6",
-                      overflow: "hidden", boxShadow: "0 1px 3px rgba(0,0,0,0.05)", transition: "box-shadow 0.2s",
-                    }}
-                      onMouseEnter={e => e.currentTarget.style.boxShadow = "0 4px 18px rgba(0,0,0,0.09)"}
-                      onMouseLeave={e => e.currentTarget.style.boxShadow = "0 1px 3px rgba(0,0,0,0.05)"}
-                    >
-                      <div style={{ height: 3, background: imp.bar }} />
-                      <div style={{ padding: "16px 20px" }}>
-                        {/* Meta */}
-                        <div style={{ display: "flex", flexWrap: "wrap", gap: 5, marginBottom: 9, alignItems: "center" }}>
-                          <span style={{ padding: "2px 8px", background: imp.bg, color: imp.fg, borderRadius: 3, fontSize: 11, fontWeight: 700, fontFamily: "'DM Sans',sans-serif" }}>
-                            {imp.icon} {item.impact}
-                          </span>
-                          {(item.sources || []).map(s => (
-                            <span key={s} style={{ padding: "2px 8px", background: SRC_TAG[s] || "#555", color: "white", borderRadius: 3, fontSize: 11, fontFamily: "'DM Sans',sans-serif" }}>{s}</span>
-                          ))}
-                          {(item.dests || []).map(d => (
-                            <span key={d} style={{ padding: "2px 7px", border: `1.5px solid ${DST_TAG[d] || "#888"}`, color: DST_TAG[d] || "#888", borderRadius: 3, fontSize: 11, fontFamily: "'DM Sans',sans-serif" }}>→ {d}</span>
-                          ))}
-                          <span style={{ marginLeft: "auto", fontSize: 11, fontFamily: "'DM Sans',sans-serif", color: "#aaa", whiteSpace: "nowrap" }}>
-                            <span style={{ color: item.color || "#555", fontWeight: 600 }}>{item.source}</span>
-                            {" · "}
-                            <span style={{ background: "#f4f1eb", padding: "1px 6px", borderRadius: 3 }}>{fmtDate(item.pubDate)}</span>
-                          </span>
-                        </div>
-                        {/* Title */}
-                        <h2 style={{ margin: "0 0 9px", fontSize: 16, fontWeight: 700, lineHeight: 1.5, color: "#0f0f23" }}>
-                          {item.title}
-                        </h2>
-                        {/* Summary */}
-                        {item.summary && (
-                          <p style={{ margin: "0 0 12px", fontSize: 13.5, lineHeight: 1.85, color: "#4a5568", fontFamily: "'DM Sans',sans-serif" }}>
-                            {item.summary}{item.summary.length >= 399 ? "…" : ""}
-                          </p>
-                        )}
-                        {/* Professional Insight */}
-                        {item.insight && (
-                          <div style={{ background: "#faf7f0", borderLeft: "3px solid #c9a84c", padding: "9px 14px", borderRadius: "0 4px 4px 0", marginBottom: 13 }}>
-                            <div style={{ fontSize: 9, letterSpacing: 2, color: "#c9a84c", fontFamily: "'DM Sans',sans-serif", fontWeight: 700, marginBottom: 3 }}>PROFESSIONAL INSIGHT</div>
-                            <p style={{ margin: 0, fontSize: 13, color: "#2d3748", lineHeight: 1.75, fontStyle: "italic", fontFamily: "'DM Sans',sans-serif" }}>{item.insight}</p>
-                          </div>
-                        )}
-                        {/* Footer */}
-                        <div style={{ display: "flex", alignItems: "center", justifyContent: "space-between", gap: 8 }}>
-                          <div style={{ display: "flex", alignItems: "center", gap: 6 }}>
-                            <span style={{ fontSize: 11, color: "#ccc", fontFamily: "'DM Sans',sans-serif" }}>{item.source}</span>
-                            {item.translated && (
-                              <span style={{ fontSize: 9, padding: "1px 6px", borderRadius: 3, background: "#f0f4ff", color: "#3b5bdb", fontFamily: "'DM Sans',sans-serif", fontWeight: 600, letterSpacing: 0.5 }}>
-                                🌐 AUTO-TRANSLATED
-                              </span>
-                            )}
-                          </div>
-                          <a href={item.url} target="_blank" rel="noopener noreferrer" style={{
-                            padding: "5px 14px", background: "#0f0f23", color: "#c9a84c",
-                            borderRadius: 4, fontSize: 12, textDecoration: "none",
-                            fontFamily: "'DM Sans',sans-serif", fontWeight: 600, whiteSpace: "nowrap",
-                          }}>Read full article →</a>
-                        </div>
+              <div style={{ display: "flex", flexDirection: "column" }}>
+                {shown.map((item, idx) => (
+                  <article key={item.id || item.url} style={{
+                    borderTop: idx === 0 ? "2px solid #0f0f23" : "1px solid #d6d1c8",
+                    padding: "20px 0 22px",
+                  }}>
+                    {/* Meta row */}
+                    <div style={{ display: "flex", flexWrap: "wrap", gap: 5, marginBottom: 10, alignItems: "center" }}>
+                      {(item.sources || []).map(s => (
+                        <span key={s} style={{
+                          padding: "1px 7px", border: `1px solid ${SRC_TAG[s] || "#555"}`,
+                          color: SRC_TAG[s] || "#555", borderRadius: 2,
+                          fontSize: 10, fontFamily: "'DM Sans',sans-serif", letterSpacing: 0.5,
+                        }}>{s}</span>
+                      ))}
+                      {(item.dests || []).map(d => (
+                        <span key={d} style={{
+                          padding: "1px 7px", border: `1px solid ${DST_TAG[d] || "#888"}`,
+                          color: DST_TAG[d] || "#888", borderRadius: 2,
+                          fontSize: 10, fontFamily: "'DM Sans',sans-serif", letterSpacing: 0.5,
+                        }}>→ {d}</span>
+                      ))}
+                      <span style={{ marginLeft: "auto", fontSize: 11, fontFamily: "'DM Sans',sans-serif", color: "#999", whiteSpace: "nowrap" }}>
+                        <span style={{ color: item.color || "#555", fontWeight: 600 }}>{item.source}</span>
+                        {" · "}
+                        {fmtDate(item.pubDate)}
+                      </span>
+                    </div>
+
+                    {/* Title */}
+                    <h2 style={{ margin: "0 0 10px", fontSize: 18, fontWeight: 700, lineHeight: 1.4, color: "#0f0f23", fontFamily: "'Libre Baskerville',Georgia,serif" }}>
+                      {item.title}
+                    </h2>
+
+                    {/* Summary */}
+                    {item.summary && (
+                      <p style={{ margin: "0 0 14px", fontSize: 14, lineHeight: 1.85, color: "#4a5568", fontFamily: "'Libre Baskerville',Georgia,serif" }}>
+                        {item.summary}{item.summary.length >= 399 ? "…" : ""}
+                      </p>
+                    )}
+
+                    {/* Insight */}
+                    {item.insight && (
+                      <div style={{ borderLeft: "2px solid #c9a84c", paddingLeft: 14, marginBottom: 16 }}>
+                        <div style={{ fontSize: 9, letterSpacing: 2.5, color: "#c9a84c", fontFamily: "'DM Sans',sans-serif", fontWeight: 600, marginBottom: 5 }}>RECRUITMENT INSIGHT</div>
+                        <p style={{ margin: 0, fontSize: 13.5, color: "#3d3d3d", lineHeight: 1.8, fontStyle: "italic", fontFamily: "'Libre Baskerville',Georgia,serif" }}>{item.insight}</p>
                       </div>
-                    </article>
-                  );
-                })}
+                    )}
+
+                    {/* Footer */}
+                    <div style={{ display: "flex", alignItems: "center", justifyContent: "space-between" }}>
+                      <div>
+                        {item.translated && (
+                          <span style={{ fontSize: 10, padding: "1px 6px", background: "#f0f4ff", color: "#3b5bdb", fontFamily: "'DM Sans',sans-serif", letterSpacing: 0.5, border: "1px solid #c7d2fe" }}>
+                            🌐 AUTO-TRANSLATED
+                          </span>
+                        )}
+                      </div>
+                      <a href={item.url} target="_blank" rel="noopener noreferrer" style={{
+                        fontSize: 12, color: "#0f0f23", fontFamily: "'DM Sans',sans-serif",
+                        fontWeight: 600, textDecoration: "none", letterSpacing: 0.5,
+                        borderBottom: "1px solid #c9a84c", paddingBottom: 1,
+                      }}>Read full article →</a>
+                    </div>
+                  </article>
+                ))}
+                <div style={{ borderTop: "2px solid #0f0f23" }} />
               </div>
             )}
 
             {/* RSS SOURCE PANEL */}
-            <div style={{ marginTop: 28, background: "white", borderRadius: 8, border: "1px solid #e5e0d6", overflow: "hidden" }}>
+            <div style={{ marginTop: 28, borderTop: "1px solid #d6d1c8" }}>
               <button onClick={() => setShowSources(s => !s)} style={{
-                width: "100%", padding: "13px 18px", background: "none", border: "none", cursor: "pointer",
+                width: "100%", padding: "12px 0", background: "none", border: "none", cursor: "pointer",
                 display: "flex", justifyContent: "space-between", alignItems: "center", fontFamily: "'DM Sans',sans-serif",
               }}>
-                <span style={{ fontSize: 12, fontWeight: 600, color: "#0f0f23" }}>
-                  📡 RSS Feed Directory — add to Feedly / Inoreader for daily email digest
-                </span>
-                <span style={{ fontSize: 13, color: "#c9a84c" }}>{showSources ? "▲ Hide" : "▼ Show all feeds"}</span>
+                <span style={{ fontSize: 11, fontWeight: 600, color: "#555", letterSpacing: 1, textTransform: "uppercase" }}>RSS Feed Directory</span>
+                <span style={{ fontSize: 11, color: "#c9a84c", fontFamily: "'DM Sans',sans-serif" }}>{showSources ? "▲ Hide" : "▼ Show all feeds"}</span>
               </button>
               {showSources && (
-                <div style={{ padding: "0 18px 18px", borderTop: "1px solid #f0ede6" }}>
+                <div style={{ paddingBottom: 18, borderTop: "1px solid #e5e0d6" }}>
                   {Object.entries(MEDIA_SOURCES).map(([group, feeds]) => (
                     <div key={group} style={{ marginTop: 16 }}>
-                      <div style={{ fontSize: 11, fontWeight: 700, color: "#666", fontFamily: "'DM Sans',sans-serif", letterSpacing: 1, marginBottom: 8 }}>{group}</div>
+                      <div style={{ fontSize: 10, fontWeight: 600, color: "#999", fontFamily: "'DM Sans',sans-serif", letterSpacing: 1.5, textTransform: "uppercase", marginBottom: 8 }}>{group}</div>
                       <div style={{ display: "flex", flexWrap: "wrap", gap: 6 }}>
                         {feeds.map(f => (
                           <a key={f.name} href={f.url} target="_blank" rel="noopener noreferrer" style={{
-                            fontSize: 12, padding: "4px 10px", borderRadius: 4,
-                            background: f.color + "15", border: `1px solid ${f.color}55`,
-                            color: f.color, fontFamily: "'DM Sans',sans-serif", textDecoration: "none", fontWeight: 500,
+                            fontSize: 11, padding: "3px 9px", borderRadius: 2,
+                            border: `1px solid ${f.color}55`,
+                            color: f.color, fontFamily: "'DM Sans',sans-serif", textDecoration: "none",
                           }}>{f.name} ↗</a>
                         ))}
                       </div>
                     </div>
                   ))}
-                  <div style={{ marginTop: 16, padding: "12px 14px", background: "#f9f7f2", borderRadius: 6, fontSize: 12, color: "#666", fontFamily: "'DM Sans',sans-serif", lineHeight: 1.7 }}>
-                    <strong>Get a daily email digest (no code):</strong> Paste any RSS link into{" "}
+                  <div style={{ marginTop: 16, padding: "12px 14px", borderLeft: "2px solid #e5e0d6", fontSize: 12, color: "#666", fontFamily: "'DM Sans',sans-serif", lineHeight: 1.7 }}>
+                    <strong>Get a daily email digest:</strong> Paste any RSS link into{" "}
                     <a href="https://feedly.com" target="_blank" rel="noopener noreferrer" style={{ color: "#c9a84c" }}>Feedly</a> or{" "}
                     <a href="https://www.inoreader.com" target="_blank" rel="noopener noreferrer" style={{ color: "#c9a84c" }}>Inoreader</a>
-                    {" "}→ enable "Daily Digest Email". Free tier, ~10 min setup.
+                    {" "}→ enable "Daily Digest Email".
                   </div>
                 </div>
               )}
