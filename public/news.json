@@ -1,21 +1,21 @@
 {
-  "updated": "2026-03-16T09:19:36Z",
+  "updated": "2026-03-17T05:41:34Z",
   "count": 10,
-  "totalFetched": 178,
+  "totalFetched": 170,
   "articles": [
     {
       "id": 1,
-      "title": "Recent Correspondence Between Schmitt and Noem Indicates OPT Reform Still on DHS Agenda",
-      "source": "NAFSA",
-      "color": "#0e4d8c",
-      "url": "https://www.nafsa.org/professional-resources/browse-by-interest/practical-training-reform",
-      "pubDate": "2026-03-16",
-      "summary": "Senator Eric Schmitt (R-Missouri) recently corresponded with DHS Secretary Kristi Noem regarding reform or termination of the Optional Practical Training (OPT) program. In her response, Secretary Noem referenced a Spring 2025 regulatory agenda item on practical training—posted September 4, 2025—and stated it would proceed through the standard Administrative Procedure Act notice-and-comment process.",
-      "insight": "This news signals potential future tightening of U.S. post-study work pathways, which may modestly dampen U.S. appeal for international students prioritizing OPT as a career bridge—though immediate demand shifts are unlikely given the regulatory timeline and lack of finalized policy.  \nAdmissions teams should track the Spring 2025 DHS regulatory docket for proposed rule language, consult legal advisors on likely implementation timelines, and prepare nuanced messaging that balances U.S. academic strengths with realistic post-graduation planning—without preemptively alarming applicants.",
-      "impact": "Medium",
+      "title": "Australia doubles post-study work visa application fee",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/03/australia-doubles-post-study-work-visa-application-fee/",
+      "pubDate": "2026-03-04",
+      "summary": "Australia has doubled the non-refundable application fee for the Temporary Graduate Visa (Subclass 485) to AU$4,600, effective immediately. This visa permits eligible foreign graduates to work in Australia for 18 months to up to 3 years after completing their studies and serves as a pathway to permanent residency.",
+      "insight": "The fee hike for Australia’s post-study work visa may dampen perceived value for cost-sensitive students—particularly from price-responsive markets like India and Nigeria—though its impact on overall demand remains uncertain without concurrent shifts in graduate outcomes or alternative destination policies.  \nAdmissions teams should track application and enrolment trends among prospective Australian-bound students, especially those weighing post-study work as a key decision factor, while reviewing how their own career support messaging aligns with evolving global mobility expectations.",
+      "impact": "High",
       "sources": [],
       "dests": [
-        "USA"
+        "Australia"
       ],
       "translated": false,
       "origLang": null,
@@ -24,17 +24,17 @@
     },
     {
       "id": 2,
-      "title": "US: Student visa issuances fell by -36% in summer 2025; OPT uncertainty among factors affecting international student demand",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/03/us-student-visa-issuances-fell-by-36-in-summer-2025-opt-uncertainty-among-factors-affecting-international-student-demand/",
-      "pubDate": "2026-03-10",
-      "summary": "US student visa issuances fell by 36% in summer 2025, with uncertainty surrounding the Optional Practical Training (OPT) programme cited as a key factor affecting international student demand. The US government has renewed its focus on the OPT programme, and former Secretary of Homeland Security Kristi Noem, who was replaced on 5 March, had previously responded favourably to Senator Eric…",
-      "insight": "The 36% drop in US student visa issuances during summer 2025—linked partly to OPT uncertainty—suggests growing caution among international applicants, though it remains unclear whether this reflects temporary policy anxiety or a deeper, sustained shift in destination preferences across key source markets.  \nAdmissions teams should track real-time application and enrolment trends by region and programme level, while closely monitoring US regulatory developments around OPT, visa processing timelines, and comparative messaging from peer destinations to assess evolving competitive positioning.",
-      "impact": "Low",
+      "title": "UK rejects visa ban exemption for Chevening scholars",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/uk-rejects-visa-ban-exemption-for-chevening-scholars/",
+      "pubDate": "2026-03-13",
+      "summary": "The UK Home Office has declined internal government requests to exempt Chevening scholars from new restrictions that suspend study visa issuance for applicants from certain countries. These restrictions apply even to individuals selected for the prestigious Chevening Scholarship programme, which is funded by the UK government.",
+      "insight": "This development signals potential reputational and operational challenges for UK universities, as tightening visa rules—even for flagship government-sponsored scholars—may amplify perceptions of reduced UK accessibility, possibly influencing student choice in competitive source markets, though direct demand impacts remain uncertain pending broader policy trends.  \nAdmissions teams should monitor application and enrolment data from affected countries, track sentiment shifts via agent feedback and social listening, and assess whether peer institutions in Australia, Canada, or the US are positioning themselves as more predictable alternatives for high-potential applicants previously considering Chevening pathways.",
+      "impact": "High",
       "sources": [],
       "dests": [
-        "USA"
+        "UK"
       ],
       "translated": false,
       "origLang": null,
@@ -43,163 +43,154 @@
     },
     {
       "id": 3,
-      "title": "US visa issuance fell by 36% last summer",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/us-visa-issuance-fell-by-36-last-summer/",
-      "pubDate": "2026-03-11",
-      "summary": "New State Department data shows a 36% year-on-year decline in U.S. study visa issuance last summer. Stakeholders attribute this drop to policy volatility under the Trump administration.",
-      "insight": "The 36% drop in US study visa issuances last summer—linked to Trump-era policy volatility—may reflect heightened perceived risk among prospective students, though it’s unclear whether this signals sustained demand erosion or short-term administrative disruption amid broader geopolitical and economic factors.  \nAdmissions teams should track real-time application trends, visa processing timelines, and sentiment shifts in key source markets—noting that competitor nations may gain traction if US visa uncertainty persists, but avoiding premature strategic pivots without corroborating enrollment data.",
-      "impact": "Low",
-      "sources": [],
-      "dests": [
-        "USA"
+      "title": "Inbound, outbound, and transnational: the landscape for international education in China continues to evolve",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/03/inbound-outbound-and-transnational-the-landscape-for-international-education-in-china-continues-to-evolve/",
+      "pubDate": "2026-03-04",
+      "summary": "China is expanding its international education initiatives by supporting the recruitment of international students, particularly through targeted scholarship programs. At the same time, the government is responding to domestic public concerns about perceived preferential treatment for international students amid high unemployment and a competitive job market.",
+      "insight": "China’s intensified focus on inbound international student recruitment—paired with domestic backlash over perceived inequities—may indirectly dampen outbound student mobility if nationalist sentiment grows or policy shifts prioritize domestic graduate employment over overseas study. However, concrete impacts on demand remain uncertain, as long-standing drivers like academic quality and post-study opportunities retain strong influence.\n\nAdmissions teams should monitor Chinese social media discourse, Ministry of Education announcements, and scholarship policy updates for signs of tightening outbound regulations or shifting messaging around overseas education value; concurrently, reinforcing transparent support services and career outcomes data may help mitigate emerging perception risks.",
+      "impact": "High",
+      "sources": [
+        "China"
       ],
+      "dests": [],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 9,
+      "relevanceScore": 8,
       "insightSource": "qwen"
     },
     {
       "id": 4,
-      "title": "New Zealand expands post-study work opportunities for international students",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/03/new-zealand-expands-post-study-work-opportunities-for-international-students/",
+      "title": "A policy for allowing foreign universities setting up Indian campuses",
+      "source": "The Hindu (Edu)",
+      "color": "#145a32",
+      "url": "https://www.thehindu.com/education/a-policy-for-allowing-foreign-universities-setting-up-indian-campuses/article70734510.ece",
       "pubDate": "2026-03-12",
-      "summary": "New Zealand plans to introduce a new Short Term Graduate Work Visa and extend eligibility for the Post Study Work Visa, with implementation scheduled for late 2026. No specific launch date has been confirmed, and the government’s international education strategy emphasizes managed growth over the coming years.",
-      "insight": "New Zealand’s planned 2026 visa reforms signal a strategic effort to retain talent post-study, potentially strengthening its appeal—especially among students from Asia and the Pacific—though actual demand shifts depend on implementation details and concurrent policy changes elsewhere.  \nAdmissions teams should track New Zealand’s final visa criteria, timeline clarity, and comparative post-study work offerings in the UK, Australia, and Canada, while assessing how these developments influence student conversations and application patterns in key source markets over the next 12–18 months.",
-      "impact": "Low",
-      "sources": [],
-      "dests": [
-        "New Zealand"
+      "summary": "The Indian government approved a policy in 2023 permitting top-ranked foreign universities to establish campuses in India under specific conditions, including a minimum global ranking threshold and adherence to Indian regulatory frameworks. These campuses must operate as not-for-profit entities, offer programs aligned with India’s higher education standards, and obtain prior approval from the University Grants Commission and other relevant authorities.",
+      "insight": "This policy may gradually reduce outbound demand from India’s high-achieving students for undergraduate and master’s programs abroad, particularly in fields where top foreign universities replicate offerings locally—though impact will depend on implementation speed, program quality, and student preference for global mobility.  \nAdmissions teams should track which foreign institutions launch Indian campuses, monitor enrollment patterns in those early cohorts, and assess whether domestic alternatives influence application volumes or yield rates—especially among students targeting STEM and business programs.",
+      "impact": "Medium",
+      "sources": [
+        "India"
       ],
+      "dests": [],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 9,
+      "relevanceScore": 8,
       "insightSource": "qwen"
     },
     {
       "id": 5,
-      "title": "DOS Rulemaking on Subpart C of the Exchange Visitor Regulations",
-      "source": "NAFSA",
-      "color": "#0e4d8c",
-      "url": "https://www.nafsa.org/regulatory-information/dos-rulemaking-subpart-c-exchange-visitor-regulations",
-      "pubDate": "2026-03-16",
-      "summary": "On March 10, 2026, the U.S. Department of State submitted a proposed rule titled “Exchange Visitor Rules: Records” to the Office of Management and Budget for regulatory review. The proposal would replace existing provisions at 22 CFR 62.43 (Extension of program) and 22 CFR 62.45 (Reinstatement to valid program status) to align the Exchange Visitor Regulations with the current functionality of the Student and Exchange Visitor Information System (SEVIS).",
-      "insight": "This regulatory update reflects ongoing U.S. efforts to modernize exchange visitor administration via SEVIS, potentially improving processing efficiency for J-1 visa holders—but its direct impact on broader international student demand or F-1 visa pathways remains unclear and likely minimal in the near term.  \nAdmissions teams should track whether these changes coincide with broader U.S. policy shifts affecting exchange programs, and consider reviewing institutional partnerships with J-1 sponsors to ensure alignment with evolving compliance expectations and student support needs.",
+      "title": "British Council offers masters scholarships in the UK exclusively for women",
+      "source": "Folha de S.Paulo",
+      "color": "#154360",
+      "url": "https://redir.folha.com.br/redir/online/educacao/rss091/*https://www1.folha.uol.com.br/educacao/2026/03/british-council-oferece-bolsas-de-mestrado-no-reino-unido-exclusivas-para-mulheres.shtml",
+      "pubDate": "2026-03-13",
+      "summary": "The British Council has opened applications for full master’s scholarships exclusively for women pursuing studies in science, technology, engineering, and mathematics (STEM). These scholarships are offered through the Women in STEM program and provide places at the University of Warwick and Aston University in England.",
+      "insight": "This initiative signals growing emphasis on gender-inclusive STEM pathways for women from underrepresented regions, potentially influencing demand patterns—though it remains unclear whether it reflects broader shifts in student preferences or is an isolated, targeted intervention.  \nAdmissions teams should monitor uptake and demographic profiles of applicants to similar scholarships, and assess whether partnering with organisations like the British Council could strengthen outreach to high-potential female STEM candidates in priority source markets.",
       "impact": "Low",
       "sources": [],
-      "dests": [
-        "USA"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 9,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 6,
-      "title": "SEVP Page - Beware of DHS Imposters: Protecting Foreign Students from Scams",
-      "source": "NAFSA",
-      "color": "#0e4d8c",
-      "url": "https://studyinthestates.dhs.gov/2026/02/beware-of-dhs-imposters-protecting-foreign-students-from-scams",
-      "pubDate": "2026-03-16",
-      "summary": "A February 19, 2026 SEVP resource titled “Beware of DHS Imposters: Protecting Foreign Students from Scams” warns international students about scammers impersonating U.S. Department of Homeland Security officials to solicit money or personal information. The guidance instructs Designated School Officials to remind students that government agencies do not demand payment by phone, to share scam-prevention information, and to direct affected students to report suspicious contacts and seek assistance from their schools.",
-      "insight": "This advisory signals growing risks of fraud targeting international students, potentially amplifying pre-enrolment anxiety in key source markets—though direct impacts on demand or visa policy remain unconfirmed, it may subtly erode trust in U.S. immigration processes among prospective applicants and their families.  \nAdmissions teams should monitor regional scam-reporting trends and student support queries for early signs of heightened concern, while reviewing orientation materials to reinforce official communication protocols and institutional safeguards against impersonation scams.",
-      "impact": "Low",
-      "sources": [],
-      "dests": [
-        "USA"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 9,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 7,
-      "title": "Webinar for Students Transitioning from F-1 to H-1B",
-      "source": "NAFSA",
-      "color": "#0e4d8c",
-      "url": "https://us02web.zoom.us/webinar/register/WN_n0hlqHoVRV6UMyY0AAgPEg#/registration",
-      "pubDate": "2026-03-16",
-      "summary": "The International Student Resource Center (ISRC) is partnering with Interstride to host a webinar titled “F-1 Student to H-1B Worker: Process and Planning in Turbulent Times” on February 12, 2026, at 1:00 PM ET. The webinar will feature a panel of immigration attorneys and international education professionals who will explain the F-1 to H-1B transition pathway and address recent immigration policy and regulatory changes affecting the process.",
-      "insight": "This webinar signals growing institutional concern about post-study work pathway uncertainty, potentially reflecting heightened anxiety among prospective international students—especially from high-application markets—regarding U.S. immigration volatility, though direct demand shifts remain unconfirmed without enrollment or application trend data.  \nAdmissions teams should track whether similar webinars emerge across peer institutions and monitor source-market social media sentiment around U.S. H-1B lottery outcomes and policy announcements, as these may foreshadow subtle shifts in destination preferences or counseling needs ahead of key application cycles.",
-      "impact": "Low",
-      "sources": [],
-      "dests": [
-        "USA"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 9,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 8,
-      "title": "Dozens of international students who won Chevening scholarships were denied visas",
-      "source": "VnExpress (Giáo dục)",
-      "color": "#b94500",
-      "url": "https://vnexpress.net/hang-chuc-du-hoc-sinh-gianh-hoc-bong-chevening-bi-tu-choi-visa-5050541.html",
-      "pubDate": "2026-03-16",
-      "summary": "The UK Home Office denied visa applications for dozens of international students who had been awarded Chevening scholarships from Afghanistan, Cameroon, Myanmar, and Sudan. This decision followed a prior ban on student visas for nationals from these countries.",
-      "insight": "This incident signals potential volatility in UK student visa policy for high-risk origin countries, which may indirectly influence global student demand as applicants reassess destination safety, fairness, and predictability—though direct spillover to other English-speaking nations remains unproven and context-dependent.  \nAdmissions teams should monitor visa refusal trends, government statements, and agent feedback from Afghanistan, Cameroon, Myanmar, and Sudan—noting shifts in application volumes or expressed concerns—while reviewing their own pre-application support and contingency messaging for affected cohorts.",
-      "impact": "Low",
-      "sources": [
-        "Southeast Asia",
-        "West Africa"
-      ],
       "dests": [
         "UK"
       ],
       "translated": true,
-      "origLang": "vi",
-      "relevanceScore": 9,
+      "origLang": "pt",
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 6,
+      "title": "Why are more foreign students choosing India for higher education",
+      "source": "The Hindu (Edu)",
+      "color": "#145a32",
+      "url": "https://www.thehindu.com/education/why-are-more-foreign-students-choosing-india-for-higher-education/article70742482.ece",
+      "pubDate": "2026-03-14",
+      "summary": "India is attracting more foreign students due to its affordable tuition fees, globally recognized degrees, and English-medium instruction across many universities. Government initiatives like the Study in India program, improved visa processes, and expanding infrastructure in higher education institutions have also contributed to the rise in international enrollment.",
+      "insight": "India’s growing appeal as a study destination—driven by affordability, English instruction, and policy support—may modestly influence global student decision-making, particularly among cost-sensitive applicants from Asia and Africa, though direct substitution for Western destinations remains limited without stronger employer recognition or post-study work pathways.  \nAdmissions teams should track enrollment trends in India’s top universities, especially among students from shared source markets like Nigeria and Nepal, and assess whether their value propositions—such as career outcomes, visa stability, and regional campus partnerships—need refinement to maintain competitive differentiation.",
+      "impact": "Low",
+      "sources": [
+        "India"
+      ],
+      "dests": [],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 7,
+      "title": "Indonesia eyes visa overhaul to boost int’l student numbers",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/indonesia-eyes-visa-overhaul-to-boost-intl-student-numbers/",
+      "pubDate": "2026-03-16",
+      "summary": "Indonesia is planning to reform its study visa system to increase the number of international students. This initiative responds to growing internationalisation efforts by other ASEAN countries.",
+      "insight": "Indonesia’s planned study visa reforms may modestly shift regional student mobility patterns, particularly among Southeast Asian applicants weighing cost, proximity, and English-language options—though direct impact on US/UK/AU/NZ enrolments remains uncertain without evidence of reduced outbound intent.  \nAdmissions teams should track Indonesia’s implementation timeline, eligibility criteria, and uptake metrics over the next 12–18 months, while reinforcing value propositions that differentiate their institutions from emerging regional alternatives.",
+      "impact": "Low",
+      "sources": [
+        "Southeast Asia"
+      ],
+      "dests": [],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 8,
+      "title": "DOS Announces No Routine Visa Processing in Lebanon and Israel",
+      "source": "NAFSA",
+      "color": "#0e4d8c",
+      "url": "https://www.nafsa.org/regulatory-information/limited-visa-services-notices",
+      "pubDate": "2026-03-17",
+      "summary": "The U.S. Department of State announced that routine visa processing is not currently available at its consular posts in Beirut, Lebanon, and in Jerusalem and Tel Aviv, Israel. This suspension applies to standard nonimmigrant and immigrant visa services in those locations.",
+      "insight": "This suspension of routine U.S. visa processing in Lebanon and Israel may indirectly affect student demand from the broader MENA region, as it could heighten regional perceptions of U.S. visa accessibility—though actual impact on enrolment depends on applicant nationality, alternative consular options, and whether students pivot to other destinations.  \nAdmissions teams should monitor application volumes and visa appointment wait times for applicants from Lebanon and Israel specifically, while also reviewing outreach messaging to ensure clarity about realistic U.S. visa timelines and potential alternatives like third-country appointments or deferred intake options.",
+      "impact": "High",
+      "sources": [
+        "MENA"
+      ],
+      "dests": [],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 7,
       "insightSource": "qwen"
     },
     {
       "id": 9,
-      "title": "Canada and India deepen educational ties; India repositions as an equal player in international education",
+      "title": "As Iran retaliates across the Middle East, schools close, students worry, and institutions reassess transnational education",
       "source": "ICEF Monitor",
       "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/03/canada-and-india-deepen-educational-ties-india-repositions-as-an-equal-player-in-international-education/",
-      "pubDate": "2026-03-04",
-      "summary": "Canada and India are strengthening their educational ties, reflecting a broader shift in how India is perceived in international education. India’s status as the world’s fastest-growing economy last year, with a 7.5% expansion surpassing that of the US, China, Germany, and Japan, underscores its repositioning as an equal player—not merely an emerging economy—in global education and geopolitics.",
-      "insight": "This news signals growing Indian institutional confidence and potential shifts in student mobility patterns, though direct impacts on Western enrolments remain uncertain—India’s economic rise may bolster outbound demand but could also accelerate domestic higher education investment.  \nAdmissions teams should monitor India-specific scholarship expansions, bilateral credit-transfer agreements, and visa policy adjustments between Canada-India, while assessing whether Canadian partnerships catalyse increased Indian applications to other English-speaking destinations.",
+      "url": "https://monitor.icef.com/2026/03/as-iran-retaliates-across-the-middle-east-schools-close-students-worry-and-institutions-reassess-transnational-education/",
+      "pubDate": "2026-03-12",
+      "summary": "Iran’s retaliatory actions across the Middle East have led to school closures and heightened concerns among students and international educators, particularly in the United Arab Emirates due to its close Western ties. The UAE, serving as the region’s most important education hub and the world’s second-largest transnational education center, is now prompting institutions to reassess their cross-border academic operations.",
+      "insight": "Iran’s regional retaliation may indirectly dampen outbound student mobility from MENA countries, as heightened insecurity and school closures could delay applications or shift risk perceptions—though direct impacts on enrolment demand remain uncertain pending further escalation.  \nAdmissions teams should monitor UAE-based education partners’ operational stability, track visa processing timelines for MENA nationals amid potential diplomatic ripple effects, and assess whether students from conflict-adjacent regions increasingly prioritise destination countries perceived as more geopolitically insulated.",
       "impact": "Low",
       "sources": [
-        "China",
-        "India"
+        "MENA"
       ],
-      "dests": [
-        "Canada"
-      ],
+      "dests": [],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 8,
+      "relevanceScore": 7,
       "insightSource": "qwen"
     },
     {
       "id": 10,
-      "title": "British Council says student recruitment to UK higher education will get a boost this year from South Asia and the “Trump effect”",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/03/british-council-says-student-recruitment-to-uk-higher-education-will-get-a-boost-this-year-from-south-asia-and-the-trump-effect/",
-      "pubDate": "2026-03-12",
-      "summary": "The British Council’s latest “5 Trends to Watch” report forecasts that student recruitment to UK higher education will increase this year, driven by growing demand from South Asia and the so-called “Trump effect.” The report notes that demand for UK education will remain resilient despite heightened competition from intra-regional mobility in East Asia and a slowdown in student flows from China.",
-      "insight": "This news suggests potential upward pressure on UK student enrolments from South Asia and possible spillover demand from US policy shifts, though the “Trump effect” remains speculative and may reflect sentiment rather than measurable visa or policy changes affecting global student flows.  \nAdmissions teams should track real-time application data from India, Bangladesh, and Pakistan—and monitor US visa processing times and rhetoric around international education—to assess whether perceived instability is translating into tangible enrolment shifts across destination countries.",
+      "title": "How could the Middle East conflict affect TNE?",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/how-could-the-middle-east-conflict-affect-tne/",
+      "pubDate": "2026-03-13",
+      "summary": "The Middle East’s role as a regional hub for international branch campuses may be threatened due to ongoing tensions between Iran and US-backed Israel. This warning comes from an expert cited in an article published by The PIE News.",
+      "insight": "Ongoing Middle East tensions may indirectly dampen student demand from MENA regions if regional instability erodes confidence in nearby international branch campuses or disrupts education pathways, though direct impacts on enrolments in the USA, UK, Australia, and New Zealand remain uncertain and likely mediated by broader geopolitical and economic factors.  \nAdmissions teams should monitor shifts in application volumes and enrolment patterns from key MENA countries, track visa processing timelines and policy updates from relevant governments, and assess whether partner institutions or agents report changing student sentiment or logistical challenges.",
       "impact": "Low",
       "sources": [
-        "China",
-        "South Asia"
+        "MENA"
       ],
-      "dests": [
-        "UK"
-      ],
+      "dests": [],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 8,
+      "relevanceScore": 7,
       "insightSource": "qwen"
     }
   ]
