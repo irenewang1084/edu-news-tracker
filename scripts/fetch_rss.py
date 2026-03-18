@@ -23,33 +23,24 @@ from email.utils import parsedate_to_datetime
 # ── FEEDS ─────────────────────────────────────────────────────────────────────
 FEEDS = [
     # ── Global / International specialist ────────────────────────────────────
-    {"name": "ICEF Monitor",          "url": "https://monitor.icef.com/feed/",                                          "color": "#1a3a5c", "lang": "en"},
-    {"name": "The PIE News",          "url": "https://thepienews.com/feed/",                                            "color": "#7b341e", "lang": "en"},
-    {"name": "Inside Higher Ed",      "url": "https://www.insidehighered.com/rss.xml",                                  "color": "#285e61", "lang": "en"},
-    {"name": "HEPI",                  "url": "https://www.hepi.ac.uk/category/blog/feed/",                              "color": "#4a235a", "lang": "en"},
-    {"name": "Higher Ed Dive",        "url": "https://www.highereddive.com/feeds/news/",                                "color": "#1e5631", "lang": "en"},
-    # NAFSA: world's largest intl education association — US visa/immigration policy RSS
-    {"name": "NAFSA",                 "url": "https://www.nafsa.org/rss-feed.xml?feed=am_news",                         "color": "#0e4d8c", "lang": "en"},
+    {"name": "ICEF Monitor",          "url": "https://monitor.icef.com/feed/",                                           "color": "#1a3a5c", "lang": "en", "trusted": True},
+    {"name": "The PIE News",          "url": "https://thepienews.com/feed/",                                             "color": "#7b341e", "lang": "en", "trusted": True},
+    {"name": "Inside Higher Ed",      "url": "https://www.insidehighered.com/rss.xml",                                   "color": "#285e61", "lang": "en", "trusted": True},
+    {"name": "HEPI",                  "url": "https://www.hepi.ac.uk/category/blog/feed/",                               "color": "#4a235a", "lang": "en", "trusted": True},
+    {"name": "Higher Ed Dive",        "url": "https://www.highereddive.com/feeds/news/",                                 "color": "#1e5631", "lang": "en", "trusted": True},
     # ── China ─────────────────────────────────────────────────────────────────
-    {"name": "Sixth Tone",            "url": "https://www.sixthtone.com/rss",                                           "color": "#922b21", "lang": "en"},
-    {"name": "SCMP (Education)",      "url": "https://www.scmp.com/rss/318207/feed",                                    "color": "#7b241c", "lang": "en"},
-    # Replaces Caixin (403) — China Daily is official EN paper, RSS open access
-    {"name": "China Daily",           "url": "https://www.chinadaily.com.cn/rss/china_rss.xml",                        "color": "#c0392b", "lang": "en"},
+    {"name": "Sixth Tone",            "url": "https://www.sixthtone.com/rss",                                            "color": "#922b21", "lang": "en"},
+    {"name": "SCMP (Education)",      "url": "https://www.scmp.com/rss/318207/feed",                                     "color": "#7b241c", "lang": "en"},
+    {"name": "China Daily",           "url": "https://www.chinadaily.com.cn/rss/china_rss.xml",                         "color": "#c0392b", "lang": "en"},
     # ── India ─────────────────────────────────────────────────────────────────
-    {"name": "Times of India (Edu)",  "url": "https://timesofindia.indiatimes.com/rssfeeds/913168846.cms",              "color": "#d4820a", "lang": "en"},
-    {"name": "The Hindu (Edu)",       "url": "https://www.thehindu.com/education/?service=rss",                        "color": "#145a32", "lang": "en"},
+    {"name": "Times of India (Edu)",  "url": "https://timesofindia.indiatimes.com/rssfeeds/913168846.cms",               "color": "#d4820a", "lang": "en"},
+    {"name": "The Hindu (Edu)",       "url": "https://www.thehindu.com/education/?service=rss",                         "color": "#145a32", "lang": "en"},
     # ── Southeast Asia ────────────────────────────────────────────────────────
-    {"name": "VnExpress (EN)",        "url": "https://e.vnexpress.net/rss/news.rss",                                    "color": "#d35400", "lang": "en"},
-    {"name": "VnExpress (Giáo dục)",  "url": "https://vnexpress.net/rss/giao-duc.rss",                                 "color": "#b94500", "lang": "vi"},
-    # ── West Africa / Global ──────────────────────────────────────────────────
-    # ── Global policy analysis ────────────────────────────────────────────────
-    # LSE Higher Education Blog: UK policy analysis, open access, stable RSS
-    {"name": "LSE HE Blog",           "url": "https://blogs.lse.ac.uk/highereducation/feed/",                           "color": "#1a3a5c", "lang": "en"},
-    # ── MENA ──────────────────────────────────────────────────────────────────
-    # Al-Fanar Media: leading independent HE publication for Arab world (XML cleaned on fetch)
-    {"name": "Al-Fanar Media",        "url": "https://al-fanarmedia.org/feed/",                                         "color": "#0e6655", "lang": "en"},
+    {"name": "VnExpress (EN)",        "url": "https://e.vnexpress.net/rss/news.rss",                                     "color": "#d35400", "lang": "en"},
+    {"name": "VnExpress (Giáo dục)",  "url": "https://vnexpress.net/rss/giao-duc.rss",                                  "color": "#b94500", "lang": "vi"},
+    # ── Latin America ─────────────────────────────────────────────────────────
     {"name": "El País (English)",     "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/english.elpais.com/portada", "color": "#1a5276", "lang": "en"},
-    {"name": "Folha de S.Paulo",      "url": "https://feeds.folha.uol.com.br/educacao/rss091.xml",                     "color": "#154360", "lang": "pt"},
+    {"name": "Folha de S.Paulo",      "url": "https://feeds.folha.uol.com.br/educacao/rss091.xml",                      "color": "#154360", "lang": "pt"},
 ]
 
 # ── URL RESOLVER ──────────────────────────────────────────────────────────────
@@ -387,7 +378,9 @@ def fetch_feed(feed):
 
         full_text = f"{title} {summary}"
         sources, dests, is_edu = classify(full_text)
-        if not is_edu:
+        # Trusted specialist HE sources skip the is_edu keyword filter —
+        # their editorial scope guarantees relevance at the feed level
+        if not is_edu and not feed.get("trusted"):
             continue
 
         impact  = score_impact(title)
