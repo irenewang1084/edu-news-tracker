@@ -1,21 +1,21 @@
 {
-  "updated": "2026-03-18T07:05:39Z",
-  "count": 10,
+  "updated": "2026-03-18T07:17:53Z",
+  "count": 6,
   "totalFetched": 162,
   "articles": [
     {
       "id": 1,
-      "title": "UK rejects visa ban exemption for Chevening scholars",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/uk-rejects-visa-ban-exemption-for-chevening-scholars/",
-      "pubDate": "2026-03-13",
-      "summary": "The UK Home Office has declined internal government requests to exempt Chevening scholars from new restrictions that suspend study visa issuance for applicants from certain countries. These restrictions apply even to individuals selected as “exceptional” Chevening scholars.",
-      "insight": "This decision signals potential reputational and operational challenges for UK universities, as it may erode trust among high-potential applicants from affected countries—though direct demand shifts remain uncertain without data on application volume or alternative destination choices.  \nAdmissions teams should monitor Chevening applicant pipelines from restricted countries, track visa refusal trends, and assess whether peer institutions in the US, Australia, or New Zealand are positioning themselves as more predictable alternatives for elite scholarship candidates.",
-      "impact": "High",
+      "title": "US: Student visa issuances fell by -36% in summer 2025; OPT uncertainty among factors affecting international student demand",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/03/us-student-visa-issuances-fell-by-36-in-summer-2025-opt-uncertainty-among-factors-affecting-international-student-demand/",
+      "pubDate": "2026-03-10",
+      "summary": "US student visa issuances fell by 36% in summer 2025, with uncertainty surrounding the Optional Practical Training (OPT) programme cited as a key factor affecting international student demand. The US government has renewed its focus on the OPT programme, and former Secretary of Homeland Security Kristi Noem, who was replaced on 5 March, had previously responded favourably to Senator Eric…",
+      "insight": "The 36% drop in US student visa issuances during summer 2025—linked partly to OPT uncertainty—suggests growing caution among international applicants, though it remains unclear whether this reflects broader demand erosion, procedural delays, or temporary policy anxiety across key source markets.  \nAdmissions teams should track real-time visa processing data, OPT policy developments, and competitor messaging from the UK, Australia, and New Zealand, while preparing transparent, evidence-based guidance for prospective students on post-study work pathways and application timelines.",
+      "impact": "Low",
       "sources": [],
       "dests": [
-        "UK"
+        "USA"
       ],
       "translated": false,
       "origLang": null,
@@ -24,20 +24,17 @@
     },
     {
       "id": 2,
-      "title": "Why the Government should rethink the emergency visa brake on study visas",
-      "source": "HEPI",
-      "color": "#4a235a",
-      "url": "https://www.hepi.ac.uk/2026/03/18/why-the-government-should-rethink-the-emergency-visa-brake-on-study-visas/",
-      "pubDate": "2026-03-18",
-      "summary": "The UK Government recently announced an “emergency visa brake” restricting study visas for university applicants from Afghanistan, Cameroon, Myanmar, and Sudan. This policy was critiqued in a blog post authored by Sasha Roseneil, Vice-Chancellor and President of the University of Sussex, and published by the Higher Education Policy Institute (HEPI).",
-      "insight": "This UK policy signals potential shifts in global student mobility, as restrictive measures in one major destination may indirectly influence demand patterns—though actual spillover to the US, Australia, or New Zealand depends on how prospective students perceive alternative pathways and visa stability.  \nAdmissions teams should monitor application trends from Afghanistan, Cameroon, Myanmar, and Sudan for early signs of redirected interest, while reviewing messaging around visa certainty, support services, and post-study opportunities to strengthen competitive positioning amid evolving geopolitical concerns.",
-      "impact": "High",
-      "sources": [
-        "Southeast Asia",
-        "West Africa"
-      ],
+      "title": "New Zealand expands post-study work opportunities for international students",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/03/new-zealand-expands-post-study-work-opportunities-for-international-students/",
+      "pubDate": "2026-03-12",
+      "summary": "New Zealand plans to introduce a new Short Term Graduate Work Visa and extend eligibility for the Post Study Work Visa, with implementation scheduled for late 2026. No specific launch date has been confirmed, and the government’s international education strategy emphasizes managed growth over the coming years.",
+      "insight": "New Zealand’s planned 2026 visa reforms—though still undefined in timing and detail—may modestly improve its competitiveness for international students seeking post-study work, particularly from Asia and the Pacific, though demand shifts will depend on implementation fidelity and comparative policy changes elsewhere.  \nAdmissions teams should track New Zealand’s official guidance as late-2026 approaches, benchmark these proposals against evolving UK, Australia, and Canada post-study work rules, and assess whether to adjust messaging for students prioritising graduate employment pathways.",
+      "impact": "Low",
+      "sources": [],
       "dests": [
-        "UK"
+        "New Zealand"
       ],
       "translated": false,
       "origLang": null,
@@ -46,56 +43,59 @@
     },
     {
       "id": 3,
-      "title": "2 Professors Killed in Strike on Lebanese University",
-      "source": "Inside Higher Ed",
-      "color": "#285e61",
-      "url": "https://www.insidehighered.com/news/quick-takes/2026/03/17/2-professors-killed-strike-lebanese-university",
-      "pubDate": "2026-03-17",
-      "summary": "Two professors were killed in a strike on a Lebanese university. The incident occurred on March 17, 2026, and was reported by Emma Whitford.",
-      "insight": "This incident may heighten risk perceptions among prospective students and families from the MENA region, potentially amplifying existing concerns about regional instability and influencing destination preferences—though direct impact on application volumes remains uncertain without corroborating enrollment data.  \nAdmissions teams should monitor inquiries and application trends from Lebanon and neighbouring countries over the next 3–6 months, while reviewing messaging around safety, support services, and crisis response protocols for relevance to current sentiment.",
-      "impact": "High",
-      "sources": [
-        "MENA"
+      "title": "British Council offers masters scholarships in the UK exclusively for women",
+      "source": "Folha de S.Paulo",
+      "color": "#154360",
+      "url": "https://redir.folha.com.br/redir/online/educacao/rss091/*https://www1.folha.uol.com.br/educacao/2026/03/british-council-oferece-bolsas-de-mestrado-no-reino-unido-exclusivas-para-mulheres.shtml",
+      "pubDate": "2026-03-13",
+      "summary": "The British Council has opened applications for full master’s scholarships exclusively for women in science, technology, engineering, and mathematics (STEM). These scholarships are offered through the Women in STEM program and provide places at the University of Warwick and Aston University in England.",
+      "insight": "This initiative signals growing institutional emphasis on gender equity in STEM recruitment, potentially influencing international students’ perceptions of inclusivity and opportunity—though its direct impact on overall demand remains uncertain without data on uptake or spillover effects across other destinations.  \nAdmissions teams should monitor whether similar targeted scholarships emerge in their regions and assess if prospective women in STEM applicants increasingly prioritize equity-focused support, while reviewing current outreach to ensure alignment with evolving diversity expectations.",
+      "impact": "Low",
+      "sources": [],
+      "dests": [
+        "UK"
       ],
-      "dests": [],
-      "translated": false,
-      "origLang": null,
+      "translated": true,
+      "origLang": "pt",
       "relevanceScore": 8,
       "insightSource": "qwen"
     },
     {
       "id": 4,
-      "title": "A policy for allowing foreign universities setting up Indian campuses",
-      "source": "The Hindu (Edu)",
-      "color": "#145a32",
-      "url": "https://www.thehindu.com/education/a-policy-for-allowing-foreign-universities-setting-up-indian-campuses/article70734510.ece",
-      "pubDate": "2026-03-12",
-      "summary": "The Indian government approved a policy in 2023 permitting top-ranked foreign universities to establish campuses in India under specific conditions, including a minimum global ranking threshold and adherence to Indian regulatory frameworks. These campuses must operate as not-for-profit entities, offer programs aligned with India’s higher education standards, and obtain prior approval from the University Grants Commission and other relevant authorities.",
-      "insight": "This policy may gradually reshape demand for outbound Indian students by offering high-quality, globally recognised degrees locally—though its immediate impact on overseas enrolment remains uncertain given limited initial campus approvals and likely modest intake capacity.  \nAdmissions teams should monitor early implementation data—including which universities launch campuses, their programme offerings, and student uptake—to assess whether this becomes a meaningful alternative to studying abroad over the medium term.",
-      "impact": "Medium",
+      "title": "Dozens of international students who won Chevening scholarships were denied visas",
+      "source": "VnExpress (Giáo dục)",
+      "color": "#b94500",
+      "url": "https://vnexpress.net/hang-chuc-du-hoc-sinh-gianh-hoc-bong-chevening-bi-tu-choi-visa-5050541.html",
+      "pubDate": "2026-03-16",
+      "summary": "The UK Home Office denied visa applications for dozens of international students who had been awarded Chevening scholarships from Afghanistan, Cameroon, Myanmar, and Sudan. This decision followed a prior ban on student visas for nationals from these countries.",
+      "insight": "This incident signals potential volatility in UK student visa policy for nationals from high-risk or conflict-affected regions, possibly dampening demand for UK study among students from Afghanistan, Cameroon, Myanmar, and Sudan—though broader implications for global recruitment remain uncertain pending further data on appeal outcomes and policy consistency.  \nAdmissions teams should monitor visa refusal trends and sentiment shifts in these source markets via agent feedback and social listening, while reviewing contingency plans for students whose UK applications face unexpected barriers—particularly those from Southeast Asia and West Africa with overlapping nationality or residency ties.",
+      "impact": "Low",
       "sources": [
-        "India"
+        "Southeast Asia",
+        "West Africa"
       ],
-      "dests": [],
-      "translated": false,
-      "origLang": null,
+      "dests": [
+        "UK"
+      ],
+      "translated": true,
+      "origLang": "vi",
       "relevanceScore": 8,
       "insightSource": "qwen"
     },
     {
       "id": 5,
-      "title": "As Iran retaliates across the Middle East, schools close, students worry, and institutions reassess transnational education",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/03/as-iran-retaliates-across-the-middle-east-schools-close-students-worry-and-institutions-reassess-transnational-education/",
-      "pubDate": "2026-03-12",
-      "summary": "Iran’s retaliatory actions across the Middle East have led to school closures and heightened concerns among students, particularly in the United Arab Emirates, which is facing significant impact due to its close ties with Western nations. The UAE, a major regional education hub and the world’s second-largest transnational education center, is prompting institutions to reassess their international education operations.",
-      "insight": "Iran’s regional retaliation may indirectly dampen outbound student mobility from MENA, especially the UAE, as security concerns and institutional uncertainty could delay or divert applications—though direct causal links to enrolment decisions remain unconfirmed and likely vary by individual circumstance.  \nAdmissions teams should monitor UAE-based school closures, visa processing delays at Western embassies in the region, and shifts in agent sentiment or student inquiries—particularly around safety perceptions and contingency planning for study-abroad timelines.",
+      "title": "UK denies visas to some winners of Chevening, its own most prestigious scholarship",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/education/uk-denies-visas-to-some-winners-of-chevening-its-own-most-prestigious-scholarship-5051208.html",
+      "pubDate": "2026-03-17",
+      "summary": "The UK government has denied student visas to dozens of Chevening Scholarship winners, its most prestigious international scholarship program. This occurred after the UK imposed a blanket ban on student visas from four countries affected by war.",
+      "insight": "This incident signals potential reputational and trust risks for the UK’s international education brand, possibly dampening demand from conflict-affected regions—even if broader visa policy shifts remain uncertain and data on actual enrolment impacts is still emerging.  \nAdmissions teams should monitor visa refusal trends by nationality, track student sentiment in high-risk source markets via surveys or agent feedback, and review contingency messaging around visa reliability—especially when competing with countries promoting stable, predictable pathways.",
       "impact": "Low",
-      "sources": [
-        "MENA"
+      "sources": [],
+      "dests": [
+        "UK"
       ],
-      "dests": [],
       "translated": false,
       "origLang": null,
       "relevanceScore": 8,
@@ -103,99 +103,21 @@
     },
     {
       "id": 6,
-      "title": "How could the Middle East conflict affect TNE?",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/how-could-the-middle-east-conflict-affect-tne/",
-      "pubDate": "2026-03-13",
-      "summary": "The Middle East’s role as a regional hub for international branch campuses may be at risk due to ongoing tensions between Iran and US-backed Israel. This warning comes from an expert cited in an article published by The PIE News titled “How could the Middle East conflict affect TNE?”",
-      "insight": "Ongoing Middle East tensions may indirectly influence international student recruitment by potentially dampening outbound mobility from MENA countries, as regional instability could heighten concerns about safety, travel logistics, and perceptions of Western geopolitical alignment—though empirical evidence of immediate enrolment shifts remains limited.  \nAdmissions teams should monitor visa processing times for MENA applicants, track enrolment trends from key source countries like Saudi Arabia and the UAE, and assess whether partner institutions or agents report shifting student sentiment—not as an urgent crisis, but as part of routine market intelligence.",
+      "title": "UK ELT reports challenging enrolment trends continued through last quarter of 2025",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/03/uk-elt-reports-challenging-enrolment-trends-continued-through-last-quarter-of-2025/",
+      "pubDate": "2026-03-17",
+      "summary": "English UK’s Q4 2025 Quarterly Intelligence Cohort (QUIC) data shows the UK ELT sector continued to face challenging enrolment trends throughout the year. While there was a year-on-year increase in enrolments compared to Q4 2024, overall volumes remained significantly below pre-COVID levels.",
+      "insight": "The UK’s persistently low ELT enrolments—despite a modest YoY Q4 2025 uptick—may reflect broader shifts in international student preferences, tighter visa compliance, or reduced confidence in post-study pathways, though causality remains unclear without granular source-market or policy data.  \nAdmissions teams should track whether declining ELT participation correlates with falling undergraduate/postgraduate applications from key markets like India or Nigeria, and assess if competitors are adjusting scholarship offers or pathway partnerships to capture displaced demand.",
       "impact": "Low",
-      "sources": [
-        "MENA"
+      "sources": [],
+      "dests": [
+        "UK"
       ],
-      "dests": [],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 7,
-      "title": "Why are more foreign students choosing India for higher education",
-      "source": "The Hindu (Edu)",
-      "color": "#145a32",
-      "url": "https://www.thehindu.com/education/why-are-more-foreign-students-choosing-india-for-higher-education/article70742482.ece",
-      "pubDate": "2026-03-14",
-      "summary": "India is attracting more foreign students due to its affordable tuition fees, globally recognized degrees, and English-medium instruction across many universities. Government initiatives like the Study in India programme, improved visa processes, and expanding infrastructure in higher education institutions have also contributed to the rise in international enrolment.",
-      "insight": "India’s growing appeal to foreign students—driven by affordability, English instruction, and policy support—may signal softening demand in traditional Anglophone destinations, though direct substitution remains unproven and likely varies by region, discipline, and student profile.  \nAdmissions teams should monitor enrolment trends among key source markets (e.g., Nigeria, Nepal, Bangladesh) for shifts toward India in undergraduate STEM and management programmes, and assess whether their value propositions—especially cost, post-study work access, and degree recognition—still resonate strongly against emerging alternatives.",
-      "impact": "Low",
-      "sources": [
-        "India"
-      ],
-      "dests": [],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 8,
-      "title": "Indonesia eyes visa overhaul to boost int’l student numbers",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/indonesia-eyes-visa-overhaul-to-boost-intl-student-numbers/",
-      "pubDate": "2026-03-16",
-      "summary": "Indonesia is planning to reform its study visa system to increase the number of international students. This initiative responds to growing internationalisation efforts by other ASEAN countries.",
-      "insight": "Indonesia’s planned study visa reforms may modestly shift regional student mobility patterns, particularly among Southeast Asian applicants weighing cost, proximity, and regulatory ease—though direct impact on Western university enrolments remains uncertain without evidence of reduced outbound intent.  \nAdmissions teams should track Indonesia’s implementation timeline, eligibility criteria, and uptake data over the next 12–18 months, while reviewing their Southeast Asian outreach to ensure value propositions remain competitive against emerging regional alternatives.",
-      "impact": "Low",
-      "sources": [
-        "Southeast Asia"
-      ],
-      "dests": [],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 9,
-      "title": "Caught in the Middle East, Chinese Tourists Scramble for Way Out",
-      "source": "Sixth Tone",
-      "color": "#922b21",
-      "url": "https://www.sixthtone.com/news/1018275/Caught in the Middle East, Chinese Tourists Scramble for Way Out",
-      "pubDate": "2026-03-18",
-      "summary": "Chinese tourists in the Middle East are urgently seeking evacuation as escalating conflict triggers missile alerts, flight cancellations, and cruise disruptions across the region. These developments have severely impacted travel logistics and safety for Chinese nationals currently in the area.",
-      "insight": "While this crisis does not directly alter student recruitment policies, it may indirectly affect Chinese students’ perceptions of regional stability and travel safety—potentially amplifying preference for Western destinations perceived as more secure, though demand shifts remain uncertain without broader economic or diplomatic indicators.  \nAdmissions teams should monitor Chinese student visa application trends, regional embassy advisories, and partner agency sentiment over the next 2–3 months, particularly regarding concerns about transit routes, family reassurance needs, and potential delays in pre-departure preparations.",
-      "impact": "Low",
-      "sources": [
-        "China",
-        "MENA"
-      ],
-      "dests": [],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 10,
-      "title": "11 foreigners face caning in Singapore after overstaying their visas",
-      "source": "VnExpress (EN)",
-      "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/11-foreigners-face-caning-in-singapore-after-overstaying-their-visas-5051634.html",
-      "pubDate": "2026-03-18",
-      "summary": "Eleven Nepalese men in Singapore face up to six months in jail and a minimum of three strokes of the cane for overstaying their visit passes and working illegally at food and beverage outlets. They were arrested during a joint crackdown by Singapore’s immigration and labor authorities.",
-      "insight": "This news may indirectly influence student demand from South Asia, as heightened visibility of Singapore’s strict immigration enforcement could amplify perceptions of risk among prospective students weighing study destinations with similarly stringent visa regimes. While not directly targeting students, it may reinforce regional concerns about compliance burdens and post-study work uncertainties.  \nAdmissions teams should monitor social media sentiment and agent feedback from Nepal and neighbouring countries for shifts in destination preferences or visa-related anxieties, and ensure pre-departure briefings clearly distinguish student visa protections from visit pass rules to preempt misinformation.",
-      "impact": "Low",
-      "sources": [
-        "Southeast Asia",
-        "South Asia"
-      ],
-      "dests": [],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 8,
+      "relevanceScore": 6,
       "insightSource": "qwen"
     }
   ]
