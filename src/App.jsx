@@ -1,38 +1,5 @@
 import { useState, useEffect } from "react";
 
-// ── MEDIA SOURCES for RSS panel ──────────────────────────────────────────────
-const MEDIA_SOURCES = {
-  "🌐 International Specialist": [
-    { name: "ICEF Monitor",        url: "https://monitor.icef.com/feed/",                          color: "#1a3a5c" },
-    { name: "The PIE News",        url: "https://thepienews.com/feed/",                            color: "#7b341e" },
-    { name: "Inside Higher Ed",    url: "https://www.insidehighered.com/rss.xml",                  color: "#285e61" },
-    { name: "HEPI",                url: "https://www.hepi.ac.uk/category/blog/feed/",              color: "#4a235a" },
-    { name: "Higher Ed Dive",      url: "https://www.highereddive.com/feeds/news/",                color: "#1e5631" },
-    { name: "NAFSA",               url: "https://www.nafsa.org/rss-feed.xml?feed=am_news",         color: "#0e4d8c" },
-  ],
-  "🇨🇳 China": [
-    { name: "Sixth Tone",          url: "https://www.sixthtone.com/rss",                           color: "#922b21" },
-    { name: "SCMP (Education)",    url: "https://www.scmp.com/rss/318207/feed",                    color: "#7b241c" },
-    { name: "China Daily",         url: "https://www.chinadaily.com.cn/rss/china_rss.xml",         color: "#c0392b" },
-  ],
-  "🇮🇳 India": [
-    { name: "Times of India",      url: "https://timesofindia.indiatimes.com/rssfeeds/913168846.cms", color: "#d4820a" },
-    { name: "The Hindu (Edu)",     url: "https://www.thehindu.com/education/?service=rss",         color: "#145a32" },
-  ],
-  "🌏 Southeast Asia": [
-    { name: "VnExpress (EN)",      url: "https://e.vnexpress.net/rss/news.rss",                    color: "#d35400" },
-    { name: "VnExpress (Giáo dục)",url: "https://vnexpress.net/rss/giao-duc.rss",                  color: "#b94500" },
-    { name: "LSE HE Blog",         url: "https://blogs.lse.ac.uk/highereducation/feed/",  color: "#1a3a5c" },
-  ],
-  "🌍 MENA": [
-    { name: "Al-Fanar Media",      url: "https://al-fanarmedia.org/feed/",                color: "#0e6655" },
-  ],
-  "🌎 Latin America": [
-    { name: "El País (English)",   url: "https://feeds.elpais.com/mrss-s/pages/ep/site/english.elpais.com/portada", color: "#1a5276" },
-    { name: "Folha de S.Paulo",    url: "https://feeds.folha.uol.com.br/educacao/rss091.xml",      color: "#154360" },
-  ],
-};
-
 const SRC_TAG = {
   China: "#c0392b", "Southeast Asia": "#d35400", India: "#c0820a",
   "South Asia": "#7d3c98", "West Africa": "#1e8449", "Latin America": "#1a5276",
@@ -69,7 +36,6 @@ export default function App() {
   const [loading,     setLoading]     = useState(true);
   const [error,       setError]       = useState("");
   const [fSrc,        setFSrc]        = useState("All");
-  const [showSources, setShowSources] = useState(false);
 
   // Load news.json on mount
   useEffect(() => {
@@ -239,39 +205,6 @@ export default function App() {
             )}
 
             {/* RSS SOURCE PANEL */}
-            <div style={{ marginTop: 28, borderTop: "1px solid #d6d1c8" }}>
-              <button onClick={() => setShowSources(s => !s)} style={{
-                width: "100%", padding: "12px 0", background: "none", border: "none", cursor: "pointer",
-                display: "flex", justifyContent: "space-between", alignItems: "center", fontFamily: "'DM Sans',sans-serif",
-              }}>
-                <span style={{ fontSize: 11, fontWeight: 600, color: "#555", letterSpacing: 1, textTransform: "uppercase" }}>RSS Feed Directory</span>
-                <span style={{ fontSize: 11, color: "#c9a84c", fontFamily: "'DM Sans',sans-serif" }}>{showSources ? "▲ Hide" : "▼ Show all feeds"}</span>
-              </button>
-              {showSources && (
-                <div style={{ paddingBottom: 18, borderTop: "1px solid #e5e0d6" }}>
-                  {Object.entries(MEDIA_SOURCES).map(([group, feeds]) => (
-                    <div key={group} style={{ marginTop: 16 }}>
-                      <div style={{ fontSize: 10, fontWeight: 600, color: "#999", fontFamily: "'DM Sans',sans-serif", letterSpacing: 1.5, textTransform: "uppercase", marginBottom: 8 }}>{group}</div>
-                      <div style={{ display: "flex", flexWrap: "wrap", gap: 6 }}>
-                        {feeds.map(f => (
-                          <a key={f.name} href={f.url} target="_blank" rel="noopener noreferrer" style={{
-                            fontSize: 11, padding: "3px 9px", borderRadius: 2,
-                            border: `1px solid ${f.color}55`,
-                            color: f.color, fontFamily: "'DM Sans',sans-serif", textDecoration: "none",
-                          }}>{f.name} ↗</a>
-                        ))}
-                      </div>
-                    </div>
-                  ))}
-                  <div style={{ marginTop: 16, padding: "12px 14px", borderLeft: "2px solid #e5e0d6", fontSize: 12, color: "#666", fontFamily: "'DM Sans',sans-serif", lineHeight: 1.7 }}>
-                    <strong>Get a daily email digest:</strong> Paste any RSS link into{" "}
-                    <a href="https://feedly.com" target="_blank" rel="noopener noreferrer" style={{ color: "#c9a84c" }}>Feedly</a> or{" "}
-                    <a href="https://www.inoreader.com" target="_blank" rel="noopener noreferrer" style={{ color: "#c9a84c" }}>Inoreader</a>
-                    {" "}→ enable "Daily Digest Email".
-                  </div>
-                </div>
-              )}
-            </div>
           </>
         )}
 
