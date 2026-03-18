@@ -211,7 +211,7 @@ export default function App() {
         {/* FOOTER */}
         <footer style={{ marginTop: 20, paddingTop: 14, borderTop: "1px solid #e5e0d6", display: "flex", justifyContent: "space-between", flexWrap: "wrap", gap: 8 }}>
           <div style={{ fontSize: 11, color: "#ccc", fontFamily: "'DM Sans',sans-serif" }}>
-            Caixin · Sixth Tone · ICEF Monitor · The PIE News · Times Higher Ed · Guardian Nigeria · and more
+            ICEF Monitor · The PIE News · China Daily · VNExpress · Times of India · and more
           </div>
           <div style={{ fontSize: 11, color: "#ccc", fontFamily: "'DM Sans',sans-serif" }}>For reference only · verify with official sources</div>
         </footer>
