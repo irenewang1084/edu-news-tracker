@@ -472,19 +472,25 @@ def qwen_select_top(articles, api_key, prev_urls, top_n=10):
     prompt = (
         "You are a senior international student recruitment strategist advising university "
         "admissions teams in the USA, UK, Australia, and New Zealand.\n\n"
-        "Score each article 1–10 using these STRICT criteria:\n"
-        "- Score 8–10: Directly affects international student recruitment — visa/immigration policy, "
-        "international enrolment data, compliance changes, geopolitical risks to source markets "
-        "(China, India, Southeast Asia, South Asia, West Africa, Latin America, MENA), "
-        "or destination country policy shifts (USA, UK, Canada, Australia, NZ).\n"
-        "- Score 5–7: Indirectly relevant — higher education trends that may influence "
-        "international student demand or perception of destination countries.\n"
-        "- Score 1–4: NOT relevant — domestic-only education news, single-university internal "
-        "affairs, local student incidents, campus lifestyle, sports, cultural events, "
-        "anything that does not affect cross-border student flows.\n\n"
-        "STRICT RULE: If the article does not explicitly mention international students, "
-        "foreign students, student visas, or a named source/destination country in the context "
-        "of student mobility, score it 4 or below.\n\n"
+        "Score each article 1–10 using these STRICT criteria:\n\n"
+        "Score 8–10: Article directly reports on policy, data, or structural changes affecting "
+        "international student recruitment — visa/immigration rule changes, official enrolment "
+        "statistics, government policy announcements on student numbers, compliance requirement "
+        "updates, or funding/scholarship programme changes.\n\n"
+        "Score 5–7: Article reports on higher education trends, institutional strategies, or "
+        "geopolitical developments that have a clear and documented link to international student "
+        "flows — e.g. a country announcing restrictions on foreign degrees, a bilateral education "
+        "agreement, or official data showing enrolment shifts.\n\n"
+        "Score 1–4: Everything else. This includes:\n"
+        "- Isolated criminal incidents, accidents, or safety events involving individuals\n"
+        "- Immigration enforcement actions against workers or tourists (not students)\n"
+        "- Campus conflicts, strikes, protests unrelated to student admissions\n"
+        "- Domestic education news with no cross-border dimension\n"
+        "- Any article where the only link to international students is speculative "
+        "('may influence perceptions', 'could affect sentiment') without direct evidence\n\n"
+        "CRITICAL: Do NOT extrapolate. If the article is about an incident that might indirectly "
+        "affect student perceptions, score it 1–3. Only score 5+ for articles with a direct, "
+        "documented connection to international student recruitment or policy.\n\n"
         f"{article_list}\n\n"
         "Reply with ONLY a JSON array, one object per article, no markdown, no explanation:\n"
         '[{"i":1,"score":8},{"i":2,"score":3}, ...]'
@@ -517,8 +523,8 @@ def qwen_select_top(articles, api_key, prev_urls, top_n=10):
     if repeat_count:
         print(f"  🔄 Freshness penalty applied to {repeat_count} repeated articles")
 
-    # Hard filter: discard anything scored below 5 (not relevant to intl recruitment)
-    eligible = [a for a in articles if a["relevanceScore"] >= 5]
+    # Hard filter: discard anything scored below 6 (not directly relevant to intl recruitment)
+    eligible = [a for a in articles if a["relevanceScore"] >= 6]
     discarded = len(articles) - len(eligible)
     if discarded:
         print(f"  🚫 Discarded {discarded} articles scoring below 5 (not intl-relevant)")
