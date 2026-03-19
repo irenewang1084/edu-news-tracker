@@ -530,25 +530,35 @@ def qwen_select_top(articles, api_key, prev_urls, top_n=10):
         print(f"  🚫 Discarded {discarded} articles scoring below 6 (not intl-relevant)")
 
     # Topic deduplication: remove articles covering the same story from different sources.
-    # Two articles are considered duplicates if they share 3+ significant words in their titles.
+    # Two articles are considered duplicates if they share 2+ significant words OR
+    # share any capitalised proper noun (named entity like Chevening, SEVIS, etc.)
     eligible.sort(key=lambda a: a["relevanceScore"], reverse=True)
     deduped = []
-    seen_topics = []  # list of word-sets from titles already selected
+    seen_topics = []   # list of (word_set, proper_noun_set) tuples
 
     def _title_words(title):
         stopwords = {"the","a","an","in","on","of","to","for","and","or","as","is","are",
                      "was","were","at","by","with","its","has","have","been","that","this",
-                     "from","be","it","but","not","also","after","over","about","will","new"}
-        return {w for w in re.sub(r"[^a-z ]", "", title.lower()).split()
-                if w not in stopwords and len(w) > 3}
+                     "from","be","it","but","not","also","after","over","about","will","new",
+                     "how","who","what","why","when","some","says","said","uk","us","eu"}
+        common = {w for w in re.sub(r"[^a-z ]", "", title.lower()).split()
+                  if w not in stopwords and len(w) > 3}
+        # Proper nouns: capitalised words (not at sentence start) — e.g. Chevening, SEVIS
+        proper = {w for w in re.findall(r'\b[A-Z][a-zA-Z]{2,}\b', title)}
+        return common, proper
 
     dup_count = 0
     for a in eligible:
-        words = _title_words(a["title"])
-        is_dup = any(len(words & seen) >= 3 for seen in seen_topics)
+        common, proper = _title_words(a["title"])
+        is_dup = False
+        for seen_common, seen_proper in seen_topics:
+            # Duplicate if 2+ common words match OR any proper noun matches
+            if len(common & seen_common) >= 2 or (proper & seen_proper):
+                is_dup = True
+                break
         if not is_dup:
             deduped.append(a)
-            seen_topics.append(words)
+            seen_topics.append((common, proper))
         else:
             dup_count += 1
 
