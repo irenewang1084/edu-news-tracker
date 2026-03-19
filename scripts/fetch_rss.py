@@ -527,10 +527,35 @@ def qwen_select_top(articles, api_key, prev_urls, top_n=10):
     eligible = [a for a in articles if a["relevanceScore"] >= 6]
     discarded = len(articles) - len(eligible)
     if discarded:
-        print(f"  🚫 Discarded {discarded} articles scoring below 5 (not intl-relevant)")
+        print(f"  🚫 Discarded {discarded} articles scoring below 6 (not intl-relevant)")
 
+    # Topic deduplication: remove articles covering the same story from different sources.
+    # Two articles are considered duplicates if they share 3+ significant words in their titles.
     eligible.sort(key=lambda a: a["relevanceScore"], reverse=True)
-    selected = eligible[:top_n]
+    deduped = []
+    seen_topics = []  # list of word-sets from titles already selected
+
+    def _title_words(title):
+        stopwords = {"the","a","an","in","on","of","to","for","and","or","as","is","are",
+                     "was","were","at","by","with","its","has","have","been","that","this",
+                     "from","be","it","but","not","also","after","over","about","will","new"}
+        return {w for w in re.sub(r"[^a-z ]", "", title.lower()).split()
+                if w not in stopwords and len(w) > 3}
+
+    dup_count = 0
+    for a in eligible:
+        words = _title_words(a["title"])
+        is_dup = any(len(words & seen) >= 3 for seen in seen_topics)
+        if not is_dup:
+            deduped.append(a)
+            seen_topics.append(words)
+        else:
+            dup_count += 1
+
+    if dup_count:
+        print(f"  🔁 Removed {dup_count} duplicate-topic articles (kept highest scorer per story)")
+
+    selected = deduped[:top_n]
     fresh = sum(1 for a in selected if a["url"] not in prev_urls)
     print(f"  ✓ Top {len(selected)} selected — {fresh} new, {len(selected)-fresh} repeated "
           f"(scores: {[a['relevanceScore'] for a in selected]})")
