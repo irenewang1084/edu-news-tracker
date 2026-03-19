@@ -1,18 +1,18 @@
 {
-  "updated": "2026-03-19T05:42:30Z",
-  "count": 7,
-  "totalFetched": 162,
+  "updated": "2026-03-19T06:49:39Z",
+  "count": 9,
+  "totalFetched": 161,
   "articles": [
     {
       "id": 1,
-      "title": "Dozens of international students who won Chevening scholarships were denied visas",
-      "source": "VnExpress (Giáo dục)",
-      "color": "#b94500",
-      "url": "https://vnexpress.net/hang-chuc-du-hoc-sinh-gianh-hoc-bong-chevening-bi-tu-choi-visa-5050541.html",
-      "pubDate": "2026-03-16",
-      "summary": "The UK Home Office denied visa applications for dozens of international students who had been awarded Chevening scholarships from Afghanistan, Cameroon, Myanmar, and Sudan. This decision followed a prior ban on student visas for nationals from these countries.",
-      "insight": "This incident signals potential volatility in UK student visa policy for nationals from high-risk or conflict-affected regions, possibly dampening demand for UK study among students from Afghanistan, Cameroon, Myanmar, and Sudan—and indirectly affecting perceptions across broader Southeast Asian and West African markets.  \nAdmissions teams should monitor official visa refusal trends, consult agents in affected source countries for sentiment shifts, and assess whether increased inquiries from these regions are emerging for alternative destinations like the US, Australia, or New Zealand.",
-      "impact": "Low",
+      "title": "Why the Government should rethink the emergency visa brake on study visas",
+      "source": "HEPI",
+      "color": "#4a235a",
+      "url": "https://www.hepi.ac.uk/2026/03/18/why-the-government-should-rethink-the-emergency-visa-brake-on-study-visas/",
+      "pubDate": "2026-03-18",
+      "summary": "The UK Government recently announced an ‘emergency visa brake’ on study visas for university applicants from Afghanistan, Cameroon, Myanmar, and Sudan. This policy was critiqued in a blog post authored by Sasha Roseneil, Vice-Chancellor and President of the University of Sussex, and published by HEPI.",
+      "insight": "This UK policy signals potential shifts in student demand from Afghanistan, Cameroon, Myanmar, and Sudan, possibly increasing interest in alternative destinations like the US, Australia, and New Zealand—though actual spillover depends on regional awareness, eligibility, and competing visa frameworks.  \nAdmissions teams should monitor application trends from these four countries and adjacent regions (e.g., West Africa, Southeast Asia), while reviewing their outreach messaging, scholarship offerings, and visa support services to ensure responsiveness to evolving geopolitical mobility constraints.",
+      "impact": "High",
       "sources": [
         "Southeast Asia",
         "West Africa"
@@ -20,80 +20,23 @@
       "dests": [
         "UK"
       ],
-      "translated": true,
-      "origLang": "vi",
-      "relevanceScore": 9,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 2,
-      "title": "UK denies visas to some winners of Chevening, its own most prestigious scholarship",
-      "source": "VnExpress (EN)",
-      "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/education/uk-denies-visas-to-some-winners-of-chevening-its-own-most-prestigious-scholarship-5051208.html",
-      "pubDate": "2026-03-17",
-      "summary": "The UK government has denied student visas to dozens of Chevening Scholarship winners, its most prestigious international scholarship program. This occurred after the UK imposed a blanket ban on student visas from four countries affected by war.",
-      "insight": "This incident signals potential reputational and trust risks for the UK’s international education brand, possibly dampening demand from conflict-affected regions and amplifying scrutiny of visa policy consistency—though broader enrolment impacts remain uncertain pending data on affected cohorts and alternative destination uptake.  \nAdmissions teams should monitor shifts in application volumes from high-risk source countries, track competitor messaging around visa reliability, and assess whether institutional support services need strengthening for students navigating geopolitical visa uncertainty.",
-      "impact": "Low",
-      "sources": [],
-      "dests": [
-        "UK"
-      ],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 9,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 3,
-      "title": "New Zealand introduces new six-month graduate work visa",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/new-zealand-introduces-new-six-month-graduate-work-visa/",
-      "pubDate": "2026-03-18",
-      "summary": "The New Zealand government has introduced a new six-month graduate work visa as part of its effort to expand the international education sector. This visa provides a pathway for international graduates to work in New Zealand after completing their studies.",
-      "insight": "This policy signals New Zealand’s intent to strengthen its appeal to international students by enhancing post-study work options, potentially influencing student choice—though direct impact on demand for US, UK or Australian institutions remains uncertain amid broader economic and geopolitical factors.  \nAdmissions teams should monitor enrolment trends among students from key source markets (e.g., India, China, Nepal) applying to NZ institutions, while assessing whether their own post-study work offerings remain competitive in messaging and duration.",
-      "impact": "Low",
-      "sources": [],
-      "dests": [
-        "New Zealand"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 9,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 4,
-      "title": "British Council offers masters scholarships in the UK exclusively for women",
-      "source": "Folha de S.Paulo",
-      "color": "#154360",
-      "url": "https://redir.folha.com.br/redir/online/educacao/rss091/*https://www1.folha.uol.com.br/educacao/2026/03/british-council-oferece-bolsas-de-mestrado-no-reino-unido-exclusivas-para-mulheres.shtml",
-      "pubDate": "2026-03-13",
-      "summary": "The British Council has opened applications for full master’s scholarships exclusively for women in science, technology, engineering, and mathematics (STEM). These scholarships are offered through the Women in STEM program and provide places at the University of Warwick and Aston University in England.",
-      "insight": "This initiative signals growing institutional and donor emphasis on gender equity in STEM education, potentially influencing international students’ perceptions of inclusivity and opportunity—though direct impact on overall demand remains uncertain without evidence of broader policy shifts or parallel programs.  \nAdmissions teams should monitor uptake and demographic profiles of applicants to similar targeted scholarships, as well as source-market commentary on gender-inclusive education access, to inform segmentation strategies and partnership development with organisations like the British Council.",
-      "impact": "Low",
-      "sources": [],
-      "dests": [
-        "UK"
-      ],
-      "translated": true,
-      "origLang": "pt",
       "relevanceScore": 8,
       "insightSource": "qwen"
     },
     {
-      "id": 5,
-      "title": "Hong Kong to establish global version of university entrance exam on pilot basis",
-      "source": "SCMP (Education)",
-      "color": "#7b241c",
-      "url": "https://www.scmp.com/news/hong-kong/education/article/3347067/hong-kong-establish-global-version-university-entrance-exam-pilot-basis?utm_source=rss_feed",
-      "pubDate": "2026-03-18",
-      "summary": "Hong Kong’s education authorities plan to pilot an internationally benchmarked version of the city’s Diploma of Secondary Education (DSE) exam to enable foreign students to apply for admission to higher education institutions in Hong Kong and mainland China. Technical explorations and studies with relevant bodies on developing this international DSE version are currently underway, according to Secretary for Education Christine Choi Yuk-lin.",
-      "insight": "Hong Kong’s pilot international DSE may gradually diversify global student pathways to Chinese-speaking higher education, potentially affecting demand for Anglophone degrees—though its scale, recognition, and uptake by foreign students remain uncertain and likely years from material impact.  \nAdmissions teams should monitor the pilot’s rollout timeline, participating institutions, and accreditation outcomes, particularly how mainland Chinese universities adopt it, as early signals could inform regional recruitment positioning and articulation pathway reviews.",
-      "impact": "Low",
+      "id": 2,
+      "title": "A policy for allowing foreign universities setting up Indian campuses",
+      "source": "The Hindu (Edu)",
+      "color": "#145a32",
+      "url": "https://www.thehindu.com/education/a-policy-for-allowing-foreign-universities-setting-up-indian-campuses/article70734510.ece",
+      "pubDate": "2026-03-12",
+      "summary": "The Indian government approved a policy in 2023 permitting top-ranked foreign universities to establish campuses in India under specific conditions, including a minimum global ranking threshold and adherence to Indian regulatory frameworks. These campuses must operate as not-for-profit entities, offer programs aligned with India’s higher education standards, and obtain prior approval from the University Grants Commission and other relevant authorities.",
+      "insight": "This policy may gradually reshape demand for outbound Indian students by offering high-quality, globally recognised degrees locally—though its immediate impact on overseas enrolment remains uncertain given limited initial campus approvals and likely modest intake capacity.  \nAdmissions teams should monitor early implementation data—including which universities launch campuses, their programme offerings, and student uptake—to assess whether this becomes a meaningful alternative to studying abroad over the medium term.",
+      "impact": "Medium",
       "sources": [
-        "China"
+        "India"
       ],
       "dests": [],
       "translated": false,
@@ -102,7 +45,45 @@
       "insightSource": "qwen"
     },
     {
-      "id": 6,
+      "id": 3,
+      "title": "Indonesia eyes visa overhaul to boost int’l student numbers",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/indonesia-eyes-visa-overhaul-to-boost-intl-student-numbers/",
+      "pubDate": "2026-03-16",
+      "summary": "Indonesia is planning to reform its study visa system to increase the number of international students. This initiative responds to growing internationalisation efforts by other ASEAN countries.",
+      "insight": "Indonesia’s planned study visa reforms may modestly shift regional student mobility patterns, particularly among Southeast Asian applicants weighing cost, proximity, and regulatory ease—though direct impact on Western university enrolments remains uncertain without evidence of reduced outbound intent.  \nAdmissions teams should track Indonesia’s implementation timeline, eligibility criteria, and uptake data over the next 12–18 months, while reviewing their Southeast Asian outreach to ensure value propositions remain competitive against emerging regional alternatives.",
+      "impact": "Low",
+      "sources": [
+        "Southeast Asia"
+      ],
+      "dests": [],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 4,
+      "title": "Why are more foreign students choosing India for higher education",
+      "source": "The Hindu (Edu)",
+      "color": "#145a32",
+      "url": "https://www.thehindu.com/education/why-are-more-foreign-students-choosing-india-for-higher-education/article70742482.ece",
+      "pubDate": "2026-03-14",
+      "summary": "India is attracting more foreign students due to its affordable tuition fees, globally recognized degrees, and the growing number of English-taught programs across universities. Government initiatives like the Study in India program and streamlined visa processes have also contributed to the rise in international student enrollment.",
+      "insight": "India’s growing appeal to foreign students—driven by affordability, English-taught programs, and supportive policies—suggests potential softening in demand for traditional Anglophone destinations, particularly among cost-sensitive applicants from Asia and Africa, though direct substitution remains unproven.  \nAdmissions teams should track enrollment trends among students from India’s key source markets (e.g., Nigeria, Nepal, Bangladesh) and assess whether competitors are adjusting pricing, scholarship offerings, or pathway partnerships in response to India’s strengthened positioning.",
+      "impact": "Low",
+      "sources": [
+        "India"
+      ],
+      "dests": [],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 7,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 5,
       "title": "US: Student visa issuances fell by -36% in summer 2025; OPT uncertainty among factors affecting international student demand",
       "source": "ICEF Monitor",
       "color": "#1a3a5c",
@@ -121,14 +102,74 @@
       "insightSource": "qwen"
     },
     {
-      "id": 7,
+      "id": 6,
       "title": "New Zealand expands post-study work opportunities for international students",
       "source": "ICEF Monitor",
       "color": "#1a3a5c",
       "url": "https://monitor.icef.com/2026/03/new-zealand-expands-post-study-work-opportunities-for-international-students/",
       "pubDate": "2026-03-12",
       "summary": "New Zealand plans to introduce a new Short Term Graduate Work Visa and extend eligibility for the Post Study Work Visa, with implementation scheduled for late 2026. No specific launch date has been confirmed, and the government’s international education strategy emphasizes managed growth over the coming years.",
-      "insight": "New Zealand’s planned 2026 visa expansions signal a strategic effort to retain talent post-graduation, potentially increasing its appeal—especially among students from Asia and the Pacific—though actual demand shifts depend on implementation details, global mobility trends, and comparative policy changes elsewhere.  \nAdmissions teams should track New Zealand’s final policy design, timing, and eligibility criteria, while benchmarking against evolving work rights in the US (OPT), UK (Graduate Route), and Australia (TSS/485 pathways) to refine messaging and recruitment positioning ahead of student decision cycles.",
+      "insight": "New Zealand’s planned 2026 visa reforms signal a strategic effort to retain talent post-study, potentially strengthening its appeal—especially among students from Asia and the Pacific—though actual demand shifts depend on implementation details and concurrent policy changes elsewhere.  \nAdmissions teams should track New Zealand’s final visa criteria, regional marketing responses, and comparative post-study work offerings in Australia, the UK, and Canada, as these will shape student decision-making amid tightening global mobility pathways.",
+      "impact": "Low",
+      "sources": [],
+      "dests": [
+        "New Zealand"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 6,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 7,
+      "title": "Dozens of international students who won Chevening scholarships were denied visas",
+      "source": "VnExpress (Giáo dục)",
+      "color": "#b94500",
+      "url": "https://vnexpress.net/hang-chuc-du-hoc-sinh-gianh-hoc-bong-chevening-bi-tu-choi-visa-5050541.html",
+      "pubDate": "2026-03-16",
+      "summary": "The UK Home Office denied visa applications for dozens of international students who had been awarded Chevening scholarships from Afghanistan, Cameroon, Myanmar, and Sudan. This decision followed a prior ban on student visas for nationals from these countries.",
+      "insight": "This incident signals potential volatility in UK visa policy toward students from high-risk or conflict-affected regions, possibly dampening demand for UK study among nationals from Afghanistan, Cameroon, Myanmar, and Sudan—and indirectly affecting perceptions across broader Southeast Asian and West African markets.  \nAdmissions teams should monitor UK Home Office guidance updates, track application and refusal trends by nationality, and assess whether affected students are redirecting applications to alternative destinations like the US, Australia, or New Zealand amid shifting policy sentiment.",
+      "impact": "Low",
+      "sources": [
+        "Southeast Asia",
+        "West Africa"
+      ],
+      "dests": [
+        "UK"
+      ],
+      "translated": true,
+      "origLang": "vi",
+      "relevanceScore": 6,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 8,
+      "title": "UK denies visas to some winners of Chevening, its own most prestigious scholarship",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/education/uk-denies-visas-to-some-winners-of-chevening-its-own-most-prestigious-scholarship-5051208.html",
+      "pubDate": "2026-03-17",
+      "summary": "The UK government has denied student visas to dozens of Chevening Scholarship winners, its most prestigious international scholarship program. This occurred after the UK imposed a blanket ban on student visas from four countries affected by war.",
+      "insight": "This incident signals potential reputational and trust risks for the UK’s international education brand, possibly dampening demand from conflict-affected regions—even if broader visa policy shifts remain uncertain, it may amplify perceptions of unpredictability in UK immigration pathways.  \nAdmissions teams should monitor application trends from high-risk source countries, track official visa guidance updates, and assess whether peer institutions are adjusting outreach or support services for students navigating complex geopolitical barriers to study.",
+      "impact": "Low",
+      "sources": [],
+      "dests": [
+        "UK"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 6,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 9,
+      "title": "New Zealand introduces new six-month graduate work visa",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/new-zealand-introduces-new-six-month-graduate-work-visa/",
+      "pubDate": "2026-03-18",
+      "summary": "The New Zealand government has introduced a new six-month graduate work visa as part of its effort to expand the international education sector. This visa provides a pathway for international graduates to work in New Zealand after completing their studies.",
+      "insight": "This policy signals New Zealand’s intent to strengthen its appeal to international students by enhancing post-study work options, potentially influencing student choice—though direct impact on demand for US, UK or Australian institutions remains uncertain amid broader economic and geopolitical factors.  \nAdmissions teams should monitor enrolment trends among students from key source markets (e.g., India, China, Nepal) applying to NZ institutions, while assessing whether their own post-study work offerings remain competitive in messaging and duration.",
       "impact": "Low",
       "sources": [],
       "dests": [
