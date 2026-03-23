@@ -1,17 +1,36 @@
 {
-  "updated": "2026-03-22T05:37:14Z",
+  "updated": "2026-03-23T05:57:55Z",
   "count": 7,
-  "totalFetched": 160,
+  "totalFetched": 167,
   "articles": [
     {
       "id": 1,
-      "title": "New Zealand introduces new six-month graduate work visa",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/new-zealand-introduces-new-six-month-graduate-work-visa/",
-      "pubDate": "2026-03-18",
-      "summary": "The New Zealand government has introduced a new six-month graduate work visa as part of its effort to expand the international education sector. This visa provides a pathway for international graduates to work in New Zealand after completing their studies.",
-      "insight": "This policy signals New Zealand’s intent to strengthen its appeal to international students by enhancing post-study work options, potentially influencing student choice—though direct impact on demand for US, UK or Australian institutions remains uncertain amid broader economic and geopolitical factors.  \nAdmissions teams should monitor enrolment trends among students from key source markets (e.g., India, China, Nepal) applying to NZ institutions, while assessing whether their own post-study work offerings remain competitive in messaging and duration.",
+      "title": "US: Student visa issuances fell by -36% in summer 2025; OPT uncertainty among factors affecting international student demand",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/03/us-student-visa-issuances-fell-by-36-in-summer-2025-opt-uncertainty-among-factors-affecting-international-student-demand/",
+      "pubDate": "2026-03-10",
+      "summary": "US student visa issuances fell by 36% in summer 2025, with uncertainty surrounding the Optional Practical Training (OPT) programme cited as a key factor affecting international student demand. The US government has renewed its focus on the OPT programme, and former Secretary of Homeland Security Kristi Noem, who was replaced on 5 March, had previously responded favourably to Senator Eric…",
+      "insight": "The 36% drop in US student visa issuances during summer 2025—linked partly to OPT uncertainty—suggests growing caution among international applicants, though it remains unclear whether this reflects temporary policy anxiety or a deeper, sustained shift in destination preferences across key source markets.  \nAdmissions teams should track real-time application and enrolment trends by region and programme level, while closely monitoring US regulatory developments around OPT, visa processing timelines, and comparative messaging from peer destinations to assess evolving competitive positioning.",
+      "impact": "Low",
+      "sources": [],
+      "dests": [
+        "USA"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 9,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 2,
+      "title": "New Zealand expands post-study work opportunities for international students",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/03/new-zealand-expands-post-study-work-opportunities-for-international-students/",
+      "pubDate": "2026-03-12",
+      "summary": "New Zealand plans to introduce a new Short Term Graduate Work Visa and extend eligibility for the Post Study Work Visa, with implementation scheduled for late 2026. No specific launch date has been confirmed, and the government’s international education strategy emphasizes managed growth over the coming years.",
+      "insight": "New Zealand’s planned 2026 visa reforms signal a strategic effort to retain talent post-study, potentially strengthening its appeal—especially among students from Asia and the Pacific—though actual demand shifts depend on implementation details and concurrent policy changes elsewhere.  \nAdmissions teams should track New Zealand’s final visa criteria, regional marketing responses, and comparative post-study work offerings in Australia, the UK, and Canada, as these will shape student decision-making amid tightening global mobility pathways.",
       "impact": "Low",
       "sources": [],
       "dests": [
@@ -23,40 +42,18 @@
       "insightSource": "qwen"
     },
     {
-      "id": 2,
-      "title": "Why the Government should rethink the emergency visa brake on study visas",
-      "source": "HEPI",
-      "color": "#4a235a",
-      "url": "https://www.hepi.ac.uk/2026/03/18/why-the-government-should-rethink-the-emergency-visa-brake-on-study-visas/",
-      "pubDate": "2026-03-18",
-      "summary": "The UK Government recently announced an “emergency visa brake” restricting study visas for university applicants from Afghanistan, Cameroon, Myanmar, and Sudan. This policy was critiqued in a blog post authored by Sasha Roseneil, Vice-Chancellor and President of the University of Sussex, and published by the Higher Education Policy Institute (HEPI).",
-      "insight": "This UK policy signals potential shifts in global student mobility, as restrictive measures in one major destination may indirectly increase demand for alternatives like the US, Australia, or New Zealand—though actual enrolment impacts depend on overlapping factors including geopolitical stability and institutional outreach.  \nAdmissions teams should monitor application trends from Afghanistan, Cameroon, Myanmar, and Sudan, track visa processing times and refusal rates in key markets, and assess whether partner agents or universities report heightened interest in non-UK destinations amid growing policy uncertainty.",
-      "impact": "High",
-      "sources": [
-        "Southeast Asia",
-        "West Africa"
-      ],
-      "dests": [
-        "UK"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
       "id": 3,
-      "title": "Narrowing bands of compliance: How the UK’s new RAG system will impact international student recruitment",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/03/narrowing-bands-of-compliance-how-the-uks-new-rag-system-will-impact-international-student-recruitment/",
-      "pubDate": "2026-03-19",
-      "summary": "The UK Home Office has issued draft guidance outlining forthcoming changes to the Basic Compliance Assessment (BCA) framework for universities holding a student sponsor licence, including the introduction of a new red-amber-green (RAG) banding system. This RAG system is designed to assess and categorise institutional compliance levels, potentially resulting in more stringent enforcement measures for non-compliant institutions.",
-      "insight": "The UK’s proposed RAG compliance system may indirectly affect international student demand by amplifying perceptions of regulatory risk, particularly among applicants from high-compliance-sensitivity markets like India and Nigeria—though actual enrolment impacts depend on implementation rigor and parallel visa policy stability.  \nAdmissions teams should monitor Home Office final guidance, institutional RAG bandings of peer universities, and agent/partner sentiment in key source countries, while reviewing contingency plans for shifts in student preference toward jurisdictions with more predictable compliance environments.",
-      "impact": "High",
+      "title": "Study Abroad in NZ: Visa length linked to qualification level and course duration, all you need to know",
+      "source": "Times of India (Edu)",
+      "color": "#d4820a",
+      "url": "https://timesofindia.indiatimes.com/education/news/study-abroad-in-nz-visa-length-linked-to-qualification-level-and-course-duration-all-you-need-to-know/articleshow/129732379.cms",
+      "pubDate": "2026-03-22",
+      "summary": "New Zealand’s Post Study Work Visa allows international graduates to stay and work for up to three years, with the visa length determined by both the qualification level and the official duration of the completed course. Visa validity is fixed based on the original offer of place and approved academic programme, and delays in completing studies do not extend the visa duration.",
+      "insight": "This news reinforces New Zealand’s competitive post-study work offer, potentially influencing student choice—especially among qualification-conscious applicants from Asia and Latin America—though direct demand shifts remain uncertain without parallel data on enrolment trends or comparative policy changes elsewhere.  \nAdmissions teams should monitor NZ’s graduate employment outcomes and visa uptake rates, while reviewing how their own post-study work pathways are positioned in marketing—particularly for master’s and vocational programmes where duration-qualification alignment affects eligibility.",
+      "impact": "Low",
       "sources": [],
       "dests": [
-        "UK"
+        "New Zealand"
       ],
       "translated": false,
       "origLang": null,
@@ -65,32 +62,51 @@
     },
     {
       "id": 4,
-      "title": "Tetr reveals USD $2m scholarship for UK and European students",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/tetr-reveals-usd-2m-scholarship-for-uk-and-european-students/",
-      "pubDate": "2026-03-19",
-      "summary": "Tetr College of Business has announced a USD $2 million scholarship fund for exceptional students from the United Kingdom and Europe. The announcement was first published on The PIE News.",
-      "insight": "This scholarship initiative signals growing competition for high-achieving UK and European students, potentially reflecting tighter post-study work prospects or shifting perceptions of value in traditional destinations—though it’s unclear whether this reflects broader demand softening or targeted institutional differentiation.  \nAdmissions teams should monitor application trends from these regions over the next 12–18 months, particularly in business-related programmes, and assess whether peer institutions respond with similar region-specific financial incentives or enhanced career support offerings.",
+      "title": "British Council offers masters scholarships in the UK exclusively for women",
+      "source": "Folha de S.Paulo",
+      "color": "#154360",
+      "url": "https://redir.folha.com.br/redir/online/educacao/rss091/*https://www1.folha.uol.com.br/educacao/2026/03/british-council-oferece-bolsas-de-mestrado-no-reino-unido-exclusivas-para-mulheres.shtml",
+      "pubDate": "2026-03-13",
+      "summary": "The British Council has opened applications for full master’s scholarships exclusively for women in science, technology, engineering, and mathematics (STEM). These scholarships are offered through the Women in STEM program and provide places at the University of Warwick and Aston University in England.",
+      "insight": "This initiative signals growing institutional emphasis on gender equity in STEM recruitment, potentially influencing international students’ perceptions of inclusivity and opportunity—though its direct impact on overall demand remains uncertain without data on uptake or spillover effects to other destinations.  \nAdmissions teams should monitor whether similar targeted scholarships emerge in their jurisdictions and assess if partner agents or high-achieving female applicants increasingly prioritize equity-focused offerings when comparing destination countries or institutions.",
       "impact": "Low",
       "sources": [],
       "dests": [
         "UK"
       ],
+      "translated": true,
+      "origLang": "pt",
+      "relevanceScore": 7,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 5,
+      "title": "Hong Kong to establish global version of university entrance exam on pilot basis",
+      "source": "SCMP (Education)",
+      "color": "#7b241c",
+      "url": "https://www.scmp.com/news/hong-kong/education/article/3347067/hong-kong-establish-global-version-university-entrance-exam-pilot-basis?utm_source=rss_feed",
+      "pubDate": "2026-03-18",
+      "summary": "Hong Kong’s education authorities plan to pilot an internationally benchmarked version of the city’s Diploma of Secondary Education (DSE) exam to enable foreign students to apply for admission to higher education institutions in Hong Kong and mainland China. Technical explorations and studies with relevant bodies on developing this international DSE version are currently underway, according to Secretary for Education Christine Choi Yuk-lin.",
+      "insight": "Hong Kong’s pilot international DSE may gradually diversify global student pathways to Chinese-speaking higher education, potentially affecting demand for Anglophone degrees—though its scale, recognition, and uptake by foreign students remain uncertain and likely years from material impact.  \nAdmissions teams should monitor the pilot’s rollout timeline, participating institutions, and accreditation outcomes, particularly how mainland Chinese universities adopt it, as early signals could inform regional recruitment positioning and articulation pathway reviews.",
+      "impact": "Low",
+      "sources": [
+        "China"
+      ],
+      "dests": [],
       "translated": false,
       "origLang": null,
       "relevanceScore": 7,
       "insightSource": "qwen"
     },
     {
-      "id": 5,
-      "title": "Vietnamese teen with 9.9 GPA wins one of 20 full-tuition spots worldwide at University of Sydney",
+      "id": 6,
+      "title": "European Math Prize winner joins Fields Medalist Ngo Bao Chau in initiative to curb Vietnam brain drain",
       "source": "VnExpress (EN)",
       "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/education/vietnamese-teen-with-9-9-gpa-wins-one-of-20-full-tuition-spots-worldwide-at-university-of-sydney-5053060.html",
+      "url": "https://e.vnexpress.net/news/news/education/european-math-prize-winner-joins-fields-medalist-ngo-bao-chau-in-initiative-to-curb-vietnam-brain-drain-5053270.html",
       "pubDate": "2026-03-21",
-      "summary": "Dang Huu An, a 19-year-old Vietnamese student with a 9.9 GPA, has been awarded one of approximately 20 full-tuition scholarships offered globally by the University of Sydney this year. The scholarship covers tuition fees for his undergraduate studies at the university.",
-      "insight": "This news signals growing competitiveness for top-tier academic talent in Southeast Asia, where high-achieving students increasingly weigh prestigious, tuition-covered offers from Australia alongside traditional Anglophone destinations—though it’s unclear if this reflects broader demand shifts or isolated elite outcomes.  \nAdmissions teams should monitor application volumes and scholarship uptake trends from Vietnam and neighboring countries, while reviewing how their own merit-based award visibility, regional outreach, and post-study value propositions compare with Sydney’s targeted, high-profile offerings.",
+      "summary": "Phan Thanh Nam, the first Vietnamese national to win the European Mathematical Society (EMS) Prize, is one of six world-class mathematicians who have agreed to regularly return to Vietnam to mentor doctoral students. This initiative was launched at the invitation of Fields Medalist Ngo Bao Chau to help curb Vietnam’s brain drain.",
+      "insight": "This news signals growing academic investment in Vietnam’s higher education ecosystem, potentially tempering outbound student mobility—though its impact on enrolment demand in English-speaking countries remains uncertain and likely gradual, given persistent preferences for global credentials and career pathways abroad.  \nAdmissions teams should monitor Vietnamese PhD applicant volumes and engagement with domestic research initiatives over the next 2–3 years, while assessing whether partnerships with Vietnamese universities or targeted scholarships could strengthen recruitment amid evolving talent retention efforts.",
       "impact": "Low",
       "sources": [
         "Southeast Asia"
@@ -102,41 +118,22 @@
       "insightSource": "qwen"
     },
     {
-      "id": 6,
-      "title": "UK ELT reports challenging enrolment trends continued through last quarter of 2025",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/03/uk-elt-reports-challenging-enrolment-trends-continued-through-last-quarter-of-2025/",
-      "pubDate": "2026-03-17",
-      "summary": "English UK’s Q4 2025 Quarterly Intelligence Cohort (QUIC) data shows the UK ELT sector continued to face challenging enrolment trends throughout the year. While there was a year-on-year increase in enrolments compared to Q4 2024, overall volumes remained significantly below pre-COVID levels.",
-      "insight": "The UK’s persistently low ELT enrolments—despite a modest YoY Q4 2025 uptick—may reflect broader shifts in international student preferences, tighter visa compliance, or reduced confidence in post-study pathways, though causality remains unclear without granular source-market or policy data.  \nAdmissions teams should track whether declining ELT participation correlates with falling undergraduate/postgraduate applications from key markets like India or Nigeria, and assess if competitors are adjusting scholarship offers or pathway partnerships to capture displaced demand.",
-      "impact": "Low",
-      "sources": [],
-      "dests": [
-        "UK"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 6,
-      "insightSource": "qwen"
-    },
-    {
       "id": 7,
-      "title": "‘Continuity and change’: the year ahead for international education in Australia",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/continuity-and-change-the-year-ahead-for-international-education-in-australia/",
-      "pubDate": "2026-03-18",
-      "summary": "Assistant Minister for International Education Julian Hill wrote an article titled “Continuity and change”: the year ahead for international education in Australia for The PIE. The article states that Australia’s international education sector must balance stability with reform to remain competitive.",
-      "insight": "Australia’s emphasis on balancing continuity and change in international education signals potential policy recalibrations—such as visa refinements or sectoral support measures—that could indirectly influence global student perceptions of stability, though direct demand shifts remain uncertain without further data.  \nAdmissions teams should monitor Australian government announcements on student visa settings, post-study work rights, and regional recruitment priorities, while benchmarking against their own market positioning and source-country sentiment trends.",
+      "title": "Vietnamese teen with perfect 9.0 IELTS wins $205,000 scholarship to US tech institute",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/education/vietnamese-teen-with-perfect-9-0-ielts-wins-205-000-scholarship-to-us-tech-institute-5051217.html",
+      "pubDate": "2026-03-21",
+      "summary": "Nguyen Hoang Bao Ngoc, a Vietnamese teenager, achieved a perfect 9.0 score on the IELTS on her first attempt and scored 1,500 on the SAT. She received a full scholarship worth $204,860 to study computer science at the New Jersey Institute of Technology.",
+      "insight": "This high-profile achievement signals growing academic competitiveness among Southeast Asian students, potentially reflecting improved English proficiency training and rising aspirations for elite STEM pathways—though it remains unclear whether such outliers indicate broader regional shifts in application volume or selectivity.  \nAdmissions teams should track IELTS/SAT score distributions and scholarship uptake trends across Vietnam and neighbouring markets, while reviewing how their outreach highlights merit-based financial support for high-achieving STEM candidates from underrepresented Southeast Asian backgrounds.",
       "impact": "Low",
-      "sources": [],
-      "dests": [
-        "Australia"
+      "sources": [
+        "Southeast Asia"
       ],
+      "dests": [],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 6,
+      "relevanceScore": 7,
       "insightSource": "qwen"
     }
   ]
