@@ -1,60 +1,60 @@
 {
-  "updated": "2026-03-26T06:04:40Z",
-  "count": 6,
-  "totalFetched": 177,
+  "updated": "2026-03-27T06:05:04Z",
+  "count": 8,
+  "totalFetched": 186,
   "articles": [
     {
       "id": 1,
-      "title": "Narrowing bands of compliance: How the UK’s new RAG system will impact international student recruitment",
+      "title": "Canada: Government audit finds impact of international student cap far greater than expected",
       "source": "ICEF Monitor",
       "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/03/narrowing-bands-of-compliance-how-the-uks-new-rag-system-will-impact-international-student-recruitment/",
-      "pubDate": "2026-03-19",
-      "summary": "The UK Home Office has issued draft guidance outlining forthcoming changes to the Basic Compliance Assessment (BCA) framework for universities holding a student sponsor licence, including the introduction of a new red-amber-green (RAG) banding system. This RAG system is designed to assess and categorise institutional compliance levels, potentially resulting in more stringent enforcement measures for non-compliant institutions.",
-      "insight": "The UK’s proposed RAG compliance system may indirectly affect international student demand by amplifying perceptions of regulatory risk, particularly among agents and families in key markets like India and Nigeria, though actual enrolment impacts will depend on how strictly—and transparently—the framework is implemented.  \nAdmissions teams should monitor Home Office final guidance, track which institutions receive amber or red ratings, and assess whether partner agents adjust promotion strategies or counselling advice in response to perceived institutional compliance volatility.",
+      "url": "https://monitor.icef.com/2026/03/canada-government-audit-finds-impact-of-international-student-cap-far-greater-than-expected/",
+      "pubDate": "2026-03-26",
+      "summary": "The Office of the Auditor General of Canada (OAG) released an independent audit report assessing the government’s reforms to Canada’s international student programme. The report found that the impact of the international student cap was significantly greater than anticipated.",
+      "insight": "Canada’s unexpected over-cap on international students may indirectly heighten demand for alternatives in the US, UK, Australia, and New Zealand—though actual spillover depends on student awareness, eligibility, and perceived institutional fit, not just policy shifts.  \nAdmissions teams should track application trends from Canada’s top source countries (e.g., India, China, Philippines), monitor visa processing times and policy updates in those markets, and assess whether their outreach messaging resonates with students seeking stability amid global immigration uncertainty.",
       "impact": "High",
+      "sources": [],
+      "dests": [
+        "Canada"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 9,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 2,
+      "title": "Expect further visa “brakes”, UK sector warned",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/expect-further-visa-brakes-uk-sector-warned/",
+      "pubDate": "2026-03-26",
+      "summary": "Sir Steve Smith, an international education champion, has warned that the UK government is likely to expand its study visa ban to include more countries. This warning was reported in an article titled “Expect further visa ‘brakes’, UK sector warned” published by The PIE News.",
+      "insight": "This news signals potential tightening of UK study visa access for students from additional countries, which could indirectly influence global student demand by amplifying perceptions of the UK as less accessible—though actual enrolment shifts will depend on implementation scope and timing.  \nAdmissions teams should monitor UK Home Office announcements and consult agents in high-potential source markets to gauge sentiment shifts, while reviewing their own visa support services and alternative pathway offerings for affected student cohorts.",
+      "impact": "Low",
       "sources": [],
       "dests": [
         "UK"
       ],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 2,
-      "title": "Australian international students are stunned by 'dizzying' visa changes",
-      "source": "VnExpress (Giáo dục)",
-      "color": "#b94500",
-      "url": "https://vnexpress.net/du-hoc-sinh-australia-choang-vang-vi-visa-thay-doi-chong-mat-5050648.html",
-      "pubDate": "2026-03-24",
-      "summary": "Australian international students are expressing shock at a rapid series of unexpected visa policy changes. Experts advise them to carefully reassess their financial and career plans in anticipation of further fluctuations.",
-      "insight": "This news signals potential volatility in Australia’s appeal as a study destination, possibly dampening demand from risk-averse students in key Asian and Middle Eastern markets—though direct spillover to US/UK/NZ enrolments remains uncertain without evidence of broader regional sentiment shifts.  \nAdmissions teams should track real-time application trends from Australia’s top source countries, review messaging around visa stability and post-study work rights, and prepare responsive FAQs—noting that student concerns about policy unpredictability may heighten demand for transparent, long-term planning support.",
-      "impact": "Low",
-      "sources": [],
-      "dests": [
-        "Australia"
-      ],
-      "translated": true,
-      "origLang": "vi",
-      "relevanceScore": 8,
+      "relevanceScore": 9,
       "insightSource": "qwen"
     },
     {
       "id": 3,
-      "title": "“Arbitrary intervention”: UK study visa brake slammed as legal pressure mounts",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/arbitrary-intervention-uk-study-visa-brake-slammed-as-legal-pressure-mounts/",
-      "pubDate": "2026-03-25",
-      "summary": "Delegates at The PIE Live Europe 2026 criticized the UK Home Office’s “emergency brake” policy, which imposes restrictions on study visas for nationals from four countries. The policy faces a legal challenge and is set to be implemented this week.",
-      "insight": "The UK’s emergency brake on study visas for four countries may dampen short-term demand from those markets and amplify perceptions of visa instability, though broader global student mobility trends and alternative destinations’ policies will determine actual enrolment shifts.  \nAdmissions teams should track application volumes and sentiment in the affected countries, review messaging around visa reliability, and assess whether partner agents or pathways programmes need updated guidance—but avoid premature policy changes until legal and implementation clarity emerges.",
+      "title": "Hong Kong to establish global version of university entrance exam on pilot basis",
+      "source": "SCMP (Education)",
+      "color": "#7b241c",
+      "url": "https://www.scmp.com/news/hong-kong/education/article/3347067/hong-kong-establish-global-version-university-entrance-exam-pilot-basis?utm_source=rss_feed",
+      "pubDate": "2026-03-18",
+      "summary": "Hong Kong’s education authorities plan to pilot an internationally benchmarked version of the city’s Diploma of Secondary Education (DSE) exam to enable foreign students to apply for admission to higher education institutions in Hong Kong and mainland China. Technical explorations and studies with relevant bodies on developing this international DSE version are currently underway, according to Secretary for Education Christine Choi Yuk-lin.",
+      "insight": "Hong Kong’s pilot international DSE may gradually diversify global student pathways to Chinese-speaking higher education, potentially affecting demand for Anglophone degrees—though its scale, recognition, and uptake by foreign students remain uncertain and likely years from material impact.  \nAdmissions teams should monitor the pilot’s rollout timeline, participating institutions, and accreditation outcomes, particularly how mainland Chinese universities adopt it, as early signals could inform regional recruitment positioning and articulation pathway reviews.",
       "impact": "Low",
-      "sources": [],
-      "dests": [
-        "UK"
+      "sources": [
+        "China"
       ],
+      "dests": [],
       "translated": false,
       "origLang": null,
       "relevanceScore": 8,
@@ -62,32 +62,32 @@
     },
     {
       "id": 4,
-      "title": "Why philanthropy holds the key to reducing India’s student outflow",
-      "source": "The Hindu (Edu)",
-      "color": "#145a32",
-      "url": "https://www.thehindu.com/education/why-philanthropy-holds-the-key-to-reducing-indias-student-outflow/article70783825.ece",
-      "pubDate": "2026-03-25",
-      "summary": "India loses over 1.2 million students annually to overseas education, costing the country an estimated $12 billion in foreign exchange and resulting in a significant brain drain. The article states that strategic philanthropy—through scholarships, infrastructure development, and faculty support—can strengthen domestic higher education institutions and reduce this outflow by making Indian universities more competitive globally.",
-      "insight": "This news signals potential long-term pressure on outbound student volumes from India, as sustained philanthropic investment in domestic higher education could gradually improve institutional quality and affordability—though the scale and speed of impact remain uncertain given India’s vast and heterogeneous education system.  \nAdmissions teams should monitor trends in Indian scholarship disbursements, NIRF rankings growth, and faculty hiring at top-tier universities, while assessing whether their institutions’ value propositions—such as research opportunities or post-study work pathways—still meaningfully differentiate them amid rising domestic alternatives.",
+      "title": "Australia: Latest enrolment data challenges the government’s assertion of stability for international education this year",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/03/australia-latest-enrolment-data-challenges-the-governments-assertion-of-stability-for-international-education-this-year/",
+      "pubDate": "2026-03-26",
+      "summary": "On 20 March, Australia’s Assistant Minister for International Education, Julian Hill, published a statement titled “Continuity and change: the year ahead for international education,” asserting that international education is a “national strength” and emphasizing policy stability as foundational to its evolution. However, the latest enrolment data contradicts the government’s claim of stability in the sector this year.",
+      "insight": "Australia’s latest enrolment data—showing divergence from official claims of sectoral stability—may indicate softening demand, tightening visa scrutiny, or shifting perceptions among key source markets, though causality remains unclear without granular breakdowns by region and sector.  \nAdmissions teams should track quarterly enrolment trends across Australia’s peer destinations, monitor policy updates on post-study work rights and dependant visas, and assess real-time sentiment shifts in priority markets like India and China through agent feedback and application funnel analytics.",
       "impact": "Low",
-      "sources": [
-        "India"
+      "sources": [],
+      "dests": [
+        "Australia"
       ],
-      "dests": [],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 7,
+      "relevanceScore": 8,
       "insightSource": "qwen"
     },
     {
       "id": 5,
-      "title": "UK ELT reports challenging enrolment trends continued through last quarter of 2025",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/03/uk-elt-reports-challenging-enrolment-trends-continued-through-last-quarter-of-2025/",
-      "pubDate": "2026-03-17",
-      "summary": "English UK’s Q4 2025 Quarterly Intelligence Cohort (QUIC) data shows the UK ELT sector continued to face challenging enrolment trends throughout the year. While there was a year-on-year increase in enrolments compared to Q4 2024, overall volumes remained significantly below pre-COVID levels.",
-      "insight": "The UK’s persistently low ELT enrolments—despite a modest YoY Q4 2025 uptick—may reflect broader shifts in international student preferences, tighter visa compliance, or reduced confidence in post-study pathways, though causality remains unclear without granular source-market or policy data.  \nAdmissions teams should track whether declining ELT participation correlates with falling undergraduate/postgraduate applications from key markets like India or Nigeria, and assess if competitors are adjusting scholarship offers or pathway partnerships to capture displaced demand.",
+      "title": "Home Office to be part of Education Sector Action Group",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/home-office-to-be-part-of-education-sector-action-group/",
+      "pubDate": "2026-03-26",
+      "summary": "Sir Steve Smith, the UK’s international education champion, confirmed that the Home Office and Cabinet Office will join the Education Sector Action Group (ESAG), a ministerially led committee. ESAG is tasked with formulating action plans to deliver the UK’s international education strategy.",
+      "insight": "The Home Office’s inclusion in the UK’s Education Sector Action Group signals stronger cross-departmental coordination on international education policy, potentially influencing visa processing, post-study work rules, or sector-wide promotion—though concrete changes to student demand or conditions remain uncertain pending ESAG’s deliverables.  \nAdmissions teams should track ESAG’s published action plans and Home Office communications for updates on visa guidance, compliance expectations, or marketing initiatives, particularly those targeting high-potential source markets where UK policy shifts could alter competitive positioning relative to the US, Australia, and New Zealand.",
       "impact": "Low",
       "sources": [],
       "dests": [
@@ -95,18 +95,59 @@
       ],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 6,
+      "relevanceScore": 8,
       "insightSource": "qwen"
     },
     {
       "id": 6,
-      "title": "WEEKEND READING: What a decade of student enrolment data reveals about what the UK really studies",
-      "source": "HEPI",
-      "color": "#4a235a",
-      "url": "https://www.hepi.ac.uk/2026/03/21/weekend-reading-what-a-decade-of-student-enrolment-data-reveals-about-what-the-uk-really-studies/",
-      "pubDate": "2026-03-21",
-      "summary": "This article, authored by Dr Fadime Sahin, Senior Lecturer at the University of Portsmouth London, examines UK higher education student enrolment data from 2012/13 onwards to reveal trends in disciplinary study patterns. It highlights how financial pressures, recruitment challenges, and operational issues facing UK universities have made enrolment figures structurally significant for determining which disciplines institutions can sustain.",
-      "insight": "UK universities’ growing reliance on international enrolments to sustain less popular disciplines may intensify competition for students in high-demand source markets, though it remains unclear whether this reflects shifting student preferences or institutional adaptation to financial constraints.  \nAdmissions teams should track subject-specific enrolment trends alongside visa policy updates and regional recruitment data to assess whether certain programmes are being strategically prioritised—or deprioritised—for international intake.",
+      "title": "German education gains interest among families in Ho Chi Minh City",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/education/german-education-gains-interest-among-families-in-ho-chi-minh-city-5055135.html",
+      "pubDate": "2026-03-27",
+      "summary": "International education options are expanding in Vietnam, offering families in Ho Chi Minh City a growing range of curricula. These include British, American, Australian, and International Baccalaureate (IB) programs.",
+      "insight": "The rise of German and other international curricula in Ho Chi Minh City signals growing demand for globally recognized qualifications among Vietnamese families, potentially indicating a longer-term shift toward diversified study destinations—though direct implications for Anglophone university recruitment remain uncertain without evidence of declining interest in English-speaking countries.  \nAdmissions teams should monitor enrolment trends in these new German and IB schools, track alumni progression patterns to English-speaking universities, and assess whether partnerships with local curriculum providers could strengthen early engagement with high-potential students ahead of undergraduate applications.",
+      "impact": "Low",
+      "sources": [
+        "Southeast Asia"
+      ],
+      "dests": [
+        "UK",
+        "Australia"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 7,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 7,
+      "title": "Australian international students are stunned by 'dizzying' visa changes",
+      "source": "VnExpress (Giáo dục)",
+      "color": "#b94500",
+      "url": "https://vnexpress.net/du-hoc-sinh-australia-choang-vang-vi-visa-thay-doi-chong-mat-5050648.html",
+      "pubDate": "2026-03-24",
+      "summary": "Australian international students are expressing shock at a rapid series of unexpected visa policy changes. Experts advise them to carefully reassess their financial and career plans in anticipation of further fluctuations.",
+      "insight": "This news signals potential volatility in Australia’s international education brand, possibly dampening student confidence in its visa stability—though direct demand shifts remain unconfirmed, it may amplify comparative perceptions of policy predictability in the US, UK, and New Zealand.  \nAdmissions teams should track Australian enrolment data by region and cohort, while reviewing messaging around visa support and post-study pathways to ensure clarity and reassurance amid broader global policy uncertainty.",
+      "impact": "Low",
+      "sources": [],
+      "dests": [
+        "Australia"
+      ],
+      "translated": true,
+      "origLang": "vi",
+      "relevanceScore": 6,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 8,
+      "title": "“Arbitrary intervention”: UK study visa brake slammed as legal pressure mounts",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/arbitrary-intervention-uk-study-visa-brake-slammed-as-legal-pressure-mounts/",
+      "pubDate": "2026-03-25",
+      "summary": "Delegates at The PIE Live Europe 2026 criticized the UK Home Office’s “emergency brake” policy, which imposes restrictions on study visas for nationals from four countries. The policy faces a legal challenge and is set to be implemented this week.",
+      "insight": "This UK policy signals potential short-term shifts in student demand from affected countries, though broader implications for global recruitment remain uncertain pending legal outcomes and possible policy recalibration by the Home Office.  \nAdmissions teams should monitor visa approval trends and sentiment shifts among agents and students in the four named countries, while reviewing contingency messaging for applicants concerned about UK study pathways.",
       "impact": "Low",
       "sources": [],
       "dests": [
