@@ -1,21 +1,21 @@
 {
-  "updated": "2026-03-28T05:40:03Z",
-  "count": 10,
-  "totalFetched": 182,
+  "updated": "2026-03-29T06:04:44Z",
+  "count": 8,
+  "totalFetched": 181,
   "articles": [
     {
       "id": 1,
-      "title": "Narrowing bands of compliance: How the UK’s new RAG system will impact international student recruitment",
+      "title": "Canada: Government audit finds impact of international student cap far greater than expected",
       "source": "ICEF Monitor",
       "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/03/narrowing-bands-of-compliance-how-the-uks-new-rag-system-will-impact-international-student-recruitment/",
-      "pubDate": "2026-03-19",
-      "summary": "The UK Home Office has issued draft guidance outlining forthcoming changes to the Basic Compliance Assessment (BCA) framework for universities holding a student sponsor licence, including the introduction of a new red-amber-green (RAG) banding system. This RAG system is designed to assess and categorise institutional compliance levels, potentially resulting in more stringent enforcement measures for non-compliant institutions.",
-      "insight": "The UK’s proposed RAG compliance system may indirectly affect international student demand by amplifying perceptions of regulatory risk, particularly among applicants from high-compliance-sensitivity markets like India and Nigeria—though actual enrolment impacts depend on implementation rigor and parallel visa policy stability.  \nAdmissions teams should monitor Home Office final guidance, institutional RAG bandings for partner UK universities, and shifts in agent sentiment or application volumes from key source countries, using this as one input—not a trigger—for revising recruitment messaging or partnership strategies.",
+      "url": "https://monitor.icef.com/2026/03/canada-government-audit-finds-impact-of-international-student-cap-far-greater-than-expected/",
+      "pubDate": "2026-03-26",
+      "summary": "The Office of the Auditor General of Canada (OAG) released an independent audit report assessing the government’s reforms to Canada’s international student programme. The report found that the impact of the international student cap was significantly greater than anticipated.",
+      "insight": "Canada’s unexpected student cap impact may indirectly influence global student decision-making, as prospective applicants reassess perceptions of policy stability and post-study opportunities—though direct demand shifts to other English-speaking destinations remain unproven and likely vary by region and institution type.  \nAdmissions teams should track application trends from Canada’s top source markets (e.g., India, Nigeria, Philippines), monitor visa processing timelines and refusal rates in their own countries, and assess whether partner agents report heightened student concern about immigration policy volatility.",
       "impact": "High",
       "sources": [],
       "dests": [
-        "UK"
+        "Canada"
       ],
       "translated": false,
       "origLang": null,
@@ -24,14 +24,33 @@
     },
     {
       "id": 2,
-      "title": "IEAA report lays out roadmap for reforming agent regulation",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/ieaa-report-lays-out-roadmap-for-reforming-agent-regulation/",
-      "pubDate": "2026-03-27",
-      "summary": "A new report by the International Education Association of Australia (IEAA) and consultancy Edified proposes sector-led solutions to reform education agent regulation. The report aims to address growing integrity concerns in the international education sector.",
-      "insight": "This IEAA report signals growing sector-wide attention to agent integrity in Australia, which may indirectly influence student trust and application patterns across English-speaking destinations—though direct impacts on US/UK/NZ recruitment remain uncertain without parallel regulatory shifts in those markets.  \nAdmissions teams should monitor whether similar agent regulation reforms emerge in their own countries or key source markets, and assess whether partner agents in high-risk regions proactively adopt enhanced compliance frameworks as a competitive differentiator.",
-      "impact": "Medium",
+      "title": "Hong Kong to establish global version of university entrance exam on pilot basis",
+      "source": "SCMP (Education)",
+      "color": "#7b241c",
+      "url": "https://www.scmp.com/news/hong-kong/education/article/3347067/hong-kong-establish-global-version-university-entrance-exam-pilot-basis?utm_source=rss_feed",
+      "pubDate": "2026-03-18",
+      "summary": "Hong Kong’s education authorities plan to pilot an internationally benchmarked version of the city’s Diploma of Secondary Education (DSE) exam to enable foreign students to apply for admission to higher education institutions in Hong Kong and mainland China. Technical explorations and studies with relevant bodies on developing this international DSE version are currently underway, according to Secretary for Education Christine Choi Yuk-lin.",
+      "insight": "Hong Kong’s pilot international DSE may gradually diversify global student pathways to Chinese-speaking higher education, potentially affecting demand for Anglophone degrees—though its scale, recognition, and uptake by foreign students remain uncertain and likely years from material impact.  \nAdmissions teams should monitor the pilot’s rollout timeline, participating institutions, and accreditation outcomes, particularly how mainland Chinese universities adopt it, as early signals could inform regional recruitment positioning and articulation pathway reviews.",
+      "impact": "Low",
+      "sources": [
+        "China"
+      ],
+      "dests": [],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 3,
+      "title": "Australia: Latest enrolment data challenges the government’s assertion of stability for international education this year",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/03/australia-latest-enrolment-data-challenges-the-governments-assertion-of-stability-for-international-education-this-year/",
+      "pubDate": "2026-03-26",
+      "summary": "On 20 March, Australia’s Assistant Minister for International Education, Julian Hill, released a statement titled “Continuity and change: the year ahead for international education,” asserting that international education is a “national strength” and emphasizing policy stability as foundational to its evolution. However, the latest enrolment data contradicts the government’s claim of stability in the sector this year.",
+      "insight": "Australia’s latest enrolment data—showing divergence from official claims of sectoral stability—may signal softening demand or shifting preferences among key source markets, though it remains unclear whether this reflects temporary policy uncertainty, economic pressures, or longer-term competitiveness concerns.  \nAdmissions teams should track quarterly enrolment trends by origin region, visa grant rates, and competitor messaging from Australian institutions, while benchmarking against parallel shifts in UK, US, and NZ application volumes to assess whether this signals broader regional realignment or isolated policy volatility.",
+      "impact": "Low",
       "sources": [],
       "dests": [
         "Australia"
@@ -42,76 +61,58 @@
       "insightSource": "qwen"
     },
     {
-      "id": 3,
-      "title": "IIT Hyderabad opens fully funded PhD window for global talent under FIRST Fellowship",
-      "source": "Times of India (Edu)",
-      "color": "#d4820a",
-      "url": "https://timesofindia.indiatimes.com/education/news/iit-hyderabad-opens-fully-funded-phd-window-for-global-talent-under-first-fellowship/articleshow/129845937.cms",
-      "pubDate": "2026-03-27",
-      "summary": "IIT Hyderabad has launched the FIRST Fellowship, a fully funded PhD programme specifically for international students. The fellowship provides strong financial support and spans diverse academic disciplines to attract global talent to the institute’s growing research ecosystem.",
-      "insight": "This initiative signals intensified global competition for high-calibre international PhD candidates, particularly from emerging economies, though its direct impact on Western university enrolments remains uncertain without data on applicant overlap or mobility trends.  \nAdmissions teams should monitor whether similar fully funded, discipline-agnostic fellowships emerge in other Global South institutions—and track any shifts in application volumes from key source countries like India, especially among STEM applicants considering alternatives to traditional Anglophone destinations.",
+      "id": 4,
+      "title": "Home Office to be part of Education Sector Action Group",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/home-office-to-be-part-of-education-sector-action-group/",
+      "pubDate": "2026-03-26",
+      "summary": "Sir Steve Smith, the UK’s international education champion, confirmed that the Home Office and Cabinet Office will join the Education Sector Action Group (ESAG), a ministerially led committee. ESAG is tasked with formulating action plans to deliver the UK’s international education strategy.",
+      "insight": "The Home Office’s inclusion in the UK’s Education Sector Action Group signals stronger cross-departmental coordination on international education policy, potentially influencing visa processing, post-study work rules, or sector-wide promotion—though concrete changes to student demand or conditions remain uncertain pending ESAG’s deliverables.  \nAdmissions teams should track ESAG’s published action plans and Home Office communications for updates on visa guidance, compliance expectations, or marketing initiatives, particularly those targeting high-potential source markets where UK policy shifts could affect application volumes or competitor positioning.",
       "impact": "Low",
-      "sources": [
-        "India"
+      "sources": [],
+      "dests": [
+        "UK"
       ],
-      "dests": [],
       "translated": false,
       "origLang": null,
       "relevanceScore": 8,
       "insightSource": "qwen"
     },
     {
-      "id": 4,
-      "title": "UK ELT reports challenging enrolment trends continued through last quarter of 2025",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/03/uk-elt-reports-challenging-enrolment-trends-continued-through-last-quarter-of-2025/",
-      "pubDate": "2026-03-17",
-      "summary": "English UK’s Q4 2025 Quarterly Intelligence Cohort (QUIC) data shows the UK ELT sector continued to face challenging enrolment trends throughout the year. While there was a year-on-year increase in enrolments compared to Q4 2024, overall volumes remained significantly below pre-COVID levels.",
-      "insight": "The UK’s persistently low ELT enrolments—despite a modest YoY Q4 2025 uptick—may reflect broader shifts in international student preferences, tighter visa compliance, or reduced confidence in post-study pathways, though causality remains unclear without granular source-market or policy data.  \nAdmissions teams should track whether declining ELT participation correlates with falling undergraduate/postgraduate applications from key markets like India or Nigeria, and assess if competitors are adjusting scholarship offers or pathway partnerships to capture displaced demand.",
+      "id": 5,
+      "title": "Singapore delays green fuel levy on air travelers amid Middle East conflict",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/environment/singapore-delays-green-fuel-levy-on-air-travelers-amid-middle-east-conflict-5054962.html",
+      "pubDate": "2026-03-27",
+      "summary": "The Civil Aviation Authority of Singapore (CAAS) announced on March 25 that the green jet fuel levy on flights departing from Singapore will be postponed. The delay is attributed to the impact of the ongoing Middle East conflict.",
+      "insight": "The postponement of Singapore’s green jet fuel levy—tied to Middle East instability—may indirectly ease airfare pressure for students from Southeast Asia and MENA, though its direct impact on enrollment decisions remains uncertain amid broader geopolitical and economic factors.  \nAdmissions teams should monitor regional airfare trends, student inquiries from Singapore-linked transit hubs, and sentiment shifts in key source markets, particularly as fuel cost adjustments could influence travel planning timelines or destination preferences over the next 6–12 months.",
       "impact": "Low",
-      "sources": [],
-      "dests": [
-        "UK"
+      "sources": [
+        "Southeast Asia",
+        "MENA"
       ],
+      "dests": [],
       "translated": false,
       "origLang": null,
       "relevanceScore": 7,
       "insightSource": "qwen"
     },
     {
-      "id": 5,
-      "title": "Student Hall brings together foreign universities to help those who want to study abroad",
-      "source": "Folha de S.Paulo",
-      "color": "#154360",
-      "url": "https://redir.folha.com.br/redir/online/educacao/rss091/*https://www1.folha.uol.com.br/educacao/2026/03/salao-do-estudante-reune-universidades-estrangeiras-para-ajudar-quem-quer-estudar-fora.shtml",
-      "pubDate": "2026-03-19",
-      "summary": "The Student Hall event begins on Saturday, March 21, 2026, and will tour Brazil to connect Brazilian students with foreign universities offering undergraduate, postgraduate, and language programs. It is one of the main fairs in Brazil for students seeking international study opportunities.",
-      "insight": "The Student Hall tour signals growing institutionalized demand among Latin American students—particularly Brazilians—for structured pathways to study abroad, though it remains unclear whether this reflects broader regional shifts or localized enthusiasm for specific destination countries.  \nAdmissions teams should monitor participation levels and institutional partnerships at Student Hall 2026, as well as post-event enrollment conversion data, to assess its utility as a recruitment channel amid tightening visa policies and rising competition for high-intent applicants.",
+      "id": 6,
+      "title": "Native tuition waiver changes could open doors to US higher education for thousands, but concerns persist",
+      "source": "Times of India (Edu)",
+      "color": "#d4820a",
+      "url": "https://timesofindia.indiatimes.com/education/news/us-native-tuition-waiver-changes-could-open-doors-to-higher-education-for-thousands-but-concerns-persist/articleshow/129863923.cms",
+      "pubDate": "2026-03-28",
+      "summary": "Starting July 1, 2026, Montana’s American Indian tuition waiver will expand eligibility by removing blood quantum requirements and including unenrolled descendants. Some tribal leaders have raised concerns about the lack of prior consultation, and the state expects increased student enrollment and associated costs, which institutions must absorb within existing budgets.",
+      "insight": "This policy shift reflects broader U.S. efforts to strengthen Indigenous educational access, but its direct impact on international student demand from India remains uncertain—though it may subtly influence perceptions of U.S. inclusivity and equity among Indian families weighing study destinations.  \nAdmissions teams should monitor whether U.S. institutions highlight such domestic equity initiatives in recruitment messaging to Indian students, and assess if parallel policy trends emerge in the UK, Australia, or New Zealand that could shape comparative destination appeal.",
       "impact": "Low",
       "sources": [
-        "Latin America"
+        "India"
       ],
       "dests": [],
-      "translated": true,
-      "origLang": "pt",
-      "relevanceScore": 7,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 6,
-      "title": "WEEKEND READING: What a decade of student enrolment data reveals about what the UK really studies",
-      "source": "HEPI",
-      "color": "#4a235a",
-      "url": "https://www.hepi.ac.uk/2026/03/21/weekend-reading-what-a-decade-of-student-enrolment-data-reveals-about-what-the-uk-really-studies/",
-      "pubDate": "2026-03-21",
-      "summary": "This article, authored by Dr Fadime Sahin, Senior Lecturer at the University of Portsmouth London, examines UK higher education student enrolment data from 2012/13 onwards to reveal trends in disciplinary study patterns. It highlights how financial pressures, recruitment challenges, and operational issues facing UK universities have made enrolment figures structurally significant for determining which disciplines institutions can sustain.",
-      "insight": "UK universities’ growing reliance on international enrolments to sustain less popular disciplines may intensify competition for students in high-demand source markets, though it remains unclear whether this reflects shifting student preferences or institutional adaptation to financial constraints.  \nAdmissions teams should track subject-specific enrolment trends alongside visa policy updates and regional recruitment data to assess whether certain programmes are being strategically prioritised—or deprioritised—for international intake.",
-      "impact": "Low",
-      "sources": [],
-      "dests": [
-        "UK"
-      ],
       "translated": false,
       "origLang": null,
       "relevanceScore": 7,
@@ -119,77 +120,38 @@
     },
     {
       "id": 7,
-      "title": "Why philanthropy holds the key to reducing India’s student outflow",
-      "source": "The Hindu (Edu)",
-      "color": "#145a32",
-      "url": "https://www.thehindu.com/education/why-philanthropy-holds-the-key-to-reducing-indias-student-outflow/article70783825.ece",
-      "pubDate": "2026-03-25",
-      "summary": "India loses over 1.2 million students annually to overseas education, costing the country an estimated $12 billion in foreign exchange and resulting in a significant brain drain. The article states that strategic philanthropy—through scholarships, infrastructure development, and faculty support—can strengthen domestic higher education institutions and reduce this outflow by making Indian universities more competitive globally.",
-      "insight": "This news signals potential long-term pressure on outbound student numbers from India, as sustained philanthropic investment in domestic higher education could gradually improve institutional quality and affordability—though the scale, pace, and equity of impact remain uncertain given India’s vast and heterogeneous education system.  \nAdmissions teams should monitor trends in Indian scholarship disbursement, NIRF rankings growth, and enrolment shifts toward elite private and public universities—while continuing to highlight unique experiential and post-study work value propositions that philanthropy alone cannot replicate domestically.",
+      "title": "Australian universities simultaneously rose in the rankings, approaching the US and UK",
+      "source": "VnExpress (Giáo dục)",
+      "color": "#b94500",
+      "url": "https://vnexpress.net/dai-hoc-australia-dong-loat-thang-hang-ap-sat-my-va-anh-5055946.html",
+      "pubDate": "2026-03-29",
+      "summary": "Australian universities have improved their global rankings across multiple fields, enhancing their international competitiveness. This progress occurred despite the Australian government implementing stricter policies on international students over the past two years.",
+      "insight": "Australian universities’ ranking gains may modestly boost their appeal to international students, particularly in Asia and Latin America, though demand shifts depend more on visa stability, cost-of-living, and post-study work rights than rankings alone.  \nAdmissions teams should track Australian student visa refusal rates, enrolment data by origin country, and competitor messaging—especially how UK/US institutions position themselves against Australia’s perceived value proposition amid tightening immigration policies.",
       "impact": "Low",
-      "sources": [
-        "India"
+      "sources": [],
+      "dests": [
+        "UK",
+        "Australia"
       ],
-      "dests": [],
-      "translated": false,
-      "origLang": null,
+      "translated": true,
+      "origLang": "vi",
       "relevanceScore": 7,
       "insightSource": "qwen"
     },
     {
       "id": 8,
-      "title": "Non-local pupils could face HK$350,000 in fees at Hong Kong semi-private schools",
-      "source": "SCMP (Education)",
-      "color": "#7b241c",
-      "url": "https://www.scmp.com/news/hong-kong/education/article/3347630/non-local-pupils-could-face-hk350000-fees-hong-kong-semi-private-schools?utm_source=rss_feed",
-      "pubDate": "2026-03-23",
-      "summary": "Non-local students may face annual tuition fees of up to HK$350,000 at Hong Kong’s semi-private schools following a policy change allowing these institutions to admit them through additional places, some of which include scholarships. An education consultant noted that this fee exceeds the cost of premium British boarding schools in Malaysia and Thailand, calling it uncompetitive.",
-      "insight": "This development signals potential upward pressure on regional education costs and may subtly influence Southeast Asian families’ cost-benefit calculations when comparing Hong Kong with Western destinations—though direct demand shifts remain uncertain without data on actual enrolment uptake or policy durability.  \nAdmissions teams should monitor HK’s semi-private school intake volumes and scholarship take-up rates over the next 12–18 months, as well as track any corresponding shifts in inquiry patterns or agent feedback from Malaysia, Thailand, and Indonesia.",
-      "impact": "Low",
-      "sources": [
-        "Southeast Asia"
-      ],
-      "dests": [
-        "UK"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 6,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 9,
       "title": "Expect further visa “brakes”, UK sector warned",
       "source": "The PIE News",
       "color": "#7b341e",
       "url": "https://thepienews.com/expect-further-visa-brakes-uk-sector-warned/",
       "pubDate": "2026-03-26",
-      "summary": "Sir Steve Smith, an international education champion, has warned that the UK government is likely to add more countries to its study visa ban. This warning was reported in an article titled “Expect further visa ‘brakes’, UK sector warned” published by The PIE News.",
-      "insight": "This news signals potential tightening of UK study visa access for students from additional countries, which could indirectly shift demand toward alternative destinations like the US, Australia, and New Zealand—though actual enrolment impacts depend on policy scope, implementation timing, and student responsiveness.  \nAdmissions teams should monitor official UK Home Office announcements, track application volume and origin shifts in real time, and assess whether targeted outreach to affected regions—particularly those newly restricted—could support ethical, sustainable recruitment growth.",
+      "summary": "Sir Steve Smith, an international education champion, has warned that the UK government is likely to expand its study visa ban to include more countries. This warning was reported in an article titled “Expect further visa ‘brakes’, UK sector warned” published by The PIE News.",
+      "insight": "This news signals potential tightening of UK study visa access for students from additional countries, which could indirectly shift demand toward alternative destinations like the US, Australia, and New Zealand—though actual enrolment impacts depend on policy scope, implementation timing, and student responsiveness.  \nAdmissions teams should monitor official UK Home Office announcements, track application volume and conversion trends from high-risk source markets, and assess whether partner agents or universities report rising inquiries about non-UK options amid growing visa uncertainty.",
       "impact": "Low",
       "sources": [],
       "dests": [
         "UK"
       ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 6,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 10,
-      "title": "Two Sessions: China Boosts Science and Tech Spending",
-      "source": "Sixth Tone",
-      "color": "#922b21",
-      "url": "https://www.sixthtone.com/news/1018279/Two Sessions: China Boosts Science and Tech Spending",
-      "pubDate": "2026-03-28",
-      "summary": "The Chinese government increased funding for science and technology during the Two Sessions. To allocate these additional resources, it reduced spending on business trips and meetings.",
-      "insight": "Increased S&T funding in China may indirectly support long-term demand for overseas STEM education, as domestic investment often correlates with rising aspirations for advanced technical training—though immediate shifts in student mobility remain uncertain and likely mediated by broader economic and policy factors.  \nAdmissions teams should monitor Chinese provincial scholarship announcements, national S&T talent program expansions, and bilateral research collaboration agreements, as these may signal evolving priorities that could influence graduate and PhD application patterns over the next 12–24 months.",
-      "impact": "Low",
-      "sources": [
-        "China"
-      ],
-      "dests": [],
       "translated": false,
       "origLang": null,
       "relevanceScore": 6,
