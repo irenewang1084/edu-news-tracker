@@ -1,21 +1,21 @@
 {
-  "updated": "2026-03-31T06:08:55Z",
-  "count": 5,
-  "totalFetched": 174,
+  "updated": "2026-04-01T06:20:39Z",
+  "count": 4,
+  "totalFetched": 171,
   "articles": [
     {
       "id": 1,
-      "title": "Canada: Government audit finds impact of international student cap far greater than expected",
+      "title": "Narrowing bands of compliance: How the UK’s new RAG system will impact international student recruitment",
       "source": "ICEF Monitor",
       "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/03/canada-government-audit-finds-impact-of-international-student-cap-far-greater-than-expected/",
-      "pubDate": "2026-03-26",
-      "summary": "The Office of the Auditor General of Canada (OAG) released an independent audit report assessing the government’s reforms to Canada’s international student programme. The report found that the impact of the international student cap was significantly greater than anticipated.",
-      "insight": "Canada’s unexpected over-cap on international students may indirectly heighten demand for alternatives in the US, UK, Australia, and New Zealand—though actual spillover depends on student awareness, eligibility, and perceived institutional fit, not just policy shifts.  \nAdmissions teams should track application trends from Canada’s top source countries (e.g., India, China, Philippines), monitor visa processing timelines and refusal rates in their own jurisdictions, and assess whether partner agents are proactively positioning their institutions as credible, stable alternatives.",
+      "url": "https://monitor.icef.com/2026/03/narrowing-bands-of-compliance-how-the-uks-new-rag-system-will-impact-international-student-recruitment/",
+      "pubDate": "2026-03-19",
+      "summary": "The UK Home Office has issued draft guidance outlining forthcoming changes to the Basic Compliance Assessment (BCA) framework for universities holding a student sponsor licence, including the introduction of a new red-amber-green (RAG) banding system. This RAG system is designed to assess and categorise institutional compliance levels, potentially resulting in more stringent enforcement measures for non-compliant institutions.",
+      "insight": "The UK’s proposed RAG compliance system may indirectly affect international student demand by amplifying perceptions of regulatory risk, particularly among applicants from high-compliance-sensitivity markets like India and Nigeria—though actual enrolment impacts depend on implementation rigor and parallel visa policy stability.  \nAdmissions teams should monitor Home Office final guidance, institutional RAG bandings of peer universities, and agent/partner sentiment in key source countries, while reviewing contingency plans for shifts in student preference toward jurisdictions with more predictable compliance environments.",
       "impact": "High",
       "sources": [],
       "dests": [
-        "Canada"
+        "UK"
       ],
       "translated": false,
       "origLang": null,
@@ -24,13 +24,13 @@
     },
     {
       "id": 2,
-      "title": "Australia: Latest enrolment data challenges the government’s assertion of stability for international education this year",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/03/australia-latest-enrolment-data-challenges-the-governments-assertion-of-stability-for-international-education-this-year/",
-      "pubDate": "2026-03-26",
-      "summary": "On 20 March, Australia’s Assistant Minister for International Education, Julian Hill, published a statement titled “Continuity and change: the year ahead for international education,” asserting that international education is a “national strength” and emphasizing policy stability as foundational to its evolution. However, the latest enrolment data contradicts the government’s claim of stability in the sector this year.",
-      "insight": "Australia’s latest enrolment data—undermining official claims of sectoral stability—may signal softening demand or shifting preferences among key source markets, though it remains unclear whether this reflects temporary policy uncertainty, macroeconomic pressures, or longer-term competitiveness erosion.  \nAdmissions teams should track real-time application trends from Asia-Pacific and Middle Eastern markets, cross-reference Australian visa grant rates and processing times, and assess how peer institutions are adjusting messaging around regulatory reliability and post-study outcomes.",
+      "title": "Australian government releases response to international education inquiry",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/australian-government-releases-response-to-international-education-inquiry/",
+      "pubDate": "2026-03-31",
+      "summary": "The Australian government has released its official response to the 2023 interim report from the inquiry into international education. The response addresses recommendations focused on enhancing the integrity and sustainability of Australia’s international education sector.",
+      "insight": "Australia’s response to the international education inquiry signals potential tightening of visa integrity measures and greater emphasis on student welfare, which may indirectly influence demand from risk-averse source markets—though actual enrolment impacts depend on implementation timing and enforcement consistency.  \nAdmissions teams should monitor Australia’s forthcoming policy rollouts—including any changes to post-study work rights, English requirements, or registration conditions for ELICOS providers—as these could shift comparative value perceptions among students weighing multiple English-speaking destinations.",
       "impact": "Low",
       "sources": [],
       "dests": [
@@ -43,58 +43,39 @@
     },
     {
       "id": 3,
-      "title": "No rebound for the US as F-1 visa slump deepens",
+      "title": "Australia’s new tertiary education authority clears parliament",
       "source": "The PIE News",
       "color": "#7b341e",
-      "url": "https://thepienews.com/no-rebound-for-the-us-as-f-1-visa-slump-deepens/",
-      "pubDate": "2026-03-30",
-      "summary": "The article reports that the F-1 visa issuance slump for international students continued into September 2025, with no recovery observed during what are typically peak visa issuance months. Stakeholders warn that this prolonged decline is causing severe and uneven impacts across US colleges and prospective students.",
-      "insight": "The sustained F-1 visa slump through September 2025 suggests potential weakening demand for US study, possibly reflecting broader concerns about visa processing, post-study work prospects, or geopolitical perceptions—though it remains unclear whether this signals structural decline or temporary disruption amid shifting global mobility patterns.  \nAdmissions teams should track real-time application and deposit trends from key source markets, compare yield rates against prior cycles, and assess whether peer institutions in the UK, Australia, and New Zealand are seeing corresponding shifts in inquiry volume or enrolment intent.",
+      "url": "https://thepienews.com/australias-new-tertiary-education-authority-clears-parliament/",
+      "pubDate": "2026-03-31",
+      "summary": "Parliament has passed legislation to establish the Australian Tertiary Education Commission (ATEC). This new authority represents a significant step in reforming Australia’s tertiary education system.",
+      "insight": "The creation of ATEC signals potential long-term shifts in Australia’s tertiary regulation, possibly influencing quality assurance, funding models, and institutional accountability—factors that may indirectly affect international student confidence and comparative perceptions of Australian degrees versus those in the US, UK, or New Zealand.  \nAdmissions teams should track ATEC’s early priorities—especially any alignment with visa policy, English language requirements, or post-study work entitlements—and assess how messaging around regulatory credibility might be leveraged or adjusted in source market communications over the next 12–18 months.",
       "impact": "Low",
       "sources": [],
       "dests": [
-        "USA"
+        "Australia"
       ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 4,
-      "title": "Hong Kong to establish global version of university entrance exam on pilot basis",
-      "source": "SCMP (Education)",
-      "color": "#7b241c",
-      "url": "https://www.scmp.com/news/hong-kong/education/article/3347067/hong-kong-establish-global-version-university-entrance-exam-pilot-basis?utm_source=rss_feed",
-      "pubDate": "2026-03-18",
-      "summary": "Hong Kong’s education authorities plan to pilot an internationally benchmarked version of the city’s Diploma of Secondary Education (DSE) exam to enable foreign students to apply for admission to higher education institutions in Hong Kong and mainland China. Technical explorations and studies with relevant bodies on developing this international DSE version are currently underway, according to Secretary for Education Christine Choi Yuk-lin.",
-      "insight": "Hong Kong’s pilot international DSE may gradually diversify global student pathways to Chinese-speaking higher education, potentially affecting demand for Anglophone degrees—though its scale, recognition, and uptake by foreign students remain uncertain and likely years from material impact.  \nAdmissions teams should monitor the pilot’s rollout timeline, participating institutions, and accreditation outcomes, particularly how mainland Chinese universities adopt it, as early signals could inform regional recruitment positioning and articulation pathway reviews.",
-      "impact": "Low",
-      "sources": [
-        "China"
-      ],
-      "dests": [],
       "translated": false,
       "origLang": null,
       "relevanceScore": 7,
       "insightSource": "qwen"
     },
     {
-      "id": 5,
-      "title": "Home Office to be part of Education Sector Action Group",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/home-office-to-be-part-of-education-sector-action-group/",
-      "pubDate": "2026-03-26",
-      "summary": "Sir Steve Smith, the UK’s international education champion, confirmed that the Home Office and Cabinet Office will join the Education Sector Action Group (ESAG), a ministerially led committee. ESAG is tasked with formulating action plans to deliver the UK’s international education strategy.",
-      "insight": "The Home Office’s inclusion in the UK’s Education Sector Action Group signals stronger cross-departmental coordination on international education policy, potentially influencing visa processing, post-study work rules, or sector-wide promotion—though concrete changes to student demand or conditions remain uncertain pending ESAG’s deliverables.  \nAdmissions teams should track ESAG’s published action plans and Home Office communications for updates on visa guidance, compliance expectations, or marketing initiatives, particularly those targeting high-potential source markets where UK policy shifts could alter competitive positioning relative to the US, Australia, and New Zealand.",
+      "id": 4,
+      "title": "RMIT adds Bachelor of International Studies program for 'global citizens'",
+      "source": "VnExpress (Giáo dục)",
+      "color": "#b94500",
+      "url": "https://vnexpress.net/rmit-them-chuong-trinh-cu-nhan-quoc-te-hoc-cho-cong-dan-toan-cau-5056985.html",
+      "pubDate": "2026-04-01",
+      "summary": "RMIT Vietnam launched its Bachelor of International Studies program in October. The program aims to train students to work effectively in international environments.",
+      "insight": "RMIT Vietnam’s new Bachelor of International Studies signals growing regional appetite for globally oriented, locally delivered degrees—potentially reflecting shifting preferences among Southeast Asian students who may increasingly weigh proximity, cost, and English-medium credentials against traditional offshore study.  \nAdmissions teams should monitor enrolment patterns in similar programs across ASEAN campuses and track whether this initiative correlates with changes in outbound student visa applications or perceptions of Western degrees’ ROI in key feeder markets like Vietnam and Indonesia.",
       "impact": "Low",
-      "sources": [],
-      "dests": [
-        "UK"
+      "sources": [
+        "Southeast Asia"
       ],
-      "translated": false,
-      "origLang": null,
+      "dests": [],
+      "translated": true,
+      "origLang": "vi",
       "relevanceScore": 7,
       "insightSource": "qwen"
     }
