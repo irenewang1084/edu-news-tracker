@@ -1,55 +1,17 @@
 {
-  "updated": "2026-04-02T06:02:56Z",
-  "count": 5,
-  "totalFetched": 175,
+  "updated": "2026-04-03T06:03:38Z",
+  "count": 7,
+  "totalFetched": 178,
   "articles": [
     {
       "id": 1,
-      "title": "Canada: Government audit finds impact of international student cap far greater than expected",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/03/canada-government-audit-finds-impact-of-international-student-cap-far-greater-than-expected/",
-      "pubDate": "2026-03-26",
-      "summary": "The Office of the Auditor General of Canada (OAG) released an independent audit report assessing the government’s reforms to Canada’s international student programme. The report found that the impact of the international student cap was significantly greater than anticipated.",
-      "insight": "Canada’s unexpected over-cap on international students may indirectly heighten demand for alternatives in the US, UK, Australia, and New Zealand—though actual spillover depends on student awareness, eligibility, and perceived institutional fit, not just policy shifts.  \nAdmissions teams should track application trends from Canada’s top source countries (e.g., India, China, Philippines), monitor visa processing timelines and refusal rates in their own jurisdictions, and assess whether partner agents are proactively positioning their institutions as credible, stable alternatives.",
-      "impact": "High",
-      "sources": [],
-      "dests": [
-        "Canada"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 10,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 2,
-      "title": "No rebound for the US as F-1 visa slump deepens",
+      "title": "Australian government releases response to international education inquiry",
       "source": "The PIE News",
       "color": "#7b341e",
-      "url": "https://thepienews.com/no-rebound-for-the-us-as-f-1-visa-slump-deepens/",
-      "pubDate": "2026-03-30",
-      "summary": "The article reports that the F-1 visa issuance slump for international students continued into September 2025, with no recovery observed during what are typically peak visa issuance months. Stakeholders warn that this prolonged decline is causing severe and uneven impacts across US colleges and prospective students.",
-      "insight": "The sustained F-1 visa slump through September 2025 suggests potential softening in US-bound student demand, possibly reflecting broader concerns about visa processing, post-study work prospects, or geopolitical sentiment—though it remains unclear whether this signals structural decline or temporary disruption amid shifting global mobility patterns.  \nAdmissions teams should track real-time application and deposit trends from key source markets, benchmark against peer institutions’ yield data, and assess whether regional outreach or scholarship strategies need recalibration—not as an immediate crisis response, but as part of ongoing market responsiveness.",
-      "impact": "Low",
-      "sources": [],
-      "dests": [
-        "USA"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 10,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 3,
-      "title": "Australia: Latest enrolment data challenges the government’s assertion of stability for international education this year",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/03/australia-latest-enrolment-data-challenges-the-governments-assertion-of-stability-for-international-education-this-year/",
-      "pubDate": "2026-03-26",
-      "summary": "On 20 March, Australia’s Assistant Minister for International Education, Julian Hill, published a statement titled “Continuity and change: the year ahead for international education,” asserting that international education is a “national strength” and emphasizing policy stability as foundational to its evolution. However, the latest enrolment data contradicts the government’s claim of stability in the sector this year.",
-      "insight": "Australia’s latest enrolment data—showing divergence from official claims of sectoral stability—may indicate softening demand, shifting source-market preferences, or early effects of policy changes, though causality remains unclear amid broader global mobility trends and economic pressures.  \nAdmissions teams should track Australia’s quarterly enrolment releases, visa grant rates by nationality, and comparative scholarship uptake in key markets like India and Nigeria to assess whether this signals a temporary dip or a structural recalibration affecting regional competitiveness.",
+      "url": "https://thepienews.com/australian-government-releases-response-to-international-education-inquiry/",
+      "pubDate": "2026-03-31",
+      "summary": "The Australian government has released its official response to the 2023 interim report from the inquiry into international education. The response addresses recommendations focused on enhancing the integrity and sustainability of Australia’s international education sector.",
+      "insight": "Australia’s response to the international education inquiry signals potential tightening of visa integrity measures and greater emphasis on student welfare, which may modestly affect demand from risk-averse source markets—but direct impacts on global enrolment flows remain uncertain pending implementation details.  \nAdmissions teams should track Australia’s forthcoming regulatory changes—especially around Genuine Temporary Entrant requirements and post-study work eligibility—as these could shift comparative attractiveness for students weighing Australia against the US, UK, or New Zealand.",
       "impact": "Low",
       "sources": [],
       "dests": [
@@ -61,33 +23,52 @@
       "insightSource": "qwen"
     },
     {
-      "id": 4,
-      "title": "“They are taking away the few opportunities left”: Chevening applicants react to UK visa brake",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/they-are-taking-away-the-few-opportunities-left-chevening-applicants-react-to-uk-visa-brake/",
+      "id": 2,
+      "title": "Canada’s language training sector reinvents pathway programme model in response to policy settings",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/04/canadas-language-training-sector-reinvents-pathway-programme-model-in-response-to-policy-settings/",
       "pubDate": "2026-04-01",
-      "summary": "The UK’s student visa restrictions led to the sudden termination of Chevening Scholarship applications, disproportionately affecting female Afghan students who are already barred from higher education under Taliban rule. Shahira Sadat, a Chevening applicant, described the emotional impact of the policy and expressed diminished faith in the global community as a result.",
-      "insight": "This news signals potential reputational and trust-based headwinds for UK higher education, particularly among Afghan and other conflict-affected female students, though broader demand shifts remain uncertain given the policy’s narrow scope and Chevening’s distinct scholarship pathway.  \nAdmissions teams should monitor sentiment trends in high-risk source markets—especially Afghanistan, Pakistan, and Iran—and assess whether partner agencies or alumni networks report increased hesitancy or redirected applications toward countries with more predictable visa frameworks.",
-      "impact": "Low",
+      "summary": "In 2019, pathway programmes—joint offerings linking language study with academic programmes—accounted for 23% of language enrolments in Canada. These programmes reflected well-established linkages between language schools and partner colleges or universities at that time.",
+      "insight": "Canada’s shift in pathway programme design—driven by policy adjustments—may signal growing student preference for integrated, credential-secured language-academic routes, though direct implications for US/UK/AU/NZ demand remain uncertain without parallel policy changes or evidence of spillover effects in shared source markets.  \nAdmissions teams should monitor whether Canadian pathway reforms correlate with rising inquiries from students in key markets like India or Nigeria, and assess if their own institutions’ language partnerships offer comparable clarity on progression, visa compliance, and post-study outcomes.",
+      "impact": "Medium",
       "sources": [],
       "dests": [
-        "UK"
+        "Canada"
       ],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 9,
+      "relevanceScore": 8,
       "insightSource": "qwen"
     },
     {
-      "id": 5,
-      "title": "H-1B wage reset: What it means for Indian students and early-career professionals",
+      "id": 3,
+      "title": "Australia’s new tertiary education authority clears parliament",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/australias-new-tertiary-education-authority-clears-parliament/",
+      "pubDate": "2026-03-31",
+      "summary": "Parliament has passed legislation to establish the Australian Tertiary Education Commission (ATEC). This new authority represents a significant step in reforming Australia’s tertiary education system.",
+      "insight": "The creation of ATEC signals potential long-term shifts in Australia’s tertiary regulation, possibly influencing quality assurance, funding models, and institutional accountability—factors that may indirectly affect international student confidence and comparative perceptions of Australian degrees versus those in the US, UK, or New Zealand.  \nAdmissions teams should track ATEC’s early priorities—especially any alignment with visa policy, English language requirements, or post-study work entitlements—and assess how messaging around regulatory credibility might be leveraged or adjusted in source market communications over the next 12–18 months.",
+      "impact": "Low",
+      "sources": [],
+      "dests": [
+        "Australia"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 4,
+      "title": "Japan invites 1,000 Indian PhD scholars, researchers under LOTUS Programme 2026; apply by June 9",
       "source": "Times of India (Edu)",
       "color": "#d4820a",
-      "url": "https://timesofindia.indiatimes.com/education/news/h-1b-wage-reset-what-it-means-for-indian-students-and-early-career-professionals/articleshow/129955752.cms",
-      "pubDate": "2026-04-02",
-      "summary": "The US Department of Labor has proposed a major overhaul of H-1B and employment-based green card wage rules to align foreign worker salaries with US market standards. The plan, reported by Newsweek, could raise minimum wages by approximately $14,000 annually, with the largest impact on entry-level roles, potentially reducing hiring opportunities for international graduates and prompting employers to prioritize experienced talent.",
-      "insight": "This news may indirectly influence international student recruitment by potentially dampening post-study work appeal for Indian graduates targeting US employment, though actual enrollment decisions depend more on broader perceptions of visa stability and long-term career pathways than pending regulatory changes.  \nAdmissions teams should monitor H-1B final rule timelines, employer hiring patterns in STEM fields, and shifts in Indian student survey data on destination preferences—while continuing to emphasize holistic value propositions beyond US work authorization alone.",
+      "url": "https://timesofindia.indiatimes.com/education/news/japan-invites-1000-indian-phd-scholars-researchers-under-lotus-programme-2026-apply-by-june-9/articleshow/129993961.cms",
+      "pubDate": "2026-04-03",
+      "summary": "Japan’s LOTUS Programme is inviting nearly 1,000 Indian Master’s students, PhD scholars, and postdoctoral researchers for funded research stays in Japan, aimed at strengthening scientific collaboration between the two countries. Applications are open until June 9, 2026, and selected participants will begin their research stays in October 2026.",
+      "insight": "Japan’s targeted, fully funded invitation to 1,000 Indian researchers under LOTUS 2026 signals growing competition for high-calibre STEM talent in Asia, potentially influencing Indian students’ destination choices—though direct impact on Western enrolments remains uncertain without evidence of broader shifts in aspiration or capacity.  \nAdmissions teams should monitor Indian application trends across PhD and postdoctoral pathways over the next 6–12 months, particularly in fields aligned with Japan’s focus (e.g., materials science, AI), and assess whether enhanced bilateral research infrastructure affects perceptions of Western universities’ collaborative appeal.",
       "impact": "Low",
       "sources": [
         "India"
@@ -96,6 +77,63 @@
       "translated": false,
       "origLang": null,
       "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 5,
+      "title": "Vietnam wants to recruit over 2,000 scientists from overseas by 2035",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/education/vietnam-wants-to-recruit-over-2-000-scientists-from-overseas-by-2035-5058033.html",
+      "pubDate": "2026-04-03",
+      "summary": "Vietnam’s Prime Minister has approved a national programme to recruit over 2,000 scientists from overseas by 2035. The initiative targets foreign experts and overseas Vietnamese scholars to teach, conduct research, and work at Vietnam’s higher education and vocational training institutions.",
+      "insight": "This initiative signals Vietnam’s intensified focus on building domestic research capacity, which may gradually reduce long-term outbound demand for PhD and postgraduate research students—though its impact on undergraduate and master’s enrolments remains uncertain and likely minimal before 2030.  \nAdmissions teams should monitor Vietnamese government scholarship announcements, faculty hiring trends at top Vietnamese universities, and student survey data on perceptions of domestic research opportunities—particularly among STEM and academic-track applicants.",
+      "impact": "Low",
+      "sources": [
+        "Southeast Asia"
+      ],
+      "dests": [],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 6,
+      "title": "University town to be fast-tracked, Eric Chan says after mainland China visit",
+      "source": "SCMP (Education)",
+      "color": "#7b241c",
+      "url": "https://www.scmp.com/news/hong-kong/education/article/3348906/university-town-be-fast-tracked-eric-chan-says-after-mainland-china-visit?utm_source=rss_feed",
+      "pubDate": "2026-04-03",
+      "summary": "Hong Kong’s Chief Secretary Eric Chan Kwok-ki announced plans to fast-track the development of a new university town following a three-day visit to mainland China to study similar projects. He stated that authorities will devise a strategy to attract top universities from mainland China and overseas to participate in the initiative, which is overseen by the Committee on Development of the Northern Metropolis.",
+      "insight": "This development signals potential long-term competitive pressure on Western universities, as Hong Kong’s university town could attract mainland Chinese students seeking high-quality, English-medium education closer to home—though its actual enrolment impact remains uncertain pending implementation scale and regulatory details.  \nAdmissions teams should monitor Hong Kong’s progress on institutional partnerships, tuition models, and visa pathways for international students, while assessing whether it shifts application patterns among high-achieving mainland applicants targeting Anglophone destinations.",
+      "impact": "Low",
+      "sources": [
+        "China"
+      ],
+      "dests": [],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 7,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 7,
+      "title": "“They are taking away the few opportunities left”: Chevening applicants react to UK visa brake",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/they-are-taking-away-the-few-opportunities-left-chevening-applicants-react-to-uk-visa-brake/",
+      "pubDate": "2026-04-01",
+      "summary": "The UK’s student visa restrictions led to the abrupt termination of Chevening Scholarship applications, disproportionately affecting female Afghan students who are currently barred from higher education under Taliban rule. Shahira Sadat, an affected applicant, described the emotional impact of the policy and expressed diminished faith in the global community’s support.",
+      "insight": "This news signals potential shifts in source market sentiment, particularly among Afghan and other high-risk region applicants, as UK visa tightening may erode trust in traditional study destinations—though broader demand impacts remain uncertain without data on actual application declines across other markets.  \nAdmissions teams should monitor inquiries and application trends from Afghanistan and neighbouring regions, while reviewing messaging around visa support and equity commitments to ensure alignment with evolving perceptions of safety, access, and institutional responsiveness.",
+      "impact": "Low",
+      "sources": [],
+      "dests": [
+        "UK"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 6,
       "insightSource": "qwen"
     }
   ]
