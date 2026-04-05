@@ -1,36 +1,36 @@
 {
-  "updated": "2026-04-04T05:39:43Z",
-  "count": 4,
-  "totalFetched": 185,
+  "updated": "2026-04-05T06:06:13Z",
+  "count": 7,
+  "totalFetched": 189,
   "articles": [
     {
       "id": 1,
-      "title": "Canada: Government audit finds impact of international student cap far greater than expected",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/03/canada-government-audit-finds-impact-of-international-student-cap-far-greater-than-expected/",
-      "pubDate": "2026-03-26",
-      "summary": "The Office of the Auditor General of Canada (OAG) released an independent audit report assessing the government’s reforms to Canada’s international student programme. The report found that the impact of the international student cap was significantly greater than anticipated.",
-      "insight": "Canada’s unexpected over-cap on international students may indirectly heighten demand for alternatives in the US, UK, Australia, and New Zealand—though actual spillover depends on student awareness, eligibility, and perceived institutional fit, not just policy shifts.  \nAdmissions teams should track application trends from Canada’s top source countries (e.g., India, China, Philippines), monitor visa processing times and policy updates in those markets, and assess whether their outreach messaging resonates with students seeking stability amid global immigration uncertainty.",
-      "impact": "High",
+      "title": "Australian government releases response to international education inquiry",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/australian-government-releases-response-to-international-education-inquiry/",
+      "pubDate": "2026-03-31",
+      "summary": "The Australian government has released its official response to the 2023 interim report from the inquiry into international education. The response addresses recommendations focused on enhancing the integrity and sustainability of Australia’s international education sector.",
+      "insight": "Australia’s response to the international education inquiry signals potential tightening of visa integrity measures and greater emphasis on student welfare, which may indirectly influence demand from risk-averse source markets—though actual enrolment impacts depend on implementation timing and enforcement consistency.  \nAdmissions teams should monitor Australia’s forthcoming policy rollouts—including any changes to post-study work rights, English requirements, or registration conditions for ELICOS providers—as these could shift comparative value perceptions among students weighing multiple English-speaking destinations.",
+      "impact": "Low",
       "sources": [],
       "dests": [
-        "Canada"
+        "Australia"
       ],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 10,
+      "relevanceScore": 9,
       "insightSource": "qwen"
     },
     {
       "id": 2,
-      "title": "Australia: Latest enrolment data challenges the government’s assertion of stability for international education this year",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/03/australia-latest-enrolment-data-challenges-the-governments-assertion-of-stability-for-international-education-this-year/",
-      "pubDate": "2026-03-26",
-      "summary": "On 20 March, Australia’s Assistant Minister for International Education, Julian Hill, published a statement titled “Continuity and change: the year ahead for international education,” asserting that international education is a “national strength” and emphasizing policy stability as foundational to its evolution. However, the latest enrolment data contradicts the government’s claim of stability in the sector this year.",
-      "insight": "Australia’s latest enrolment data—showing divergence from official claims of sectoral stability—may indicate softening demand, shifting source-market preferences, or early effects of policy changes, though causality remains unclear amid broader global mobility trends and economic pressures.  \nAdmissions teams should track Australia’s quarterly enrolment reports, visa grant rates by nationality, and competitor messaging from UK/US institutions to assess whether sentiment shifts are emerging in key markets like India, China, or Nigeria.",
+      "title": "Australia's rapidly shifting visa policies leave students 'feel like being robbed'",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/education/australia-s-rapidly-shifting-visa-policies-leave-students-feel-like-being-robbed-5057553.html",
+      "pubDate": "2026-04-04",
+      "summary": "International students in Australia are facing sudden visa fee increases and stricter visa regulations. These changes have heightened concerns about affordability and the ability to plan for future study and work opportunities.",
+      "insight": "Australia’s abrupt visa policy shifts may dampen short-term demand from price-sensitive and risk-averse international students, particularly in key Asian markets, though broader global mobility trends and institutional reputation will moderate the impact.  \nAdmissions teams should track real-time application and enrolment data from Australia-bound cohorts, monitor social media sentiment in priority source countries, and assess whether partner agents are adjusting counselling narratives around post-study work pathways.",
       "impact": "Low",
       "sources": [],
       "dests": [
@@ -43,13 +43,90 @@
     },
     {
       "id": 3,
+      "title": "Canada’s language training sector reinvents pathway programme model in response to policy settings",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/04/canadas-language-training-sector-reinvents-pathway-programme-model-in-response-to-policy-settings/",
+      "pubDate": "2026-04-01",
+      "summary": "In 2019, pathway programmes—joint offerings linking language study with academic programmes—accounted for 23% of language enrolments in Canada. These programmes reflected well-established linkages between language schools and partner colleges or universities at that time.",
+      "insight": "Canada’s shift in pathway programme design—driven by policy adjustments—may signal growing student preference for integrated, credential-anchored language pathways, though direct implications for US/UK/AU/NZ demand remain uncertain without parallel policy shifts or evidence of spillover effects in shared source markets.  \nAdmissions teams should monitor whether Canadian policy changes correlate with rising inquiries from students in key Asian and Latin American markets, and assess whether refining their own articulation agreements or conditional offer frameworks could strengthen competitiveness amid evolving global pathway expectations.",
+      "impact": "Medium",
+      "sources": [],
+      "dests": [
+        "Canada"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 4,
+      "title": "Long way home: Indian students who escaped Iran face an uncertain future",
+      "source": "The Hindu (Edu)",
+      "color": "#145a32",
+      "url": "https://www.thehindu.com/education/long-way-home-indian-students-who-escaped-iran-face-an-uncertain-future/article70802500.ece",
+      "pubDate": "2026-03-31",
+      "summary": "Indian students who were studying in Iran fled the country amid escalating regional tensions and security concerns, undertaking arduous overland journeys through multiple countries to reach safety. They now face an uncertain future in India, including challenges related to academic continuity, mental health support, and reintegration, while authorities assess options for repatriation assistance and long-term solutions.",
+      "insight": "This incident highlights growing geopolitical risk perceptions among Indian and MENA students, potentially accelerating demand for education in stable English-speaking destinations—but direct causal links to enrolment shifts remain unproven amid broader macroeconomic and policy variables.  \nAdmissions teams should monitor student sentiment surveys and agent feedback from India and Iran specifically, while reviewing crisis-response protocols and mental health support pathways for displaced or trauma-affected applicants.",
+      "impact": "High",
+      "sources": [
+        "India",
+        "MENA"
+      ],
+      "dests": [],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 7,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 5,
+      "title": "University town to be fast-tracked, Eric Chan says after mainland China visit",
+      "source": "SCMP (Education)",
+      "color": "#7b241c",
+      "url": "https://www.scmp.com/news/hong-kong/education/article/3348906/university-town-be-fast-tracked-eric-chan-says-after-mainland-china-visit?utm_source=rss_feed",
+      "pubDate": "2026-04-03",
+      "summary": "Hong Kong’s Chief Secretary Eric Chan Kwok-ki announced plans to fast-track the development of a new university town after concluding a three-day visit to similar projects in mainland China. The initiative, overseen by a working group under the Committee on Development of the Northern Metropolis, aims to attract top universities from mainland China and overseas.",
+      "insight": "This news signals potential long-term competitive pressure on Western universities, as Hong Kong’s university town may attract mainland Chinese students seeking high-quality, English-medium education closer to home—though actual enrolment impact depends on implementation speed, institutional partnerships, and perceived academic prestige.  \nAdmissions teams should monitor HKUST and CUHK’s involvement, visa pathways for international students in the new zone, and mainland Chinese student sentiment via agent feedback and application data—particularly among high-achieving STEM applicants weighing proximity, cost, and post-study opportunities.",
+      "impact": "Low",
+      "sources": [
+        "China"
+      ],
+      "dests": [],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 7,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 6,
+      "title": "Vietnam wants to recruit over 2,000 scientists from overseas by 2035",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/education/vietnam-wants-to-recruit-over-2-000-scientists-from-overseas-by-2035-5058033.html",
+      "pubDate": "2026-04-03",
+      "summary": "Vietnam’s Prime Minister has approved a national programme to recruit over 2,000 scientists from overseas by 2035. The initiative targets foreign experts and overseas Vietnamese scholars to teach, conduct research, and work at the country’s higher education and vocational training institutions.",
+      "insight": "This news signals Vietnam’s intensified focus on building domestic research and academic capacity, which may gradually reduce long-term outbound demand for PhD and postgraduate research students—though undergraduate and master’s mobility is unlikely to shift significantly before 2030.  \n\nAdmissions teams should monitor Vietnam’s implementation pace, funding allocations, and early uptake of returning scholars—particularly in STEM and education fields—as potential leading indicators of evolving student preferences and institutional partnerships.",
+      "impact": "Low",
+      "sources": [
+        "Southeast Asia"
+      ],
+      "dests": [],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 7,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 7,
       "title": "“They are taking away the few opportunities left”: Chevening applicants react to UK visa brake",
       "source": "The PIE News",
       "color": "#7b341e",
       "url": "https://thepienews.com/they-are-taking-away-the-few-opportunities-left-chevening-applicants-react-to-uk-visa-brake/",
       "pubDate": "2026-04-01",
       "summary": "The UK’s student visa restrictions led to the abrupt termination of Chevening Scholarship applications, disproportionately affecting female Afghan students who are currently barred from higher education under Taliban rule. Shahira Sadat, an affected applicant, described the emotional impact of the policy and expressed diminished faith in the global community’s support.",
-      "insight": "This news signals potential shifts in source market sentiment, particularly among Afghan and other high-risk region applicants, as UK visa tightening may erode trust in traditional study destinations—though broader demand impacts remain uncertain without data on actual application declines across other markets.  \nAdmissions teams should monitor inquiries and application trends from Afghanistan and neighbouring regions, while reviewing messaging around visa support and institutional commitments to inclusivity, especially where geopolitical instability intersects with education access restrictions.",
+      "insight": "This news signals potential shifts in source market sentiment, particularly among Afghan and other high-risk region applicants, as UK visa tightening may erode trust in traditional study destinations—though broader demand impacts remain uncertain without data on actual application declines across other markets.  \nAdmissions teams should monitor inquiries and application trends from Afghanistan and neighbouring regions, while reviewing messaging around visa support and equity commitments to ensure alignment with evolving perceptions of safety, access, and institutional responsiveness.",
       "impact": "Low",
       "sources": [],
       "dests": [
@@ -57,25 +134,6 @@
       ],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 6,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 4,
-      "title": "RMIT adds Bachelor of International Studies program for 'global citizens'",
-      "source": "VnExpress (Giáo dục)",
-      "color": "#b94500",
-      "url": "https://vnexpress.net/rmit-them-chuong-trinh-cu-nhan-quoc-te-hoc-cho-cong-dan-toan-cau-5056985.html",
-      "pubDate": "2026-04-01",
-      "summary": "RMIT Vietnam launched its Bachelor of International Studies program in October. The program aims to train students to work effectively in international environments.",
-      "insight": "RMIT Vietnam’s new Bachelor of International Studies signals growing regional appetite for globally oriented, locally delivered degrees—potentially reflecting shifting preferences among Southeast Asian students who may increasingly weigh cost, proximity, and employability over traditional Western study destinations, though direct impact on Anglophone universities remains uncertain.  \nAdmissions teams should monitor enrolment trends in similar interdisciplinary, globally focused programs across ASEAN campuses and track whether RMIT’s model spurs local competitors to expand—informing scholarship positioning and articulation pathway development with regional institutions.",
-      "impact": "Low",
-      "sources": [
-        "Southeast Asia"
-      ],
-      "dests": [],
-      "translated": true,
-      "origLang": "vi",
       "relevanceScore": 6,
       "insightSource": "qwen"
     }
