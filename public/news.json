@@ -1,60 +1,62 @@
 {
-  "updated": "2026-04-08T06:14:36Z",
-  "count": 6,
-  "totalFetched": 181,
+  "updated": "2026-04-09T06:13:17Z",
+  "count": 5,
+  "totalFetched": 173,
   "articles": [
     {
       "id": 1,
-      "title": "Canada: Government audit finds impact of international student cap far greater than expected",
+      "title": "8 New Zealand academies directly recruit Vietnamese students with academic records from 7 points",
+      "source": "VnExpress (Giáo dục)",
+      "color": "#b94500",
+      "url": "https://vnexpress.net/8-hoc-vien-new-zealand-tuyen-thang-hoc-sinh-viet-voi-hoc-ba-tu-7-diem-5059135.html",
+      "pubDate": "2026-04-07",
+      "summary": "Eight New Zealand public academies directly recruit Vietnamese high school graduates. Eligible students must have a Grade 12 average score of at least 7.0 across at least four subjects.",
+      "insight": "This development signals intensifying competition for high-achieving Vietnamese students, particularly in Southeast Asia, and may reflect growing institutional confidence in direct recruitment amid easing travel restrictions—but it does not yet confirm broader shifts in demand or visa policy across other English-speaking destinations.  \nAdmissions teams should monitor Vietnamese student application trends, especially Grade 12 GPA distributions and enrolment timing, while assessing whether similar direct-recruitment models could complement existing agent partnerships without overextending regional outreach capacity.",
+      "impact": "High",
+      "sources": [
+        "Southeast Asia"
+      ],
+      "dests": [
+        "New Zealand"
+      ],
+      "translated": true,
+      "origLang": "vi",
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 2,
+      "title": "Canada’s language training sector reinvents pathway programme model in response to policy settings",
       "source": "ICEF Monitor",
       "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/03/canada-government-audit-finds-impact-of-international-student-cap-far-greater-than-expected/",
-      "pubDate": "2026-03-26",
-      "summary": "The Office of the Auditor General of Canada (OAG) released an independent audit report assessing the government’s reforms to Canada’s international student programme. The report found that the impact of the international student cap was significantly greater than anticipated.",
-      "insight": "Canada’s unexpected over-cap on international students may indirectly heighten demand for alternatives in the US, UK, Australia, and New Zealand—though actual spillover depends on student awareness, eligibility, and perceived institutional fit, not just policy shifts.  \nAdmissions teams should track application trends from Canada’s top source countries (e.g., India, China, Philippines), monitor visa processing timelines and refusal rates in their own jurisdictions, and assess whether partner agents are proactively positioning their institutions as credible, stable alternatives.",
-      "impact": "High",
+      "url": "https://monitor.icef.com/2026/04/canadas-language-training-sector-reinvents-pathway-programme-model-in-response-to-policy-settings/",
+      "pubDate": "2026-04-01",
+      "summary": "In 2019, pathway programmes—joint offerings linking language study with academic programmes—accounted for 23% of language enrolments in Canada. These programmes reflected well-established linkages between language schools and partner colleges or universities at that time.",
+      "insight": "Canada’s shift in pathway programme design—driven by policy adjustments—may signal growing student preference for integrated, credential-secured language-academic routes, though direct implications for US/UK/AU/NZ demand remain uncertain without parallel policy shifts or evidence of spillover effects in shared source markets.  \nAdmissions teams should monitor whether their own governments introduce similar regulatory changes affecting pathway recognition or visa pathways, and assess if partner language providers are adapting models to enhance articulation clarity and student progression certainty.",
+      "impact": "Medium",
       "sources": [],
       "dests": [
         "Canada"
       ],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 9,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 2,
-      "title": "Australia: Latest enrolment data challenges the government’s assertion of stability for international education this year",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/03/australia-latest-enrolment-data-challenges-the-governments-assertion-of-stability-for-international-education-this-year/",
-      "pubDate": "2026-03-26",
-      "summary": "On 20 March, Australia’s Assistant Minister for International Education, Julian Hill, published a statement titled “Continuity and change: the year ahead for international education,” asserting that international education is a “national strength” and emphasizing policy stability as foundational to its evolution. However, the latest enrolment data contradicts the government’s claim of stability in the sector this year.",
-      "insight": "Australia’s latest enrolment data—showing divergence from official claims of sectoral stability—may indicate softening demand, tightening visa scrutiny, or shifting perceptions among key source markets, though causality remains unclear without granular breakdowns by region and sector.  \nAdmissions teams should track quarterly enrolment trends across Australia’s peer destinations, monitor policy updates on post-study work rights and dependant visas, and assess real-time sentiment shifts in priority markets like India and China through agent feedback and application funnel analytics.",
-      "impact": "Low",
-      "sources": [],
-      "dests": [
-        "Australia"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 9,
+      "relevanceScore": 8,
       "insightSource": "qwen"
     },
     {
       "id": 3,
-      "title": "Nepal proposes scrapping current NOC process in sweeping reform push",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/nepal-proposes-scrapping-current-noc-process-in-sweeping-reform-push/",
-      "pubDate": "2026-04-07",
-      "summary": "Nepal’s new government is proposing to scrap the current No Objection Certificate (NOC) process as part of a broader set of education reforms. These reforms also include tightening regulations for education consultancies, implementing digital tracking of outbound student financial transactions, and promoting Nepal as a destination for international students in niche academic disciplines.",
-      "insight": "Nepal’s proposed NOC abolition may ease administrative barriers for students seeking overseas education, potentially increasing outbound mobility—though actual demand shifts depend on implementation timing, complementary visa policies abroad, and economic conditions in Nepal’s South Asian source regions.  \nAdmissions teams should monitor Nepal’s regulatory rollout and consultancies’ evolving role, while assessing whether enhanced digital financial tracking correlates with improved student loan access or transparency—key factors influencing enrollment decisions in competitive English-speaking destinations.",
-      "impact": "Medium",
-      "sources": [
-        "South Asia"
+      "title": "What international students need to know about study and work visas in the United States",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/04/what-international-students-need-to-know-about-study-and-work-visas-in-the-united-states/",
+      "pubDate": "2026-04-09",
+      "summary": "The article discusses how recent political developments in the United States have led to numerous proposed rules and policy changes affecting foreign visitors, international students, and other visa holders regarding entry, work authorization, and immigration. It highlights the resulting confusion among current and prospective international students and notes the release of a new resource from immigration law experts via ICEF Monitor to address these issues.",
+      "insight": "Recent U.S. policy proposals on student and work visas may heighten perceived immigration uncertainty for prospective international students, potentially dampening demand from risk-averse source markets—though actual enrolment impacts remain unclear pending final rule implementation and global competitor responses.  \nAdmissions teams should track official USCIS updates and ICEF Monitor’s guidance while reviewing messaging around post-study work pathways, ensuring clarity without speculation, and benchmarking how peer institutions in the UK, Australia, and New Zealand are adjusting their visa-support communications.",
+      "impact": "Low",
+      "sources": [],
+      "dests": [
+        "USA"
       ],
-      "dests": [],
       "translated": false,
       "origLang": null,
       "relevanceScore": 8,
@@ -62,59 +64,40 @@
     },
     {
       "id": 4,
-      "title": "Singapore's No. 1 University invites Vietnamese graduate students",
-      "source": "VnExpress (Giáo dục)",
-      "color": "#b94500",
-      "url": "https://vnexpress.net/dai-hoc-so-1-singapore-moi-goi-nghien-cuu-sinh-viet-nam-5058771.html",
-      "pubDate": "2026-04-06",
-      "summary": "The National University of Singapore, ranked first in Asia and eighth globally, is seeking to increase the number of Vietnamese graduate students in mathematics. The university cites Vietnamese students’ intelligence and work ethic as reasons for this initiative.",
-      "insight": "NUS’s targeted outreach to Vietnamese mathematics graduates signals growing competition for high-potential Southeast Asian talent, possibly reflecting broader regional demand shifts or strategic diversification—though it’s unclear if this indicates a systemic increase in Vietnamese outbound mobility or merely institutional priority.  \nAdmissions teams should track Vietnamese graduate application trends, scholarship uptake, and peer universities’ recruitment activity in Vietnam, while assessing whether enhanced maths-focused support or partnerships with Vietnamese institutions could strengthen their own positioning without diverting from core market priorities.",
+      "title": "CBSE Class 12 marks upload portal opens for West Asia schools; check direct link here",
+      "source": "Times of India (Edu)",
+      "color": "#d4820a",
+      "url": "https://timesofindia.indiatimes.com/education/news/cbse-class-12-marks-upload-portal-opens-for-west-asia-schools-check-direct-link-here/articleshow/130111625.cms",
+      "pubDate": "2026-04-08",
+      "summary": "The CBSE Class 12 2026 marks upload portal opened on April 8, 2024, for schools in West Asian countries, with principals required to submit student marks online by April 17, after which no corrections will be accepted. Students appearing for exams on April 11 and April 13 must carry fresh admit cards, and the notification was issued following CBSE’s March 27 assessment guidelines and shared with Indian embassies and consulates across West Asia.",
+      "insight": "This news reflects CBSE’s continued operational prioritisation of West Asia-based Indian students, potentially reinforcing regional pipeline stability—but direct impact on demand for Anglophone universities remains uncertain without data on enrolment trends or post-exam destination choices.  \nAdmissions teams should monitor whether West Asian CBSE schools increase counselling on overseas pathways post-marks submission, and track any uptick in credential verification requests from these regions starting late April.",
       "impact": "Low",
       "sources": [
-        "Southeast Asia"
+        "India"
       ],
       "dests": [],
-      "translated": true,
-      "origLang": "vi",
-      "relevanceScore": 8,
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 7,
       "insightSource": "qwen"
     },
     {
       "id": 5,
-      "title": "“They are taking away the few opportunities left”: Chevening applicants react to UK visa brake",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/they-are-taking-away-the-few-opportunities-left-chevening-applicants-react-to-uk-visa-brake/",
-      "pubDate": "2026-04-01",
-      "summary": "The UK’s student visa restrictions led to the abrupt termination of Chevening Scholarship applications, disproportionately affecting female Afghan students who are currently barred from higher education under Taliban rule. Shahira Sadat, an affected applicant, described the emotional impact of the policy and expressed diminished faith in the global community’s support.",
-      "insight": "This news signals potential shifts in demand from high-risk, policy-sensitive markets—particularly Afghanistan—as UK visa tightening may erode trust in traditional study destinations and accelerate student diversification toward countries with more predictable or supportive immigration pathways.  \nAdmissions teams should monitor application trends from Afghan and other conflict-affected regions, track policy developments in key sending countries’ education bans, and assess whether their institutional messaging and support services adequately address heightened concerns about safety, continuity, and post-study prospects.",
-      "impact": "Low",
-      "sources": [],
-      "dests": [
-        "UK"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 6,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 6,
-      "title": "How a US clampdown affected mainland Chinese, Hong Kong student visa numbers",
-      "source": "SCMP (Education)",
-      "color": "#7b241c",
-      "url": "https://www.scmp.com/news/hong-kong/education/article/3349093/how-us-clampdown-affected-mainland-chinese-hong-kong-student-visa-numbers?utm_source=rss_feed",
-      "pubDate": "2026-04-06",
-      "summary": "A US clampdown on visas for mainland Chinese and Hong Kong students implemented last May resulted in year-on-year declines of 42% and 35% in the number of student visas granted, respectively. Although one mainland PhD student abandoned an offer from MIT to enroll at the University of Hong Kong due to the policy, a consultant noted the impact has been short-lived.",
-      "insight": "The sharp US visa declines for Chinese and Hong Kong students suggest potential short-term demand shifts toward alternative destinations, though it remains unclear whether this reflects broader geopolitical sentiment or isolated policy effects—demand resilience in other markets may offset any systemic reallocation.  \nAdmissions teams should monitor application trends from mainland China and Hong Kong across their own pipelines, as well as visa approval rates and enrolment conversion data, to assess whether observed US patterns signal emerging opportunities or require nuanced messaging around stability and support.",
+      "title": "Geopolitical tensions and rupee depreciation impact Study Abroad choices",
+      "source": "The Hindu (Edu)",
+      "color": "#145a32",
+      "url": "https://www.thehindu.com/education/geopolitical-tensions-and-rupee-depreciation-impact-study-abroad-choices/article70833949.ece",
+      "pubDate": "2026-04-08",
+      "summary": "The depreciation of the Indian rupee is increasing the effective cost of foreign education for Indian students. This is placing financial pressure on families whose children are already studying abroad.",
+      "insight": "Rupee depreciation raises the real cost of studying abroad for Indian students, potentially dampening demand—especially for higher-cost destinations—though actual enrollment impact depends on family income resilience, scholarship uptake, and perceptions of long-term ROI amid geopolitical uncertainty.  \nAdmissions teams should track application volumes from India by intake, monitor shifts toward more affordable programs or locations, and assess whether institutional financial aid policies or currency-hedged payment options could mitigate affordability concerns without assuming immediate enrollment decline.",
       "impact": "Low",
       "sources": [
-        "China"
+        "India"
       ],
       "dests": [],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 6,
+      "relevanceScore": 7,
       "insightSource": "qwen"
     }
   ]
