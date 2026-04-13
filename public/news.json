@@ -1,23 +1,21 @@
 {
-  "updated": "2026-04-12T04:01:39Z",
-  "count": 6,
-  "totalFetched": 165,
+  "updated": "2026-04-13T04:17:52Z",
+  "count": 5,
+  "totalFetched": 177,
   "articles": [
     {
       "id": 1,
-      "title": "Australia: Student visa refusal rates reach record high amid weakening demand from China",
+      "title": "Canada’s language training sector reinvents pathway programme model in response to policy settings",
       "source": "ICEF Monitor",
       "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/04/australia-student-visa-refusal-rates-reach-record-high-amid-weakening-demand-from-china/",
-      "pubDate": "2026-04-09",
-      "summary": "Australian student visa refusal rates have reached a record high as demand from China, the country’s largest source of international students, continues to weaken. While Australian universities have so far been less affected than English-language training (ELICOS) and vocational education providers by recent restrictive policy changes in the international education sector, this situation appears to be shifting due to the declining volume of Chinese students.",
-      "insight": "Australia’s rising student visa refusal rates and falling Chinese demand signal potential shifts in global student mobility, possibly reflecting tighter immigration scrutiny or changing perceptions of Australia as a destination—though direct spillover to other Anglophone countries remains uncertain without corroborating data.  \nAdmissions teams should track real-time application volumes and visa outcomes from China across peer destinations, while reviewing messaging around post-study work rights and visa transparency to ensure competitiveness amid evolving regional policy signals.",
-      "impact": "High",
-      "sources": [
-        "China"
-      ],
+      "url": "https://monitor.icef.com/2026/04/canadas-language-training-sector-reinvents-pathway-programme-model-in-response-to-policy-settings/",
+      "pubDate": "2026-04-01",
+      "summary": "In 2019, pathway programmes—joint offerings linking language study with academic programmes—accounted for 23% of language enrolments in Canada. These programmes reflected well-established linkages between language schools and partner colleges or universities at that time.",
+      "insight": "Canada’s shift in pathway programme design—driven by policy adjustments—may signal growing student preference for integrated, credential-anchored language pathways, though direct implications for US/UK/AU/NZ demand remain uncertain without parallel policy changes or evidence of shifting source-market expectations.  \nAdmissions teams should monitor whether Canadian policy-driven innovations spur similar regulatory reviews abroad, and assess if their own pathway partners are adapting delivery models to enhance progression clarity, credibility, or visa compliance—particularly for students from high-volume markets like India and China.",
+      "impact": "Medium",
+      "sources": [],
       "dests": [
-        "Australia"
+        "Canada"
       ],
       "translated": false,
       "origLang": null,
@@ -26,70 +24,13 @@
     },
     {
       "id": 2,
-      "title": "Canada’s Auditor General report confirms sector warnings",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/canadas-auditor-general-report-confirms-sector-warnings/",
-      "pubDate": "2026-04-08",
-      "summary": "Canada’s Auditor General report identified significant failures in the International Student Program Reforms, attributing them primarily to policy design and implementation shortcomings rather than external market forces. The article is the first in a two-part series by Philipp Reichert published on The PIE News.",
-      "insight": "Canada’s reported policy failures in international student reforms may indirectly influence global student decision-making, as prospective applicants increasingly weigh regulatory stability and post-study pathways—though direct demand shifts to competing destinations remain unproven and likely vary by region and institution.  \nAdmissions teams should track enrolment trends from Canada’s key source markets (e.g., India, Nigeria, Philippines) and monitor whether peer nations adjust visa policies or messaging in response to Canada’s review—using this as context, not a trigger, for strategic refinement.",
-      "impact": "Low",
-      "sources": [],
-      "dests": [
-        "Canada"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 3,
-      "title": "Canadian immigration officials move to ease rules around student work permits",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/04/canadian-immigration-officials-move-to-ease-rules-around-student-work-permits/",
-      "pubDate": "2026-04-09",
-      "summary": "Immigration, Refugees and Citizenship Canada (IRCC) has introduced amendments to rules governing student work placements, including co-ops and internships, and plans to simplify work permit processes for foreign graduates. Some of these changes are already in effect, while others remain pending.",
-      "insight": "Canada’s regulatory easing for student work permits may modestly influence international students’ destination choices, particularly among those prioritizing post-study work opportunities—though demand shifts will depend on broader factors like tuition costs, labour market outcomes, and comparative policy changes elsewhere.  \nAdmissions teams should track Canadian application trends by region and program type over the next 6–12 months, while reviewing how their own work-integrated learning offerings and graduate employment support compare in messaging to Canada’s updated framework.",
-      "impact": "Low",
-      "sources": [],
-      "dests": [
-        "Canada"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 4,
-      "title": "“Risk has never been higher”: UK sector urged on compliance",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/risk-has-never-been-higher-uk-sector-urged-on-compliance/",
-      "pubDate": "2026-04-09",
-      "summary": "UK universities are being urged to embed compliance at the core of their institutional governance due to rising Home Office intervention and the highest visa refusal rates in ten years. The call for action was reported by The PIE News in an article titled “Risk has never been higher”: UK sector urged on compliance.",
-      "insight": "UK universities’ heightened compliance focus signals potential tightening of visa scrutiny and institutional accountability, which may indirectly influence international student perceptions of UK study reliability—though direct impacts on global demand remain uncertain amid competing destination factors.  \nAdmissions teams should monitor UK visa refusal trends by nationality, Home Office guidance updates, and peer institutions’ recruitment messaging to assess whether reputational or procedural shifts warrant adjustments in pre-application support or country-specific outreach strategies.",
-      "impact": "Low",
-      "sources": [],
-      "dests": [
-        "UK"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 5,
-      "title": "112 Chinese students lose South Korean visas over fake US college degrees",
-      "source": "VnExpress (EN)",
-      "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/education/112-chinese-students-lose-south-korean-visas-over-fake-us-college-degrees-5060096.html",
-      "pubDate": "2026-04-09",
-      "summary": "South Korea revoked the visas of 112 Chinese students who used forged degree certificates from a defunct U.S. college to transfer into a private university in Gwangju. The incident highlights challenges South Korea faces in recruiting foreign students amid a declining domestic student population.",
-      "insight": "This incident reflects growing scrutiny of academic credential authenticity in key destination countries, potentially prompting tighter verification protocols across Asia-Pacific study destinations and indirectly influencing Chinese students’ perceptions of pathway credibility—though direct demand shifts toward Anglophone nations remain unconfirmed.  \nAdmissions teams should monitor whether South Korea’s enforcement spurs increased verification requests from Chinese applicants or agents, and assess whether their own credential validation processes align with emerging regional expectations for third-party degree verification.",
+      "title": "How a US clampdown affected mainland Chinese, Hong Kong student visa numbers",
+      "source": "SCMP (Education)",
+      "color": "#7b241c",
+      "url": "https://www.scmp.com/news/hong-kong/education/article/3349093/how-us-clampdown-affected-mainland-chinese-hong-kong-student-visa-numbers?utm_source=rss_feed",
+      "pubDate": "2026-04-06",
+      "summary": "A US clampdown on visas for mainland Chinese and Hong Kong students implemented last May resulted in year-on-year declines of 42% and 35% in the number of student visas granted, respectively. Although one mainland PhD student abandoned an offer from MIT to enroll at the University of Hong Kong due to the policy, a consultant noted the impact has been short-lived.",
+      "insight": "The sharp US visa declines for Chinese and Hong Kong students suggest potential short-term demand shifts toward alternative destinations, though it remains unclear whether this reflects broader geopolitical sentiment or isolated policy effects—demand resilience in other markets may offset any systemic reallocation.  \nAdmissions teams should monitor application trends from mainland China and Hong Kong across their own pipelines, as well as competitor marketing activity and visa processing timelines, to detect early signals of sustained redirection rather than transient policy-driven fluctuations.",
       "impact": "Low",
       "sources": [
         "China"
@@ -101,14 +42,14 @@
       "insightSource": "qwen"
     },
     {
-      "id": 6,
-      "title": "How conflict upends Study Abroad aspirations of Indian students",
+      "id": 3,
+      "title": "Geopolitical tensions and rupee depreciation impact Study Abroad choices",
       "source": "The Hindu (Edu)",
       "color": "#145a32",
-      "url": "https://www.thehindu.com/education/how-conflict-upends-study-abroad-aspirations-of-indian-students/article70833188.ece",
-      "pubDate": "2026-04-10",
-      "summary": "The article reports that escalating geopolitical conflicts, particularly in the Middle East and Eastern Europe, have disrupted study abroad plans for thousands of Indian students due to safety concerns, visa processing delays, and sudden university closures. It cites data from the Association of Indian Universities and education consultancies indicating a 22% year-on-year decline in Indian student enrollments in affected countries during the first half of 2024.",
-      "insight": "Escalating conflicts in the Middle East and Eastern Europe appear to be redirecting Indian students toward safer, more stable destinations like the USA, UK, Australia, and New Zealand—though the extent of this shift remains uncertain without granular data on actual application surges versus displaced intent.  \nAdmissions teams should monitor real-time application volumes from India, consultancies’ sentiment reports, and visa processing timelines closely over the next 3–6 months, while reviewing messaging around safety, support services, and pathway flexibility for students pivoting mid-process.",
+      "url": "https://www.thehindu.com/education/geopolitical-tensions-and-rupee-depreciation-impact-study-abroad-choices/article70833949.ece",
+      "pubDate": "2026-04-08",
+      "summary": "The depreciation of the Indian rupee is increasing the effective cost of foreign education for Indian students. This is placing financial pressure on families whose children are already studying abroad.",
+      "insight": "Rupee depreciation raises the real cost of studying abroad for Indian students, potentially dampening demand—especially for higher-cost destinations—though actual enrollment impacts depend on family savings, scholarship uptake, and perceptions of long-term ROI amid ongoing geopolitical uncertainty.  \nAdmissions teams should track application volumes and deposit rates from India by intake, assess scholarship utilisation patterns, and monitor rupee exchange rate volatility alongside Reserve Bank of India policy signals to inform financial aid planning and messaging.",
       "impact": "Low",
       "sources": [
         "India"
@@ -117,6 +58,44 @@
       "translated": false,
       "origLang": null,
       "relevanceScore": 7,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 4,
+      "title": "What international students need to know about study and work visas in the United States",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/04/what-international-students-need-to-know-about-study-and-work-visas-in-the-united-states/",
+      "pubDate": "2026-04-09",
+      "summary": "The article discusses how recent political developments in the United States have led to numerous proposed rules and policy changes affecting foreign visitors, international students, and other visa holders regarding entry, work authorization, and immigration. It highlights the resulting confusion among current and prospective international students and notes the release of a new resource from immigration law experts via ICEF Monitor to help clarify study and work visa requirements.",
+      "insight": "This news signals growing regulatory uncertainty for U.S.-bound international students, potentially dampening demand from risk-averse source markets—though actual enrollment impacts remain unclear pending final rule implementation and comparative policy shifts in the UK, Australia, and New Zealand.  \nAdmissions teams should track ICEF Monitor’s updated guidance and U.S. DHS announcements closely, while benchmarking how peer institutions in other English-speaking destinations are framing visa stability and post-study work pathways to prospective applicants.",
+      "impact": "Low",
+      "sources": [],
+      "dests": [
+        "USA"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 6,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 5,
+      "title": "5 types of German government scholarships for Vietnamese students",
+      "source": "VnExpress (Giáo dục)",
+      "color": "#b94500",
+      "url": "https://vnexpress.net/danh-sach-5-loai-hoc-bong-chinh-phu-duc-danh-cho-du-hoc-sinh-viet-nam-moi-nhat-5060856.html",
+      "pubDate": "2026-04-11",
+      "summary": "Vietnamese students are eligible to apply for various postgraduate scholarships offered by the German government. These scholarships, administered by the German Academic Exchange Service, provide up to more than 2,000 euros per month.",
+      "insight": "This news signals potential softening in Vietnamese student demand for Anglophone destinations, as enhanced German scholarship offerings—especially with high monthly stipends—may shift cost-benefit calculations, though direct substitution remains uncertain without data on application overlap or field-specific preferences.  \nAdmissions teams should monitor Vietnamese application volumes by semester and track scholarship uptake rates at peer institutions, while reviewing their own financial aid messaging to ensure competitiveness against such targeted, well-funded alternatives in STEM and social sciences.",
+      "impact": "Low",
+      "sources": [
+        "Southeast Asia"
+      ],
+      "dests": [],
+      "translated": true,
+      "origLang": "vi",
+      "relevanceScore": 6,
       "insightSource": "qwen"
     }
   ]
