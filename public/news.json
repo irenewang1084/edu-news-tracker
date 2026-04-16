@@ -1,18 +1,39 @@
 {
-  "updated": "2026-04-15T03:56:06Z",
-  "count": 5,
-  "totalFetched": 173,
+  "updated": "2026-04-16T04:03:13Z",
+  "count": 4,
+  "totalFetched": 165,
   "articles": [
     {
       "id": 1,
-      "title": "UK study visa demand falls sharply amid restrictions and rising costs",
-      "source": "VnExpress (EN)",
-      "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/education/uk-study-visa-demand-falls-sharply-amid-restrictions-and-rising-costs-5061901.html",
-      "pubDate": "2026-04-14",
-      "summary": "Applications for UK study visas have fallen sharply compared to the previous year. This decline is attributed to increased restrictions and rising costs, raising financial concerns for universities.",
-      "insight": "A sharp decline in UK study visa applications may signal shifting preferences among international students, potentially due to stricter immigration policies and higher living and tuition costs—though it remains unclear whether this reflects broader global trends or UK-specific challenges.  \nAdmissions teams should monitor application volume and sentiment data from key source markets—especially India, Nigeria, and China—as well as competitor messaging on affordability and post-study work rights, adjusting outreach and financial support strategies accordingly.",
+      "title": "Australia: Student visa refusal rates reach record high amid weakening demand from China",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/04/australia-student-visa-refusal-rates-reach-record-high-amid-weakening-demand-from-china/",
+      "pubDate": "2026-04-09",
+      "summary": "Australian student visa refusal rates have reached a record high as demand from China, the country’s largest source of international students, continues to weaken. While Australian universities have so far been less affected than English-language training (ELICOS) and vocational education providers by recent restrictive policy changes in the international education sector, this situation appears to be shifting due to the declining volume of Chinese students.",
+      "insight": "Australia’s rising student visa refusal rates and falling Chinese demand signal potential shifts in global student mobility, possibly reflecting tighter immigration scrutiny or changing perceptions of Australia as a destination—though direct spillover to other Anglophone countries remains uncertain without corroborating data.  \nAdmissions teams should track real-time application volumes and visa outcomes from China across peer destinations, while reviewing messaging around post-study work rights and visa transparency to ensure competitiveness amid evolving regional policy signals.",
       "impact": "High",
+      "sources": [
+        "China"
+      ],
+      "dests": [
+        "Australia"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 2,
+      "title": "UK Home Office publishes updated visa sponsor guidance for “agents and third parties”",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/04/uk-home-office-publishes-updated-visa-sponsor-guidance-for-agents-and-third-parties/",
+      "pubDate": "2026-04-15",
+      "summary": "The UK Home Office has published updated visa sponsor guidance specifically for agents and third parties involved in international student recruitment. This update expands regulatory oversight of how UK educational institutions engage with such agents, reinforcing requirements for institutions registered as student sponsors to comply with new standards when working with external representatives.",
+      "insight": "This UK policy update signals tightening regulatory scrutiny of agent practices, potentially raising compliance burdens for institutions and indirectly influencing student perceptions of UK study pathways—though direct impacts on global demand or visa conditions remain uncertain without broader policy shifts.  \nAdmissions teams should monitor how UK universities adapt their agent partnerships and disclosure practices, as these changes may inform evolving best practices in ethical recruitment, transparency requirements, and source market trust across the US, Australia, and New Zealand.",
+      "impact": "Medium",
       "sources": [],
       "dests": [
         "UK"
@@ -23,33 +44,14 @@
       "insightSource": "qwen"
     },
     {
-      "id": 2,
-      "title": "How a US clampdown affected mainland Chinese, Hong Kong student visa numbers",
-      "source": "SCMP (Education)",
-      "color": "#7b241c",
-      "url": "https://www.scmp.com/news/hong-kong/education/article/3349093/how-us-clampdown-affected-mainland-chinese-hong-kong-student-visa-numbers?utm_source=rss_feed",
-      "pubDate": "2026-04-06",
-      "summary": "A US clampdown on visas for mainland Chinese and Hong Kong students implemented last May resulted in year-on-year declines of 42% and 35% in the number of student visas granted, respectively. Although one mainland PhD student abandoned an offer from MIT to enroll at the University of Hong Kong due to the policy, a consultant noted the impact has been short-lived.",
-      "insight": "The sharp US visa declines for Chinese and Hong Kong students suggest potential short-term demand shifts toward alternative destinations, though it remains unclear whether this reflects broader geopolitical sentiment or isolated policy effects—demand resilience in other markets may offset any systemic reallocation.  \nAdmissions teams should monitor application trends from mainland China and Hong Kong across their own pipelines, as well as competitor marketing activity and visa processing timelines, to assess whether early signals of diversion persist beyond the initial policy shock.",
-      "impact": "Low",
-      "sources": [
-        "China"
-      ],
-      "dests": [],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
       "id": 3,
-      "title": "Canada simplifies co-op work permit rules",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/canada-simplifies-co-op-work-permit-rules/",
-      "pubDate": "2026-04-10",
-      "summary": "The Canadian government has eliminated the requirement for international students to obtain separate work permits for co-op or work placements that are part of their academic programs. These students will now be authorized to work off-campus as part of their studies under their existing study permits.",
-      "insight": "Canada’s move may modestly increase its appeal for international students prioritizing integrated work experience, though direct impact on demand in competing countries remains uncertain amid broader cost-of-living, post-study work, and immigration policy differences.  \nAdmissions teams should track whether Canadian institutions report increased application volumes from key source markets—and monitor if peer nations respond with similar co-op permit simplifications or enhanced work-integrated learning messaging.",
+      "title": "Canadian immigration officials move to ease rules around student work permits",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/04/canadian-immigration-officials-move-to-ease-rules-around-student-work-permits/",
+      "pubDate": "2026-04-09",
+      "summary": "Immigration, Refugees and Citizenship Canada (IRCC) has introduced amendments to rules governing student work placements, including co-ops and internships, and plans to simplify work permit processes for foreign graduates. Some of these changes are already in effect, while others remain pending.",
+      "insight": "Canada’s regulatory easing for student work permits may modestly influence international students’ destination choices, particularly among those prioritizing post-study work opportunities—though demand shifts will depend on broader factors like tuition costs, labour market conditions, and perceptions of stability in competing countries.  \nAdmissions teams should track Canadian visa approval rates, employment outcomes for graduates, and source-market sentiment—especially in India and Nigeria—while reviewing their own work-integrated learning offerings and employer partnerships to maintain competitive positioning.",
       "impact": "Low",
       "sources": [],
       "dests": [
@@ -62,38 +64,17 @@
     },
     {
       "id": 4,
-      "title": "US visa refusals hit decade high",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/us-visa-refusals-hit-decade-high/",
+      "title": "Canada may end international students' permanent residence advantage",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/education/canada-may-end-international-students-permanent-residence-advantage-5061741.html",
       "pubDate": "2026-04-14",
-      "summary": "F-1 visa refusals in the United States have reached a decade-high level, according to a new report. The report also identifies increasingly entrenched regional disparities and states that current US visa policies are in “direct opposition” to global demographic realities.",
-      "insight": "Rising F-1 visa refusal rates—especially amid widening regional disparities—may dampen US appeal for some prospective students, though demand shifts depend on how applicants interpret refusals (e.g., as procedural hurdles versus systemic barriers) and whether alternative destinations gain perceived reliability.  \n\nAdmissions teams should track refusal rate trends by country of origin, consult legal partners on evolving USCIS guidance, and assess whether their pre-application support—including documentation review and interview prep—needs strengthening to mitigate avoidable refusals.",
+      "summary": "Canada is proposing the broadest redesign of its skilled-worker immigration system in over ten years. The proposed changes would eliminate several scoring advantages currently available to international students and applicants with Canadian family ties in the permanent residence application process.",
+      "insight": "Canada’s proposed elimination of permanent residence advantages for international students may dampen its appeal as a post-study migration pathway, potentially shifting demand toward countries with more predictable or favourable immigration outcomes—though actual enrolment impacts depend on final policy details and student perceptions.  \nAdmissions teams should track Canadian visa approval rates, provincial nominee program adjustments, and competitor messaging around settlement pathways, while reviewing their own career support services to address growing student concerns about long-term residency prospects.",
       "impact": "Low",
       "sources": [],
       "dests": [
-        "USA"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 5,
-      "title": "Visa rejections climb in the US for international students from key markets including India",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/04/visa-rejections-climb-in-the-us-for-international-students-from-key-markets-including-india/",
-      "pubDate": "2026-04-15",
-      "summary": "A Shorelight report titled Beyond the Interview: A Decade of Student Visa Denials and What Comes Next finds that F-1 visa rejections for prospective international students in the US have reached record highs. The report also shows that these refusals are structurally concentrated in specific regions, including key markets such as India.",
-      "insight": "Rising F-1 visa rejections—especially for Indian students—may dampen US-bound application volumes and shift demand toward alternative destinations, though it remains unclear whether this reflects stricter adjudication, procedural delays, or broader geopolitical sentiment.  \nAdmissions teams should track country-specific refusal rates, consult immigration counsel on documentation best practices, and assess whether partner agents or pre-departure support can mitigate perceived visa risk without assuming immediate policy shifts.",
-      "impact": "Low",
-      "sources": [
-        "India"
-      ],
-      "dests": [
-        "USA"
+        "Canada"
       ],
       "translated": false,
       "origLang": null,
