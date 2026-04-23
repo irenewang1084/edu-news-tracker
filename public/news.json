@@ -1,21 +1,78 @@
 {
-  "updated": "2026-04-22T03:56:27Z",
-  "count": 8,
-  "totalFetched": 173,
+  "updated": "2026-04-23T04:02:15Z",
+  "count": 9,
+  "totalFetched": 184,
   "articles": [
     {
       "id": 1,
-      "title": "Australia: Student visa refusal rates reach record high amid weakening demand from China",
+      "title": "New Zealand to increase income thresholds for parent visa categories",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/new-zealand-to-increase-income-thresholds-for-parent-visa-categories-5064775.html",
+      "pubDate": "2026-04-23",
+      "summary": "New Zealand will increase the income and sponsorship requirements for several visa categories, including those related to parents. This change is intended to tighten financial eligibility rules for family reunification.",
+      "insight": "While primarily targeting parent visas, this policy shift may indirectly affect international students’ long-term settlement planning—especially for those from regions where family reunification is a key post-study migration motivator—though direct impacts on student visa pathways remain unconfirmed.  \nAdmissions teams should monitor whether source markets (e.g., India, China, Philippines) express heightened concern about future family sponsorship prospects, and assess if counselling materials need updating to clarify distinctions between student, post-study work, and parent visa requirements.",
+      "impact": "Medium",
+      "sources": [],
+      "dests": [
+        "New Zealand"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 2,
+      "title": "Visa rejections climb in the US for international students from key markets including India",
       "source": "ICEF Monitor",
       "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/04/australia-student-visa-refusal-rates-reach-record-high-amid-weakening-demand-from-china/",
-      "pubDate": "2026-04-09",
-      "summary": "Australian student visa refusal rates have reached a record high as demand from China, the country’s largest source of international students, continues to weaken. While Australian universities have so far been less affected than English-language training (ELICOS) and vocational education providers by recent restrictive policy changes in the international education sector, this situation appears to be shifting due to the declining volume of Chinese students.",
-      "insight": "Australia’s rising student visa refusal rates and falling Chinese demand signal potential shifts in global student mobility, possibly reflecting tighter immigration scrutiny or changing perceptions of Australia as a destination—though direct spillover to other Anglophone countries remains uncertain without corroborating data.  \nAdmissions teams should track real-time application volumes and visa outcomes from China across peer destinations, while reviewing messaging around post-study work rights and visa transparency to ensure competitiveness amid evolving regional policy signals.",
-      "impact": "High",
+      "url": "https://monitor.icef.com/2026/04/visa-rejections-climb-in-the-us-for-international-students-from-key-markets-including-india/",
+      "pubDate": "2026-04-15",
+      "summary": "A Shorelight report titled *Beyond the Interview: A Decade of Student Visa Denials and What Comes Next* finds record-high F-1 visa refusal rates for prospective international students in the United States. The report identifies that these refusals are structurally concentrated in specific regions, including key markets such as India.",
+      "insight": "Rising F-1 visa refusal rates for Indian students signal potential friction in US-bound enrolment pathways, possibly dampening demand or shifting preferences—though causality remains unclear amid broader geopolitical and economic factors influencing student decision-making.  \nAdmissions teams should track real-time application and enrolment trends from India, consult visa issuance data from local US consulates, and assess whether partner agents or students report heightened interview scrutiny or documentation concerns before adjusting outreach or support strategies.",
+      "impact": "Low",
       "sources": [
-        "China"
+        "India"
       ],
+      "dests": [
+        "USA"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 3,
+      "title": "Beyond the visa: enabling the contribution of scholars from conflict zones",
+      "source": "HEPI",
+      "color": "#4a235a",
+      "url": "https://www.hepi.ac.uk/2026/04/16/beyond-the-visa-enabling-the-contribution-of-scholars-from-conflict-zones/",
+      "pubDate": "2026-04-16",
+      "summary": "The article is a blog post authored by Naimatullah Zafary, a Chevening Alumnus and University of Sussex alumnus, who arrived in the UK on 24 August 2021 as a Chevening Scholar amid the collapse of Kabul. It was published on the Higher Education Policy Institute (HEPI) website under the title “Beyond the visa: enabling the contribution of scholars from conflict zones.”",
+      "insight": "This news highlights growing institutional and policy attention to holistic support for scholars from conflict-affected regions—not just visa access—suggesting potential shifts in student expectations around safety, belonging, and academic continuity, though direct demand impacts remain uncertain amid broader geopolitical volatility.  \nAdmissions teams should monitor emerging partnerships with NGOs and governments supporting displaced scholars, review their crisis-response frameworks for admissions and onboarding, and assess whether current support services align with the complex needs of students from high-risk regions.",
+      "impact": "Low",
+      "sources": [],
+      "dests": [
+        "UK"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 4,
+      "title": "Australia: Multiple data indicators signal further declines ahead for international student numbers",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/04/australia-multiple-data-indicators-signal-further-declines-ahead-for-international-student-numbers/",
+      "pubDate": "2026-04-22",
+      "summary": "A new analysis of student visa trends indicates that international student numbers in Australia are expected to decline further over the next few years, particularly affecting English-language training schools (ELICOS) and vocational education providers (VET). This projected downturn also poses significant challenges for Australian universities, driven by policy changes implemented over the past three years.",
+      "insight": "Australia’s projected international student decline—driven by tightened visa policies and falling ELICOS/VET enrolments—may indirectly increase competition for high-intent students in key source markets, though demand shifts to the US, UK or NZ remain unproven and depend on relative policy stability and cost perceptions.  \nAdmissions teams should track real-time application trends from Australia’s top sending countries (e.g., India, China, Nepal), monitor comparative visa processing times and post-study work rights updates across destinations, and assess whether Australian policy fatigue is influencing broader regional sentiment toward English-speaking study destinations.",
+      "impact": "Low",
+      "sources": [],
       "dests": [
         "Australia"
       ],
@@ -25,7 +82,45 @@
       "insightSource": "qwen"
     },
     {
-      "id": 2,
+      "id": 5,
+      "title": "Vietnamese-American who sold $10B chip firm launches $15,000 fellowship for Vietnam's STEM students",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/education/vietnamese-american-who-sold-10b-chip-firm-launches-15-000-fellowship-for-vietnam-s-stem-students-5064846.html",
+      "pubDate": "2026-04-21",
+      "summary": "Loi Nguyen, a Vietnamese-American semiconductor entrepreneur and co-founder of Inphi—which was sold to Marvell Technology for $10 billion in 2021—is among the first donors to a new fellowship program for Vietnamese STEM students. The fellowship provides up to $15,000 in support to help Vietnamese students secure master’s and doctoral scholarships at top overseas universities.",
+      "insight": "This news signals growing private-sector investment in Vietnamese STEM talent’s global mobility, potentially increasing demand for high-quality graduate programs abroad—though it remains unclear whether this fellowship will significantly shift enrolment volumes or merely reinforce existing trends among elite candidates.  \nAdmissions teams should monitor uptake of this fellowship and similar initiatives to gauge emerging preferences for scholarship-linked applications, while reviewing partnerships with Vietnamese universities and outreach to high-achieving STEM cohorts ahead of 2025 intake cycles.",
+      "impact": "Medium",
+      "sources": [
+        "Southeast Asia"
+      ],
+      "dests": [],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 7,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 6,
+      "title": "WEEKEND READING: International tuition fee-setting: why imitation is risky and what better looks like",
+      "source": "HEPI",
+      "color": "#4a235a",
+      "url": "https://www.hepi.ac.uk/2026/04/18/weekend-reading-international-tuition-fee-setting-why-imitation-is-risky-and-what-better-looks-like/",
+      "pubDate": "2026-04-18",
+      "summary": "This article, authored by Vincenzo Raimo and Patric Kirchner, examines international tuition fee-setting in UK higher education. It argues that imitating peer institutions’ pricing strategies is risky and advocates for a more strategic, value-based approach to fee-setting.",
+      "insight": "This UK-focused analysis signals growing institutional awareness that reactive, peer-imitative fee-setting may erode value perception among international students—potentially reflecting broader demand sensitivities to pricing transparency and ROI justification, though direct implications for US/AU/NZ markets remain uncertain pending local policy shifts.  \nAdmissions teams should monitor how peer institutions in their region adjust fee structures and messaging around value, particularly for high-volume source markets, while reviewing whether current pricing aligns with demonstrable student outcomes and service differentiation—not just competitor benchmarks.",
+      "impact": "Low",
+      "sources": [],
+      "dests": [
+        "UK"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 7,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 7,
       "title": "UK Home Office publishes updated visa sponsor guidance for “agents and third parties”",
       "source": "ICEF Monitor",
       "color": "#1a3a5c",
@@ -40,121 +135,42 @@
       ],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 3,
-      "title": "Canadian immigration officials move to ease rules around student work permits",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/04/canadian-immigration-officials-move-to-ease-rules-around-student-work-permits/",
-      "pubDate": "2026-04-09",
-      "summary": "Immigration, Refugees and Citizenship Canada (IRCC) has introduced amendments to rules governing student work placements, including co-ops and internships, and plans to simplify work permit processes for foreign graduates. Some of these changes are already in effect, while others remain pending.",
-      "insight": "Canada’s regulatory easing for student work permits may modestly influence international students’ destination choices, particularly among those prioritizing post-study work opportunities—though demand shifts will depend on broader factors like tuition costs, labour market conditions, and perceptions of stability in competing countries.  \nAdmissions teams should track Canadian visa approval rates, employment outcomes for graduates, and source-market sentiment—especially in India, Nigeria, and China—while reviewing their own work-integrated learning offerings and employer partnerships to remain competitive.",
-      "impact": "Low",
-      "sources": [],
-      "dests": [
-        "Canada"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 4,
-      "title": "Canada's new international student arrivals plunge below Covid-era levels",
-      "source": "VnExpress (EN)",
-      "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/education/canada-s-new-international-student-arrivals-plunge-below-covid-era-levels-5064036.html",
-      "pubDate": "2026-04-18",
-      "summary": "Canada’s new international student arrivals have dropped to the lowest level in ten years, falling below even the numbers recorded during the COVID-19 pandemic. This decline follows a sharp reduction in the number of study permits approved by the Canadian government.",
-      "insight": "Canada’s sharp decline in new international student arrivals—now below pandemic lows—may reflect tightening visa policies and growing perceptions of reduced value or accessibility, though it remains unclear whether this signals broader global demand shifts or is largely Canada-specific.  \nAdmissions teams should monitor source-market sentiment toward Canada’s policy changes, track any spillover interest in their own countries, and assess whether regional recruitment messaging needs refinement to address evolving concerns about affordability, post-study pathways, and regulatory stability.",
-      "impact": "Low",
-      "sources": [],
-      "dests": [
-        "Canada"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 5,
-      "title": "Number of Hong Kong school leavers seeking education elsewhere hits 14-year low",
-      "source": "SCMP (Education)",
-      "color": "#7b241c",
-      "url": "https://www.scmp.com/news/hong-kong/education/article/3350925/number-hong-kong-school-leavers-seeking-education-elsewhere-hits-14-year-low?utm_source=rss_feed",
-      "pubDate": "2026-04-21",
-      "summary": "The number of Hong Kong secondary school leavers pursuing higher education outside the city dropped to 2,671 in 2025, representing 6.5% of the 40,948 Form Six graduates enrolled in full-time courses, marking a 13% decline from 2024’s figure of 3,061 and the lowest level in 14 years. An expert cited increased competition from mainland Chinese students applying to local universities as a key factor behind this trend.",
-      "insight": "Hong Kong’s sharp 13% drop in outbound school leavers—hitting a 14-year low—may reflect shifting preferences toward local or mainland Chinese universities, though it’s unclear whether this signals broader regional demand softening or is an isolated, policy-driven anomaly.  \nAdmissions teams should track Hong Kong’s university admission statistics, visa approval trends for local students, and sentiment shifts via alumni surveys—while remaining cautious about overinterpreting a single-year dip amid evolving cross-border education policies.",
-      "impact": "Low",
-      "sources": [
-        "China"
-      ],
-      "dests": [],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 6,
-      "title": "1 in 3 international students denied US visa in 2025, highest rate in a decade",
-      "source": "VnExpress (EN)",
-      "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/education/1-in-3-international-students-denied-us-visa-in-2025-highest-rate-in-a-decade-5064837.html",
-      "pubDate": "2026-04-21",
-      "summary": "U.S. consulates rejected 35% of student visa applicants in 2025, marking the highest refusal rate for international students in ten years. This surge in denials threatens American universities with billions of dollars in lost tuition revenue.",
-      "insight": "The 35% US student visa refusal rate in 2025—highest in a decade—may signal tightening adjudication standards or heightened scrutiny, potentially dampening demand for US study among risk-averse applicants, though causality remains unclear without granular data on denial reasons or applicant profiles.  \nAdmissions teams should monitor real-time application and enrolment trends from key source markets, track comparative visa success rates across destination countries, and assess whether prospective students are shifting inquiries toward the UK, Australia, or New Zealand amid perceived US visa uncertainty.",
-      "impact": "Low",
-      "sources": [],
-      "dests": [
-        "USA"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 7,
-      "title": "IHE 2026 takeaways: India’s TNE push amid calls for clarity",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/ihe-2026-takeaways-indias-tne-push-amid-calls-for-clarity/",
-      "pubDate": "2026-04-21",
-      "summary": "At the Higher Education Leaders Roundtable during IHE 2026, delegates from Symbiosis International University discussed efforts to democratise transnational education (TNE) in India, regulatory expectations, the need for stronger executive action, and advocated for a South Asia-focused regional approach to internationalisation. The article was published by The PIE News under the title “IHE 2026 takeaways: India’s TNE push amid calls for clarity.”",
-      "insight": "India’s intensified focus on transnational education may gradually reduce outbound student demand, particularly for undergraduate and foundation pathways, though the impact remains uncertain given current growth in premium postgraduate enrolments and visa policy stability.  \nAdmissions teams should track India’s TNE regulatory developments and institutional partnerships closely, especially any shifts in UGC guidelines or accreditation frameworks that could influence student preferences for local versus offshore study options.",
-      "impact": "Low",
-      "sources": [
-        "India",
-        "South Asia"
-      ],
-      "dests": [],
-      "translated": false,
-      "origLang": null,
       "relevanceScore": 6,
       "insightSource": "qwen"
     },
     {
       "id": 8,
-      "title": "UK universities warned of rising competition in Asia",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/uk-universities-warned-of-rising-competition-in-asia/",
+      "title": "Duy Tan University transfers technology and cooperates in training with China",
+      "source": "VnExpress (Giáo dục)",
+      "color": "#b94500",
+      "url": "https://vnexpress.net/dh-duy-tan-chuyen-giao-cong-nghe-hop-tac-dao-tao-voi-trung-quoc-5065205.html",
       "pubDate": "2026-04-21",
-      "summary": "New data shows that South Asian students are increasingly choosing Asian countries over the UK for higher education. Stakeholders have warned of growing competition from Asian destinations amid concurrent demand and supply-side challenges facing UK universities.",
-      "insight": "This trend signals intensifying competition for South Asian students, as regional alternatives gain appeal amid perceived value, proximity, and post-study opportunities—though it remains unclear whether this reflects a structural shift or short-term response to UK-specific challenges like visa uncertainty or cost pressures.  \nAdmissions teams should monitor application and enrolment trends from India, Bangladesh, and Pakistan closely, while reviewing messaging around affordability, career outcomes, and support services—noting that competitive positioning may increasingly hinge on holistic student experience rather than brand alone.",
+      "summary": "Duy Tan University is collaborating with Chinese universities and technology corporations to advance technology transfer and human resource training. These efforts focus specifically on the fields of artificial intelligence and digitalization.",
+      "insight": "This collaboration signals growing academic-technical linkages between Vietnam and China, potentially reinforcing China’s outbound student mobility toward ASEAN institutions—though its direct impact on Western university recruitment remains uncertain amid shifting geopolitical and economic factors influencing Chinese student choices.  \nAdmissions teams should monitor Chinese student application trends to ASEAN versus Western destinations, especially in AI/digital fields, and assess whether such partnerships catalyse new scholarship pathways or dual-degree pipelines that could indirectly affect enrolment competition or curriculum expectations.",
       "impact": "Low",
       "sources": [
-        "South Asia"
+        "China"
       ],
-      "dests": [
-        "UK"
+      "dests": [],
+      "translated": true,
+      "origLang": "vi",
+      "relevanceScore": 6,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 9,
+      "title": "Brazil eyes bigger global role as global student flows shift",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/brazil-eyes-bigger-global-role-as-global-student-flows-shift/",
+      "pubDate": "2026-04-22",
+      "summary": "Brazil is seeking to expand its role in the global international education market as demand for cross-border study rises and students increasingly choose non-traditional destinations. The country aims to position itself as a “bridge” between education systems in the global North and South.",
+      "insight": "Brazil’s push to become a global education bridge may gradually diversify student preferences in Latin America, potentially slowing growth for traditional Anglophone destinations—though current evidence of direct enrolment diversion remains limited and highly dependent on infrastructure, scholarship scale, and bilateral agreements.  \nAdmissions teams should track Brazil’s bilateral partnerships, funding announcements, and visa facilitation efforts with key Latin American countries, while assessing whether its rise as a regional hub creates new referral pathways or signals shifting perceptions of academic quality and post-study value.",
+      "impact": "Low",
+      "sources": [
+        "Latin America"
       ],
+      "dests": [],
       "translated": false,
       "origLang": null,
       "relevanceScore": 6,
