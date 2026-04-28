@@ -1,37 +1,18 @@
 {
-  "updated": "2026-04-27T04:26:24Z",
-  "count": 7,
+  "updated": "2026-04-28T04:30:16Z",
+  "count": 5,
   "totalFetched": 175,
   "articles": [
     {
       "id": 1,
-      "title": "UK Home Office publishes updated visa sponsor guidance for “agents and third parties”",
+      "title": "New international student permit approvals for Canada fell below COVID levels in 2025",
       "source": "ICEF Monitor",
       "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/04/uk-home-office-publishes-updated-visa-sponsor-guidance-for-agents-and-third-parties/",
-      "pubDate": "2026-04-15",
-      "summary": "The UK Home Office has published updated visa sponsor guidance specifically for agents and third parties involved in international student recruitment. This update expands regulatory oversight of how UK educational institutions engage with such agents, reinforcing requirements for institutions registered as student sponsors to issue valid certificates of sponsorship.",
-      "insight": "This UK policy update signals tightening regulatory scrutiny of agent partnerships, potentially increasing compliance burdens for universities and raising concerns among agents in key markets like India and Nigeria—though direct impacts on global student demand or sentiment remain uncertain without evidence of broader visa restrictions.  \nAdmissions teams should monitor how UK institutions adjust agent contracts and recruitment practices, and assess whether similar oversight could emerge in Australia or New Zealand, particularly when reviewing third-party representation agreements and due diligence protocols.",
-      "impact": "Medium",
-      "sources": [],
-      "dests": [
-        "UK"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 2,
-      "title": "What’s in Canada’s CIMM report and will it influence IRCC policy?",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/whats-in-canadas-cimm-report-and-will-it-influence-ircc-policy/",
-      "pubDate": "2026-04-23",
-      "summary": "Canada’s Standing Committee on Citizenship and Immigration (CIMM) has released a comprehensive report with recommendations addressing the International Student Program (ISP). The article questions the extent to which these CIMM recommendations will influence Immigration, Refugees and Citizenship Canada (IRCC) policy.",
-      "insight": "Canada’s CIMM report signals potential tightening of the International Student Program, which could modestly increase demand for alternatives in the USA, UK, Australia, and New Zealand—though actual enrolment shifts depend on IRCC’s implementation and source-market perceptions of stability and value.  \nAdmissions teams should track IRCC’s formal response to CIMM recommendations, monitor student sentiment in key markets (especially India, Nigeria, Philippines), and assess whether competitor institutions are proactively adjusting messaging around post-study work and pathway clarity.",
-      "impact": "Medium",
+      "url": "https://monitor.icef.com/2026/04/new-international-student-permit-approvals-for-canada-fell-below-covid-levels-in-2025/",
+      "pubDate": "2026-04-16",
+      "summary": "Canada approved 75,372 new study permits for international students in 2025. This figure represents a 64% year-over-year decline and an 18% decrease from the 2020 pandemic low.",
+      "insight": "Canada’s sharp 64% YoY drop in new study permits—falling even below 2020 pandemic lows—may reflect tightened immigration policies, reduced post-study work incentives, or shifting perceptions among key source markets, though it’s unclear how much this signals broader global demand shifts versus Canada-specific factors.  \nAdmissions teams should track real-time application trends and sentiment data from overlapping source regions (e.g., India, Nigeria, Philippines), while reviewing their own visa support services and post-graduation outcome messaging to ensure competitiveness amid evolving student priorities.",
+      "impact": "Low",
       "sources": [],
       "dests": [
         "Canada"
@@ -42,18 +23,37 @@
       "insightSource": "qwen"
     },
     {
+      "id": 2,
+      "title": "Number of Hong Kong school leavers seeking education elsewhere hits 14-year low",
+      "source": "SCMP (Education)",
+      "color": "#7b241c",
+      "url": "https://www.scmp.com/news/hong-kong/education/article/3350925/number-hong-kong-school-leavers-seeking-education-elsewhere-hits-14-year-low?utm_source=rss_feed",
+      "pubDate": "2026-04-21",
+      "summary": "The number of Hong Kong secondary school leavers pursuing higher education outside the city dropped to 2,671 in 2025, representing 6.5% of the 40,948 Form Six graduates enrolled in full-time courses, marking a 13% decline from 2024’s figure of 3,061 and the lowest level in 14 years. An expert cited increased competition from mainland Chinese students applying to local universities as a key factor behind this trend.",
+      "insight": "This decline in Hong Kong students studying abroad may reflect shifting preferences toward mainland Chinese universities, tighter overseas visa policies, or improved local higher education options—though it’s unclear how much this signals broader regional demand changes versus Hong Kong-specific factors.  \nAdmissions teams should monitor application trends from Hong Kong across undergraduate and postgraduate levels, track policy shifts in China’s cross-border education approvals, and assess whether mainland competition is reshaping Hong Kong students’ perceptions of value and risk in studying overseas.",
+      "impact": "Low",
+      "sources": [
+        "China"
+      ],
+      "dests": [],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
       "id": 3,
-      "title": "New Zealand hits study destination target a decade early",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/new-zealand-hits-study-destination-target-a-decade-early/",
-      "pubDate": "2026-04-24",
-      "summary": "New Zealand has achieved a key international education target nearly a decade ahead of schedule, according to a new survey by Education New Zealand Manapou ki te Ao (ENZ). The announcement was reported by The PIE News.",
-      "insight": "New Zealand’s early achievement of its international education target suggests growing appeal among global students, possibly reflecting improved visa pathways, post-study work opportunities, or shifting perceptions of safety and value—though it remains unclear whether this signals broad demand growth or a temporary reallocation from other Anglophone destinations.  \nAdmissions teams should track New Zealand’s enrolment data by region and level, compare concurrent visa policy changes in competitor countries, and assess whether shifts in student sentiment—particularly from key Asian markets—are mirrored in their own application trends or agent feedback.",
-      "impact": "Medium",
+      "title": "UK: 7 in 10 universities report declining international postgraduate enrolments; visa rejections are part of the story",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/04/uk-7-in-10-universities-report-declining-international-postgraduate-enrolments-visa-rejections-are-part-of-the-story/",
+      "pubDate": "2026-04-23",
+      "summary": "A recent survey by the British Universities International Liaison Association (BUILA) found that 70% of UK universities reported a decline in international postgraduate enrolments in January 2026 compared with January 2025, with an average reduction of 31%. The drop was particularly pronounced among students from “high-risk” markets, and visa rejections were cited as a contributing factor.",
+      "insight": "This UK enrolment decline—driven partly by visa rejections and concentrated in high-risk markets—may signal growing sensitivity among international postgraduates to perceived immigration barriers, though it’s unclear whether this reflects broader demand shifts or UK-specific policy impacts.  \nAdmissions teams should track visa refusal rates, source-market sentiment surveys, and competitor enrolment trends in key regions—noting that similar policy tightening elsewhere could amplify spillover effects on student decision-making.",
+      "impact": "Low",
       "sources": [],
       "dests": [
-        "New Zealand"
+        "UK"
       ],
       "translated": false,
       "origLang": null,
@@ -62,17 +62,15 @@
     },
     {
       "id": 4,
-      "title": "Visa rejections climb in the US for international students from key markets including India",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/04/visa-rejections-climb-in-the-us-for-international-students-from-key-markets-including-india/",
-      "pubDate": "2026-04-15",
-      "summary": "A Shorelight report titled *Beyond the Interview: A Decade of Student Visa Denials and What Comes Next* finds record-high F-1 visa refusal rates for prospective international students in the United States. The report identifies that these refusals are structurally concentrated in specific regions, including key markets such as India.",
-      "insight": "Rising F-1 visa refusal rates—especially for Indian students—may dampen US-bound application volumes and shift demand toward alternative destinations, though it remains unclear whether this reflects stricter adjudication, applicant preparedness gaps, or broader geopolitical factors affecting student mobility.  \nAdmissions teams should track real-time visa approval trends by nationality and consulate, review pre-application advising protocols for high-refusal markets, and assess how partner agents and universities in the UK, Australia, and New Zealand are adjusting outreach to Indian and other high-risk origin countries.",
+      "title": "Pause on Some OPT Applications Has Left Students in Limbo for Months",
+      "source": "Inside Higher Ed",
+      "color": "#285e61",
+      "url": "https://www.insidehighered.com/news/global/international-students-us/2026/04/27/opt-application-pause-leaves-students-limbo",
+      "pubDate": "2026-04-27",
+      "summary": "A pause on certain Optional Practical Training (OPT) applications has left international students in limbo for months, according to a report published on April 27, 2026. Students from the 40 countries and territories subject to the Trump administration’s travel ban may miss their opportunity to work in the U.S. as the spring semester concludes.",
+      "insight": "This news signals potential erosion in U.S. appeal for students from affected countries, as prolonged OPT uncertainty may dampen demand—though broader trends in global mobility, institutional reputation, and alternative destinations will moderate the impact.  \nAdmissions teams should monitor application volumes and yield rates from impacted regions, while reviewing messaging around post-study work pathways to ensure clarity and responsiveness to evolving visa realities.",
       "impact": "Low",
-      "sources": [
-        "India"
-      ],
+      "sources": [],
       "dests": [
         "USA"
       ],
@@ -83,59 +81,21 @@
     },
     {
       "id": 5,
-      "title": "Australia: Multiple data indicators signal further declines ahead for international student numbers",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/04/australia-multiple-data-indicators-signal-further-declines-ahead-for-international-student-numbers/",
-      "pubDate": "2026-04-22",
-      "summary": "A new analysis of student visa trends indicates that international student numbers in Australia are expected to decline further over the next couple of years, particularly affecting English-language training schools (ELICOS) and vocational education providers (VET). This projected downturn also poses significant challenges for Australian universities, driven by policy changes implemented over the past three years.",
-      "insight": "Australia’s projected international student decline—driven by tightened visa policies and falling ELICOS/VET enrolments—may indirectly increase competition for high-intent students in key Asian and Middle Eastern markets, though demand shifts to the US, UK, or NZ remain unproven and context-dependent.  \nAdmissions teams should track real-time application trends from Australia’s top source countries (e.g., India, China, Nepal), monitor policy developments around post-study work rights elsewhere, and assess whether partner agents report changing student preferences—not as an immediate alarm, but as part of ongoing market intelligence.",
-      "impact": "Low",
-      "sources": [],
-      "dests": [
-        "Australia"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 6,
-      "title": "WEEKEND READING: International tuition fee-setting: why imitation is risky and what better looks like",
-      "source": "HEPI",
-      "color": "#4a235a",
-      "url": "https://www.hepi.ac.uk/2026/04/18/weekend-reading-international-tuition-fee-setting-why-imitation-is-risky-and-what-better-looks-like/",
-      "pubDate": "2026-04-18",
-      "summary": "This article, authored by Vincenzo Raimo and Patric Kirchner, examines international tuition fee-setting in UK higher education. It argues that imitating peer institutions’ pricing strategies is risky and advocates for a more strategic, value-based approach to fee-setting.",
-      "insight": "This UK-focused analysis signals growing institutional awareness that reactive, peer-imitative fee-setting may erode value perception among international students—potentially reflecting broader demand sensitivities to pricing transparency and ROI justification, though direct implications for US/AU/NZ markets remain uncertain pending local policy shifts.  \nAdmissions teams should monitor how peer institutions in their region adjust fee structures and messaging around value, particularly for high-volume source markets, while reviewing whether current pricing aligns with demonstrable student outcomes and service differentiation—not just competitor benchmarks.",
-      "impact": "Low",
-      "sources": [],
-      "dests": [
-        "UK"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 7,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 7,
-      "title": "China’s outbound student drop signals “maturing” market",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/chinas-outbound-student-drop-signals-maturing-market/",
-      "pubDate": "2026-04-24",
-      "summary": "China’s outbound student mobility rates have returned to 2016 levels, according to newly released data from Beijing—the first such official figures in five years. Experts characterize this decline not as a collapse but as a market “reset” reflecting a “maturing” international education market.",
-      "insight": "China’s outbound student numbers returning to 2016 levels—after peaking post-pandemic—suggest a stabilization rather than collapse, possibly reflecting broader shifts in affordability, geopolitical perceptions, and domestic higher education quality, though causal links to specific policy or sentiment drivers remain unclear.  \nAdmissions teams should track provincial-level application trends, scholarship uptake, and post-study work rule changes in key destinations, while reviewing messaging around value, career outcomes, and regional campus options to align with increasingly discerning and diversified Chinese applicant profiles.",
+      "title": "Chinese international students gradually leave America",
+      "source": "VnExpress (Giáo dục)",
+      "color": "#b94500",
+      "url": "https://vnexpress.net/du-hoc-sinh-trung-quoc-dang-quay-lung-voi-my-5067256.html",
+      "pubDate": "2026-04-27",
+      "summary": "For the first time in over ten years, the United States is no longer among the top two destinations for Chinese international students. This shift reflects a growing emphasis on cost and career prospects rather than prestige.",
+      "insight": "This news signals a potential recalibration in Chinese student preferences, where affordability and post-study employment outcomes may now outweigh traditional prestige factors—though it remains unclear whether this reflects a structural shift or short-term volatility driven by geopolitical, economic, or policy variables.  \nAdmissions teams should monitor application volume trends by cohort, scholarship uptake rates, and destination-specific visa approval timelines from China, while also benchmarking career support offerings and cost-of-living transparency against key competitors like the UK and Australia.",
       "impact": "Low",
       "sources": [
         "China"
       ],
       "dests": [],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 7,
+      "translated": true,
+      "origLang": "vi",
+      "relevanceScore": 8,
       "insightSource": "qwen"
     }
   ]
