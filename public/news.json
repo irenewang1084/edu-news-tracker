@@ -1,59 +1,64 @@
 {
-  "updated": "2026-05-01T04:43:59Z",
-  "count": 6,
-  "totalFetched": 171,
+  "updated": "2026-05-02T04:15:19Z",
+  "count": 7,
+  "totalFetched": 177,
   "articles": [
     {
       "id": 1,
-      "title": "Australia: Multiple data indicators signal further declines ahead for international student numbers",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/04/australia-multiple-data-indicators-signal-further-declines-ahead-for-international-student-numbers/",
-      "pubDate": "2026-04-22",
-      "summary": "A new analysis of student visa trends indicates that international student numbers in Australia are expected to decline further over the next couple of years, particularly affecting English-language training schools (ELICOS) and vocational education providers (VET), as well as posing significant challenges for Australian universities. This outlook follows three years of new policy settings and increased government intervention in the sector.",
-      "insight": "Australia’s projected international student decline—driven by tighter visa policies and sectoral interventions—may indirectly signal shifting global perceptions of post-study work rights, affordability, and regulatory stability, though direct spillover to US/UK/NZ demand remains uncertain without parallel policy shifts in those markets.  \nAdmissions teams should monitor real-time application trends from key overlapping source markets (e.g., India, Nepal, Philippines), track competitor messaging around visa certainty and employment pathways, and assess whether Australian policy adjustments are influencing broader student sentiment about English-speaking study destinations.",
+      "title": "Number of Hong Kong school leavers seeking education elsewhere hits 14-year low",
+      "source": "SCMP (Education)",
+      "color": "#7b241c",
+      "url": "https://www.scmp.com/news/hong-kong/education/article/3350925/number-hong-kong-school-leavers-seeking-education-elsewhere-hits-14-year-low?utm_source=rss_feed",
+      "pubDate": "2026-04-21",
+      "summary": "The number of Hong Kong secondary school leavers pursuing higher education outside the city dropped to 2,671 in 2025, representing 6.5% of the 40,948 Form Six graduates enrolled in full-time courses, marking a 13% decline from 2024’s figure of 3,061 and the lowest level in 14 years. An expert cited increased competition from mainland Chinese students applying to local universities as a key factor behind this trend.",
+      "insight": "Hong Kong’s sharp 13% drop in outbound secondary leavers—reaching a 14-year low—may reflect tightening local university capacity due to mainland Chinese student competition, though it’s unclear whether this signals broader regional demand shifts or is an isolated, supply-side phenomenon.  \nAdmissions teams should track Hong Kong’s Form Six enrolment trends and local university admission rates over the next 12–18 months, while reviewing scholarship targeting and pathway partnerships to ensure responsiveness if domestic constraints ease or sentiment shifts.",
       "impact": "Low",
-      "sources": [],
-      "dests": [
-        "Australia"
+      "sources": [
+        "China"
       ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 9,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 2,
-      "title": "Relief for some OPT applicants in “immigration limbo”",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/relief-for-some-opt-applicants-in-immigration-limbo/",
-      "pubDate": "2026-04-28",
-      "summary": "A federal judge ordered the Trump administration to lift an indefinite freeze on work permit authorizations, including Optional Practical Training (OPT), for international students from countries subject to the travel ban. The ruling provided relief to a specific group of students who had been in immigration limbo due to the freeze.",
-      "insight": "This ruling temporarily alleviates a specific administrative barrier for certain international students affected by the U.S. travel ban, potentially improving short-term perceptions of U.S. visa reliability—but broader OPT policy stability and overall immigration sentiment remain uncertain and highly dependent on future litigation and policy shifts.  \nAdmissions teams should track USCIS processing timelines and public messaging around OPT eligibility, particularly for students from impacted countries, while assessing whether this development meaningfully influences application trends in key source markets over the coming admission cycle.",
-      "impact": "Low",
-      "sources": [],
-      "dests": [
-        "USA"
-      ],
+      "dests": [],
       "translated": false,
       "origLang": null,
       "relevanceScore": 8,
       "insightSource": "qwen"
     },
     {
-      "id": 3,
-      "title": "UK Lords press ministers over sector visa challenges",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/uk-lords-press-ministers-over-sector-visa-challenges/",
+      "id": 2,
+      "title": "Many American international students are devastated because their OPT was stopped",
+      "source": "VnExpress (Giáo dục)",
+      "color": "#b94500",
+      "url": "https://vnexpress.net/nhieu-du-hoc-sinh-my-dieu-dung-vi-bi-dung-opt-5068478.html",
       "pubDate": "2026-04-30",
-      "summary": "The UK Minister of State for the Home Office has agreed to meet with sector leaders following concerns raised in the House of Lords about new compliance rules and high visa refusal rates. The announcement was reported by The PIE News.",
-      "insight": "This news signals potential tightening of UK student visa compliance and possible reputational ripple effects for the UK as a study destination, though direct impacts on global demand remain uncertain pending data on actual policy changes or refusal trends.  \nAdmissions teams should monitor UK Home Office updates, sector-led advocacy outcomes, and source-market sentiment shifts—particularly in high-volume regions—while reviewing their own visa support protocols and messaging about destination reliability.",
+      "summary": "Many international students in the United States face deportation risk due to the termination of their Optional Practical Training (OPT) authorization after graduation. They are permitted no more than 90 to 150 days of unemployment during OPT, and without an approved internship or employment, they lose lawful status.",
+      "insight": "This news may dampen demand from students in high-OPT-reliant markets—particularly India and China—as concerns grow over post-study work viability in the U.S., though broader enrolment trends depend on concurrent policy shifts and alternative destination competitiveness.  \nAdmissions teams should track U.S. immigration policy updates, OPT approval rates, and comparative post-study work offerings in peer countries—noting student inquiries about visa security and employment pathways as early sentiment indicators.",
       "impact": "Low",
       "sources": [],
       "dests": [
-        "UK"
+        "USA"
+      ],
+      "translated": true,
+      "origLang": "vi",
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 3,
+      "title": "Nearly half of South Asian applicants refused Australian study visas",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/nearly-half-of-south-asian-applicants-refused-australian-study-visas/",
+      "pubDate": "2026-05-01",
+      "summary": "Nearly half of South Asian applicants were refused Australian study visas between January and March, with Nepal and India the most affected countries. In contrast, applicants from China and Southeast Asia experienced more stable visa outcomes during the same period.",
+      "insight": "This news may signal tightening Australian visa scrutiny for South Asian applicants, potentially shifting student demand toward alternative destinations like the USA, UK, or New Zealand—though it’s unclear whether refusals reflect stricter policy, application quality, or temporary administrative factors.  \nAdmissions teams should monitor application volume and conversion rates from Nepal and India, review pre-application support services, and assess whether partner agents report increased inquiries about non-Australian options—without assuming immediate market-wide disruption.",
+      "impact": "Low",
+      "sources": [
+        "China",
+        "Southeast Asia",
+        "India",
+        "South Asia"
+      ],
+      "dests": [
+        "Australia"
       ],
       "translated": false,
       "origLang": null,
@@ -62,18 +67,18 @@
     },
     {
       "id": 4,
-      "title": "Canada’s language sector looks to joint pathways to rebuild trust and growth",
+      "title": "“Shift beyond big four evident” as Indian student demand holds up amid reset",
       "source": "The PIE News",
       "color": "#7b341e",
-      "url": "https://thepienews.com/canadas-language-sector-looks-to-joint-pathways-to-rebuild-trust-and-growth/",
-      "pubDate": "2026-04-28",
-      "summary": "Canada’s language education sector has faced significant challenges due to pandemic-related disruptions, policy changes, and institutional closures. A new Joint Pathway Program is emerging as a key initiative aimed at rebuilding trust and fostering growth within the sector.",
-      "insight": "Canada’s language sector challenges and the Joint Pathway Program may indirectly influence international student demand, as prospective learners assess pathway reliability, visa stability, and post-study prospects—though direct spillover to US/UK/AU/NZ markets remains uncertain without evidence of shifting source-market sentiment.  \nAdmissions teams should monitor Canadian enrolment trends, especially among key shared source countries like India and China, and assess whether enhanced Canadian pathway credibility prompts competitive recalibration in articulation agreements or pre-university support offerings.",
+      "url": "https://thepienews.com/shift-beyond-big-four-evident-as-indian-student-demand-holds-up-amid-reset/",
+      "pubDate": "2026-04-29",
+      "summary": "Indian student outbound numbers for higher education have declined by over one-third in two years. Consultancies report a clearly visible shift as Indian students increasingly look beyond the traditional “big four” destinations amid a more cautious market, while overall demand remains resilient during this reset.",
+      "insight": "Indian student outbound numbers falling over one-third in two years signals a structural recalibration—likely driven by visa policy shifts, cost pressures, and growing awareness of alternatives—though it remains unclear how much reflects temporary caution versus permanent destination diversification.  \nAdmissions teams should monitor regional application trends, consultancies’ on-the-ground sentiment reports, and emerging competitor marketing in India—noting that resilience in overall demand suggests opportunity for targeted value propositions beyond traditional brand appeal.",
       "impact": "Low",
-      "sources": [],
-      "dests": [
-        "Canada"
+      "sources": [
+        "India"
       ],
+      "dests": [],
       "translated": false,
       "origLang": null,
       "relevanceScore": 7,
@@ -81,18 +86,18 @@
     },
     {
       "id": 5,
-      "title": "Australian Haryanvi Association president meets MDU VC; focus on expanding global opportunities for students",
-      "source": "Times of India (Edu)",
-      "color": "#d4820a",
-      "url": "https://timesofindia.indiatimes.com/education/news/australian-haryanvi-association-president-meets-mdu-vc-focus-on-expanding-global-opportunities-for-students/articleshow/130630545.cms",
-      "pubDate": "2026-04-30",
-      "summary": "Seva Singh, national president of the Australian Haryanvi Association, met Maharshi Dayanand University (MDU) Vice-Chancellor Prof. Milap Poonia in Rohtak to discuss expanding global opportunities for MDU students. The meeting focused on strengthening academic, research, and employment linkages with Australia through proposals including MoUs with Australian universities, faculty and student exchange programmes, mentorship initiatives, internships, and industry exposure via diaspora networks.",
-      "insight": "This news signals growing institutional interest in Australia–India academic partnerships, potentially increasing student awareness of Australian study pathways—though it doesn’t directly indicate shifting demand toward Australia over traditional destinations like the US or UK, given Haryana’s strong outbound flows to multiple countries.  \nAdmissions teams should monitor MoU developments between MDU and Australian universities, track whether such collaborations lead to targeted recruitment events or scholarship announcements, and assess if diaspora-led initiatives begin influencing student choice in North Indian regions.",
+      "title": "India’s global education ambitions rest on governance overhaul",
+      "source": "The Hindu (Edu)",
+      "color": "#145a32",
+      "url": "https://www.thehindu.com/education/indias-global-education-ambitions-rest-on-governance-overhaul/article70920187.ece",
+      "pubDate": "2026-04-29",
+      "summary": "India aims to significantly expand its global education footprint by attracting more international students and establishing overseas campuses of Indian universities. Achieving this goal requires comprehensive governance reforms, including amendments to the University Grants Commission Act and the establishment of a new regulatory framework to oversee transnational education activities.",
+      "insight": "India’s push to expand global education offerings may gradually intensify competition for international students, particularly in traditional source regions like South and Southeast Asia, though its near-term impact on Western enrolments remains uncertain given infrastructure and recognition hurdles.  \nAdmissions teams should monitor India’s regulatory progress—especially UGC Act amendments and overseas campus approvals—as early signs of credible transnational delivery could influence student choice in mid-tier markets and inform partnership or outreach strategies.",
       "impact": "Low",
-      "sources": [],
-      "dests": [
-        "Australia"
+      "sources": [
+        "India"
       ],
+      "dests": [],
       "translated": false,
       "origLang": null,
       "relevanceScore": 7,
@@ -100,21 +105,40 @@
     },
     {
       "id": 6,
-      "title": "UK: 7 in 10 universities report declining international postgraduate enrolments; visa rejections are part of the story",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/04/uk-7-in-10-universities-report-declining-international-postgraduate-enrolments-visa-rejections-are-part-of-the-story/",
-      "pubDate": "2026-04-23",
-      "summary": "A recent survey by the British Universities International Liaison Association (BUILA) found that 70% of UK universities reported a decline in international postgraduate enrolments in January 2026 compared with January 2025, with an average reduction of 31%. The decline was particularly pronounced among students from “high-risk” markets, and visa rejections were cited as a contributing factor.",
-      "insight": "This UK enrolment decline—driven partly by visa rejections and concentrated in high-risk markets—may signal growing student sensitivity to immigration policy uncertainty, though it’s unclear whether this reflects broader demand shifts or UK-specific friction.  \nAdmissions teams should monitor visa refusal trends and sentiment shifts in overlapping source markets, while reviewing their own pre-application support, documentation guidance, and partnerships with trusted agents to mitigate similar administrative barriers.",
+      "title": "Vietnamese students publish research in world's top mathematics journal",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/education/vietnamese-students-publish-research-in-world-s-top-mathematics-journal-5068249.html",
+      "pubDate": "2026-04-29",
+      "summary": "Two students from Ton Duc Thang University and the Ho Chi Minh City University of Education have published a research paper in a prestigious Q1 mathematics journal that is over one hundred years old. The journal is among the world’s top-tier publications in mathematics.",
+      "insight": "This news highlights growing research capacity among Southeast Asian undergraduates, potentially signalling rising academic ambition and shifting perceptions of regional educational quality—though it remains unclear whether this directly translates to increased demand for Western degrees or reflects parallel domestic advancement.  \nAdmissions teams should monitor enrolment trends and scholarship uptake from Vietnam and neighbouring countries, while assessing whether such achievements correlate with heightened interest in research-intensive pathways or dual-degree partnerships with emerging institutions.",
       "impact": "Low",
-      "sources": [],
-      "dests": [
-        "UK"
+      "sources": [
+        "Southeast Asia"
       ],
+      "dests": [],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 6,
+      "relevanceScore": 7,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 7,
+      "title": "Vietnam picks three more flagship universities in race to crack Asia's top 200",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/education/vietnam-picks-three-more-flagship-universities-in-race-to-crack-asia-s-top-200-5068500.html",
+      "pubDate": "2026-05-02",
+      "summary": "Vietnam has selected three additional universities in Ho Chi Minh City for priority state investment. The goal is to rank at least eight Vietnamese higher education institutions among Asia’s top 200 by 2030.",
+      "insight": "Vietnam’s intensified investment in flagship universities signals growing domestic capacity and ambition, potentially moderating long-term outbound student growth—but demand for Western degrees remains strong, especially for graduate and niche programmes where local offerings still lag.  \nAdmissions teams should track enrolment trends at these newly designated institutions, scholarship expansions, and Vietnamese government messaging on study abroad, as shifts in perceived value or policy incentives could gradually reshape application patterns from this key source market.",
+      "impact": "Low",
+      "sources": [
+        "Southeast Asia"
+      ],
+      "dests": [],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 7,
       "insightSource": "qwen"
     }
   ]
