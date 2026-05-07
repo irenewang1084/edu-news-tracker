@@ -1,45 +1,40 @@
 {
-  "updated": "2026-05-06T04:30:19Z",
-  "count": 4,
-  "totalFetched": 173,
+  "updated": "2026-05-07T04:29:56Z",
+  "count": 10,
+  "totalFetched": 172,
   "articles": [
     {
       "id": 1,
-      "title": "Australia's student visa approval rate plunges to record low",
-      "source": "VnExpress (EN)",
-      "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/education/australia-s-student-visa-approval-rate-plunges-to-record-low-5069304.html",
-      "pubDate": "2026-05-03",
-      "summary": "Australia’s student visa approval rate dropped to 59% in March, marking the lowest monthly rate ever recorded. This figure represents the proportion of applications approved out of the total submitted during that month.",
-      "insight": "Australia’s record-low 59% student visa approval rate in March may signal tightening immigration scrutiny or procedural delays, potentially dampening student confidence in Australia as a destination—though it remains unclear whether this reflects broader policy shifts or temporary administrative pressures.  \nAdmissions teams should track Australian visa processing times, refusal reasons, and competitor messaging from the UK, USA, and New Zealand, while reviewing their own pre-application support to ensure applicants meet evolving evidentiary expectations for financial capacity and genuine temporary entrant status.",
-      "impact": "High",
+      "title": "US to end “Duration of Status” for F, J, and I visas and limit the time international students can study in the US",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/05/us-moves-to-end-duration-of-status-for-f-j-and-i-visas-new-rule-could-limit-the-time-international-students-can-study-in-the-us/",
+      "pubDate": "2026-05-06",
+      "summary": "The U.S. Department of Homeland Security proposed in August 2025 to eliminate “Duration of Status” for F, J, and I visas, replacing it with fixed time limits for international students. Under the proposal, most international students would be required to complete their programs by September 2026—or within four years of entry—unless granted an extension by U.S. Citizenship and Immigration Services.",
+      "insight": "This proposal signals potential tightening of U.S. student visa policy, which may dampen U.S. appeal for long-degree or research-intensive programs—though actual impact depends on final rule details, implementation timing, and how competing destinations position themselves amid broader geopolitical and economic sentiment shifts.  \nAdmissions teams should track official DHS guidance through late 2025, monitor source-market surveys for early sentiment shifts, and assess whether partner agents or education fairs report growing queries about alternative study destinations or accelerated program pathways.",
+      "impact": "Low",
       "sources": [],
       "dests": [
-        "Australia"
+        "USA"
       ],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 8,
+      "relevanceScore": 9,
       "insightSource": "qwen"
     },
     {
       "id": 2,
-      "title": "Nearly half of South Asian applicants refused Australian study visas",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/nearly-half-of-south-asian-applicants-refused-australian-study-visas/",
-      "pubDate": "2026-05-01",
-      "summary": "Australian study visa refusal rates for South Asian applicants reached nearly 50% during January–March, with Nepal and India the most affected countries. In contrast, applicants from China and Southeast Asia experienced more stable outcomes amid growing concerns from the education sector about a lack of clarity in Australia’s visa processing policies.",
-      "insight": "This news signals potential shifts in South Asian student preferences, as high Australian visa refusal rates—especially for Nepal and India—may heighten risk perceptions and indirectly boost demand for alternative destinations like the US, UK, or New Zealand, though actual enrolment impacts depend on broader factors including scholarship availability and agent advice.  \nAdmissions teams should monitor application volume and yield trends from Nepal and India over the next 2–3 intake cycles, while reviewing pre-departure support resources and liaising with trusted agents to gauge evolving sentiment around Australia’s visa reliability versus other Anglophone study destinations.",
-      "impact": "Low",
-      "sources": [
-        "China",
-        "Southeast Asia",
-        "India",
-        "South Asia"
-      ],
+      "title": "UK party proposes blocking foreign nationals from student loans",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/education/uk-party-proposes-blocking-foreign-nationals-from-student-loans-5069579.html",
+      "pubDate": "2026-05-05",
+      "summary": "Reform UK has announced a policy proposal to prohibit foreign nationals from receiving government-backed student loans in the United Kingdom. The measure would take effect only if Reform UK wins power in a future election.",
+      "insight": "This proposal signals potential tightening of UK higher education access for international students, which may modestly influence source market perceptions—though its electoral viability remains uncertain and broader UK visa policies are more immediately consequential for recruitment.  \nAdmissions teams should monitor Reform UK’s electoral traction and any related parliamentary debates, while reviewing messaging around UK study value propositions to proactively address prospective students’ concerns about financial eligibility and policy stability.",
+      "impact": "High",
+      "sources": [],
       "dests": [
-        "Australia"
+        "UK"
       ],
       "translated": false,
       "origLang": null,
@@ -48,13 +43,131 @@
     },
     {
       "id": 3,
-      "title": "Which country in Southeast Asia was never a European colony?",
+      "title": "Vietnam, India upgrade relationship to Enhanced Comprehensive Strategic Partnership",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/vietnam-india-upgrade-relationship-to-enhanced-comprehensive-strategic-partnership-5070811.html",
+      "pubDate": "2026-05-06",
+      "summary": "Vietnam and India have upgraded their bilateral relationship to an “Enhanced Comprehensive Strategic Partnership.” The decision was announced during Vietnamese Party General Secretary and President To Lam’s state visit to India.",
+      "insight": "This diplomatic upgrade signals strengthening institutional ties between Vietnam and India, potentially fostering greater academic collaboration and mobility—though direct impacts on student flows to English-speaking countries remain uncertain without complementary education agreements or scholarship expansions.  \nAdmissions teams should monitor bilateral initiatives like joint research programs or government-sponsored scholarships, as these could indirectly influence student preferences or funding pathways for study abroad in the coming 2–3 years.",
+      "impact": "Medium",
+      "sources": [
+        "Southeast Asia",
+        "India"
+      ],
+      "dests": [],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 4,
+      "title": "Universities unite behind Nepal’s “10k int’l student” ambition",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/universities-unite-behind-nepals-10k-intl-student-ambition/",
+      "pubDate": "2026-05-06",
+      "summary": "Nepalese universities have launched a first-of-its-kind private sector initiative to collectively attract international students and support the national goal of enrolling 10,000 international students within three years—a more than sixfold increase from current levels. This effort aims to position Nepal as an emerging education destination in South Asia.",
+      "insight": "Nepal’s coordinated push to attract 10,000 international students signals growing regional competition for South Asian learners, though its immediate impact on Western university enrolments remains uncertain given differing academic offerings, cost structures, and global recognition.  \nAdmissions teams should monitor Nepal’s visa facilitation efforts, scholarship rollouts, and student testimonials from early cohorts—particularly among price-sensitive South Asian applicants—to assess whether it begins diverting marginal candidates or reshaping regional expectations about study destinations.",
+      "impact": "Low",
+      "sources": [
+        "South Asia"
+      ],
+      "dests": [],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 7,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 5,
+      "title": "Singapore, Malaysia firm up rules ahead of cross-border rail link launch",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/traffic/singapore-malaysia-firm-up-rules-ahead-of-cross-border-rail-link-launch-5070650.html",
+      "pubDate": "2026-05-07",
+      "summary": "Singapore has enacted new legislation to govern security and incident management for the Johor Bahru-Singapore Rapid Transit System (RTS) Link. The cross-border rail service is scheduled to begin operations in December.",
+      "insight": "While the RTS Link’s launch may modestly improve cross-border mobility for students in Singapore and Malaysia, its direct impact on international student demand remains uncertain—any influence would likely be gradual and secondary to broader factors like tuition costs, visa policies, and post-study work opportunities.  \nAdmissions teams should monitor uptake of the RTS Link by Malaysian students already enrolled in Singaporean institutions, as sustained usage could signal growing regional integration and inform targeted outreach or partnership strategies with Malaysian schools and universities.",
+      "impact": "Low",
+      "sources": [
+        "Southeast Asia"
+      ],
+      "dests": [],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 7,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 6,
+      "title": "Australia's student visa approval rate plunges to record low",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/education/australia-s-student-visa-approval-rate-plunges-to-record-low-5069304.html",
+      "pubDate": "2026-05-03",
+      "summary": "Australia’s student visa approval rate fell to 59% in March, marking the lowest monthly rate ever recorded. This figure represents the proportion of applications that were approved during that month.",
+      "insight": "Australia’s record-low 59% student visa approval rate in March may signal tightening immigration scrutiny or procedural delays, potentially dampening student confidence in Australia as a destination—though it remains unclear whether this reflects broader policy shifts or temporary operational factors.  \nAdmissions teams should monitor Australian visa processing times, refusal reasons, and competitor messaging from UK/USA/Canada institutions, while reviewing their own pre-application support to ensure applicants meet evolving evidentiary expectations for financial capacity and genuine temporary entrant criteria.",
+      "impact": "High",
+      "sources": [],
+      "dests": [
+        "Australia"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 6,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 7,
+      "title": "ICEF Podcast: Sustainable international student recruitment from a UK-China perspective",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/04/icef-podcast-sustainable-international-student-recruitment-from-a-uk-china-perspective/",
+      "pubDate": "2026-04-29",
+      "summary": "The ICEF Podcast features Craig Riggs and Martijn van de Veen discussing recent sector developments, including evolving return-on-investment expectations from international students and agent recruitment strategies for Japan. A subsequent panel discussion focuses specifically on sustainable international student recruitment from a UK-China perspective.",
+      "insight": "This podcast highlights growing sectoral attention to sustainability in UK-China student flows, suggesting potential shifts in institutional priorities around ethical recruitment and long-term student outcomes—though direct implications for US, AU, or NZ markets remain indirect and contingent on policy spillovers or agent network adaptations.  \nAdmissions teams should monitor UK-China regulatory updates, agent partnership models, and Chinese student sentiment toward post-study work and ROI, while reviewing their own recruitment ethics frameworks and diversification strategies—not as an immediate pivot, but as part of longer-term resilience planning.",
+      "impact": "Low",
+      "sources": [
+        "China"
+      ],
+      "dests": [],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 6,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 8,
+      "title": "Rejected from top US universities, Vietnamese statistician now leads $346,000 University of Sydney grant",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/education/rejected-from-top-us-universities-vietnamese-statistician-now-leads-346-000-university-of-sydney-grant-5067127.html",
+      "pubDate": "2026-05-03",
+      "summary": "Eleven years after being rejected from top U.S. PhD programs, Vietnamese statistician Nghiem Hoang Linh now leads an Australian Research Council project at the University of Sydney. The project is funded with a $346,000 grant.",
+      "insight": "This story reflects growing visibility of high-achieving Southeast Asian students succeeding outside traditional US/UK pathways, potentially signalling shifting perceptions of academic prestige and opportunity—though it’s unclear whether this represents broad demand shifts or isolated career resilience.  \nAdmissions teams should monitor regional sentiment around visa stability, research funding access, and post-study work outcomes, particularly comparing Australia’s ARC grants and skilled migration pathways with those of peer destinations.",
+      "impact": "Low",
+      "sources": [
+        "Southeast Asia"
+      ],
+      "dests": [
+        "USA",
+        "Australia"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 6,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 9,
+      "title": "The rise of Malaysian universities in Asia",
       "source": "VnExpress (Giáo dục)",
       "color": "#b94500",
-      "url": "https://vnexpress.net/nuoc-nao-o-dong-nam-a-chua-tung-la-thuoc-dia-cua-chau-au-5070285.html",
+      "url": "https://vnexpress.net/su-troi-day-cua-dai-hoc-malaysia-o-chau-a-5069430.html",
       "pubDate": "2026-05-05",
-      "summary": "Thailand is the only country in Southeast Asia that was never colonized by a European power. Its strategic position as a buffer zone between British and French colonial territories, along with its adept diplomacy and modernizing reforms, enabled it to maintain independence throughout the colonial era.",
-      "insight": "Thailand’s unique colonial history may subtly reinforce its national brand as stable and self-determined, potentially influencing how Southeast Asian students—especially from post-colonial contexts—perceive Thai higher education institutions relative to Western alternatives, though direct impact on enrolment demand remains unproven.  \nAdmissions teams should monitor Thai university partnerships and scholarship initiatives, as well as sentiment shifts in regional education fairs, to assess whether Thailand’s sovereignty narrative is increasingly leveraged in student decision-making or institutional marketing.",
+      "summary": "Malaysian universities have achieved a significant rise in Asian university rankings, with six to ten institutions now ranked within the top 100. This progress is attributed to learning from Singapore’s higher education model and leveraging support from the private sector.",
+      "insight": "Malaysian universities’ improved Asian rankings may modestly influence Southeast Asian students’ perceptions of regional study options, though direct impact on demand for Anglophone destinations remains uncertain without evidence of shifting enrolment patterns or visa policy changes.  \nAdmissions teams should monitor Malaysian institutions’ recruitment outreach in key Southeast Asian markets and track whether rising local prestige correlates with measurable declines in outbound student applications to English-speaking countries over the next 12–24 months.",
       "impact": "Low",
       "sources": [
         "Southeast Asia"
@@ -62,28 +175,28 @@
       "dests": [],
       "translated": true,
       "origLang": "vi",
-      "relevanceScore": 8,
+      "relevanceScore": 6,
       "insightSource": "qwen"
     },
     {
-      "id": 4,
-      "title": "New Zealand-India free trade agreement puts mobility in play",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/new-zealand-india-free-trade-agreement-puts-mobility-in-play/",
-      "pubDate": "2026-05-05",
-      "summary": "New Zealand has signed an annex on student mobility and post-study work rights with India as part of the New Zealand–India free trade agreement, alongside establishing a new skilled employment pathway. Stakeholders have noted strong demand for these arrangements but are calling for greater clarity and a shift in perception regarding Indian applicants.",
-      "insight": "This agreement signals growing bilateral mobility ambitions between New Zealand and India, potentially intensifying competition for high-demand Indian students—though its direct impact on US, UK, or Australian recruitment remains uncertain pending implementation and uptake.  \nAdmissions teams should monitor Indian student application trends to New Zealand, visa processing timelines, and employer uptake of the new skilled pathway, as shifts may foreshadow evolving preferences or policy spillovers across English-speaking destinations.",
-      "impact": "Medium",
+      "id": 10,
+      "title": "Chinese students gradually turning away from US",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/education/chinese-students-gradually-turning-away-from-us-5069735.html",
+      "pubDate": "2026-05-07",
+      "summary": "For the first time in over ten years, the United States is no longer one of the top two study destinations for mainland Chinese students. This shift reflects a growing emphasis on cost and career prospects rather than the prestige of U.S. degrees.",
+      "insight": "This trend signals a potential recalibration in Chinese student preferences, where affordability and post-study employment outcomes are gaining priority over traditional brand prestige—though it remains unclear whether this reflects a structural shift or a cyclical response to geopolitical, economic, or visa-related pressures.  \nAdmissions teams should monitor Chinese provincial enrollment patterns, scholarship uptake rates, and sentiment around U.S. visa processing times and work rights, while benchmarking value propositions against UK, Australia, and New Zealand alternatives offering comparable academic quality and stronger post-study pathways.",
+      "impact": "Low",
       "sources": [
-        "India"
+        "China"
       ],
       "dests": [
-        "New Zealand"
+        "USA"
       ],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 7,
+      "relevanceScore": 6,
       "insightSource": "qwen"
     }
   ]
