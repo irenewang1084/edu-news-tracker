@@ -1,42 +1,97 @@
 {
-  "updated": "2026-05-08T04:13:05Z",
-  "count": 3,
-  "totalFetched": 174,
+  "updated": "2026-05-09T04:19:53Z",
+  "count": 8,
+  "totalFetched": 175,
   "articles": [
     {
       "id": 1,
-      "title": "Australia 'profits' tens of millions of AUD from international students who failed their visas",
-      "source": "VnExpress (Giáo dục)",
-      "color": "#b94500",
-      "url": "https://vnexpress.net/australia-loi-hang-chuc-trieu-aud-tu-du-hoc-sinh-truot-visa-5070093.html",
+      "title": "US to end “Duration of Status” for F, J, and I visas and limit the time international students can study in the US",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/05/us-moves-to-end-duration-of-status-for-f-j-and-i-visas-new-rule-could-limit-the-time-international-students-can-study-in-the-us/",
       "pubDate": "2026-05-06",
-      "summary": "Australia retained approximately 10 million AUD in visa application fees from international students whose visa applications were unsuccessful in a single month. This practice has drawn criticism for generating revenue from applicants, particularly those from lower-income countries.",
-      "insight": "This news may indirectly signal growing scrutiny of visa fairness and financial transparency in Australia, potentially influencing student perceptions of risk and value—especially among cost-sensitive applicants from lower-income regions, though direct impacts on global demand remain uncertain.  \nAdmissions teams should monitor shifts in social media sentiment and agent feedback from key source markets, particularly regarding concerns about non-refundable fees or perceived visa unpredictability, while reviewing how their own application fee policies and visa support messaging align with evolving trust expectations.",
+      "summary": "The U.S. Department of Homeland Security proposed in August 2025 to eliminate “Duration of Status” for F, J, and I visas, replacing it with fixed time limits for international students. Under the proposal, most international students would be required to complete their programs by September 2026—or within four years of entry—unless granted an extension by U.S. Citizenship and Immigration Services.",
+      "insight": "This proposed DHS rule signals potential tightening of U.S. student visa flexibility, which may dampen U.S. appeal—especially for longer or non-standard programs—though actual impact depends on final rule language, implementation timing, and how competing destinations position themselves.  \nAdmissions teams should track the rule’s progress through notice-and-comment and final publication, assess implications for cohort planning and deferral policies, and benchmark messaging against peer institutions’ responses to evolving U.S. immigration sentiment.",
+      "impact": "Low",
+      "sources": [],
+      "dests": [
+        "USA"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 10,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 2,
+      "title": "Australia accused of profiting millions of dollars from rising student visa rejections and application fees",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/education/australia-accused-of-profiting-millions-of-dollars-from-rising-student-visa-rejections-and-application-fees-5071462.html",
+      "pubDate": "2026-05-09",
+      "summary": "Australia collected nearly AU$10 million (US$7.25 million) in non-refundable visa application fees from rejected student visa applications in a single month. This revenue has drawn criticism for appearing to profit from the educational aspirations of foreign students.",
+      "insight": "This news may dampen Australia’s appeal among cost-sensitive international students, particularly from Asia and Africa, as perceptions of visa rejection risks and non-refundable fees could shift demand toward perceived more predictable destinations—though causal links to actual enrolment declines remain unproven.  \nAdmissions teams should track regional sentiment shifts via social listening and agent feedback, and review whether their pre-application support—including realistic visa success guidance—needs strengthening to mitigate reputational spillover effects.",
       "impact": "Low",
       "sources": [],
       "dests": [
         "Australia"
       ],
-      "translated": true,
-      "origLang": "vi",
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 10,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 3,
+      "title": "Chinese brokers exploit time-zone gap to sell Korean language test answers for $5,100",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/education/chinese-brokers-exploit-time-zone-gap-to-sell-korean-language-test-answers-for-5-100-5070346.html",
+      "pubDate": "2026-05-06",
+      "summary": "Chinese brokers have been selling leaked questions for South Korea’s main Korean-language proficiency exam at prices up to US$5,100. They exploited time-zone differences in the global test administration schedule to facilitate this illicit activity.",
+      "insight": "This incident highlights growing concerns about academic integrity among Chinese students seeking overseas education, potentially prompting stricter verification of language credentials by English-speaking universities—though direct impact on enrolment demand remains uncertain without evidence of broader systemic issues.  \nAdmissions teams should monitor whether Korean-language test fraud correlates with increased applications from China to English-speaking countries, and review current language proficiency validation protocols for early signs of credentialing vulnerabilities.",
+      "impact": "Low",
+      "sources": [
+        "China"
+      ],
+      "dests": [],
+      "translated": false,
+      "origLang": null,
       "relevanceScore": 8,
       "insightSource": "qwen"
     },
     {
-      "id": 2,
-      "title": "New Zealand-India free trade agreement puts mobility in play",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/new-zealand-india-free-trade-agreement-puts-mobility-in-play/",
-      "pubDate": "2026-05-05",
-      "summary": "New Zealand has signed an annex on student mobility and post-study work rights with India as part of the new New Zealand-India free trade agreement, which also includes a new skilled employment pathway. Stakeholders have noted strong demand for these mobility provisions but are calling for greater clarity and a shift in perception regarding Indian applicants.",
-      "insight": "This agreement signals growing bilateral mobility ambitions between New Zealand and India, potentially intensifying competition for high-demand Indian students—though its direct impact on US, UK, or Australian recruitment remains uncertain pending implementation and uptake.  \nAdmissions teams should monitor Indian student application trends to New Zealand, visa processing timelines, and employer uptake of the new skilled pathway, while reviewing their own post-study work messaging to ensure competitiveness amid shifting regional perceptions.",
-      "impact": "Medium",
+      "id": 4,
+      "title": "NEET-UG 2026 held across 551 cities in India, 14 abroad",
+      "source": "The Hindu (Edu)",
+      "color": "#145a32",
+      "url": "https://www.thehindu.com/news/national/neet-ug-2026-held-across-551-cities-in-india-14-abroad/article70935993.ece",
+      "pubDate": "2026-05-03",
+      "summary": "The NEET-UG 2026 examination was conducted across 551 cities in India and 14 cities abroad. Union Education Minister Dharmendra Pradhan oversaw the operational aspects of the exam.",
+      "insight": "The scale of NEET-UG 2026—spanning 551 Indian and 14 overseas cities—reflects sustained domestic demand for medical education, but does not directly indicate shifting preferences toward international study; however, it may indirectly signal continued pressure on Indian students seeking alternatives amid intense competition and seat constraints.  \nAdmissions teams should monitor trends in NEET-UG qualification rates, MBBS seat availability in India, and corresponding spikes in inquiries from Indian students about offshore medical pathways—particularly in countries with recognized degrees and post-study work options—while avoiding premature assumptions about enrolment shifts.",
+      "impact": "Low",
       "sources": [
         "India"
       ],
+      "dests": [],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 7,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 5,
+      "title": "UK to rejoin Erasmus+ in 2027",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/05/uk-to-rejoin-erasmus-in-2027/",
+      "pubDate": "2026-05-07",
+      "summary": "The UK will rejoin the Erasmus+ mobility programme in 2027 for an initial one-year term, ending its six-year absence that began after Brexit in 2021. Erasmus+ is the European Union’s flagship programme supporting education, training, youth, and sport across Europe.",
+      "insight": "The UK’s planned 2027 re-entry into Erasmus+ may modestly improve its appeal to European students seeking mobility opportunities, though broader international demand—especially from Asia and the Americas—remains more influenced by post-study work rights, tuition value, and visa stability than Erasmus participation alone.  \nAdmissions teams should track uptake of UK-EU student exchanges post-2027, monitor whether partner institutions in Europe formalise new bilateral agreements, and assess if this development meaningfully shifts application patterns among priority EU source markets before adjusting recruitment messaging or resource allocation.",
+      "impact": "Low",
+      "sources": [],
       "dests": [
-        "New Zealand"
+        "UK"
       ],
       "translated": false,
       "origLang": null,
@@ -44,14 +99,33 @@
       "insightSource": "qwen"
     },
     {
-      "id": 3,
-      "title": "Top battery scientist Shirley Meng leaves US for Singapore's NTU, citing Trump policies",
+      "id": 6,
+      "title": "ICEF Podcast: Sustainable international student recruitment from a UK-China perspective",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/04/icef-podcast-sustainable-international-student-recruitment-from-a-uk-china-perspective/",
+      "pubDate": "2026-04-29",
+      "summary": "The ICEF Podcast features Craig Riggs and Martijn van de Veen discussing recent sector developments, including evolving return-on-investment expectations from international students and agent recruitment strategies for Japan. A subsequent panel discussion focuses specifically on sustainable international student recruitment from a UK-China perspective.",
+      "insight": "This podcast highlights growing sectoral attention to sustainability in UK-China student flows, suggesting potential shifts in institutional priorities around ethical recruitment and long-term student outcomes—though direct implications for US, Australian, or New Zealand recruitment remain uncertain without parallel policy or market signals.  \nAdmissions teams should monitor Chinese student sentiment toward post-study work rights, agent regulation updates in key markets, and how UK universities’ sustainability frameworks influence partner institutions’ expectations of transparency and student support commitments.",
+      "impact": "Low",
+      "sources": [
+        "China"
+      ],
+      "dests": [],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 6,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 7,
+      "title": "Brighton College Vietnam named among world's top recommended private schools for 2026",
       "source": "VnExpress (EN)",
       "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/education/top-battery-scientist-shirley-meng-leaves-us-for-singapore-s-ntu-citing-trump-policies-5070814.html",
+      "url": "https://e.vnexpress.net/news/news/education/brighton-college-vietnam-named-among-world-s-top-recommended-private-schools-for-2026-5071156.html",
       "pubDate": "2026-05-07",
-      "summary": "Battery scientist Shirley Meng will leave the University of Chicago on July 1 to join Singapore’s Nanyang Technological University in a senior position. She cited the Trump administration’s retreat from clean energy initiatives and restrictive immigration policies as reasons for her move.",
-      "insight": "This high-profile departure signals potential softening in the US’s appeal to STEM talent from Southeast Asia, though its direct impact on undergraduate or master’s applicants remains uncertain amid broader geopolitical and economic factors shaping student decisions.  \nAdmissions teams should monitor regional sentiment shifts—especially among high-achieving STEM prospects—and assess whether visa processing delays, policy rhetoric, or visible faculty mobility correlate with application trends in their Southeast Asian recruitment pipelines.",
+      "summary": "Brighton College Vietnam has been named in the \"Top Recommended Private Schools Globally\" category of the Spear's Schools Index 2026. It is among the first schools in Vietnam to receive this recognition.",
+      "insight": "Brighton College Vietnam’s inclusion in the Spear’s 2026 Schools Index signals growing regional confidence in high-calibre, Western-style K–12 education within Southeast Asia—potentially foreshadowing stronger demand for aligned undergraduate pathways, though direct causal links to tertiary enrolment remain unproven.  \nAdmissions teams should track whether graduates from Brighton College Vietnam and similar institutions show increased application volume or preference for specific Anglophone destinations, while noting emerging partnerships or articulation agreements that could shape future recruitment pipelines.",
       "impact": "Low",
       "sources": [
         "Southeast Asia"
@@ -59,6 +133,26 @@
       "dests": [],
       "translated": false,
       "origLang": null,
+      "relevanceScore": 6,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 8,
+      "title": "Hanoi Foreign Trade University won HSBC Business Case Competition 2026",
+      "source": "VnExpress (Giáo dục)",
+      "color": "#b94500",
+      "url": "https://vnexpress.net/dai-hoc-ngoai-thuong-ha-noi-vo-dich-hsbc-business-case-competition-2026-5070865.html",
+      "pubDate": "2026-05-07",
+      "summary": "Four students from Hanoi Foreign Trade University won the HSBC Business Case Competition 2026, defeating 40 teams nationwide. They will represent Vietnam in the international round held in Hong Kong, China, in June.",
+      "insight": "This win signals growing regional academic competitiveness and may indirectly reflect rising aspirations among Southeast Asian students for globally recognised business education, though direct links to shifts in demand for Western universities remain uncertain without broader enrolment data.  \nAdmissions teams should monitor whether such high-profile regional successes correlate with increased applications from Vietnam and neighbouring countries—and consider highlighting alumni achievements in ASEAN markets to reinforce institutional credibility.",
+      "impact": "Low",
+      "sources": [
+        "China",
+        "Southeast Asia"
+      ],
+      "dests": [],
+      "translated": true,
+      "origLang": "vi",
       "relevanceScore": 6,
       "insightSource": "qwen"
     }
