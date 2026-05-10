@@ -1,58 +1,41 @@
 {
-  "updated": "2026-05-09T04:19:53Z",
-  "count": 8,
-  "totalFetched": 175,
+  "updated": "2026-05-10T04:38:55Z",
+  "count": 5,
+  "totalFetched": 188,
   "articles": [
     {
       "id": 1,
-      "title": "US to end “Duration of Status” for F, J, and I visas and limit the time international students can study in the US",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/05/us-moves-to-end-duration-of-status-for-f-j-and-i-visas-new-rule-could-limit-the-time-international-students-can-study-in-the-us/",
-      "pubDate": "2026-05-06",
-      "summary": "The U.S. Department of Homeland Security proposed in August 2025 to eliminate “Duration of Status” for F, J, and I visas, replacing it with fixed time limits for international students. Under the proposal, most international students would be required to complete their programs by September 2026—or within four years of entry—unless granted an extension by U.S. Citizenship and Immigration Services.",
-      "insight": "This proposed DHS rule signals potential tightening of U.S. student visa flexibility, which may dampen U.S. appeal—especially for longer or non-standard programs—though actual impact depends on final rule language, implementation timing, and how competing destinations position themselves.  \nAdmissions teams should track the rule’s progress through notice-and-comment and final publication, assess implications for cohort planning and deferral policies, and benchmark messaging against peer institutions’ responses to evolving U.S. immigration sentiment.",
+      "title": "200-year-old UK institution to open Ho Chi Minh City campus",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/education/200-year-old-uk-institution-to-open-ho-chi-minh-city-campus-vnepre-5071922.html",
+      "pubDate": "2026-05-09",
+      "summary": "King's College School Wimbledon, a 200-year-old UK institution, has announced plans to open a new campus in Ho Chi Minh City. This expansion marks the school’s entry into Southeast Asia.",
+      "insight": "King’s College School Wimbledon’s Ho Chi Minh City campus signals growing demand for elite UK-aligned education in Vietnam, potentially reflecting shifting preferences among Southeast Asian families—though it remains unclear whether this will divert students from traditional university pathways or complement them.  \nAdmissions teams should monitor enrolment patterns at new K–12 international campuses in Vietnam and track whether graduates pursue undergraduate studies abroad, particularly in the UK, US, Australia, or New Zealand, to assess emerging feeder pipelines and curriculum alignment opportunities.",
       "impact": "Low",
-      "sources": [],
+      "sources": [
+        "Southeast Asia"
+      ],
       "dests": [
-        "USA"
+        "UK"
       ],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 10,
+      "relevanceScore": 8,
       "insightSource": "qwen"
     },
     {
       "id": 2,
-      "title": "Australia accused of profiting millions of dollars from rising student visa rejections and application fees",
+      "title": "Vietnamese student wins fully funded PhD at world's No. 8 university in Singapore",
       "source": "VnExpress (EN)",
       "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/education/australia-accused-of-profiting-millions-of-dollars-from-rising-student-visa-rejections-and-application-fees-5071462.html",
+      "url": "https://e.vnexpress.net/news/news/education/vietnamese-student-wins-fully-funded-phd-at-world-s-no-8-university-in-singapore-5068019.html",
       "pubDate": "2026-05-09",
-      "summary": "Australia collected nearly AU$10 million (US$7.25 million) in non-refundable visa application fees from rejected student visa applications in a single month. This revenue has drawn criticism for appearing to profit from the educational aspirations of foreign students.",
-      "insight": "This news may dampen Australia’s appeal among cost-sensitive international students, particularly from Asia and Africa, as perceptions of visa rejection risks and non-refundable fees could shift demand toward perceived more predictable destinations—though causal links to actual enrolment declines remain unproven.  \nAdmissions teams should track regional sentiment shifts via social listening and agent feedback, and review whether their pre-application support—including realistic visa success guidance—needs strengthening to mitigate reputational spillover effects.",
-      "impact": "Low",
-      "sources": [],
-      "dests": [
-        "Australia"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 10,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 3,
-      "title": "Chinese brokers exploit time-zone gap to sell Korean language test answers for $5,100",
-      "source": "VnExpress (EN)",
-      "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/education/chinese-brokers-exploit-time-zone-gap-to-sell-korean-language-test-answers-for-5-100-5070346.html",
-      "pubDate": "2026-05-06",
-      "summary": "Chinese brokers have been selling leaked questions for South Korea’s main Korean-language proficiency exam at prices up to US$5,100. They exploited time-zone differences in the global test administration schedule to facilitate this illicit activity.",
-      "insight": "This incident highlights growing concerns about academic integrity among Chinese students seeking overseas education, potentially prompting stricter verification of language credentials by English-speaking universities—though direct impact on enrolment demand remains uncertain without evidence of broader systemic issues.  \nAdmissions teams should monitor whether Korean-language test fraud correlates with increased applications from China to English-speaking countries, and review current language proficiency validation protocols for early signs of credentialing vulnerabilities.",
+      "summary": "A 22-year-old Vietnamese chemistry student has secured a fully funded PhD fellowship at the National University of Singapore, ranked eighth globally. She completed her bachelor’s degree six months ahead of schedule before earning the fellowship.",
+      "insight": "This news signals growing competitiveness in Asia’s higher education landscape, as top-tier institutions outside traditional Anglophone destinations attract high-achieving students—potentially reflecting shifting perceptions of value, research opportunity, or post-study outcomes, though it remains unclear how broadly this affects demand for US/UK/AU/NZ PhD programs.  \nAdmissions teams should monitor application trends from high-performing Southeast Asian undergraduates, especially in STEM, and assess whether their funding models, supervisor engagement pathways, and regional outreach resonate with students increasingly weighing prestige against cost, duration, and career mobility.",
       "impact": "Low",
       "sources": [
-        "China"
+        "Southeast Asia"
       ],
       "dests": [],
       "translated": false,
@@ -61,19 +44,38 @@
       "insightSource": "qwen"
     },
     {
-      "id": 4,
-      "title": "NEET-UG 2026 held across 551 cities in India, 14 abroad",
-      "source": "The Hindu (Edu)",
-      "color": "#145a32",
-      "url": "https://www.thehindu.com/news/national/neet-ug-2026-held-across-551-cities-in-india-14-abroad/article70935993.ece",
-      "pubDate": "2026-05-03",
-      "summary": "The NEET-UG 2026 examination was conducted across 551 cities in India and 14 cities abroad. Union Education Minister Dharmendra Pradhan oversaw the operational aspects of the exam.",
-      "insight": "The scale of NEET-UG 2026—spanning 551 Indian and 14 overseas cities—reflects sustained domestic demand for medical education, but does not directly indicate shifting preferences toward international study; however, it may indirectly signal continued pressure on Indian students seeking alternatives amid intense competition and seat constraints.  \nAdmissions teams should monitor trends in NEET-UG qualification rates, MBBS seat availability in India, and corresponding spikes in inquiries from Indian students about offshore medical pathways—particularly in countries with recognized degrees and post-study work options—while avoiding premature assumptions about enrolment shifts.",
+      "id": 3,
+      "title": "US to end “Duration of Status” for F, J, and I visas and limit the time international students can study in the US",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/05/us-moves-to-end-duration-of-status-for-f-j-and-i-visas-new-rule-could-limit-the-time-international-students-can-study-in-the-us/",
+      "pubDate": "2026-05-06",
+      "summary": "The U.S. Department of Homeland Security proposed in August 2025 to eliminate “Duration of Status” for F, J, and I visas, replacing it with fixed time limits for international students. Under the proposal, most international students would be required to complete their programs by September 2026—or within four years of entry—unless granted an extension by U.S. Citizenship and Immigration Services.",
+      "insight": "This proposal signals potential tightening of U.S. student visa flexibility, which may dampen perceived long-term study security for applicants from high-volume markets like India and China—though actual impact depends on final rulemaking, implementation timing, and possible exemptions for STEM or graduate programs.  \nAdmissions teams should track the Federal Register’s official rule publication, stakeholder consultations, and early applicant sentiment shifts in key source countries—while reviewing contingency plans for advising students on alternative pathways, including dual-degree or transfer options to partner institutions abroad.",
       "impact": "Low",
-      "sources": [
-        "India"
+      "sources": [],
+      "dests": [
+        "USA"
       ],
-      "dests": [],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 7,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 4,
+      "title": "Australia accused of profiting millions of dollars from rising student visa rejections and application fees",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/education/australia-accused-of-profiting-millions-of-dollars-from-rising-student-visa-rejections-and-application-fees-5071462.html",
+      "pubDate": "2026-05-09",
+      "summary": "Australia collected nearly AU$10 million (US$7.25 million) in non-refundable visa application fees from rejected student visa applications in a single month. This revenue has drawn criticism for appearing to profit from the educational aspirations of foreign students.",
+      "insight": "This news may dampen Australia’s appeal among cost-sensitive international students, particularly from Asia and Africa, as perceptions of visa rejection risks and non-refundable fees could shift demand toward perceived more predictable destinations—though causal links to actual enrolment declines remain unproven.  \nAdmissions teams should track regional sentiment shifts via social listening and agent feedback, and review how their institutions frame visa support, fee transparency, and success-rate benchmarks—especially when competing with Australia for students from high-application-volume markets.",
+      "impact": "Low",
+      "sources": [],
+      "dests": [
+        "Australia"
+      ],
       "translated": false,
       "origLang": null,
       "relevanceScore": 7,
@@ -81,73 +83,15 @@
     },
     {
       "id": 5,
-      "title": "UK to rejoin Erasmus+ in 2027",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/05/uk-to-rejoin-erasmus-in-2027/",
-      "pubDate": "2026-05-07",
-      "summary": "The UK will rejoin the Erasmus+ mobility programme in 2027 for an initial one-year term, ending its six-year absence that began after Brexit in 2021. Erasmus+ is the European Union’s flagship programme supporting education, training, youth, and sport across Europe.",
-      "insight": "The UK’s planned 2027 re-entry into Erasmus+ may modestly improve its appeal to European students seeking mobility opportunities, though broader international demand—especially from Asia and the Americas—remains more influenced by post-study work rights, tuition value, and visa stability than Erasmus participation alone.  \nAdmissions teams should track uptake of UK-EU student exchanges post-2027, monitor whether partner institutions in Europe formalise new bilateral agreements, and assess if this development meaningfully shifts application patterns among priority EU source markets before adjusting recruitment messaging or resource allocation.",
-      "impact": "Low",
-      "sources": [],
-      "dests": [
-        "UK"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 7,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 6,
-      "title": "ICEF Podcast: Sustainable international student recruitment from a UK-China perspective",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/04/icef-podcast-sustainable-international-student-recruitment-from-a-uk-china-perspective/",
-      "pubDate": "2026-04-29",
-      "summary": "The ICEF Podcast features Craig Riggs and Martijn van de Veen discussing recent sector developments, including evolving return-on-investment expectations from international students and agent recruitment strategies for Japan. A subsequent panel discussion focuses specifically on sustainable international student recruitment from a UK-China perspective.",
-      "insight": "This podcast highlights growing sectoral attention to sustainability in UK-China student flows, suggesting potential shifts in institutional priorities around ethical recruitment and long-term student outcomes—though direct implications for US, Australian, or New Zealand recruitment remain uncertain without parallel policy or market signals.  \nAdmissions teams should monitor Chinese student sentiment toward post-study work rights, agent regulation updates in key markets, and how UK universities’ sustainability frameworks influence partner institutions’ expectations of transparency and student support commitments.",
-      "impact": "Low",
-      "sources": [
-        "China"
-      ],
-      "dests": [],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 6,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 7,
-      "title": "Brighton College Vietnam named among world's top recommended private schools for 2026",
-      "source": "VnExpress (EN)",
-      "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/education/brighton-college-vietnam-named-among-world-s-top-recommended-private-schools-for-2026-5071156.html",
-      "pubDate": "2026-05-07",
-      "summary": "Brighton College Vietnam has been named in the \"Top Recommended Private Schools Globally\" category of the Spear's Schools Index 2026. It is among the first schools in Vietnam to receive this recognition.",
-      "insight": "Brighton College Vietnam’s inclusion in the Spear’s 2026 Schools Index signals growing regional confidence in high-calibre, Western-style K–12 education within Southeast Asia—potentially foreshadowing stronger demand for aligned undergraduate pathways, though direct causal links to tertiary enrolment remain unproven.  \nAdmissions teams should track whether graduates from Brighton College Vietnam and similar institutions show increased application volume or preference for specific Anglophone destinations, while noting emerging partnerships or articulation agreements that could shape future recruitment pipelines.",
-      "impact": "Low",
-      "sources": [
-        "Southeast Asia"
-      ],
-      "dests": [],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 6,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 8,
-      "title": "Hanoi Foreign Trade University won HSBC Business Case Competition 2026",
+      "title": "Brighton College Vietnam is among the top recommended private schools globally",
       "source": "VnExpress (Giáo dục)",
       "color": "#b94500",
-      "url": "https://vnexpress.net/dai-hoc-ngoai-thuong-ha-noi-vo-dich-hsbc-business-case-competition-2026-5070865.html",
+      "url": "https://vnexpress.net/brighton-college-vietnam-vao-top-cac-truong-tu-thuc-duoc-khuyen-nghi-toan-cau-5071201.html",
       "pubDate": "2026-05-07",
-      "summary": "Four students from Hanoi Foreign Trade University won the HSBC Business Case Competition 2026, defeating 40 teams nationwide. They will represent Vietnam in the international round held in Hong Kong, China, in June.",
-      "insight": "This win signals growing regional academic competitiveness and may indirectly reflect rising aspirations among Southeast Asian students for globally recognised business education, though direct links to shifts in demand for Western universities remain uncertain without broader enrolment data.  \nAdmissions teams should monitor whether such high-profile regional successes correlate with increased applications from Vietnam and neighbouring countries—and consider highlighting alumni achievements in ASEAN markets to reinforce institutional credibility.",
+      "summary": "Brighton College Vietnam is the first educational institution in Vietnam to be included in the \"Globally recommended private schools\" list of the Spear's Schools Index 2026. This recognition marks its inclusion among the top recommended private schools worldwide.",
+      "insight": "Brighton College Vietnam’s inclusion in the Spear’s Schools Index signals growing institutional maturity in Southeast Asia’s private education sector, potentially indicating rising demand for globally benchmarked curricula—though direct implications for tertiary enrolment remain uncertain without evidence of shifting student pathways or credential recognition.  \nAdmissions teams should monitor whether graduates from such newly recognized schools show increased application volume or distinct academic profiles, and assess if partnerships with these institutions could strengthen feeder pipelines—while noting that broader regional sentiment and visa policy changes remain more immediate recruitment drivers.",
       "impact": "Low",
       "sources": [
-        "China",
         "Southeast Asia"
       ],
       "dests": [],
