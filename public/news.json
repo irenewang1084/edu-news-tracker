@@ -1,36 +1,57 @@
 {
-  "updated": "2026-05-11T04:55:18Z",
+  "updated": "2026-05-12T04:31:36Z",
   "count": 6,
-  "totalFetched": 181,
+  "totalFetched": 175,
   "articles": [
     {
       "id": 1,
-      "title": "Ho Chi Minh City National University 'shakes hands' with India's oldest institute of technology",
-      "source": "VnExpress (Giáo dục)",
-      "color": "#b94500",
-      "url": "https://vnexpress.net/dh-quoc-gia-tp-hcm-bat-tay-vien-cong-nghe-lau-doi-nhat-an-do-5071243.html",
-      "pubDate": "2026-05-07",
-      "summary": "Ho Chi Minh City National University has established a collaboration with the Indian Institute of Technology Roorkee, India’s oldest institute of technology. Through this partnership, lecturers and students from Ho Chi Minh City National University can pursue short-term study and research opportunities in artificial intelligence and semiconductors at IIT Roorkee.",
-      "insight": "This collaboration signals growing academic ties between Vietnam and India, potentially reflecting broader shifts in Global South student mobility—though it doesn’t directly indicate declining interest in Western destinations, it may foreshadow more diversified enrolment pathways amid evolving geopolitical and cost considerations.  \nAdmissions teams should monitor bilateral education agreements and scholarship initiatives emerging from such partnerships, as they could influence student perceptions of alternative study hubs—particularly for STEM fields—and inform proactive outreach to Vietnamese institutions with similar international linkages.",
-      "impact": "Low",
-      "sources": [
-        "India"
+      "title": "National council approves guidelines for AI in education and bans 'high-risk' use with students",
+      "source": "Folha de S.Paulo",
+      "color": "#154360",
+      "url": "https://redir.folha.com.br/redir/online/educacao/rss091/*https://www1.folha.uol.com.br/educacao/2026/05/cne-aprova-diretrizes-para-uso-de-ia-na-educacao-e-proibe-usos-de-alto-risco-com-alunos.shtml",
+      "pubDate": "2026-05-11",
+      "summary": "The National Education Council (CNE) approved an initial opinion on May 11, 2026, establishing guidelines for the use of artificial intelligence in basic and higher education. The guidelines position AI as a support tool requiring human supervision and prohibit its “high-risk” use with students, though final approval by the Ministry of Education (MEC) remains pending after further discussions.",
+      "insight": "This development signals growing regulatory caution around AI in education in key source markets, potentially influencing student perceptions of academic integrity and institutional support—though direct impacts on demand or visa rules remain uncertain without further policy implementation.  \nAdmissions teams should monitor how national AI guidelines evolve in priority countries, especially regarding assessments and academic support, and consider proactively clarifying their institutions’ responsible AI practices to address prospective students’ emerging concerns about fairness and oversight.",
+      "impact": "High",
+      "sources": [],
+      "dests": [
+        "USA"
       ],
-      "dests": [],
       "translated": true,
-      "origLang": "vi",
+      "origLang": "pt",
       "relevanceScore": 8,
       "insightSource": "qwen"
     },
     {
       "id": 2,
+      "title": "200-year-old UK institution to open Ho Chi Minh City campus",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/education/200-year-old-uk-institution-to-open-ho-chi-minh-city-campus-vnepre-5071922.html",
+      "pubDate": "2026-05-09",
+      "summary": "King's College School Wimbledon, a 200-year-old UK institution, has announced plans to open a new campus in Ho Chi Minh City. This expansion marks the school’s entry into Southeast Asia.",
+      "insight": "This move signals growing institutional confidence in Vietnam’s education market and may reflect rising middle-class demand for premium Western-aligned schooling, though it doesn’t directly indicate shifting university preferences—student pathways from such schools to tertiary institutions remain uncertain and culturally mediated.  \nAdmissions teams should track enrolment patterns, parent surveys, and local media sentiment around this campus to gauge whether it amplifies aspirational demand for UK degrees—or conversely, accelerates domestic or regional higher education alternatives among its graduates.",
+      "impact": "Low",
+      "sources": [
+        "Southeast Asia"
+      ],
+      "dests": [
+        "UK"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 3,
       "title": "US to end “Duration of Status” for F, J, and I visas and limit the time international students can study in the US",
       "source": "ICEF Monitor",
       "color": "#1a3a5c",
       "url": "https://monitor.icef.com/2026/05/us-moves-to-end-duration-of-status-for-f-j-and-i-visas-new-rule-could-limit-the-time-international-students-can-study-in-the-us/",
       "pubDate": "2026-05-06",
-      "summary": "The U.S. Department of Homeland Security proposed in August 2025 to eliminate “Duration of Status” for F, J, and I visas, replacing it with fixed time limits for international students. Under the proposal, most international students would be required to complete their programs by September 2026—or within four years of entry—unless granted an extension by U.S. Citizenship and Immigration Services.",
-      "insight": "This proposed DHS rule signals potential tightening of U.S. student visa flexibility, which may dampen U.S. appeal—especially for longer or non-standard programs—though actual impact depends on final rule language, implementation timing, and how competing destinations position themselves.  \nAdmissions teams should track the rule’s progress through notice-and-comment and final publication, assess implications for cohort planning and deferral policies, and benchmark messaging against peer institutions’ responses to evolving U.S. immigration sentiment.",
+      "summary": "The U.S. Department of Homeland Security proposed in August 2025 to eliminate “Duration of Status” for F, J, and I visas, replacing it with fixed time limits for international students. Under the proposal, most international students would be required to complete their programs by September 2026—typically within four years—unless granted an extension by U.S. Citizenship and Immigration Services.",
+      "insight": "This proposed U.S. policy shift—replacing open-ended “Duration of Status” with fixed, time-limited visas for F, J, and I holders—may dampen U.S. appeal for students from regions prioritising flexibility or longer study-to-work pathways, though actual enrolment impact depends on final rule details and global alternatives.  \nAdmissions teams should track the rule’s progression through federal review, assess how peer institutions in the UK, Australia, and New Zealand position their visa frameworks, and begin scenario-planning for potential shifts in application volumes from high-intent markets like India and China.",
       "impact": "Low",
       "sources": [],
       "dests": [
@@ -42,14 +63,14 @@
       "insightSource": "qwen"
     },
     {
-      "id": 3,
-      "title": "Top battery scientist Shirley Meng leaves US for Singapore's NTU, citing Trump policies",
+      "id": 4,
+      "title": "Vietnamese student wins fully funded PhD at world's No. 8 university in Singapore",
       "source": "VnExpress (EN)",
       "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/education/top-battery-scientist-shirley-meng-leaves-us-for-singapore-s-ntu-citing-trump-policies-5070814.html",
-      "pubDate": "2026-05-07",
-      "summary": "Battery scientist Shirley Meng will leave the University of Chicago on July 1 to join Singapore’s Nanyang Technological University in a senior position. She cited the Trump administration’s retreat from clean energy initiatives and restrictive immigration policies as reasons for her move.",
-      "insight": "This high-profile departure signals potential softening in the US’s appeal to STEM talent from Southeast Asia, though its direct impact on undergraduate or master’s applicants remains uncertain amid broader geopolitical and economic factors shaping student decisions.  \nAdmissions teams should monitor regional sentiment shifts via student surveys and agent feedback, particularly around visa processing times and perceptions of research opportunity stability, while reviewing how their institutions articulate long-term policy resilience and inclusion.",
+      "url": "https://e.vnexpress.net/news/news/education/vietnamese-student-wins-fully-funded-phd-at-world-s-no-8-university-in-singapore-5068019.html",
+      "pubDate": "2026-05-09",
+      "summary": "A 22-year-old Vietnamese chemistry student has secured a fully funded PhD fellowship at the National University of Singapore, ranked eighth globally. She completed her bachelor’s degree six months ahead of schedule before earning the fellowship.",
+      "insight": "This news signals growing competitiveness in Southeast Asia’s high-achieving student segment, where accelerated academic pathways and elite Asian institutions may be reshaping destination preferences—though it remains unclear whether this reflects broader regional shifts or an isolated success story.  \nAdmissions teams should monitor application trends from Vietnam and neighbouring countries for changes in yield rates and fellowship uptake, while reviewing scholarship visibility and articulation pathways for accelerated undergraduates to ensure their offerings remain compelling amid rising regional alternatives.",
       "impact": "Low",
       "sources": [
         "Southeast Asia"
@@ -61,14 +82,14 @@
       "insightSource": "qwen"
     },
     {
-      "id": 4,
+      "id": 5,
       "title": "Australia accused of profiting millions of dollars from rising student visa rejections and application fees",
       "source": "VnExpress (EN)",
       "color": "#d35400",
       "url": "https://e.vnexpress.net/news/news/education/australia-accused-of-profiting-millions-of-dollars-from-rising-student-visa-rejections-and-application-fees-5071462.html",
       "pubDate": "2026-05-09",
       "summary": "Australia collected nearly AU$10 million (US$7.25 million) in non-refundable visa application fees from rejected student visa applications in a single month. This revenue has drawn criticism for appearing to profit from the educational aspirations of foreign students.",
-      "insight": "This news may indirectly influence student demand by amplifying perceptions of Australia as a less accessible or financially risky destination, particularly among cost-sensitive applicants from Asia and Africa—though actual enrolment impacts depend on broader policy shifts and competitor responses.  \nAdmissions teams should monitor Australian visa refusal rate trends, official communications on student visa reforms, and sentiment shifts in key source markets via agent feedback and social listening—noting that sustained revenue reliance on rejected applications could prompt reputational or regulatory scrutiny over time.",
+      "insight": "This news may dampen Australia’s appeal among cost-conscious international students, particularly from Asia and Africa, as perceptions of visa rejection risks and non-refundable fees could shift demand toward perceived more predictable destinations—though direct causal links to enrolment trends remain unproven.  \nAdmissions teams should track real-time visa grant rates, student sentiment in key source markets via social listening, and competitor messaging around visa support—while avoiding premature policy changes until clearer evidence of behavioural shifts emerges.",
       "impact": "Low",
       "sources": [],
       "dests": [
@@ -80,33 +101,14 @@
       "insightSource": "qwen"
     },
     {
-      "id": 5,
-      "title": "Canada fast-tracks permanent residency for foreign workers in rural areas",
+      "id": 6,
+      "title": "Chinese students rethink traditional study-abroad destinations",
       "source": "VnExpress (EN)",
       "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/canada-fast-tracks-permanent-residency-for-foreign-workers-in-rural-areas-5072153.html",
-      "pubDate": "2026-05-10",
-      "summary": "Canada will fast-track permanent residency applications for 33,000 foreign workers to alleviate labor shortages in small towns and remote rural communities. This initiative specifically targets foreign workers already employed in these underserved areas.",
-      "insight": "Canada’s rural PR fast-track may indirectly influence international student decision-making by reinforcing perceptions of Canada as a pragmatic, pathway-focused destination—though direct impact on enrolment remains uncertain given the policy targets only already-employed foreign workers, not students.  \nAdmissions teams should monitor whether Canadian institutions report shifts in application volumes from source markets where rural employment pathways are highly valued, and assess if their own post-study work messaging needs refinement to address evolving comparative migration narratives.",
-      "impact": "Low",
-      "sources": [],
-      "dests": [
-        "Canada"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 7,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 6,
-      "title": "ICEF Podcast: Sustainable international student recruitment from a UK-China perspective",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/04/icef-podcast-sustainable-international-student-recruitment-from-a-uk-china-perspective/",
-      "pubDate": "2026-04-29",
-      "summary": "The ICEF Podcast features Craig Riggs and Martijn van de Veen discussing recent sector developments, including evolving return-on-investment expectations from international students and agent recruitment strategies for Japan. A subsequent panel discussion focuses specifically on sustainable international student recruitment from a UK-China perspective.",
-      "insight": "This podcast highlights growing sectoral attention to sustainability in UK-China student flows, suggesting potential shifts in institutional priorities around ethical recruitment and long-term student outcomes—though direct implications for US, Australian, or New Zealand recruitment remain uncertain without parallel policy or market signals.  \nAdmissions teams should monitor Chinese student sentiment toward post-study work rights, agent regulation updates in key markets, and how UK universities’ sustainability frameworks influence partner institutions’ expectations of transparency and student support commitments.",
+      "url": "https://e.vnexpress.net/news/news/education/chinese-students-rethink-traditional-study-abroad-destinations-5072479.html",
+      "pubDate": "2026-05-12",
+      "summary": "The number of Chinese students studying overseas last year declined by nearly 20% compared to its pre-pandemic peak. This drop is attributed to rising costs, stricter visa policies, and increased appeal of domestic education opportunities.",
+      "insight": "The 20% decline in Chinese outbound students signals potential softening demand for traditional Anglophone destinations, though it remains unclear how much reflects temporary pandemic-related disruption versus longer-term shifts in cost sensitivity, visa perceptions, or domestic alternatives.  \nAdmissions teams should monitor quarterly application trends from China, track policy developments on visas and post-study work rights, and assess how domestic university quality improvements and scholarship offerings influence student decision-making—without assuming irreversible market contraction.",
       "impact": "Low",
       "sources": [
         "China"
@@ -114,7 +116,7 @@
       "dests": [],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 6,
+      "relevanceScore": 7,
       "insightSource": "qwen"
     }
   ]
