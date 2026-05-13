@@ -1,40 +1,19 @@
 {
-  "updated": "2026-05-12T04:31:36Z",
-  "count": 6,
-  "totalFetched": 175,
+  "updated": "2026-05-13T04:38:39Z",
+  "count": 8,
+  "totalFetched": 169,
   "articles": [
     {
       "id": 1,
-      "title": "National council approves guidelines for AI in education and bans 'high-risk' use with students",
-      "source": "Folha de S.Paulo",
-      "color": "#154360",
-      "url": "https://redir.folha.com.br/redir/online/educacao/rss091/*https://www1.folha.uol.com.br/educacao/2026/05/cne-aprova-diretrizes-para-uso-de-ia-na-educacao-e-proibe-usos-de-alto-risco-com-alunos.shtml",
-      "pubDate": "2026-05-11",
-      "summary": "The National Education Council (CNE) approved an initial opinion on May 11, 2026, establishing guidelines for the use of artificial intelligence in basic and higher education. The guidelines position AI as a support tool requiring human supervision and prohibit its “high-risk” use with students, though final approval by the Ministry of Education (MEC) remains pending after further discussions.",
-      "insight": "This development signals growing regulatory caution around AI in education in key source markets, potentially influencing student perceptions of academic integrity and institutional support—though direct impacts on demand or visa rules remain uncertain without further policy implementation.  \nAdmissions teams should monitor how national AI guidelines evolve in priority countries, especially regarding assessments and academic support, and consider proactively clarifying their institutions’ responsible AI practices to address prospective students’ emerging concerns about fairness and oversight.",
-      "impact": "High",
-      "sources": [],
-      "dests": [
-        "USA"
-      ],
-      "translated": true,
-      "origLang": "pt",
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 2,
-      "title": "200-year-old UK institution to open Ho Chi Minh City campus",
-      "source": "VnExpress (EN)",
-      "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/education/200-year-old-uk-institution-to-open-ho-chi-minh-city-campus-vnepre-5071922.html",
-      "pubDate": "2026-05-09",
-      "summary": "King's College School Wimbledon, a 200-year-old UK institution, has announced plans to open a new campus in Ho Chi Minh City. This expansion marks the school’s entry into Southeast Asia.",
-      "insight": "This move signals growing institutional confidence in Vietnam’s education market and may reflect rising middle-class demand for premium Western-aligned schooling, though it doesn’t directly indicate shifting university preferences—student pathways from such schools to tertiary institutions remain uncertain and culturally mediated.  \nAdmissions teams should track enrolment patterns, parent surveys, and local media sentiment around this campus to gauge whether it amplifies aspirational demand for UK degrees—or conversely, accelerates domestic or regional higher education alternatives among its graduates.",
+      "title": "UK to rejoin Erasmus+ in 2027",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/05/uk-to-rejoin-erasmus-in-2027/",
+      "pubDate": "2026-05-07",
+      "summary": "The UK will rejoin the Erasmus+ mobility programme in 2027 for an initial one-year term, ending its six-year absence that began after Brexit in 2021. Erasmus+ is the European Union’s flagship programme supporting education, training, youth, and sport across Europe.",
+      "insight": "The UK’s planned 2027 re-entry into Erasmus+ may modestly improve its appeal to European students seeking mobility opportunities, though broader international demand—especially from Asia and the Americas—remains more influenced by post-study work rights, tuition value, and visa stability than Erasmus participation alone.  \nAdmissions teams should track uptake of UK-EU student exchanges post-2027, monitor whether partner institutions in Europe formalise new bilateral agreements, and assess if this development meaningfully shifts application patterns among priority EU source markets before adjusting recruitment messaging or resource allocation.",
       "impact": "Low",
-      "sources": [
-        "Southeast Asia"
-      ],
+      "sources": [],
       "dests": [
         "UK"
       ],
@@ -44,14 +23,111 @@
       "insightSource": "qwen"
     },
     {
+      "id": 2,
+      "title": "Canada overhauls immigration consultant regulations",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/canada-overhauls-immigration-consultant-regulations/",
+      "pubDate": "2026-05-11",
+      "summary": "The Canadian government has introduced new regulations for immigration consultants that include increased penalties for misconduct, an expanded public register of authorized consultants, and a compensation mechanism for victims of dishonest practices. These changes aim to enhance oversight and protect individuals seeking immigration services.",
+      "insight": "Canada’s stricter immigration consultant rules may indirectly influence international student demand by reinforcing perceptions of regulatory rigour and service reliability, though direct impacts on enrolment decisions depend on how prospective students interpret these changes relative to broader study-abroad considerations.  \nAdmissions teams should monitor shifts in Canadian application volumes from key source markets—especially India and Nigeria—as well as student sentiment around immigration pathway transparency, while reviewing their own pre-departure support offerings for alignment with evolving global regulatory expectations.",
+      "impact": "Low",
+      "sources": [],
+      "dests": [
+        "Canada"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
       "id": 3,
+      "title": "India seeks database of outbound students amid global conflicts",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/india-seeks-database-of-outbound-students-amid-global-conflicts/",
+      "pubDate": "2026-05-12",
+      "summary": "India’s Ministry of External Affairs is planning to create a dedicated database platform for Indian citizens traveling abroad for education and employment. This initiative aims to enhance emergency coordination in response to ongoing global conflicts, including the Russia-Ukraine war and recent Middle East tensions.",
+      "insight": "India’s move to track outbound students reflects growing government concern over safety in volatile regions, potentially reinforcing student and family preferences for stable, English-speaking destinations like the USA, UK, Australia, and New Zealand—though direct demand shifts remain uncertain without accompanying policy or funding changes.  \nAdmissions teams should monitor India’s database rollout timeline and any linked advisories or support mechanisms, as these may influence pre-departure decision-making, agent partnerships, and institutional crisis-response messaging for Indian applicants.",
+      "impact": "Low",
+      "sources": [
+        "India",
+        "MENA"
+      ],
+      "dests": [],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 4,
+      "title": "Global degree, lower cost: Why 2+2 Programmes are winning over Indian families",
+      "source": "Times of India (Edu)",
+      "color": "#d4820a",
+      "url": "https://timesofindia.indiatimes.com/education/news/why-22-programs-are-revolutionizing-international-education-for-indian-students/articleshow/131041391.cms",
+      "pubDate": "2026-05-12",
+      "summary": "The article explains that 2+2 programmes—where students complete the first two years of a degree in India and the final two years abroad—are gaining popularity among Indian families due to their lower overall cost compared to full four-year overseas degrees. These programmes offer a globally recognized degree while significantly reducing tuition, accommodation, and living expenses.",
+      "insight": "The growing appeal of 2+2 programmes in India signals a potential shift toward cost-conscious, hybrid pathway preferences—though it remains unclear whether this reflects declining appetite for full overseas degrees or simply expanded strategic options amid persistent demand for global credentials.  \nAdmissions teams should monitor uptake of articulation agreements with Indian institutions, track conversion rates from 2+2 to full-degree enrolment, and assess whether partner colleges’ academic rigour and student support align with their brand and quality standards.",
+      "impact": "Low",
+      "sources": [
+        "India"
+      ],
+      "dests": [],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 5,
+      "title": "Australia speeds up immigration review for highly skilled workers",
+      "source": "VnExpress (Giáo dục)",
+      "color": "#b94500",
+      "url": "https://vnexpress.net/chinh-sach-di-tru-uu-tien-nhap-cu-australia-cho-lao-dong-tay-nghe-cao-5073213.html",
+      "pubDate": "2026-05-13",
+      "summary": "Australia has announced it will expedite immigration processing for highly skilled foreign workers. The government will allocate 70% of the 2026 permanent migration quota to this group.",
+      "insight": "Australia’s accelerated immigration pathway for highly skilled workers may indirectly boost its appeal to international students—particularly those from regions with strong post-study work aspirations—though direct demand shifts depend on how effectively universities communicate these opportunities and whether students perceive long-term residency as attainable.  \nAdmissions teams should track enrolment trends among students targeting skilled migration pathways, monitor policy implementation timelines, and assess whether partner agents or source markets are increasingly framing Australian study as a strategic step toward permanent residence.",
+      "impact": "Low",
+      "sources": [],
+      "dests": [
+        "Australia"
+      ],
+      "translated": true,
+      "origLang": "vi",
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 6,
+      "title": "Universities urged to focus on “factors they can control” as policy settings depress international student enrolments in the Big Four",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/05/universities-urged-to-focus-on-factors-they-can-control-as-policy-settings-continue-to-depress-international-student-enrolments-in-the-big-four/",
+      "pubDate": "2026-05-12",
+      "summary": "Restrictive immigration policies in Australia, Canada, the UK, and the US reduced new international student enrolments at universities in those countries during the first quarter of 2026. These policies also increased student interest in Asian and European destinations, as reported in the most recent Global Enrolment data.",
+      "insight": "Restrictive immigration policies in the Big Four nations appear to be dampening new international enrolments, potentially reflecting shifting student demand toward more welcoming destinations—though causality remains complex given concurrent economic, geopolitical, and institutional factors.  \nAdmissions teams should monitor real-time application trends by region and visa refusal rates, while assessing whether partner agents and students signal growing preference for alternative study destinations amid evolving policy sentiment.",
+      "impact": "Medium",
+      "sources": [],
+      "dests": [
+        "Canada",
+        "Australia"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 7,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 7,
       "title": "US to end “Duration of Status” for F, J, and I visas and limit the time international students can study in the US",
       "source": "ICEF Monitor",
       "color": "#1a3a5c",
       "url": "https://monitor.icef.com/2026/05/us-moves-to-end-duration-of-status-for-f-j-and-i-visas-new-rule-could-limit-the-time-international-students-can-study-in-the-us/",
       "pubDate": "2026-05-06",
-      "summary": "The U.S. Department of Homeland Security proposed in August 2025 to eliminate “Duration of Status” for F, J, and I visas, replacing it with fixed time limits for international students. Under the proposal, most international students would be required to complete their programs by September 2026—typically within four years—unless granted an extension by U.S. Citizenship and Immigration Services.",
-      "insight": "This proposed U.S. policy shift—replacing open-ended “Duration of Status” with fixed, time-limited visas for F, J, and I holders—may dampen U.S. appeal for students from regions prioritising flexibility or longer study-to-work pathways, though actual enrolment impact depends on final rule details and global alternatives.  \nAdmissions teams should track the rule’s progression through federal review, assess how peer institutions in the UK, Australia, and New Zealand position their visa frameworks, and begin scenario-planning for potential shifts in application volumes from high-intent markets like India and China.",
+      "summary": "The U.S. Department of Homeland Security proposed in August 2025 to eliminate “Duration of Status” for F, J, and I visas, replacing it with fixed time limits for international students. Under the proposal, most international students would be required to complete their programs by September 2026—or within four years of entry—unless granted an extension by U.S. Citizenship and Immigration Services.",
+      "insight": "This proposed U.S. policy shift—replacing open-ended “Duration of Status” with fixed four-year limits for F/J/I visa holders—may dampen U.S. appeal for students from regions where longer or flexible study pathways are valued, though actual enrolment impact hinges on final rule details and implementation timing.  \nAdmissions teams should track the rule’s progression through federal review, assess how peer institutions in the UK, Australia, and NZ position themselves on visa certainty, and begin scenario-planning for potential shifts in student inquiries toward destinations offering more predictable post-study timelines.",
       "impact": "Low",
       "sources": [],
       "dests": [
@@ -63,55 +139,17 @@
       "insightSource": "qwen"
     },
     {
-      "id": 4,
-      "title": "Vietnamese student wins fully funded PhD at world's No. 8 university in Singapore",
+      "id": 8,
+      "title": "Ho Chi Minh City teachers ordered to assess their English skills as Vietnam eyes second-language plan",
       "source": "VnExpress (EN)",
       "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/education/vietnamese-student-wins-fully-funded-phd-at-world-s-no-8-university-in-singapore-5068019.html",
-      "pubDate": "2026-05-09",
-      "summary": "A 22-year-old Vietnamese chemistry student has secured a fully funded PhD fellowship at the National University of Singapore, ranked eighth globally. She completed her bachelor’s degree six months ahead of schedule before earning the fellowship.",
-      "insight": "This news signals growing competitiveness in Southeast Asia’s high-achieving student segment, where accelerated academic pathways and elite Asian institutions may be reshaping destination preferences—though it remains unclear whether this reflects broader regional shifts or an isolated success story.  \nAdmissions teams should monitor application trends from Vietnam and neighbouring countries for changes in yield rates and fellowship uptake, while reviewing scholarship visibility and articulation pathways for accelerated undergraduates to ensure their offerings remain compelling amid rising regional alternatives.",
+      "url": "https://e.vnexpress.net/news/news/education/ho-chi-minh-city-teachers-ordered-to-assess-their-english-skills-as-vietnam-eyes-second-language-plan-5072794.html",
+      "pubDate": "2026-05-12",
+      "summary": "Ho Chi Minh City has directed all teachers—except those who teach English—to self-assess their English proficiency by May 12. This initiative supports Vietnam’s national goal of establishing English as a second language in schools by 2035.",
+      "insight": "This policy signals Vietnam’s intensified national commitment to English proficiency, which may gradually increase demand for high-quality English-medium education abroad—though direct impacts on short-term enrolment remain uncertain given domestic upskilling efforts.  \nAdmissions teams should monitor Vietnamese student application trends by English test scores and destination preferences over the next 12–18 months, while reviewing scholarship messaging that aligns with evolving local perceptions of English-language value.",
       "impact": "Low",
       "sources": [
         "Southeast Asia"
-      ],
-      "dests": [],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 7,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 5,
-      "title": "Australia accused of profiting millions of dollars from rising student visa rejections and application fees",
-      "source": "VnExpress (EN)",
-      "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/education/australia-accused-of-profiting-millions-of-dollars-from-rising-student-visa-rejections-and-application-fees-5071462.html",
-      "pubDate": "2026-05-09",
-      "summary": "Australia collected nearly AU$10 million (US$7.25 million) in non-refundable visa application fees from rejected student visa applications in a single month. This revenue has drawn criticism for appearing to profit from the educational aspirations of foreign students.",
-      "insight": "This news may dampen Australia’s appeal among cost-conscious international students, particularly from Asia and Africa, as perceptions of visa rejection risks and non-refundable fees could shift demand toward perceived more predictable destinations—though direct causal links to enrolment trends remain unproven.  \nAdmissions teams should track real-time visa grant rates, student sentiment in key source markets via social listening, and competitor messaging around visa support—while avoiding premature policy changes until clearer evidence of behavioural shifts emerges.",
-      "impact": "Low",
-      "sources": [],
-      "dests": [
-        "Australia"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 7,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 6,
-      "title": "Chinese students rethink traditional study-abroad destinations",
-      "source": "VnExpress (EN)",
-      "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/education/chinese-students-rethink-traditional-study-abroad-destinations-5072479.html",
-      "pubDate": "2026-05-12",
-      "summary": "The number of Chinese students studying overseas last year declined by nearly 20% compared to its pre-pandemic peak. This drop is attributed to rising costs, stricter visa policies, and increased appeal of domestic education opportunities.",
-      "insight": "The 20% decline in Chinese outbound students signals potential softening demand for traditional Anglophone destinations, though it remains unclear how much reflects temporary pandemic-related disruption versus longer-term shifts in cost sensitivity, visa perceptions, or domestic alternatives.  \nAdmissions teams should monitor quarterly application trends from China, track policy developments on visas and post-study work rights, and assess how domestic university quality improvements and scholarship offerings influence student decision-making—without assuming irreversible market contraction.",
-      "impact": "Low",
-      "sources": [
-        "China"
       ],
       "dests": [],
       "translated": false,
