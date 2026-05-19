@@ -1,17 +1,77 @@
 {
-  "updated": "2026-05-18T05:03:04Z",
-  "count": 10,
-  "totalFetched": 173,
+  "updated": "2026-05-19T04:53:44Z",
+  "count": 8,
+  "totalFetched": 169,
   "articles": [
     {
       "id": 1,
-      "title": "Cambridge cancels math exam results in Vietnam after 'unprecedented' global leak",
+      "title": "UK study visa applications plunge 40% in April",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/uk-study-visa-applications-plunge-40-in-april/",
+      "pubDate": "2026-05-14",
+      "summary": "UK study visa applications dropped by 40% in April compared to the same month last year, marking the lowest number of April applicants in five years. Overall applications for the current year are down by one-third compared to 2025, according to new Home Office data.",
+      "insight": "This sharp 40% year-on-year drop in UK study visa applications—especially amid broader annual declines—may reflect tightening visa rules, rising costs, or shifting perceptions of post-study value, though it could also stem from temporary administrative delays or seasonal anomalies rather than a fundamental demand shift.  \nAdmissions teams should track real-time application trends across key source markets, compare UK policy changes with their own visa frameworks, and assess whether prospective students are expressing heightened concerns about affordability, work rights, or long-term settlement pathways in outreach conversations.",
+      "impact": "Low",
+      "sources": [],
+      "dests": [
+        "UK"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 10,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 2,
+      "title": "Australia freezes new overseas student provider registrations",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/australia-freezes-new-overseas-student-provider-registrations/",
+      "pubDate": "2026-05-18",
+      "summary": "The Australian government has implemented a 12-month pause on new registrations for providers of Vocational Education and Training (VET) and English Language Intensive Courses for Overseas Students (ELICOS). This decision follows rising visa refusal rates, declining student commencements, and increasing migration pressure.",
+      "insight": "Australia’s pause on new VET and ELICOS provider registrations signals tightening regulatory oversight, potentially dampening short-term enrolment growth in those sectors—but its direct impact on university recruitment remains uncertain amid stable undergraduate/postgraduate visa settings.  \nAdmissions teams should track Australian student visa grant rates, competitor institution announcements, and source-market sentiment shifts—particularly in India and Southeast Asia—while reviewing pathway partnerships with affected VET/ELICOS providers for potential disruptions to foundation or English preparation routes.",
+      "impact": "Low",
+      "sources": [],
+      "dests": [
+        "Australia"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 10,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 3,
+      "title": "International student enrolments slump 24% across Big Four destinations, with US and Canada hardest hit",
       "source": "VnExpress (EN)",
       "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/education/cambridge-cancels-math-exam-results-in-vietnam-after-unprecedented-global-leak-5073934.html",
-      "pubDate": "2026-05-14",
-      "summary": "Cambridge has canceled the results of an international AS Level Mathematics exam in Vietnam and several other countries following an unprecedented global leak of the exam paper. Candidates affected by the leak are required to retake the test.",
-      "insight": "This incident may indirectly affect international student recruitment by eroding trust in standardized assessment integrity, potentially influencing application decisions among high-achieving Southeast Asian students weighing academic credibility and fairness across destinations. Its broader impact on demand remains uncertain without evidence of systemic exam vulnerabilities or policy shifts.  \nAdmissions teams should monitor regional sentiment around assessment reliability, especially in Vietnam and neighboring markets, and consider whether affected students seek alternative entry pathways—though no immediate policy changes from major destination countries are anticipated.",
+      "url": "https://e.vnexpress.net/news/news/education/international-student-enrolments-slump-24-across-big-four-destinations-with-us-and-canada-hardest-hit-vnepre-5074684.html",
+      "pubDate": "2026-05-19",
+      "summary": "International student enrolments fell by 24% across Australia, Canada, the U.K., and the U.S. for the January–March 2026 intake. The U.S. and Canada experienced the steepest declines among these four destinations.",
+      "insight": "The 24% enrolment drop across the Big Four suggests weakening demand or shifting preferences among international students, though it may reflect temporary factors like visa processing delays, geopolitical concerns, or cohort-specific disruptions rather than a structural long-term decline.  \nAdmissions teams should monitor real-time application trends by region and programme, track policy changes in key source markets and destination countries, and assess competitor messaging—while avoiding overreaction to a single intake’s data without deeper cohort analysis.",
+      "impact": "Low",
+      "sources": [],
+      "dests": [
+        "USA",
+        "UK",
+        "Canada",
+        "Australia"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 10,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 4,
+      "title": "Vietnam to tighten oversight of foreigners as arrivals hit record highs",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/vietnam-to-tighten-oversight-of-foreigners-as-arrivals-hit-record-highs-5074747.html",
+      "pubDate": "2026-05-16",
+      "summary": "Vietnam’s Ministry of Public Security announced plans to tighten oversight of foreigners residing in and visiting the country amid record-high arrival numbers. The government will strengthen management of foreign nationals while preserving its relatively open visa and immigration policies to support tourism, investment, and economic growth.",
+      "insight": "Vietnam’s move to tighten foreigner oversight—while maintaining open visa policies—may indirectly influence Southeast Asian student mobility, as regional peers could reassess travel ease or perceive heightened scrutiny, though direct impact on enrolment demand remains uncertain without evidence of spillover effects.  \nAdmissions teams should monitor Vietnamese student application trends and consult local agents on whether this policy shift affects perceptions of regional stability or visa accessibility, while continuing to prioritise proven recruitment channels in Southeast Asia.",
       "impact": "High",
       "sources": [
         "Southeast Asia"
@@ -23,113 +83,56 @@
       "insightSource": "qwen"
     },
     {
-      "id": 2,
-      "title": "US immigration officials allege OPT is being widely abused and say “more actions are forthcoming”",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/05/us-immigration-officials-allege-opt-is-being-widely-abused-and-say-more-actions-are-forthcoming/",
-      "pubDate": "2026-05-13",
-      "summary": "US Immigration and Customs Enforcement (ICE) has intensified scrutiny of the Optional Practical Training (OPT) program for international university graduates, citing over 10,000 identified cases of fraud. On 12 May, ICE’s acting director, Todd M. Lyons, announced the findings at a press conference and stated that “more actions are forthcoming.”",
-      "insight": "This news signals potential tightening of post-study work pathways in the US, which may dampen demand from students prioritising OPT as a key factor—though broader enrolment decisions depend on multiple variables including academic reputation and cost, so impact will vary by market and institution.  \nAdmissions teams should monitor US policy updates closely, assess how peer institutions are adjusting messaging around career outcomes, and consider reinforcing alternative support services—such as internship partnerships or alumni networks—to mitigate perceived visa pathway risks.",
-      "impact": "Low",
-      "sources": [],
-      "dests": [
-        "USA"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 3,
-      "title": "Hong Kong labour chief rejects review of non-local graduate visas despite job slump",
-      "source": "SCMP (Education)",
-      "color": "#7b241c",
-      "url": "https://www.scmp.com/news/hong-kong/education/article/3353437/hong-kong-labour-chief-rejects-review-non-local-graduate-visas-despite-job-slump?utm_source=rss_feed",
-      "pubDate": "2026-05-13",
-      "summary": "Hong Kong’s Secretary for Labour and Welfare, Chris Sun Yuk-han, rejected calls to review the non-local graduate immigration scheme or tighten talent scheme requirements despite a sharp decline in entry-level job openings. He cited a shrinking workforce and insufficient numbers of local degree holders to meet labour demand, and noted that the Employees Retraining Board will be rebranded as “Upskill Hong Kong” later this year.",
-      "insight": "Hong Kong’s decision to retain its non-local graduate visa despite local job market softening signals continued openness to international talent, potentially reinforcing its appeal as a post-study destination—though direct impact on student demand for Western universities remains uncertain amid shifting regional migration preferences.  \nAdmissions teams should monitor Hong Kong’s actual uptake of the scheme and employer hiring patterns over the next 12–18 months, as well as comparative data on graduate employment outcomes in competing destinations, to assess whether it meaningfully influences source market choice or application behaviour.",
-      "impact": "Low",
-      "sources": [],
-      "dests": [
-        "USA"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 4,
-      "title": "New Zealand reports solid foreign enrolment growth for 2025",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/05/new-zealand-reports-solid-foreign-enrolment-growth-for-2025/",
-      "pubDate": "2026-05-14",
-      "summary": "New Zealand’s international student population grew by 11% in 2025, reaching 92,580 students, up from 83,425 in 2024. This represents 80% of the pre-COVID peak enrolment level, with universities contributing significantly to the growth.",
-      "insight": "New Zealand’s 11% international student growth in 2025 suggests strengthening demand in the Asia-Pacific region, possibly reflecting improved visa processing, enhanced post-study work rights, or shifting perceptions of value and safety—though it’s unclear how much this signals broader global trend shifts versus country-specific policy gains.  \nAdmissions teams should track New Zealand’s source-market breakdown, tuition and living cost adjustments, and comparative post-study employment outcomes, particularly among key feeder countries like India and China, to assess potential competitive pressure on recruitment messaging and offer design.",
-      "impact": "Low",
-      "sources": [],
-      "dests": [
-        "New Zealand"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
       "id": 5,
-      "title": "Fast-tracking the Australian dream: new rules speed up entry for skilled migrants",
-      "source": "VnExpress (EN)",
-      "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/fast-tracking-the-australian-dream-new-rules-speed-up-entry-for-skilled-migrants-5073748.html",
-      "pubDate": "2026-05-14",
-      "summary": "Australia has announced it will fast-track immigration applications for highly skilled foreign workers. The government will allocate more than 70% of its 2026–27 migration quota to this group.",
-      "insight": "Australia’s fast-tracked skilled migration pathway may indirectly influence international student demand by enhancing perceptions of post-study work and settlement prospects—though actual enrolment impacts depend on how effectively universities communicate these changes and whether students prioritise long-term residency over short-term study value.  \nAdmissions teams should monitor shifts in application volumes from key source markets, track competitor messaging around Australian PR pathways, and assess whether updated visa data or government communications warrant adjustments to recruitment materials or agent training.",
-      "impact": "Low",
+      "title": "National council approves guidelines for AI in education and bans 'high-risk' use with students",
+      "source": "Folha de S.Paulo",
+      "color": "#154360",
+      "url": "https://redir.folha.com.br/redir/online/educacao/rss091/*https://www1.folha.uol.com.br/educacao/2026/05/cne-aprova-diretrizes-para-uso-de-ia-na-educacao-e-proibe-usos-de-alto-risco-com-alunos.shtml",
+      "pubDate": "2026-05-11",
+      "summary": "The National Education Council (CNE) approved an initial opinion on May 11, 2026, establishing guidelines for the use of artificial intelligence in basic and higher education. The guidelines position AI as a support tool requiring human supervision and prohibit its “high-risk” use with students, though the opinion still requires further discussion before potential approval by the Ministry of Education (MEC).",
+      "insight": "This development signals growing regulatory caution around AI in education in key source markets, potentially influencing student perceptions of academic integrity and institutional trust—but direct impacts on demand or visa rules remain uncertain pending final MEC adoption and enforcement clarity.  \nAdmissions teams should monitor how national AI guidelines evolve in major sending countries, particularly for messaging about human-led teaching quality, and assess whether partner institutions begin highlighting AI oversight as a differentiator in recruitment materials.",
+      "impact": "High",
       "sources": [],
       "dests": [
-        "Australia"
+        "USA"
       ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 8,
+      "translated": true,
+      "origLang": "pt",
+      "relevanceScore": 7,
       "insightSource": "qwen"
     },
     {
       "id": 6,
-      "title": "India gets tough on international branch campuses",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/india-gets-tough-on-international-branch-campuses/",
-      "pubDate": "2026-05-15",
-      "summary": "New research and sector discussions indicate that India’s international branch campus ecosystem is entering a more demanding regulatory and operational era. The government is increasing pressure on these campuses to demonstrate strong outcomes, graduate employability, and long-term relevance.",
-      "insight": "India’s tightening regulatory stance on international branch campuses may indirectly reinforce demand for traditional overseas study, as students and families seek globally recognised degrees with stronger employment pathways—though direct impact on outbound numbers remains uncertain pending broader economic and policy trends.  \nAdmissions teams should monitor Indian student application volumes by destination, track shifts in preferences toward countries offering post-study work rights and strong graduate outcomes, and assess whether domestic regulatory pressures accelerate interest in full-degree programmes abroad.",
-      "impact": "Low",
-      "sources": [
-        "India"
-      ],
-      "dests": [],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 7,
       "title": "US to end “Duration of Status” for F, J, and I visas and limit the time international students can study in the US",
       "source": "ICEF Monitor",
       "color": "#1a3a5c",
       "url": "https://monitor.icef.com/2026/05/us-moves-to-end-duration-of-status-for-f-j-and-i-visas-new-rule-could-limit-the-time-international-students-can-study-in-the-us/",
       "pubDate": "2026-05-06",
       "summary": "The U.S. Department of Homeland Security proposed in August 2025 to eliminate “Duration of Status” for F, J, and I visas, replacing it with fixed time limits for international students. Under the proposal, most international students would be required to complete their programs by September 2026—or within four years of entry—unless granted an extension by U.S. Citizenship and Immigration Services.",
-      "insight": "This proposal signals potential tightening of U.S. student visa policy, which may dampen U.S. appeal for long-degree seekers—especially from regions where multi-year programmes are common—though actual impact depends on final rule details and implementation timing.  \nAdmissions teams should track the rule’s progress through federal register stages and monitor early shifts in application volumes or country-specific inquiry trends, while reviewing messaging around visa certainty and post-study options across all target markets.",
+      "insight": "This proposal signals potential tightening of U.S. student visa flexibility, which may dampen U.S. appeal for students seeking longer or more adaptable study pathways—though actual impact depends on final rulemaking, implementation timing, and how competing destinations position themselves.  \nAdmissions teams should track the rule’s progression through federal review, assess source-market reactions via agent feedback and application data, and begin scenario-planning for possible shifts in student preferences toward countries with more predictable or generous post-study stay options.",
       "impact": "Low",
       "sources": [],
       "dests": [
         "USA"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 7,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 7,
+      "title": "WEEKEND READING: The Agent Quality Framework and the optics of compliance",
+      "source": "HEPI",
+      "color": "#4a235a",
+      "url": "https://www.hepi.ac.uk/2026/05/17/weekend-reading-the-agent-quality-framework-and-the-optics-of-compliance/",
+      "pubDate": "2026-05-17",
+      "summary": "This article, authored by Pii-Tuulia Nikula and Vincenzo Raimo, discusses the role of education agents in supporting international students with admissions and visa processes and their importance to universities for recruitment, market reach, and local knowledge. It introduces the Agent Quality Framework and examines how compliance requirements are perceived and managed within this context.",
+      "insight": "The Agent Quality Framework signals growing regulatory scrutiny of education agents, potentially tightening recruitment pathways in key markets like China and India where agent reliance is high—though direct impacts on student demand or visa rules remain uncertain pending national implementation.  \nAdmissions teams should monitor how partner agents adapt to new compliance expectations, particularly in regions with recent visa policy shifts, and assess whether quality assurance investments could strengthen trust without overburdening local recruitment capacity.",
+      "impact": "Low",
+      "sources": [],
+      "dests": [
+        "New Zealand"
       ],
       "translated": false,
       "origLang": null,
@@ -138,56 +141,17 @@
     },
     {
       "id": 8,
-      "title": "UK to rejoin Erasmus+ in 2027",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/05/uk-to-rejoin-erasmus-in-2027/",
-      "pubDate": "2026-05-07",
-      "summary": "The UK will rejoin the Erasmus+ mobility programme in 2027 for an initial one-year term, ending its six-year absence that began after Brexit in 2021. Erasmus+ is the European Union’s flagship programme supporting education, training, youth, and sport across Europe.",
-      "insight": "The UK’s planned 2027 re-entry into Erasmus+ may modestly improve its appeal to European students seeking mobility opportunities, though broader international demand—especially from Asia and the Americas—remains more influenced by post-study work rights, tuition value, and visa stability than Erasmus participation alone.  \nAdmissions teams should track uptake of UK-EU student exchanges post-2027, monitor whether partner institutions in Europe formalise new bilateral agreements, and assess if this development meaningfully shifts application patterns among priority EU source markets before adjusting recruitment messaging or resource allocation.",
+      "title": "UK-EU youth mobility talks stall despite warming ties",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/uk-eu-youth-mobility-talks-stall-despite-warming-ties/",
+      "pubDate": "2026-05-15",
+      "summary": "The UK-EU youth mobility talks have stalled despite broader improvements in UK-EU relations, as highlighted by the EU ambassador to the UK praising the strengthening bilateral relationship at a recent industry event. Disagreements over the anticipated Youth Experience Scheme are reportedly hindering progress on the reset of youth mobility arrangements.",
+      "insight": "While stalled UK-EU youth mobility talks don’t directly affect international student visas, they may indirectly dampen European student interest in UK study-abroad pathways, especially if perceived as signalling broader policy friction or reduced post-study work flexibility.  \nAdmissions teams should monitor EU student application trends and UK government announcements on the Youth Experience Scheme, while reviewing messaging around post-study opportunities to ensure clarity amid evolving bilateral arrangements.",
       "impact": "Low",
       "sources": [],
       "dests": [
         "UK"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 7,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 9,
-      "title": "The nearly 200-year history of King's College School Wimbledon now extends to HCMC",
-      "source": "VnExpress (EN)",
-      "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/education/the-nearly-200-year-history-of-king-s-college-school-wimbledon-now-extends-to-hcmc-5074198.html",
-      "pubDate": "2026-05-18",
-      "summary": "King's College School Wimbledon, which has a history of nearly 200 years, has chosen Ho Chi Minh City as its next international location. The school is expanding its educational offerings to Vietnamese students and families in HCMC.",
-      "insight": "This expansion signals growing Vietnamese demand for elite British education, potentially reflecting shifting preferences toward UK institutions amid regional economic growth—though it remains unclear whether this directly reduces demand for US, Australian, or New Zealand universities or merely diversifies options.  \nAdmissions teams should monitor HCMC-based student application trends, visa processing times for UK study, and local perceptions of UK versus Anglophone alternatives, particularly among high-achieving Southeast Asian families seeking globally recognized qualifications.",
-      "impact": "Low",
-      "sources": [
-        "Southeast Asia"
-      ],
-      "dests": [],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 7,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 10,
-      "title": "Universities urged to focus on “factors they can control” as policy settings depress international student enrolments in the Big Four",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/05/universities-urged-to-focus-on-factors-they-can-control-as-policy-settings-continue-to-depress-international-student-enrolments-in-the-big-four/",
-      "pubDate": "2026-05-12",
-      "summary": "Restrictive immigration policies in Australia, Canada, the UK, and the US reduced new international student enrolments at universities in those countries during the first quarter of 2026. These policies also increased student interest in Asian and European destinations, according to the latest Global Enrolment data reported by ICEF Monitor.",
-      "insight": "Restrictive immigration policies in the Big Four appear to be dampening new international enrolments, potentially reflecting shifting student preferences toward more welcoming destinations—though causality remains complex given concurrent economic, geopolitical, and institutional factors.  \nAdmissions teams should track real-time application trends by origin market, visa processing timelines, and competitor messaging from Asian and European institutions, while reviewing their own pre-arrival support and post-study work pathway clarity to mitigate perceived risk.",
-      "impact": "Medium",
-      "sources": [],
-      "dests": [
-        "Canada",
-        "Australia"
       ],
       "translated": false,
       "origLang": null,
