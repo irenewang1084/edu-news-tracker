@@ -1,21 +1,21 @@
 {
-  "updated": "2026-05-20T04:57:33Z",
-  "count": 5,
-  "totalFetched": 163,
+  "updated": "2026-05-21T05:04:27Z",
+  "count": 8,
+  "totalFetched": 158,
   "articles": [
     {
       "id": 1,
-      "title": "US immigration officials allege OPT is being widely abused and say “more actions are forthcoming”",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/05/us-immigration-officials-allege-opt-is-being-widely-abused-and-say-more-actions-are-forthcoming/",
-      "pubDate": "2026-05-13",
-      "summary": "US Immigration and Customs Enforcement (ICE) has intensified scrutiny of the Optional Practical Training (OPT) programme for international university graduates in the United States. On 12 May, ICE’s acting director Todd M. Lyons announced that officials had identified more than 10,000 cases of fraud in the OPT system and stated that additional enforcement actions are forthcoming.",
-      "insight": "This news signals potential tightening of US post-study work pathways, which may dampen demand from risk-averse students—especially in key markets like India and China—though broader enrolment trends depend on how enforcement is implemented and whether alternatives like STEM OPT remain stable.  \nAdmissions teams should track ICE’s forthcoming actions, monitor peer institutions’ messaging on US work prospects, and assess whether counsellors in source countries are reporting heightened visa concerns or shifting preferences toward the UK, Australia, or New Zealand.",
-      "impact": "Low",
+      "title": "Australia suspends new private college courses for international students",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/education/australia-suspends-new-private-college-courses-for-international-students-5075732.html",
+      "pubDate": "2026-05-19",
+      "summary": "The Australian government has suspended new applications from private colleges and training providers seeking to offer courses to international students. This action is part of a broader effort to strengthen oversight of the student visa system.",
+      "insight": "Australia’s suspension of new private college courses for international students may indirectly influence global student demand by reinforcing perceptions of Australia as tightening quality controls, potentially shifting some applicants toward alternative destinations like the US, UK, or New Zealand—though direct impact on university enrolments remains uncertain.  \nAdmissions teams should monitor Australian government announcements on visa policy revisions, shifts in agent partnerships, and real-time application trends from key source markets—particularly India and Southeast Asia—to assess whether this regulatory move accelerates regional repositioning or alters competitor messaging.",
+      "impact": "High",
       "sources": [],
       "dests": [
-        "USA"
+        "Australia"
       ],
       "translated": false,
       "origLang": null,
@@ -24,17 +24,17 @@
     },
     {
       "id": 2,
-      "title": "Hong Kong labour chief rejects review of non-local graduate visas despite job slump",
-      "source": "SCMP (Education)",
-      "color": "#7b241c",
-      "url": "https://www.scmp.com/news/hong-kong/education/article/3353437/hong-kong-labour-chief-rejects-review-non-local-graduate-visas-despite-job-slump?utm_source=rss_feed",
-      "pubDate": "2026-05-13",
-      "summary": "Hong Kong’s Secretary for Labour and Welfare, Chris Sun Yuk-han, rejected calls to review the non-local graduate immigration scheme or tighten talent scheme requirements despite a sharp decline in entry-level job openings. He cited a shrinking workforce and insufficient numbers of local degree holders to meet labour demand, and noted that the Employees Retraining Board will be rebranded as “Upskill Hong Kong” later this year.",
-      "insight": "Hong Kong’s decision to retain its non-local graduate visa despite job market softening signals continued openness to international talent, potentially reinforcing its appeal as a post-study destination—though direct implications for student demand in the US, UK, AU, and NZ remain uncertain given differing labour markets and immigration frameworks.  \nAdmissions teams should monitor Hong Kong’s actual graduate employment outcomes and policy implementation timelines, as well as shifts in regional student sentiment toward alternative destinations, particularly among applicants weighing Asia-Pacific options against traditional Anglophone study hubs.",
+      "title": "New Zealand reports solid foreign enrolment growth for 2025",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/05/new-zealand-reports-solid-foreign-enrolment-growth-for-2025/",
+      "pubDate": "2026-05-14",
+      "summary": "New Zealand’s international student population grew by 11% in 2025, reaching 92,580 students, up from 83,425 in 2024. This represents 80% of the pre-COVID peak enrolment level, with universities contributing significantly to the growth.",
+      "insight": "New Zealand’s 11% international student growth in 2025 suggests strengthening demand in the Asia-Pacific region, possibly reflecting improved visa processing, enhanced post-study work rights, or shifting perceptions of value and safety—though it’s unclear how much this signals broader global trend shifts versus country-specific policy gains.  \nAdmissions teams should track New Zealand’s source-market breakdown, tuition and living cost adjustments, and comparative post-study employment outcomes, particularly for students from India, China, and Southeast Asia, to assess potential competitive pressure on recruitment messaging and offer design.",
       "impact": "Low",
       "sources": [],
       "dests": [
-        "USA"
+        "New Zealand"
       ],
       "translated": false,
       "origLang": null,
@@ -43,62 +43,116 @@
     },
     {
       "id": 3,
-      "title": "India gets tough on international branch campuses",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/india-gets-tough-on-international-branch-campuses/",
-      "pubDate": "2026-05-15",
-      "summary": "New research and sector discussions indicate that India’s international branch campus ecosystem is entering a more demanding regulatory and operational era. The government is increasing pressure on these campuses to demonstrate strong outcomes, graduate employability, and long-term relevance.",
-      "insight": "India’s tightening regulatory stance on international branch campuses may indirectly reinforce demand for traditional overseas study, as students and families seek globally recognised degrees with stronger employment pathways—though direct impact on outbound numbers remains uncertain amid broader economic and policy factors.  \nAdmissions teams should monitor Indian student application trends by destination and programme type, while assessing whether increased scrutiny of branch campuses shifts institutional messaging toward graduate outcomes, work-integrated learning, and post-study work opportunities.",
+      "title": "Vietnam rolls out joint temporary residence platform for locals and expats",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/vietnam-rolls-out-joint-temporary-residence-platform-for-locals-and-expats-5075914.html",
+      "pubDate": "2026-05-20",
+      "summary": "Vietnam's Ministry of Public Security has launched a unified software platform for temporary residence declarations by foreigners and lodging notifications by Vietnamese citizens. The platform aims to streamline these processes into a single system for both locals and expatriates.",
+      "insight": "This initiative signals Vietnam’s broader digital governance modernisation, which may indirectly support student mobility confidence—but direct impacts on enrolment demand or visa policy for third-country universities remain unproven and likely minimal in the near term.  \nAdmissions teams should monitor whether Vietnamese students report smoother pre-departure administrative experiences, and consider partnering with trusted local agents to clarify how this platform affects document preparation for study abroad applications.",
       "impact": "Low",
       "sources": [
-        "India"
+        "Southeast Asia"
       ],
       "dests": [],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 8,
+      "relevanceScore": 7,
       "insightSource": "qwen"
     },
     {
       "id": 4,
-      "title": "Australia orders a year-long pause on new VET and ELICOS provider registrations",
+      "title": "UNESCO confirms growing trend of intra-regional student mobility",
       "source": "ICEF Monitor",
       "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/05/australia-orders-a-year-long-pause-on-new-vet-and-elicos-provider-registrations/",
-      "pubDate": "2026-05-19",
-      "summary": "Australia’s Assistant Minister for International Education Julian Hill has ordered a 12-month freeze on new registrations of private Vocational Education and Training (VET) and English Language Intensive Courses for Overseas Students (ELICOS) providers, effective from 18 May 2025. The legislative instrument also prohibits new course applications by existing private-sector providers during this period.",
-      "insight": "This pause signals growing regulatory scrutiny of Australia’s private VET and ELICOS sectors, potentially dampening short-term enrolment growth from students targeting vocational or pathway English courses—but its direct impact on university recruitment remains uncertain, as it does not affect higher education provider registrations or student visas.  \nAdmissions teams should monitor shifts in agent referrals and student inquiries from key Asian markets, particularly for foundation or pathway routes, while reviewing whether their articulation partnerships with Australian VET providers face delays or restructuring amid the freeze.",
+      "url": "https://monitor.icef.com/2026/05/unesco-confirms-growing-trend-of-intra-regional-student-mobility/",
+      "pubDate": "2026-05-21",
+      "summary": "UNESCO’s first Higher Education Global Trends Report confirms a growing trend of intra-regional student mobility, with countries such as Türkiye, Egypt, and Japan gaining increased share of international student enrolments. While traditional study abroad destinations remain the most popular, the report highlights important shifts in student mobility patterns based on the most recent available data.",
+      "insight": "This news signals a gradual diversification in global student mobility, with rising intra-regional enrolments in Türkiye, Egypt, and Japan potentially reflecting strengthened regional education infrastructure and shifting preferences—though it remains unclear whether this directly reduces demand for Anglophone destinations or merely complements broader mobility trends.  \nAdmissions teams should monitor enrolment data from key MENA countries to detect early shifts in application volumes or destination preferences, and assess whether partnerships with regional institutions in emerging hubs could support recruitment resilience without diverting focus from core markets.",
       "impact": "Low",
-      "sources": [],
-      "dests": [
-        "Australia"
+      "sources": [
+        "MENA"
       ],
+      "dests": [],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 8,
+      "relevanceScore": 7,
       "insightSource": "qwen"
     },
     {
       "id": 5,
-      "title": "International student enrollments slump by 24% across Big Four destinations, with US and Canada hardest hit",
+      "title": "Vietnamese students rank second at Asia-Pacific Informatics Olympiad",
       "source": "VnExpress (EN)",
       "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/education/international-student-enrollments-slump-by-24-across-big-four-destinations-with-us-and-canada-hardest-hit-vnepre-5074684.html",
-      "pubDate": "2026-05-19",
-      "summary": "International student enrollments declined by 24% across the four largest English-speaking study destinations—Australia, Canada, the United Kingdom, and the United States—for the January–March 2026 intake. The United States and Canada experienced the steepest drops among these countries.",
-      "insight": "This 24% enrollment decline across the Big Four suggests weakening demand or shifting preferences among international students, potentially reflecting tighter visa policies, rising costs, geopolitical concerns, or stronger regional alternatives—though causality remains unclear without granular origin-market and program-level data.  \nAdmissions teams should track real-time application trends by source country and academic level, benchmark against peer institutions’ yield rates, and assess whether recent policy changes (e.g., post-study work rules or tuition adjustments) correlate with dips in specific cohorts.",
+      "url": "https://e.vnexpress.net/news/news/education/vietnamese-students-rank-second-at-asia-pacific-informatics-olympiad-5076134.html",
+      "pubDate": "2026-05-21",
+      "summary": "The Vietnamese national team won two gold and four silver medals at the 20th Asia-Pacific Informatics Olympiad (APIO). Vietnam tied with Japan for second place overall in the competition.",
+      "insight": "This strong APIO performance signals growing computational talent in Vietnam, potentially increasing demand for STEM degrees abroad—but direct links to enrolment trends remain uncertain amid shifting visa policies and regional economic factors.  \nAdmissions teams should track Vietnamese student applications in CS/Engineering programmes and monitor local media sentiment around study abroad, while reviewing scholarship targeting for high-achieving STEM candidates from Southeast Asia.",
+      "impact": "Low",
+      "sources": [
+        "Southeast Asia"
+      ],
+      "dests": [],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 7,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 6,
+      "title": "US immigration officials allege OPT is being widely abused and say “more actions are forthcoming”",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/05/us-immigration-officials-allege-opt-is-being-widely-abused-and-say-more-actions-are-forthcoming/",
+      "pubDate": "2026-05-13",
+      "summary": "US Immigration and Customs Enforcement (ICE) has intensified scrutiny of the Optional Practical Training (OPT) program for international university graduates, citing over 10,000 identified cases of fraud. On 12 May, ICE’s acting director, Todd M. Lyons, announced the findings at a press conference and stated that “more actions are forthcoming.”",
+      "insight": "This news signals potential tightening of post-study work pathways in the US, which may dampen demand from students prioritising OPT as a key factor—though broader enrolment trends depend on how enforcement evolves and whether parallel visa policies shift in competing destinations.  \nAdmissions teams should monitor ICE’s forthcoming actions, track student survey data on US post-study work concerns, and assess whether partner agents report increased queries about UK Graduate Visa, Australia’s PSW, or NZ’s Post-Study Work Visa alternatives.",
       "impact": "Low",
       "sources": [],
       "dests": [
-        "USA",
-        "UK",
-        "Canada",
-        "Australia"
+        "USA"
       ],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 8,
+      "relevanceScore": 6,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 7,
+      "title": "Is English language testing still fit for purpose in UK higher education?",
+      "source": "HEPI",
+      "color": "#4a235a",
+      "url": "https://www.hepi.ac.uk/2026/05/13/is-english-language-testing-still-fit-for-purpose-in-uk-higher-education/",
+      "pubDate": "2026-05-13",
+      "summary": "HEPI is hosting a webinar at 1pm on 14 May to launch its new report titled ‘20 Years of the Student Experience’, which analyses findings from the HEPI / Advance HE Student Academic Experience Survey since its inception in 2006. The article’s title, “Is English language testing still fit for purpose in UK higher education?”, appears as the headline of a blog post on the HEPI website, but the provided text does not contain any content or analysis related to English language testing.",
+      "insight": "While this HEPI webinar focuses on student experience trends rather than English testing policy, its timing amid ongoing UK Home Office reviews of language requirements may indirectly signal growing institutional scrutiny of current assessment validity for international applicants.  \nAdmissions teams should monitor upcoming HEPI report findings and UKVI consultations for potential shifts in acceptable test types or score thresholds, particularly as major source markets express increasing sensitivity to perceived barriers in English proficiency validation.",
+      "impact": "Low",
+      "sources": [],
+      "dests": [
+        "UK"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 6,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 8,
+      "title": "WEEKEND READING: The Agent Quality Framework and the optics of compliance",
+      "source": "HEPI",
+      "color": "#4a235a",
+      "url": "https://www.hepi.ac.uk/2026/05/17/weekend-reading-the-agent-quality-framework-and-the-optics-of-compliance/",
+      "pubDate": "2026-05-17",
+      "summary": "This article, authored by Pii-Tuulia Nikula and Vincenzo Raimo, discusses the role of education agents in supporting international students with admissions and visa processes and their importance to universities for recruitment, market reach, and local knowledge. It introduces the Agent Quality Framework and examines how compliance requirements are perceived and managed within this context.",
+      "insight": "The Agent Quality Framework signals growing regulatory scrutiny of education agents, potentially tightening recruitment pathways in key markets like China and India where agent reliance is high—though direct impacts on student demand or visa rules remain uncertain pending national implementation.  \nAdmissions teams should monitor how partner agents adapt to new compliance expectations, particularly in regions with evolving immigration policies, and assess whether quality assurance investments could strengthen trust without overburdening recruitment capacity.",
+      "impact": "Low",
+      "sources": [],
+      "dests": [
+        "New Zealand"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 6,
       "insightSource": "qwen"
     }
   ]
