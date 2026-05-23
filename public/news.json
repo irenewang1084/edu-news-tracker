@@ -1,17 +1,36 @@
 {
-  "updated": "2026-05-22T04:55:29Z",
-  "count": 5,
-  "totalFetched": 168,
+  "updated": "2026-05-23T04:33:09Z",
+  "count": 7,
+  "totalFetched": 174,
   "articles": [
     {
       "id": 1,
-      "title": "Hong Kong labour chief rejects review of non-local graduate visas despite job slump",
-      "source": "SCMP (Education)",
-      "color": "#7b241c",
-      "url": "https://www.scmp.com/news/hong-kong/education/article/3353437/hong-kong-labour-chief-rejects-review-non-local-graduate-visas-despite-job-slump?utm_source=rss_feed",
+      "title": "Universities Australia warns against growing regulatory burden under Albanese reforms",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/universities-australia-warns-against-growing-regulatory-burden-under-albanese-reforms/",
+      "pubDate": "2026-05-22",
+      "summary": "Universities Australia chief executive Luke Sheehy has warned that increasing regulation and political intervention are placing pressure on universities. He urged the new tertiary education commission to simplify oversight rather than expand it.",
+      "insight": "This news signals potential long-term shifts in Australia’s regulatory environment for international students, possibly affecting visa processing, compliance requirements, or institutional capacity—though direct impacts on demand or policy remain uncertain pending implementation details.  \nAdmissions teams should monitor updates from Australia’s new Tertiary Education Commission and track how universities adjust recruitment messaging, fee structures, or support services in response to evolving compliance expectations.",
+      "impact": "High",
+      "sources": [],
+      "dests": [
+        "Australia"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 2,
+      "title": "US immigration officials allege OPT is being widely abused and say “more actions are forthcoming”",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/05/us-immigration-officials-allege-opt-is-being-widely-abused-and-say-more-actions-are-forthcoming/",
       "pubDate": "2026-05-13",
-      "summary": "Hong Kong’s Secretary for Labour and Welfare, Chris Sun Yuk-han, rejected calls to review the non-local graduate immigration scheme or tighten talent scheme requirements despite a sharp decline in entry-level job openings. He cited a shrinking workforce and insufficient numbers of local degree holders to meet labour demand, and noted that the Employees Retraining Board will be rebranded as “Upskill Hong Kong” later this year.",
-      "insight": "Hong Kong’s decision to retain its non-local graduate visa despite local job market softening signals continued openness to international talent, potentially reinforcing its appeal as a post-study destination—though direct impact on student demand for Western universities remains uncertain amid shifting regional migration preferences.  \nAdmissions teams should monitor Hong Kong’s actual uptake of the scheme and employer hiring patterns over the next 12–18 months, as well as comparative data on graduate employment outcomes in competing destinations, to assess whether it meaningfully influences source market choice or application behaviour.",
+      "summary": "US Immigration and Customs Enforcement (ICE) has intensified scrutiny of the Optional Practical Training (OPT) program for international university graduates, citing over 10,000 identified cases of fraud. On 12 May, ICE’s acting director, Todd M. Lyons, announced the findings at a press conference and stated that “more actions are forthcoming.”",
+      "insight": "This news signals potential tightening of post-study work pathways in the US, which may dampen demand from students prioritising OPT as a key factor—though broader enrolment decisions depend on multiple variables including academic reputation and cost, so impact will vary by market and institution.  \nAdmissions teams should monitor US policy updates closely, assess how peer institutions are adjusting messaging around career outcomes, and consider reinforcing alternative support services—such as internship partnerships or alumni networks—to mitigate perceived visa pathway risks.",
       "impact": "Low",
       "sources": [],
       "dests": [
@@ -23,37 +42,18 @@
       "insightSource": "qwen"
     },
     {
-      "id": 2,
-      "title": "Australia orders a year-long pause on new VET and ELICOS provider registrations",
+      "id": 3,
+      "title": "New Zealand reports solid foreign enrolment growth for 2025",
       "source": "ICEF Monitor",
       "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/05/australia-orders-a-year-long-pause-on-new-vet-and-elicos-provider-registrations/",
-      "pubDate": "2026-05-19",
-      "summary": "Australia’s Assistant Minister for International Education Julian Hill has ordered a 12-month freeze on new registrations of private Vocational Education and Training (VET) and English Language Intensive Courses for Overseas Students (ELICOS) providers, effective from the legislative instrument dated 18 May 2025. The pause also prohibits new course applications by existing private-sector providers to the National VET Regulator.",
-      "insight": "This pause signals Australia’s intensified regulatory scrutiny of its private VET and ELICOS sectors, potentially dampening short-term enrolment growth from students targeting lower-cost, pathway-focused options—though its direct impact on university recruitment remains uncertain given distinct regulatory pathways and student segments.  \nAdmissions teams should monitor shifts in inquiry volumes and application patterns from key source markets—particularly India and Nepal—where VET/ELICOS pathways often feed into undergraduate programs, while reviewing partner agent communications for emerging sentiment around Australian study viability.",
+      "url": "https://monitor.icef.com/2026/05/new-zealand-reports-solid-foreign-enrolment-growth-for-2025/",
+      "pubDate": "2026-05-14",
+      "summary": "New Zealand’s international student population grew by 11% in 2025, reaching 92,580 students, up from 83,425 in 2024. This represents 80% of the pre-COVID peak enrolment level, with universities contributing significantly to the growth.",
+      "insight": "New Zealand’s 11% international student growth in 2025 suggests strengthening demand in the Asia-Pacific region, possibly reflecting improved visa processing, enhanced post-study work rights, or shifting perceptions of value and safety—though it’s unclear how much this signals broader global trend shifts versus country-specific policy gains.  \nAdmissions teams should track New Zealand’s source-market breakdown, tuition and living cost adjustments, and longitudinal enrolment patterns relative to their own offerings, while benchmarking against peer destinations’ visa timelines and employment outcomes to inform targeted messaging and partnership strategies.",
       "impact": "Low",
       "sources": [],
       "dests": [
-        "Australia"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 3,
-      "title": "UK study visa issuance falls 32%",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/uk-study-visa-issuance-falls-32/",
-      "pubDate": "2026-05-21",
-      "summary": "UK study visa issuance in the first quarter of 2026 fell by 32% compared to the same period in 2025. This decline is reflected in new government figures showing a drop in net migration.",
-      "insight": "The 32% year-on-year drop in UK study visas may reflect tightening visa policies, rising costs, or shifting preferences—but it doesn’t yet confirm reduced global demand, as students could be redirecting applications to other English-speaking destinations or delaying plans.  \nAdmissions teams should track application volumes and deposit rates from key UK-sending markets (e.g., India, Nigeria), assess whether competitor institutions are reporting similar trends, and review messaging around post-study work rights and affordability.",
-      "impact": "Low",
-      "sources": [],
-      "dests": [
-        "UK"
+        "New Zealand"
       ],
       "translated": false,
       "origLang": null,
@@ -62,13 +62,70 @@
     },
     {
       "id": 4,
-      "title": "UK universities bracing for a further decline in international enrolments",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/05/uk-universities-bracing-for-a-further-decline-in-international-enrolments/",
-      "pubDate": "2026-05-20",
-      "summary": "Last year, the number of foreign students in UK higher education declined by 6%, according to data from the Higher Education Statistics Agency (HESA). Government data shows that study visa applications fell year-over-year in Q4 2025 and the first four months of 2026, indicating further declines in international enrolments ahead.",
-      "insight": "The 6% drop in UK international enrolments and falling study visa applications suggest potential softening demand or shifting preferences among global students, though it remains unclear whether this reflects broader market trends, UK-specific policy impacts, or temporary factors like post-pandemic adjustment.  \nAdmissions teams should monitor real-time application volumes and visa approval rates from key source markets—especially India and Nigeria—as well as competitor messaging and scholarship uptake, to detect early signals of regional recalibration rather than assuming systemic shifts.",
+      "title": "US tells foreigners seeking green cards: Return to your countries to apply",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/us-tells-foreigners-seeking-green-cards-return-to-your-countries-to-apply-5077255.html",
+      "pubDate": "2026-05-23",
+      "summary": "The U.S. Citizenship and Immigration Services announced that foreigners currently in the United States who seek to obtain green cards must leave the country and apply through the State Department’s consular processing system abroad. This policy shift, issued on Friday, replaces the previous option of adjusting status within the U.S. and has drawn criticism from immigration aid groups.",
+      "insight": "This policy shift may indirectly affect international student recruitment by amplifying perceptions of U.S. immigration uncertainty, potentially dampening demand from students prioritizing post-study work and permanent residency pathways—though its direct impact on F-1 visa issuance remains unconfirmed and likely limited in the near term.  \nAdmissions teams should monitor application trends from high-intent markets (e.g., India, China, Nigeria), consult legal advisors on evolving green card implications for OPT/CPT users, and assess whether peer institutions are adjusting messaging around long-term U.S. settlement prospects.",
+      "impact": "Low",
+      "sources": [],
+      "dests": [
+        "USA"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 5,
+      "title": "Jacqui Smith hails UK ELT as English UK warns policy progress must not “stall”",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/jacqui-smith-hails-uk-elt-as-english-uk-warns-policy-progress-must-not-stall/",
+      "pubDate": "2026-05-21",
+      "summary": "Skills minister Jacqui Smith described English language teaching as a “very important strand” of the UK’s international education strategy. English UK warned that policy progress on youth mobility reforms must not “stall” and urged the government to accelerate those reforms.",
+      "insight": "This news signals potential UK policy momentum on youth mobility reforms, which could improve post-study work pathways and visa flexibility for international students—though concrete changes remain unannounced and demand impacts depend on implementation speed and global competitor responses.  \nAdmissions teams should monitor UK Home Office updates on the Youth Mobility Scheme expansion and track student sentiment in key source markets like India and Nigeria, while ensuring their UK pathway messaging reflects current eligibility—not speculative reforms.",
+      "impact": "Medium",
+      "sources": [],
+      "dests": [
+        "UK"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 6,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 6,
+      "title": "WEEKEND READING: The Agent Quality Framework and the optics of compliance",
+      "source": "HEPI",
+      "color": "#4a235a",
+      "url": "https://www.hepi.ac.uk/2026/05/17/weekend-reading-the-agent-quality-framework-and-the-optics-of-compliance/",
+      "pubDate": "2026-05-17",
+      "summary": "This article, authored by Pii-Tuulia Nikula and Vincenzo Raimo, discusses the role of education agents in supporting international students with admissions and visa processes and their importance to universities for recruitment, market reach, and local knowledge. It introduces the Agent Quality Framework and examines how compliance requirements are perceived and managed within this context.",
+      "insight": "The Agent Quality Framework signals growing regulatory scrutiny of education agents, potentially tightening recruitment pathways in key markets like China and India where agent reliance is high—though direct impacts on student demand or visa rules remain uncertain pending national implementation.  \nAdmissions teams should monitor how partner agents adapt to new compliance expectations, particularly in source countries introducing stricter oversight, and assess whether quality assurance investments could strengthen trust without compromising recruitment efficiency or market access.",
+      "impact": "Low",
+      "sources": [],
+      "dests": [
+        "New Zealand"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 6,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 7,
+      "title": "What’s the latest on UK university compliance?",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/whats-the-latest-on-uk-university-compliance/",
+      "pubDate": "2026-05-22",
+      "summary": "The PIE held its first-ever Compliance Con event this week, gathering UK university compliance experts. The event addressed upcoming tightened BCA thresholds, with editor Beth Kennedy summarizing key takeaways in the article.",
+      "insight": "UK universities’ heightened focus on compliance—especially around tightened BCA thresholds—may indirectly influence international student recruitment by prompting stricter enrolment verification, potentially affecting processing timelines or documentation requirements for non-UK applicants. While not directly altering visa rules, it signals increased regulatory scrutiny that could shape institutional risk appetite and support capacity for overseas students.  \n\nAdmissions teams should monitor UK university communications on enrolment procedures and student support adjustments, particularly regarding pre-arrival documentation and academic progression checks, and assess whether similar compliance trends are emerging in their own national frameworks or key source markets.",
       "impact": "Low",
       "sources": [],
       "dests": [
@@ -76,28 +133,7 @@
       ],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 7,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 5,
-      "title": "“Open campuses, joint degrees”: Canada envoy signals India push",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/open-campuses-joint-degrees-canada-envoy-signals-india-push/",
-      "pubDate": "2026-05-20",
-      "summary": "Canada’s high commissioner to India announced that Canadian educational institutions are planning to expand their presence in India through branch campuses, joint degree programs, and talent partnerships. This initiative aims to strengthen bilateral education ties as both countries work to recover from declining student mobility.",
-      "insight": "Canada’s move signals growing institutional efforts to deepen India engagement amid post-pandemic mobility recovery, potentially intensifying competition for high-achieving Indian students—though direct impact on US/UK/AU/NZ demand remains uncertain without data on student preference shifts or enrolment leakage.  \nAdmissions teams should monitor Indian student application trends by destination, track Canadian branch campus launches and joint degree uptake, and assess whether such partnerships influence perceptions of academic quality, cost, or post-study outcomes relative to traditional study-abroad options.",
-      "impact": "Low",
-      "sources": [
-        "India"
-      ],
-      "dests": [
-        "Canada"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 7,
+      "relevanceScore": 6,
       "insightSource": "qwen"
     }
   ]
