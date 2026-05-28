@@ -1,22 +1,25 @@
 {
-  "updated": "2026-05-27T05:08:27Z",
-  "count": 7,
-  "totalFetched": 168,
+  "updated": "2026-05-28T05:03:05Z",
+  "count": 2,
+  "totalFetched": 167,
   "articles": [
     {
       "id": 1,
-      "title": "Pakistan broadens TNE eligibility under new reforms",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/pakistan-broadens-tne-eligibility-under-new-reforms/",
-      "pubDate": "2026-05-26",
-      "summary": "Pakistan’s Higher Education Commission (HEC) has introduced a new framework that expands eligibility for transnational education (TNE) to include specialist institutions. The reforms formalise dual and joint degree programs while strengthening oversight of international academic collaborations.",
-      "insight": "Pakistan’s TNE reforms may gradually reduce outbound demand for undergraduate and master’s degrees by enabling more local access to internationally accredited qualifications, though the scale and speed of this shift remain uncertain given infrastructure and recognition challenges.  \nAdmissions teams should track enrolment trends in Pakistan-based dual/joint programs and HEC’s implementation timeline, while assessing whether their institutions’ existing or potential TNE partnerships could influence student choice or brand perception in South Asia.",
-      "impact": "Medium",
+      "title": "Australian visa denials for Indian students linked to document fraud, not housing crisis",
+      "source": "The Hindu (Edu)",
+      "color": "#145a32",
+      "url": "https://www.thehindu.com/data/australian-visa-denials-for-indian-students-linked-to-document-fraud-not-housing-crisis/article69023040.ece",
+      "pubDate": "2026-05-27",
+      "summary": "Australian visa denials for Indian students are linked to document fraud rather than the housing crisis. In contrast, visa grant rates for Chinese students have remained unaffected despite similar housing concerns.",
+      "insight": "This news suggests potential tightening of Australian visa scrutiny for Indian students due to fraud concerns, which may indirectly influence perceptions of Australia’s study destination reliability—though it remains unclear whether this will meaningfully shift demand toward the USA, UK, or New Zealand.  \nAdmissions teams should monitor Indian student application volumes and visa refusal trends in Australia, while reviewing pre-enrolment document verification protocols and messaging around integrity to proactively address possible reputational spillover or student anxiety.",
+      "impact": "High",
       "sources": [
-        "South Asia"
+        "China",
+        "India"
       ],
-      "dests": [],
+      "dests": [
+        "Australia"
+      ],
       "translated": false,
       "origLang": null,
       "relevanceScore": 8,
@@ -24,32 +27,13 @@
     },
     {
       "id": 2,
-      "title": "New Zealand reports solid foreign enrolment growth for 2025",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/05/new-zealand-reports-solid-foreign-enrolment-growth-for-2025/",
-      "pubDate": "2026-05-14",
-      "summary": "New Zealand’s international student population grew by 11% in 2025, reaching 92,580 students, up from 83,425 in 2024. This represents 80% of the pre-COVID peak enrolment level, with universities contributing significantly to the growth.",
-      "insight": "New Zealand’s 11% international student growth in 2025 suggests strengthening demand in the Asia-Pacific region, possibly reflecting improved visa processing, enhanced post-study work rights, or shifting perceptions of value and safety—though it’s unclear how much this signals broader global trend shifts versus country-specific policy gains.  \nAdmissions teams should track New Zealand’s source-market breakdown, tuition and living cost adjustments, and longitudinal enrolment patterns relative to their own institutions’ performance, particularly in overlapping markets like India, China, and Southeast Asia, to assess competitive positioning and messaging resonance.",
-      "impact": "Low",
-      "sources": [],
-      "dests": [
-        "New Zealand"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 3,
-      "title": "UK universities bracing for a further decline in international enrolments",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/05/uk-universities-bracing-for-a-further-decline-in-international-enrolments/",
-      "pubDate": "2026-05-20",
-      "summary": "Last year, the number of foreign students in UK higher education declined by 6%, according to data from the Higher Education Statistics Agency (HESA). Government data shows that study visa applications fell year-over-year in Q4 2025 and the first four months of 2026, indicating further declines in international enrolments ahead.",
-      "insight": "The 6% drop in UK international enrolments and falling study visa applications suggest potential softening demand or shifting preferences among global students, though it remains unclear whether this reflects broader market trends, UK-specific policy impacts, or temporary factors like post-pandemic adjustment.  \nAdmissions teams should monitor real-time application volumes and visa approval rates from key source markets—especially India, Nigeria, and China—as well as competitor messaging and scholarship uptake, to detect early signals of regional sentiment shifts or emerging opportunities.",
+      "title": "What’s the latest on UK university compliance?",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/whats-the-latest-on-uk-university-compliance/",
+      "pubDate": "2026-05-22",
+      "summary": "The PIE held its first-ever Compliance Con event this week, gathering UK university compliance experts. The event addressed upcoming tightened BCA thresholds, with editor Beth Kennedy summarizing key takeaways in the article.",
+      "insight": "UK universities’ heightened focus on compliance—especially around tightened BCA thresholds—may indirectly influence international student recruitment by prompting stricter enrolment verification, potentially affecting processing timelines or documentation requirements for non-UK applicants. While not directly altering visa rules, it signals increased regulatory scrutiny that could shape institutional risk appetite and support capacity for overseas students.  \n\nAdmissions teams should monitor UK university communications on enrolment procedures and student support adjustments, particularly regarding pre-arrival documentation and academic progression checks, and assess whether similar compliance trends are emerging in their own national frameworks or source markets.",
       "impact": "Low",
       "sources": [],
       "dests": [
@@ -58,82 +42,6 @@
       "translated": false,
       "origLang": null,
       "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 4,
-      "title": "Vietnam's top math institute warns of 'intellectual decline' as students offload homework to AI",
-      "source": "VnExpress (EN)",
-      "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/education/vietnam-s-top-math-institute-warns-of-intellectual-decline-as-students-offload-homework-to-ai-5077975.html",
-      "pubDate": "2026-05-26",
-      "summary": "Vietnam's top mathematics institute has warned that students' overreliance on AI to solve homework problems risks causing an \"intellectual decline.\" Researchers and officials are expressing concern about the extent to which learning tasks are being outsourced to chatbots.",
-      "insight": "This news may subtly influence Southeast Asian student demand for Western STEM programs, as concerns about AI-driven learning gaps could heighten perceived value of rigorous, in-person instruction—but direct causal links to enrollment shifts remain unproven and likely lagged.  \nAdmissions teams should monitor regional discourse on AI literacy in education and track whether Vietnamese and broader ASEAN universities begin embedding AI-critical pedagogy, as such developments may reshape applicant expectations around academic integrity and skill validation.",
-      "impact": "Low",
-      "sources": [
-        "Southeast Asia"
-      ],
-      "dests": [],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 7,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 5,
-      "title": "Foreign English teacher allegedly slaps Vietnamese 4th grader, leaving him with tinnitus",
-      "source": "VnExpress (EN)",
-      "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/education/foreign-english-teacher-allegedly-slaps-vietnamese-4th-grader-leaving-him-with-tinnitus-5078548.html",
-      "pubDate": "2026-05-27",
-      "summary": "A 10-year-old boy in central Vietnam was hospitalized with facial bruising and tinnitus after allegedly being slapped by his foreign English tutor during a private lesson. The incident occurred during a tutoring session, and the boy required medical attention for the injuries sustained.",
-      "insight": "This incident may subtly influence Southeast Asian families’ perceptions of educational safety and foreign teacher vetting, potentially heightening scrutiny of tutoring quality and institutional oversight—though direct impact on university enrolment remains uncertain without broader pattern evidence.  \nAdmissions teams should monitor local media sentiment and education ministry advisories in Vietnam and neighbouring countries, and consider reinforcing messaging around student welfare support, staff training, and third-party accreditation in recruitment materials.",
-      "impact": "Low",
-      "sources": [
-        "Southeast Asia"
-      ],
-      "dests": [],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 7,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 6,
-      "title": "Australia orders a year-long pause on new VET and ELICOS provider registrations",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/05/australia-orders-a-year-long-pause-on-new-vet-and-elicos-provider-registrations/",
-      "pubDate": "2026-05-19",
-      "summary": "Australia’s Assistant Minister for International Education Julian Hill has ordered a 12-month freeze on new registrations of private Vocational Education and Training (VET) and English Language Intensive Courses for Overseas Students (ELICOS) providers, effective from the legislative instrument dated 18 May 2025. The pause also prohibits new course applications by existing private-sector providers to the National VET Regulator.",
-      "insight": "This pause signals Australia’s intensified regulatory scrutiny of its private VET and ELICOS sectors, potentially dampening short-term enrolment growth from students targeting lower-cost pathway programs—though its direct impact on university recruitment remains uncertain given most undergrad/postgrad applicants bypass these providers.  \nAdmissions teams should monitor shifts in Australian visa refusal rates, competitor universities’ pathway partnerships, and student sentiment in key Asian markets, particularly whether prospective applicants pivot toward degree-only applications or alternative destinations amid perceived regulatory tightening.",
-      "impact": "Low",
-      "sources": [],
-      "dests": [
-        "Australia"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 6,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 7,
-      "title": "UK student visa refusals hit decade high as international applications continue falling",
-      "source": "VnExpress (EN)",
-      "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/education/uk-student-visa-refusals-hit-decade-high-as-international-applications-continue-falling-5077361.html",
-      "pubDate": "2026-05-26",
-      "summary": "UK student visa approvals have fallen to their lowest level since the Covid pandemic, according to Home Office data. Rejection rates for UK student visas have risen to a 10-year high, coinciding with a continued decline in international applications.",
-      "insight": "UK student visa refusals hitting a decade high—alongside falling applications—may reflect tightening UK immigration policy, growing concerns among prospective students about affordability or post-study work prospects, or shifting preferences toward alternative destinations, though causality remains unclear without deeper source-market analysis.  \nAdmissions teams should track real-time application and enrolment trends from key UK-sending countries, monitor policy updates from the UK Home Office, and assess whether their own visa support services and pre-departure guidance need strengthening to address rising applicant anxiety or documentation challenges.",
-      "impact": "Low",
-      "sources": [],
-      "dests": [
-        "UK"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 6,
       "insightSource": "qwen"
     }
   ]
