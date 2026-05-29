@@ -1,22 +1,38 @@
 {
-  "updated": "2026-05-28T05:03:05Z",
-  "count": 2,
-  "totalFetched": 167,
+  "updated": "2026-05-29T05:04:52Z",
+  "count": 10,
+  "totalFetched": 172,
   "articles": [
     {
       "id": 1,
-      "title": "Australian visa denials for Indian students linked to document fraud, not housing crisis",
-      "source": "The Hindu (Edu)",
-      "color": "#145a32",
-      "url": "https://www.thehindu.com/data/australian-visa-denials-for-indian-students-linked-to-document-fraud-not-housing-crisis/article69023040.ece",
-      "pubDate": "2026-05-27",
-      "summary": "Australian visa denials for Indian students are linked to document fraud rather than the housing crisis. In contrast, visa grant rates for Chinese students have remained unaffected despite similar housing concerns.",
-      "insight": "This news suggests potential tightening of Australian visa scrutiny for Indian students due to fraud concerns, which may indirectly influence perceptions of Australia’s study destination reliability—though it remains unclear whether this will meaningfully shift demand toward the USA, UK, or New Zealand.  \nAdmissions teams should monitor Indian student application volumes and visa refusal trends in Australia, while reviewing pre-enrolment document verification protocols and messaging around integrity to proactively address possible reputational spillover or student anxiety.",
-      "impact": "High",
+      "title": "Pakistan broadens TNE eligibility under new reforms",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/pakistan-broadens-tne-eligibility-under-new-reforms/",
+      "pubDate": "2026-05-26",
+      "summary": "Pakistan’s Higher Education Commission (HEC) has introduced a new framework that expands eligibility for transnational education (TNE) to include specialist institutions. The reforms formalise dual and joint degree programs while strengthening oversight of international academic collaborations.",
+      "insight": "Pakistan’s TNE reforms may gradually reduce outbound student demand by enabling more high-quality, locally delivered degrees with foreign credentials—though the scale and speed of this shift remain uncertain given infrastructure, recognition, and employer acceptance hurdles.  \nAdmissions teams should track enrolment trends in Pakistan-based dual/joint programs, HEC’s implementation timeline, and whether students increasingly prioritise hybrid pathways (e.g., 1–2 years abroad + local completion) over full-degree mobility.",
+      "impact": "Medium",
       "sources": [
-        "China",
-        "India"
+        "South Asia"
       ],
+      "dests": [],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 2,
+      "title": "Australia orders a year-long pause on new VET and ELICOS provider registrations",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/05/australia-orders-a-year-long-pause-on-new-vet-and-elicos-provider-registrations/",
+      "pubDate": "2026-05-19",
+      "summary": "Australia’s Assistant Minister for International Education Julian Hill has ordered a 12-month freeze on new registrations of private Vocational Education and Training (VET) and English Language Intensive Courses for Overseas Students (ELICOS) providers, effective from the legislative instrument dated 18 May 2025. The pause also prohibits new course applications by existing private-sector providers to the National VET Regulator.",
+      "insight": "This pause signals Australia’s intensified regulatory scrutiny of its private VET and ELICOS sectors, potentially dampening short-term enrolment growth from students targeting lower-cost pathway programs—though its direct impact on university recruitment remains uncertain amid stable higher education registration rules.  \nAdmissions teams should monitor shifts in student inquiries toward Australian universities as potential spillover demand, track visa grant trends for bachelor’s and master’s applicants, and assess whether source markets perceive this move as reflecting broader systemic concerns about Australian study quality or integrity.",
+      "impact": "Low",
+      "sources": [],
       "dests": [
         "Australia"
       ],
@@ -26,14 +42,111 @@
       "insightSource": "qwen"
     },
     {
-      "id": 2,
-      "title": "What’s the latest on UK university compliance?",
+      "id": 3,
+      "title": "UNESCO confirms growing trend of intra-regional student mobility",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/05/unesco-confirms-growing-trend-of-intra-regional-student-mobility/",
+      "pubDate": "2026-05-21",
+      "summary": "UNESCO’s first Higher Education Global Trends Report confirms a growing trend of intra-regional student mobility. While traditional study abroad destinations remain the most popular, countries including Türkiye, Egypt, and Japan are gaining increased interest and enrolments among international students.",
+      "insight": "This news signals a potential softening of demand for traditional Anglophone destinations among MENA students, as rising intra-regional options—like Türkiye and Egypt—offer culturally proximate, cost-effective alternatives, though it remains unclear whether this reflects preference shifts or constrained access to Western visas.  \nAdmissions teams should monitor enrolment trends from key MENA countries into emerging regional hubs, assess whether partner institutions in those markets report changing student inquiries, and review scholarship and pathway offerings to reinforce value propositions against increasingly competitive regional alternatives.",
+      "impact": "Low",
+      "sources": [
+        "MENA"
+      ],
+      "dests": [],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 4,
+      "title": "You’re not in good hands: delays and CAS withdrawals are crushing the Pakistani market",
       "source": "The PIE News",
       "color": "#7b341e",
-      "url": "https://thepienews.com/whats-the-latest-on-uk-university-compliance/",
-      "pubDate": "2026-05-22",
-      "summary": "The PIE held its first-ever Compliance Con event this week, gathering UK university compliance experts. The event addressed upcoming tightened BCA thresholds, with editor Beth Kennedy summarizing key takeaways in the article.",
-      "insight": "UK universities’ heightened focus on compliance—especially around tightened BCA thresholds—may indirectly influence international student recruitment by prompting stricter enrolment verification, potentially affecting processing timelines or documentation requirements for non-UK applicants. While not directly altering visa rules, it signals increased regulatory scrutiny that could shape institutional risk appetite and support capacity for overseas students.  \n\nAdmissions teams should monitor UK university communications on enrolment procedures and student support adjustments, particularly regarding pre-arrival documentation and academic progression checks, and assess whether similar compliance trends are emerging in their own national frameworks or source markets.",
+      "url": "https://thepienews.com/youre-not-in-good-hands-delays-and-cas-withdrawals-are-crushing-the-pakistani-market/",
+      "pubDate": "2026-05-28",
+      "summary": "Pakistani students are experiencing alarming trends including silent CAS withdrawals and a lack of communication from UK Visas and Immigration (UKVI), according to reports by Muhammad Rizwan Riaz. These issues, driven by heightened compliance concerns in the UK, are severely impacting the Pakistani student market.",
+      "insight": "This news signals potential softening in Pakistani student demand for UK study due to eroded trust in visa processing reliability, though it remains unclear whether affected students will pivot to alternative destinations or delay applications rather than switch markets entirely.  \nAdmissions teams should monitor application volume and CAS issuance patterns from Pakistan across all destinations, while reviewing pre-enrolment communication protocols to proactively address visa-related anxieties among prospective South Asian applicants.",
+      "impact": "Low",
+      "sources": [
+        "South Asia"
+      ],
+      "dests": [
+        "UK"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 5,
+      "title": "Trump's latest immigration move clouds the path to US green cards",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/trump-s-latest-immigration-move-clouds-the-path-to-us-green-cards-5079548.html",
+      "pubDate": "2026-05-29",
+      "summary": "The Trump administration announced a policy requiring green card applicants to apply from their home countries rather than within the United States. This change has prompted immediate concern among applicants and increased inquiries to immigration attorneys like Flavia Santos Lloyd.",
+      "insight": "This policy shift may indirectly affect international student recruitment by amplifying perceptions of U.S. immigration uncertainty, potentially dampening long-term study-migration appeal—especially among students from countries with high green card backlogs—though immediate enrollment decisions are unlikely to shift without broader visa rule changes.  \nAdmissions teams should monitor regional sentiment shifts via agent feedback and application data trends, particularly for students targeting post-study work pathways, while reviewing messaging around U.S. immigration realism—not as an imminent threat, but as part of evolving comparative destination narratives.",
+      "impact": "Low",
+      "sources": [],
+      "dests": [
+        "USA"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 6,
+      "title": "Thailand welcomes Vietnam's top leader to official visit with 21-gun salute at Bangkok airport",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/politics/thailand-welcomes-vietnam-s-top-leader-to-official-visit-with-21-gun-salute-at-bangkok-airport-5078869.html",
+      "pubDate": "2026-05-27",
+      "summary": "Vietnam’s Party General Secretary and State President To Lam, accompanied by his spouse Ngo Phuong Ly, departed Hanoi on Wednesday for a three-day official visit to Thailand. The visit was extended at the invitation of Thai Prime Minister Anutin Charnvirakul and his spouse, and To Lam was welcomed in Bangkok with a 21-gun salute at the airport.",
+      "insight": "This high-level diplomatic engagement signals strengthening bilateral ties between Vietnam and Thailand, which could indirectly influence Vietnamese students’ perceptions of regional education options—though direct impacts on demand for Western universities remain uncertain without evidence of policy shifts or new scholarship initiatives.  \nAdmissions teams should monitor whether this visit catalyses expanded academic partnerships, government-backed mobility programs, or visa facilitation between Vietnam and Thailand, as such developments may affect student flow patterns and require nuanced messaging about comparative value propositions.",
+      "impact": "High",
+      "sources": [
+        "Southeast Asia"
+      ],
+      "dests": [],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 7,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 7,
+      "title": "Vietnamese, Thai leaders witness exchange of cooperation agreements, launch logo marking 50-year ties",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/politics/vietnamese-thai-leaders-witness-exchange-of-cooperation-agreements-launch-logo-marking-50-year-ties-5079334.html",
+      "pubDate": "2026-05-28",
+      "summary": "Vietnamese Party General Secretary and President To Lam and Thai Prime Minister Anutin Charnvirakul witnessed the exchange of cooperation agreements between ministries and agencies of Vietnam and Thailand in Bangkok on May 28. They also launched a logo commemorating the 50th anniversary of diplomatic relations between the two countries.",
+      "insight": "Strengthened Vietnam–Thailand diplomatic ties may indirectly influence student mobility patterns, as enhanced bilateral cooperation could foster academic partnerships or scholarship initiatives—though direct impacts on enrolment demand in English-speaking countries remain uncertain and likely secondary to domestic higher education priorities.  \nAdmissions teams should monitor whether joint university programmes, government-funded exchange schemes, or new language-training collaborations emerge from this agreement, as such developments could shift short-term interest in third-country study destinations among students from both nations.",
+      "impact": "Medium",
+      "sources": [
+        "Southeast Asia"
+      ],
+      "dests": [],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 7,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 8,
+      "title": "UK universities bracing for a further decline in international enrolments",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/05/uk-universities-bracing-for-a-further-decline-in-international-enrolments/",
+      "pubDate": "2026-05-20",
+      "summary": "Last year, the number of foreign students in UK higher education declined by 6%, according to data from the Higher Education Statistics Agency (HESA). Government data shows that study visa applications fell year-over-year in Q4 2025 and the first four months of 2026, indicating further declines in international enrolments ahead.",
+      "insight": "The 6% drop in UK international enrolments and falling study visa applications suggest potential softening demand or shifting preferences among global students, though it remains unclear whether this reflects broader market trends, UK-specific policy impacts, or temporary factors like post-pandemic adjustment.  \nAdmissions teams should monitor real-time application volumes and visa approval rates from key source markets—especially India and Nigeria—as well as competitor messaging and scholarship uptake, to detect early signs of demand migration or sentiment shifts.",
       "impact": "Low",
       "sources": [],
       "dests": [
@@ -41,7 +154,45 @@
       ],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 8,
+      "relevanceScore": 7,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 9,
+      "title": "What New Zealand’s levy reveals about England’s international student recruitment model",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/what-new-zealands-levy-reveals-about-englands-international-student-recruitment-model/",
+      "pubDate": "2026-05-26",
+      "summary": "The article discusses England’s planned international student levy by comparing it to New Zealand’s long-standing levy system. It is published by The PIE News and authored by Vincenzo Raimo, who examines what lessons England can draw from New Zealand’s decades-old model.",
+      "insight": "England’s proposed international student levy—inspired by New Zealand’s established model—may signal growing policy pressure to internalise immigration system costs, potentially affecting net tuition revenue, visa processing timelines, and long-term affordability perceptions among key source markets. While direct demand shifts are uncertain, it reflects a broader trend toward fiscal accountability in student migration frameworks across English-speaking destinations.  \n\nAdmissions teams should track the levy’s final structure, implementation timeline, and how UK universities plan to absorb or pass on costs—particularly for students from price-sensitive markets—while benchmarking against New Zealand’s experience with retention, compliance burdens, and competitor messaging around value and transparency.",
+      "impact": "Low",
+      "sources": [],
+      "dests": [
+        "New Zealand"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 7,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 10,
+      "title": "International education at the heart of UK-China collaboration",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/international-education-at-the-heart-of-uk-china-collaboration/",
+      "pubDate": "2026-05-28",
+      "summary": "The inaugural UK-China Business Awards emphasized the growing significance of international education in shaping UK-China relations. The article was published by The PIE News.",
+      "insight": "This news signals strengthening institutional and governmental goodwill around UK-China education ties, which may indirectly support continued Chinese student demand for the UK—but does not directly indicate shifts in US, Australian, or New Zealand recruitment prospects amid broader geopolitical and policy uncertainties.  \nAdmissions teams should monitor bilateral developments—including UK visa policy adjustments, scholarship announcements, and Chinese regulatory guidance on overseas study—as potential leading indicators of shifting preferences or risk perceptions among Chinese applicants and their families.",
+      "impact": "Low",
+      "sources": [
+        "China"
+      ],
+      "dests": [],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 7,
       "insightSource": "qwen"
     }
   ]
