@@ -1,44 +1,41 @@
 {
-  "updated": "2026-05-30T04:44:28Z",
-  "count": 6,
-  "totalFetched": 158,
+  "updated": "2026-05-31T05:13:48Z",
+  "count": 9,
+  "totalFetched": 163,
   "articles": [
     {
       "id": 1,
-      "title": "Australian visa denials for Indian students linked to document fraud, not housing crisis",
-      "source": "The Hindu (Edu)",
-      "color": "#145a32",
-      "url": "https://www.thehindu.com/data/australian-visa-denials-for-indian-students-linked-to-document-fraud-not-housing-crisis/article69023040.ece",
-      "pubDate": "2026-05-27",
-      "summary": "Australian visa denials for Indian students are linked to document fraud rather than the housing crisis. In contrast, visa grant rates for Chinese students have remained unaffected despite similar housing concerns.",
-      "insight": "This news suggests potential tightening of Australian visa scrutiny for Indian students due to fraud concerns, which may indirectly influence perceptions of Australia’s study destination reliability—though it remains unclear whether this will meaningfully shift demand toward the USA, UK, or New Zealand.  \nAdmissions teams should monitor Indian student application volumes and visa refusal trends in Australia, while reviewing their own document verification protocols and messaging around integrity, especially when positioning against competing Anglophone destinations.",
-      "impact": "High",
-      "sources": [
-        "China",
-        "India"
-      ],
+      "title": "Australia orders a year-long pause on new VET and ELICOS provider registrations",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/05/australia-orders-a-year-long-pause-on-new-vet-and-elicos-provider-registrations/",
+      "pubDate": "2026-05-19",
+      "summary": "Australia’s Assistant Minister for International Education Julian Hill has ordered a 12-month freeze on new registrations of private Vocational Education and Training (VET) and English Language Intensive Courses for Overseas Students (ELICOS) providers, effective from the legislative instrument dated 18 May 2025. The pause also prohibits new course applications by existing private-sector providers to the National VET Regulator.",
+      "insight": "This pause signals Australia’s intensified regulatory scrutiny of its private VET and ELICOS sectors, potentially dampening short-term enrolment growth from students targeting lower-cost pathway programs—though its direct impact on university recruitment remains uncertain given most undergrad/postgrad applicants bypass these providers.  \nAdmissions teams should monitor shifts in Australian visa refusal rates, competitor universities’ pathway partnerships, and source-market sentiment—particularly in India, Nepal, and Vietnam—while assessing whether increased scrutiny may indirectly elevate demand for degree programs with stronger compliance track records.",
+      "impact": "Low",
+      "sources": [],
       "dests": [
         "Australia"
       ],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 8,
+      "relevanceScore": 9,
       "insightSource": "qwen"
     },
     {
       "id": 2,
-      "title": "New Zealand confirms November rollout of graduate work visa",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/new-zealand-confirms-november-rollout-of-graduate-work-visa/",
-      "pubDate": "2026-05-29",
-      "summary": "New Zealand will introduce a new six-month graduate work visa starting on November 16. The visa also expands post-study work rights for some graduate diploma holders as part of the country’s international education growth strategy.",
-      "insight": "New Zealand’s new six-month graduate work visa signals a targeted effort to retain talent and may modestly boost its appeal for international students weighing post-study work options, though direct impact on demand from key source markets remains uncertain amid broader global mobility trends.  \nAdmissions teams should monitor uptake of this visa—especially among students from Asia and the Pacific—and assess whether it influences application patterns or partner institution referrals, while continuing to benchmark against evolving work rights in Australia, the UK, and Canada.",
+      "title": "UNESCO confirms growing trend of intra-regional student mobility",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/05/unesco-confirms-growing-trend-of-intra-regional-student-mobility/",
+      "pubDate": "2026-05-21",
+      "summary": "UNESCO’s first Higher Education Global Trends Report confirms a growing trend of intra-regional student mobility. While traditional study abroad destinations remain the most popular, countries including Türkiye, Egypt, and Japan are gaining increased interest and enrolments among international students.",
+      "insight": "This news signals a potential softening of demand for traditional Anglophone destinations among MENA students, as rising intra-regional options—like Türkiye and Egypt—offer culturally proximate, cost-effective alternatives, though it remains unclear whether this reflects structural shifts or temporary affordability-driven adjustments.  \nAdmissions teams should monitor application trends from key MENA countries alongside visa approval rates and scholarship uptake, while assessing whether partnerships with regional institutions or tailored messaging on post-study opportunities could reinforce competitiveness without diverting core recruitment focus.",
       "impact": "Low",
-      "sources": [],
-      "dests": [
-        "New Zealand"
+      "sources": [
+        "MENA"
       ],
+      "dests": [],
       "translated": false,
       "origLang": null,
       "relevanceScore": 8,
@@ -46,51 +43,53 @@
     },
     {
       "id": 3,
-      "title": "The '2+2' study abroad route helps students receive degrees in the top 1% of the world",
-      "source": "VnExpress (Giáo dục)",
-      "color": "#b94500",
-      "url": "https://vnexpress.net/lo-trinh-du-hoc-2-2-giup-sinh-vien-nhan-bang-top-1-the-gioi-5078871.html",
+      "title": "You’re not in good hands: delays and CAS withdrawals are crushing the Pakistani market",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/youre-not-in-good-hands-delays-and-cas-withdrawals-are-crushing-the-pakistani-market/",
       "pubDate": "2026-05-28",
-      "summary": "The '2+2' study abroad program is a collaborative pathway offered by the University of Birmingham, Thang Long University, and the Singapore Institute of Management. Students complete two years at Thang Long University or the Singapore Institute of Management and two years at the University of Birmingham to earn a degree from an institution ranked in the top 1% globally, while saving approximately 60% on total costs.",
-      "insight": "This news signals growing demand among Southeast Asian students for globally ranked degrees via cost-efficient, regionally accessible pathways—potentially intensifying competition for high-achieving applicants who prioritize value, brand recognition, and reduced financial risk amid economic uncertainty.  \n\nAdmissions teams should monitor uptake and graduate outcomes of similar transnational ‘2+2’ models in Southeast Asia, while assessing whether their own articulation partnerships or regional delivery options align with evolving expectations around affordability, credential portability, and post-study return on investment.",
+      "summary": "Pakistani students are experiencing alarming trends including silent CAS withdrawals and a lack of communication from UK Visas and Immigration (UKVI), according to reports by Muhammad Rizwan Riaz. These issues, driven by heightened compliance concerns in the UK, are causing significant delays and severely impacting the Pakistani student market.",
+      "insight": "This news signals potential shifts in Pakistani student demand for UK study, as visa uncertainty and silent CAS withdrawals may erode confidence in the UK pathway—though it remains unclear whether students will pivot to alternative destinations or delay applications altogether.  \nAdmissions teams should monitor application volumes and enrolment trends from Pakistan across all target countries, while reviewing messaging around visa support, timelines, and contingency planning to address growing anxiety about immigration reliability.",
       "impact": "Low",
       "sources": [
-        "Southeast Asia"
+        "South Asia"
       ],
-      "dests": [],
-      "translated": true,
-      "origLang": "vi",
-      "relevanceScore": 6,
+      "dests": [
+        "UK"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 8,
       "insightSource": "qwen"
     },
     {
       "id": 4,
-      "title": "Australia’s curbs put focus on vocational education pathways abroad",
-      "source": "The Hindu (Edu)",
-      "color": "#145a32",
-      "url": "https://www.thehindu.com/education/australias-curbs-put-focus-on-vocational-education-pathways-abroad/article71036849.ece",
+      "title": "Trump's latest immigration move clouds the path to US green cards",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/trump-s-latest-immigration-move-clouds-the-path-to-us-green-cards-5079548.html",
       "pubDate": "2026-05-29",
-      "summary": "Australia has introduced new restrictions on international student visas, including higher English language and financial requirements, which are expected to reduce the number of overseas students enrolling in vocational education and training (VET) courses. These curbs have shifted attention to alternative vocational education pathways in countries such as Canada, Germany, and New Zealand, where governments are actively promoting their VET systems to attract international students.",
-      "insight": "Australia’s tighter VET visa rules may indirectly influence global student mobility patterns, as prospective vocational students from Asia and Africa reassess affordability, language barriers, and post-study work prospects—though broader undergraduate and postgraduate demand remains less directly affected.  \nAdmissions teams should monitor application trends from key source markets for VET-adjacent programs (e.g., applied bachelor’s, foundation diplomas), track competitor messaging from Canada/Germany/New Zealand, and assess whether partner agents are shifting counselling emphasis toward alternative destinations or pathways.",
+      "summary": "The Trump administration announced a policy requiring green card applicants to apply from their home countries rather than within the United States. This change has caused concern among applicants, prompting a surge of calls to immigration attorneys like Flavia Santos Lloyd.",
+      "insight": "This policy shift signals potential long-term uncertainty for international students seeking U.S. permanent residency post-graduation, possibly dampening appeal for those prioritizing a clear immigration pathway—though its direct impact on student visa demand remains unclear amid broader economic and geopolitical factors.  \nAdmissions teams should monitor application trends from high-emigration countries, track student inquiries about U.S. post-study work and green card options, and assess whether peer destinations like Canada or Australia are gaining relative traction in source market messaging and counseling.",
       "impact": "Low",
       "sources": [],
       "dests": [
-        "Australia"
+        "USA"
       ],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 6,
+      "relevanceScore": 8,
       "insightSource": "qwen"
     },
     {
       "id": 5,
-      "title": "Foundation programmes emerge as pathway to international universities",
+      "title": "Vietnamese high schooler wins German government scholarship usually awarded to master's, PhD candidates",
       "source": "VnExpress (EN)",
       "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/education/foundation-programmes-emerge-as-pathway-to-international-universities-5078955.html",
-      "pubDate": "2026-05-29",
-      "summary": "Vietnamese students seeking direct entry into international undergraduate programmes now often require foundation qualifications in addition to strong IELTS scores and high academic results. This shift reflects a growing requirement by universities to assess academic preparedness more comprehensively.",
-      "insight": "This news signals a potential shift in Vietnamese students’ pathway expectations, as foundation programmes gain prominence—though it remains unclear whether this reflects broader Southeast Asian demand or is specific to certain university partnerships and academic disciplines.  \nAdmissions teams should monitor uptake of foundation pathways among Vietnamese applicants, review articulation agreements with regional providers, and assess whether enhanced pre-university support could strengthen recruitment without prematurely overhauling entry requirements.",
+      "url": "https://e.vnexpress.net/news/news/education/vietnamese-high-schooler-wins-german-government-scholarship-usually-awarded-to-master-s-phd-candidates-5074521.html",
+      "pubDate": "2026-05-30",
+      "summary": "A high school senior from Hanoi has been awarded a full undergraduate scholarship by the German government. This scholarship is part of a program that typically funds master’s and doctoral candidates, and she is one of only 116 recipients worldwide.",
+      "insight": "This news signals growing competitiveness in global undergraduate scholarship offerings, potentially reflecting shifting student demand toward early international exposure—but it’s unclear whether this reflects broader Southeast Asian trends or an isolated high-achiever exception.  \nAdmissions teams should monitor German government scholarship expansion patterns and track application volumes from high-performing Vietnamese and regional high schools, while assessing whether enhanced undergraduate funding narratives resonate in their own recruitment messaging.",
       "impact": "Low",
       "sources": [
         "Southeast Asia"
@@ -98,25 +97,82 @@
       "dests": [],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 6,
+      "relevanceScore": 8,
       "insightSource": "qwen"
     },
     {
       "id": 6,
-      "title": "International school tuition in Ho Chi Minh City reaches 1 billion per year",
-      "source": "VnExpress (Giáo dục)",
-      "color": "#b94500",
-      "url": "https://vnexpress.net/hoc-phi-truong-quoc-te-o-tp-hcm-cham-moc-1-ty-moi-nam-5053748.html",
-      "pubDate": "2026-05-29",
-      "summary": "Most international schools in Ho Chi Minh City raised tuition fees by 3–6% for the current academic year. The British International School charges nearly 1 billion VND annually for Grade 12, excluding additional costs such as lunch and transportation.",
-      "insight": "Rising international school fees in Ho Chi Minh City—up to 1 billion VND annually—may signal growing middle- and upper-class willingness to invest in premium education, potentially strengthening long-term demand for Western undergraduate and graduate programs, though direct correlation with university enrollment remains uncertain.  \nAdmissions teams should monitor Vietnamese student application volumes, scholarship uptake, and shifts in preferred destinations, while assessing whether local schools’ fee increases coincide with increased inquiries about early pathway or dual-enrollment options with partner institutions.",
+      "title": "UK universities bracing for a further decline in international enrolments",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/05/uk-universities-bracing-for-a-further-decline-in-international-enrolments/",
+      "pubDate": "2026-05-20",
+      "summary": "Last year, the number of foreign students in UK higher education declined by 6%, according to data from the Higher Education Statistics Agency (HESA). Government data shows that study visa applications fell year-over-year in Q4 2025 and the first four months of 2026, indicating further declines in international enrolments ahead.",
+      "insight": "The 6% drop in UK international enrolments and falling study visa applications suggest potential softening demand or shifting preferences among global students, though it remains unclear whether this reflects broader market trends, UK-specific policy impacts, or temporary factors like post-pandemic adjustment.  \nAdmissions teams should monitor real-time application volumes and visa approval rates from key source markets—especially India and Nigeria—as well as competitor messaging and scholarship uptake, to detect early signals of regional recalibration rather than assuming systemic shifts.",
       "impact": "Low",
       "sources": [],
       "dests": [
         "UK"
       ],
-      "translated": true,
-      "origLang": "vi",
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 6,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 7,
+      "title": "International education at the heart of UK-China collaboration",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/international-education-at-the-heart-of-uk-china-collaboration/",
+      "pubDate": "2026-05-28",
+      "summary": "The inaugural UK-China Business Awards emphasized the growing significance of international education in shaping UK-China relations. The article was published by The PIE News.",
+      "insight": "This news signals strengthening institutional and governmental goodwill around UK-China education ties, which may indirectly support sustained Chinese student demand for the UK—but does not directly indicate shifts in US, Australian, or New Zealand recruitment prospects or visa policies.  \nAdmissions teams should monitor bilateral developments—including joint degree approvals, scholarship expansions, and diplomatic statements—for early signals of shifting student preferences or new partnership opportunities with Chinese institutions.",
+      "impact": "Low",
+      "sources": [
+        "China"
+      ],
+      "dests": [],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 6,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 8,
+      "title": "Meet the Tulane math department chair who joins Fields Medalist Ngo Bao Chau to mentor Vietnam's PhDs",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/education/meet-the-tulane-math-department-chair-who-joins-fields-medalist-ngo-bao-chau-to-mentor-vietnam-s-phds-5072788.html",
+      "pubDate": "2026-05-28",
+      "summary": "Ha Huy Tai, chair of Tulane University’s mathematics department, will co-supervise Vietnamese doctoral candidates in Hanoi for two to three months annually over a three-year period. He will collaborate with Fields Medalist Ngô Bảo Châu on this mentoring initiative.",
+      "insight": "This collaboration signals growing academic capacity and mentorship infrastructure in Vietnam, potentially moderating outbound PhD demand to Western institutions—though its impact on overall enrolment remains uncertain given limited scale and focus on elite candidates.  \nAdmissions teams should monitor Vietnamese PhD application trends, especially in mathematics, and assess whether similar high-profile faculty partnerships emerge in other ASEAN countries as indicators of shifting student mobility preferences.",
+      "impact": "Low",
+      "sources": [
+        "Southeast Asia"
+      ],
+      "dests": [],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 6,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 9,
+      "title": "New Zealand confirms November rollout of graduate work visa",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/new-zealand-confirms-november-rollout-of-graduate-work-visa/",
+      "pubDate": "2026-05-29",
+      "summary": "New Zealand will introduce a new six-month graduate work visa starting on November 16. The visa also includes expanded post-study work rights for some graduate diploma holders as part of the country’s international education growth strategy.",
+      "insight": "New Zealand’s new six-month graduate work visa signals a modest but targeted effort to retain talent post-study, potentially strengthening its appeal—especially for students from Asia and the Pacific—though direct impact on demand for US, UK, or Australian institutions remains uncertain without comparative policy shifts elsewhere.  \nAdmissions teams should track uptake of this visa, especially among students who previously chose NZ over competing destinations, and assess whether it influences source market perceptions of post-study pathways when positioning their own graduate employment support and visa guidance.",
+      "impact": "Low",
+      "sources": [],
+      "dests": [
+        "New Zealand"
+      ],
+      "translated": false,
+      "origLang": null,
       "relevanceScore": 6,
       "insightSource": "qwen"
     }
