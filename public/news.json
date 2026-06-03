@@ -1,57 +1,36 @@
 {
-  "updated": "2026-06-02T05:20:56Z",
-  "count": 7,
-  "totalFetched": 165,
+  "updated": "2026-06-03T05:53:56Z",
+  "count": 4,
+  "totalFetched": 150,
   "articles": [
     {
       "id": 1,
-      "title": "New UKVI compliance metrics for universities take effect today",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/new-ukvi-compliance-metrics-for-universities-take-effect-today/",
-      "pubDate": "2026-06-01",
-      "summary": "New UKVI compliance metrics for universities have taken effect today. Immigration specialists have warned that failure to meet these increasingly stringent benchmarks could have potentially devastating consequences for institutions.",
-      "insight": "The UK’s tightened UKVI compliance metrics may indirectly influence international student demand by amplifying perceptions of visa complexity or institutional risk, though direct impacts on enrolment depend on how rigorously thresholds are enforced and whether penalties become publicly visible.  \nAdmissions teams should monitor UK university communications about compliance-related disruptions—such as delayed CAS issuance or increased refusal rates—and assess whether peer institutions in competing destinations are positioning themselves as more predictable alternatives for students from high-risk origin regions.",
-      "impact": "Low",
-      "sources": [],
-      "dests": [
-        "UK"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 10,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 2,
-      "title": "Australia student visa rebounds from record low as South Asian processing lags",
+      "title": "Vietnamese banker wins US PhD scholarship 3 years after landing IMF role with language hurdles",
       "source": "VnExpress (EN)",
       "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/education/australia-student-visa-rebounds-from-record-low-as-south-asian-processing-lags-5080623.html",
+      "url": "https://e.vnexpress.net/news/news/education/vietnamese-banker-wins-us-phd-scholarship-3-years-after-landing-imf-role-with-language-hurdles-5076626.html",
       "pubDate": "2026-06-02",
-      "summary": "Australia's student visa approval rates for university applicants rebounded in April after hitting record lows in March, according to government data. However, processing delays persist for applications from South Asian countries.",
-      "insight": "Australia’s student visa approval rebound may ease short-term concerns for South Asian applicants, though persistent processing delays could sustain demand for alternative destinations like the US, UK, and New Zealand—though causal links to actual enrolment shifts remain unconfirmed.  \nAdmissions teams should track real-time application volumes and visa wait times from key South Asian markets, while reviewing messaging around visa support and timeline transparency to preempt student anxiety amid ongoing administrative uncertainty.",
+      "summary": "A Vietnamese banker who had never studied abroad joined the International Monetary Fund as a research assistant in 2023. Three years later, he will begin a fully funded PhD program in economics at the University of California, Santa Barbara this fall.",
+      "insight": "This story highlights growing aspiration among high-achieving Southeast Asian professionals to pursue elite US PhDs despite late-starting English proficiency—suggesting demand may be shifting toward rigorous, research-intensive pathways, though it remains unclear whether this reflects a broader trend or an exceptional individual trajectory.  \nAdmissions teams should track uptake of pre-PhD research assistant roles at international organisations among applicants from Vietnam and neighbouring countries, and assess whether targeted support for academic English and research preparation could strengthen pipeline development without assuming immediate market-wide shifts.",
       "impact": "High",
       "sources": [
-        "South Asia"
+        "Southeast Asia"
       ],
-      "dests": [
-        "Australia"
-      ],
+      "dests": [],
       "translated": false,
       "origLang": null,
       "relevanceScore": 8,
       "insightSource": "qwen"
     },
     {
-      "id": 3,
-      "title": "Trump's latest immigration move clouds the path to US green cards",
-      "source": "VnExpress (EN)",
-      "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/trump-s-latest-immigration-move-clouds-the-path-to-us-green-cards-5079548.html",
-      "pubDate": "2026-05-29",
-      "summary": "The Trump administration announced a policy requiring green card applicants to apply from their home countries rather than within the United States. This change has caused concern among applicants, prompting a surge of calls to immigration attorneys like Flavia Santos Lloyd.",
-      "insight": "This policy shift signals potential long-term uncertainty for international students seeking U.S. permanent residency post-graduation, possibly dampening appeal for those prioritizing a clear immigration pathway—though its direct impact on student visa demand remains unclear amid broader economic and geopolitical factors.  \nAdmissions teams should monitor application trends from high-emigration countries, track student inquiries about U.S. post-study work and green card options, and assess whether peer destinations like Canada or Australia are gaining relative traction in source market messaging and counseling.",
+      "id": 2,
+      "title": "Eminent scientist returns to Hong Kong to lead HKUST’s new medical school",
+      "source": "SCMP (Education)",
+      "color": "#7b241c",
+      "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3355498/hong-kong-born-scientist-king-li-named-founding-dean-third-medical-school?utm_source=rss_feed",
+      "pubDate": "2026-06-01",
+      "summary": "King Li King-chuen, an eminent clinical scientist born in Hong Kong and dean emeritus of the Carle Illinois College of Medicine in the United States, has returned to Hong Kong to become the inaugural dean of medicine at the Hong Kong University of Science and Technology (HKUST). He assumed the role on Monday, leading HKUST’s newly established third medical school with a focus on using technology and innovation to transform healthcare.",
+      "insight": "This appointment signals growing institutional ambition in Hong Kong’s medical education sector, potentially increasing competition for high-achieving international students—though direct impact on enrolment demand in the US, UK, Australia, or NZ remains uncertain amid broader geopolitical and visa policy shifts.  \nAdmissions teams should monitor HKUST’s curriculum design, global partnerships, and scholarship offerings for medical programmes, as well as student sentiment in key Asian source markets, to assess whether this development influences application patterns or perceived value propositions.",
       "impact": "Low",
       "sources": [],
       "dests": [
@@ -63,74 +42,37 @@
       "insightSource": "qwen"
     },
     {
-      "id": 4,
-      "title": "Home Office issues amendment after The PIE reports on BCA blind spot",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/home-office-issues-amendment-after-the-pie-reports-on-bca-blind-spot/",
-      "pubDate": "2026-06-01",
-      "summary": "The Home Office has amended its student sponsor compliance policy to specify that only visa refusal decisions overturned successfully through administrative review are excluded from BCA (Breach of Compliance Assessment) calculations. This change follows reporting by The PIE News on a previously unaddressed blind spot in the BCA methodology.",
-      "insight": "This policy refinement clarifies how visa refusal reversals impact a UK university’s compliance standing, potentially easing pressure on institutions with high administrative review success rates—but its direct effect on global student demand or enrolment decisions remains uncertain and likely marginal.  \nAdmissions teams should track whether this change correlates with improved UK visa approval transparency or faster processing times in key source markets, while continuing to benchmark BCA-related performance against peer institutions in annual compliance reviews.",
-      "impact": "Low",
-      "sources": [],
-      "dests": [
-        "UK"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 5,
-      "title": "Vietnamese high schooler wins German government scholarship usually awarded to master's, PhD candidates",
-      "source": "VnExpress (EN)",
-      "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/education/vietnamese-high-schooler-wins-german-government-scholarship-usually-awarded-to-master-s-phd-candidates-5074521.html",
-      "pubDate": "2026-05-30",
-      "summary": "A high school senior from Hanoi has been awarded a full undergraduate scholarship by the German government. This scholarship is part of a program that typically funds master’s and doctoral candidates, and she is one of only 116 recipients selected worldwide.",
-      "insight": "This news signals growing Southeast Asian student ambition for elite, government-backed undergraduate opportunities abroad—potentially reflecting shifting demand toward early internationalization, though it’s unclear if this reflects broader regional trends or an exceptional individual case.  \nAdmissions teams should monitor rising interest in merit-based undergraduate scholarships among high-achieving Southeast Asian applicants, especially those targeting STEM or interdisciplinary programs, and assess whether current outreach aligns with evolving expectations around prestige, funding, and academic recognition.",
-      "impact": "Low",
-      "sources": [
-        "Southeast Asia"
-      ],
-      "dests": [],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 7,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 6,
-      "title": "UK universities bracing for a further decline in international enrolments",
+      "id": 3,
+      "title": "UNESCO confirms growing trend of intra-regional student mobility",
       "source": "ICEF Monitor",
       "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/05/uk-universities-bracing-for-a-further-decline-in-international-enrolments/",
-      "pubDate": "2026-05-20",
-      "summary": "Last year, the number of foreign students in UK higher education declined by 6%, according to data from the Higher Education Statistics Agency (HESA). Government data shows that study visa applications fell year-over-year in Q4 2025 and the first four months of 2026, indicating further declines in international enrolments ahead.",
-      "insight": "The 6% drop in UK international enrolments and falling study visa applications suggest potential softening demand or shifting preferences among global students, though it remains unclear whether this reflects broader market trends, UK-specific policy impacts, or temporary factors like post-pandemic adjustment.  \nAdmissions teams should monitor real-time application volumes and visa approval rates from key source markets—especially India and Nigeria—as well as competitor messaging and scholarship uptake, to detect early signs of demand migration or sentiment shifts.",
+      "url": "https://monitor.icef.com/2026/05/unesco-confirms-growing-trend-of-intra-regional-student-mobility/",
+      "pubDate": "2026-05-21",
+      "summary": "UNESCO’s first Higher Education Global Trends Report confirms a growing trend of intra-regional student mobility. While traditional study abroad destinations remain the most popular, countries including Türkiye, Egypt, and Japan are gaining increased interest and enrolments among international students.",
+      "insight": "This news signals a potential softening of demand for traditional Anglophone destinations among MENA students, as rising intra-regional options—like Türkiye and Egypt—offer culturally proximate, cost-effective alternatives, though it remains unclear whether this reflects preference shifts or constrained access to Western visas.  \nAdmissions teams should monitor enrolment trends from key MENA countries into emerging regional hubs, assess how perceptions of visa reliability and post-study opportunities in the US, UK, AU, and NZ compare with those in Türkiye and Egypt, and review messaging around affordability and cultural support.",
       "impact": "Low",
-      "sources": [],
-      "dests": [
-        "UK"
+      "sources": [
+        "MENA"
       ],
+      "dests": [],
       "translated": false,
       "origLang": null,
       "relevanceScore": 6,
       "insightSource": "qwen"
     },
     {
-      "id": 7,
-      "title": "International education at the heart of UK-China collaboration",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/international-education-at-the-heart-of-uk-china-collaboration/",
-      "pubDate": "2026-05-28",
-      "summary": "The inaugural UK-China Business Awards emphasized the growing significance of international education in shaping UK-China relations. The article was published by The PIE News.",
-      "insight": "This news signals strengthening institutional and governmental ties between the UK and China, potentially reinforcing China’s continued importance as a source market—though it does not directly indicate shifts in student demand or visa policy for other English-speaking countries.  \nAdmissions teams should monitor bilateral education dialogues and UK-China university partnership announcements, as these may indirectly influence Chinese student perceptions of academic quality, post-study opportunities, and regional competitiveness.",
+      "id": 4,
+      "title": "How China, India and South Korea protect their high-stakes entrance exams",
+      "source": "The Hindu (Edu)",
+      "color": "#145a32",
+      "url": "https://www.thehindu.com/education/how-china-india-and-south-korea-protect-their-high-stakes-entrance-exams/article71040941.ece",
+      "pubDate": "2026-06-01",
+      "summary": "China, India, and South Korea are implementing distinct security measures to safeguard the integrity of their high-stakes university entrance examinations. These measures respond to rising global pressure on the fairness and reliability of such exams.",
+      "insight": "Heightened exam security in China and India may indirectly influence international student demand, as intensified domestic testing pressures could amplify perceptions of overseas pathways as more predictable or less stressful—though actual enrolment shifts remain uncertain and likely mediated by broader economic and policy factors.  \nAdmissions teams should monitor local sentiment around national exam stress and fairness, track any emerging policy shifts affecting outbound mobility (e.g., visa facilitation or scholarship expansions), and assess whether partner agencies report increased inquiries linked to domestic exam anxiety—without assuming immediate behavioural change.",
       "impact": "Low",
       "sources": [
-        "China"
+        "China",
+        "India"
       ],
       "dests": [],
       "translated": false,
