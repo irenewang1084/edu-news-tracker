@@ -1,38 +1,36 @@
 {
-  "updated": "2026-06-04T05:31:31Z",
-  "count": 8,
-  "totalFetched": 180,
+  "updated": "2026-06-05T05:07:57Z",
+  "count": 6,
+  "totalFetched": 188,
   "articles": [
     {
       "id": 1,
-      "title": "Australia student visa rebounds from record low as South Asian processing lags",
-      "source": "VnExpress (EN)",
-      "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/education/australia-student-visa-rebounds-from-record-low-as-south-asian-processing-lags-5080623.html",
-      "pubDate": "2026-06-02",
-      "summary": "Australia's student visa approval rates for university applicants rebounded in April after hitting record lows in March, according to government data. However, processing delays persist for applications from South Asian countries.",
-      "insight": "Australia’s student visa approval rebound may ease short-term concerns for South Asian applicants, though persistent processing delays could sustain demand for alternative destinations like the US, UK, and New Zealand—though causal links to actual enrolment shifts remain unconfirmed.  \nAdmissions teams should track real-time application volumes and visa processing times from South Asia, while reviewing messaging around visa support and timeline transparency to address applicant anxiety without assuming immediate market repositioning.",
+      "title": "Duration of status final rule: are transfer restrictions needed?",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/duration-of-status-final-rule-are-transfer-restrictions-needed/",
+      "pubDate": "2026-06-04",
+      "summary": "The article discusses the Department of Homeland Security’s upcoming final rule on duration of status, which is expected to cause significant disruption in the immigration sector. Some experts support new restrictions on student transfers under this rule.",
+      "insight": "The DHS’s pending duration-of-status final rule may indirectly affect international student recruitment by increasing perceived visa uncertainty, potentially dampening demand from risk-averse applicants—especially in F-1–dependent markets—though actual enrollment impact hinges on final provisions and implementation timing.  \nAdmissions teams should monitor official DHS guidance and student sentiment in key source countries, while reviewing transfer policies and advising agents on evolving U.S. visa expectations—not as an immediate trigger for strategy shifts, but as part of ongoing regulatory horizon scanning.",
       "impact": "High",
-      "sources": [
-        "South Asia"
-      ],
+      "sources": [],
       "dests": [
-        "Australia"
+        "USA"
       ],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 9,
+      "relevanceScore": 8,
       "insightSource": "qwen"
     },
     {
       "id": 2,
-      "title": "UK universities flying blind as visa refusals force admissions rethink",
+      "title": "High dropout rates to trigger sponsor license action, UK unis warned",
       "source": "The PIE News",
       "color": "#7b341e",
-      "url": "https://thepienews.com/uk-universities-flying-blind-as-visa-refusals-force-admissions-rethink/",
-      "pubDate": "2026-06-02",
-      "summary": "UK university leaders have warned that institutions are making high-stakes admissions and compliance decisions without sufficient shared data. This situation has been exacerbated by rising visa refusals, increasing student costs, and mounting recruitment pressures, prompting a rethinking of international recruitment strategies.",
-      "insight": "UK universities’ struggles with opaque visa refusal data and rising compliance risks may indirectly signal growing student caution toward the UK, particularly from regions facing higher refusal rates—though demand shifts remain unconfirmed without granular origin-market analysis.  \nAdmissions teams should monitor real-time UK visa refusal trends by nationality, track competitor responses (e.g., enhanced pre-application support), and assess whether their own risk-mitigation frameworks—such as conditional offers or financial advising—need refinement amid tightening global mobility conditions.",
+      "url": "https://thepienews.com/high-dropout-rates-to-trigger-sponsor-license-action-uk-unis-warned/",
+      "pubDate": "2026-06-04",
+      "summary": "The UK government has warned universities that they risk having their sponsor license revoked if they fail to comply with new requirements related to high international student dropout rates. This warning was reported by The PIE News, which published the article titled “High dropout rates to trigger sponsor license action, UK unis warned.”",
+      "insight": "This UK policy shift signals growing regulatory scrutiny of student retention, potentially influencing international applicants’ perceptions of institutional stability and visa compliance—though direct demand impacts remain uncertain without evidence of broader global policy emulation.  \nAdmissions teams should track UK competitor institutions’ retention metrics and communications, while reviewing their own support frameworks for at-risk international cohorts to preempt reputational or operational vulnerabilities.",
       "impact": "Low",
       "sources": [],
       "dests": [
@@ -40,77 +38,38 @@
       ],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 9,
+      "relevanceScore": 8,
       "insightSource": "qwen"
     },
     {
       "id": 3,
-      "title": "Vietnamese high schooler wins German government scholarship usually awarded to master's, PhD candidates",
-      "source": "VnExpress (EN)",
-      "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/education/vietnamese-high-schooler-wins-german-government-scholarship-usually-awarded-to-master-s-phd-candidates-5074521.html",
-      "pubDate": "2026-05-30",
-      "summary": "A high school senior from Hanoi has been awarded a full undergraduate scholarship by the German government. This scholarship is part of a program that typically funds master’s and doctoral candidates, and she is one of only 116 recipients worldwide.",
-      "insight": "This news signals growing Southeast Asian student ambition for elite, government-backed undergraduate opportunities abroad—potentially reflecting shifting demand toward early internationalization, though it’s unclear if this reflects broader regional trends or an exceptional individual case.  \nAdmissions teams should monitor rising interest in merit-based undergraduate scholarships among high-achieving Southeast Asian applicants and assess whether their outreach, scholarship portfolios, and application support align with evolving expectations around prestige, affordability, and early global mobility.",
+      "title": "How China, India and South Korea protect their high-stakes entrance exams",
+      "source": "The Hindu (Edu)",
+      "color": "#145a32",
+      "url": "https://www.thehindu.com/education/how-china-india-and-south-korea-protect-their-high-stakes-entrance-exams/article71040941.ece",
+      "pubDate": "2026-06-01",
+      "summary": "China, India, and South Korea are implementing distinct security measures to safeguard the integrity of their high-stakes university entrance examinations. These measures respond to rising global stakes for such exams.",
+      "insight": "Heightened exam security in China, India, and South Korea may indirectly influence international student demand by amplifying stress around domestic admissions, potentially increasing interest in overseas pathways—but causal links remain uncertain amid broader economic and policy variables.  \nAdmissions teams should monitor regional sentiment shifts via student surveys and agent feedback, and assess whether intensified domestic exam pressure correlates with earlier application timelines or increased inquiries about alternative entry routes like pathway programs.",
       "impact": "Low",
       "sources": [
-        "Southeast Asia"
+        "China",
+        "India"
       ],
       "dests": [],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 8,
+      "relevanceScore": 7,
       "insightSource": "qwen"
     },
     {
       "id": 4,
-      "title": "Report: International students already studying in the UK or offshore through TNE represent an increasingly important recruitment opportunity",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/06/report-international-students-already-studying-in-the-uk-or-offshore-through-tne-represent-an-increasingly-important-recruitment-opportunity/",
-      "pubDate": "2026-06-03",
-      "summary": "Tighter compliance thresholds for UK universities recruiting international students, including the Home Office’s “Red, Amber, Green” scheme, are now in effect. As of 1 June 2026, universities will be assessed under updated Basic Compliance Assessment (BCA) metrics, and only institutions rated green will meet the required standard.",
-      "insight": "UK universities now face stricter compliance requirements for international student recruitment, with only “Green”-rated institutions permitted to sponsor visas from June 2026—potentially tightening capacity and reshaping global student flows, though direct demand shifts in key source markets remain uncertain pending broader economic and geopolitical trends.  \nAdmissions teams should track UK visa refusal rates, Home Office policy updates, and competitor institution BCA ratings, while reviewing their own partnerships with UK providers to assess potential impacts on pathway programmes or articulation agreements over the next 12–18 months.",
-      "impact": "Low",
-      "sources": [],
-      "dests": [
-        "UK"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 5,
-      "title": "'King's School in Ho Chi Minh City carries original British educational standards'",
-      "source": "VnExpress (Giáo dục)",
-      "color": "#b94500",
-      "url": "https://vnexpress.net/truong-king-s-tp-hcm-mang-tieu-chuan-giao-duc-anh-quoc-nguyen-ban-5080697.html",
-      "pubDate": "2026-06-03",
-      "summary": "Dr. Anne Cotton, Principal of King's College School Wimbledon, stated that King's School in Ho Chi Minh City applies academic standards from the UK. The school aims to deliver an original British educational experience to Vietnamese students.",
-      "insight": "This development signals growing demand in Vietnam and Southeast Asia for globally recognized, UK-aligned curricula—potentially indicating shifting preferences toward British qualifications, though it remains unclear whether this directly reduces interest in US, Australian, or New Zealand degrees or reflects complementary rather than competitive pathways.  \nAdmissions teams should monitor enrolment trends at King’s Ho Chi Minh City and similar UK-branded schools, as well as Vietnamese student visa data and post-secondary destination choices, to assess whether such institutions serve as feeders to overseas universities or reflect evolving brand perceptions of Anglophone education systems.",
-      "impact": "Low",
-      "sources": [
-        "Southeast Asia"
-      ],
-      "dests": [
-        "UK"
-      ],
-      "translated": true,
-      "origLang": "vi",
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 6,
-      "title": "Vietnam picks 3 more universities for push into Asia's top tier",
+      "title": "4 Vietnamese universities climb in global top 10% rankings",
       "source": "VnExpress (EN)",
       "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/education/vietnam-picks-3-more-universities-for-push-into-asia-s-top-tier-5081108.html",
-      "pubDate": "2026-06-02",
-      "summary": "Vietnam's government has approved a plan to develop three additional universities to meet the standards of Asia's top-tier higher education institutions. This initiative expands an existing effort to elevate Vietnamese universities within the regional academic landscape.",
-      "insight": "Vietnam’s push to elevate three more universities to Asia’s top tier may gradually reduce outbound student demand for undergraduate degrees, particularly in fields where domestic institutions strengthen—though graduate and niche-program demand is likely to remain resilient amid continued perceptions of global credential value.  \nAdmissions teams should track enrolment trends at these newly designated universities, monitor Vietnamese government scholarship data, and assess whether partner institutions report shifting application volumes or changing student profiles over the next 12–24 months.",
+      "url": "https://e.vnexpress.net/news/news/education/4-vietnamese-universities-climb-in-global-top-10-rankings-5081450.html",
+      "pubDate": "2026-06-03",
+      "summary": "Six Vietnamese universities are ranked among the top 10% of institutions worldwide in the 2026 Center for World University Rankings (CWUR). Four of these six universities have improved their global standing compared to the previous year.",
+      "insight": "This news signals growing academic credibility of Vietnamese institutions, which may modestly temper outbound student demand—particularly among high-achievers—though broader recruitment trends depend more on scholarship access, visa policies, and post-study work opportunities than rankings alone.  \n\nAdmissions teams should monitor Vietnamese application volumes by tier (e.g., undergraduate vs. postgraduate), track shifts in preferred destinations among top-performing schools, and assess whether rising domestic capacity correlates with changes in enrolment timing or credential expectations.",
       "impact": "Low",
       "sources": [
         "Southeast Asia"
@@ -122,38 +81,36 @@
       "insightSource": "qwen"
     },
     {
-      "id": 7,
-      "title": "UK–Malaysia collaboration in focus: High Commissioner speaks on education and cultural exchange",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/uk-malaysia-collaboration-in-focus-high-commissioner-speaks-on-education-and-cultural-exchange/",
+      "id": 5,
+      "title": "International universities in Vietnam attract more students from specialized schools",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/education/international-universities-in-vietnam-attract-more-students-from-specialized-schools-5081073.html",
       "pubDate": "2026-06-03",
-      "summary": "The PIE interviewed Dato' Zakri Jaafar, Malaysia’s High Commissioner to the United Kingdom and Northern Ireland, at a Royal Selangor and Nottingham Trent University event in London. He emphasized the importance of UK–Malaysia collaboration in education, cultural exchange, and strengthening long-term bilateral relationships.",
-      "insight": "This news signals growing institutional and diplomatic momentum behind UK–Malaysia education ties, potentially reinforcing Malaysia’s position as a stable, high-intent source market for the UK—though direct implications for US, AU or NZ recruitment remain indirect and contingent on broader regional mobility trends.  \nAdmissions teams should monitor Malaysian student application volumes to their institutions over the next 12–18 months, particularly for postgraduate and STEM programmes, while noting whether enhanced UK–Malaysia partnerships catalyse increased competition for high-achieving Southeast Asian applicants.",
+      "summary": "Rising costs of overseas education and stricter visa requirements in some countries are prompting more students from Vietnam’s specialized schools to consider international universities located within Vietnam for higher education. This shift reflects a growing trend among these students to pursue internationally accredited degrees without studying abroad.",
+      "insight": "This development signals potential softening in demand for traditional study-abroad pathways among high-achieving Southeast Asian students, as domestically based international universities offer accredited alternatives amid rising overseas costs and tighter visa policies—though it remains unclear how much this displaces rather than delays outbound mobility.  \nAdmissions teams should monitor enrolment trends among Vietnamese specialized school graduates, track partnerships between local and foreign institutions in Vietnam, and assess whether these students later pursue postgraduate study abroad—using such data to refine outreach timing and scholarship strategies.",
       "impact": "Low",
       "sources": [
         "Southeast Asia"
       ],
-      "dests": [
-        "UK"
-      ],
+      "dests": [],
       "translated": false,
       "origLang": null,
       "relevanceScore": 7,
       "insightSource": "qwen"
     },
     {
-      "id": 8,
-      "title": "Hong Kong’s first astronaut success is also a story of youth potential",
-      "source": "SCMP (Education)",
-      "color": "#7b241c",
-      "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3355588/hong-kongs-first-astronaut-success-also-story-youth-potential?utm_source=rss_feed",
+      "id": 6,
+      "title": "Nepal ramps up oversight of education consultancies",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/nepal-ramps-up-oversight-of-education-consultancies/",
       "pubDate": "2026-06-04",
-      "summary": "Dr. Lai Ka-Ying, a computer science graduate of the University of Hong Kong, has become Hong Kong’s first astronaut and China’s fourth female astronaut. As a payload specialist, she will operate an observatory designed by the Hong Kong University of Science and Technology to track greenhouse gases.",
-      "insight": "This milestone may subtly shift perceptions of STEM pathways in Greater China, potentially reinforcing interest in space-related and environmental science programmes abroad—though direct impact on enrolment remains uncertain without evidence of broader policy or sentiment changes.  \nAdmissions teams should track whether Hong Kong and mainland Chinese universities expand space/environmental science partnerships or scholarships, and monitor if students increasingly cite such national achievements when selecting overseas institutions for technical degrees.",
+      "summary": "Nepali authorities are increasing oversight of education consultancies in response to fraud allegations and recent police raids. Stakeholders are urging stronger regulation and greater transparency in the sector.",
+      "insight": "This development signals potential short-term volatility in Nepal’s student outbound flow, as heightened scrutiny may temporarily delay applications or shift preferences toward destinations perceived as more transparent—though direct impacts on enrolment volumes remain uncertain pending regulatory implementation.  \nAdmissions teams should monitor Nepal-specific application trends and consultancies’ licensing status, while reinforcing clear, ethical recruitment messaging to students and agents to mitigate reputational risk amid growing market sensitivity to compliance.",
       "impact": "Low",
       "sources": [
-        "China"
+        "South Asia"
       ],
       "dests": [],
       "translated": false,
