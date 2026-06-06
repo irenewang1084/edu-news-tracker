@@ -1,21 +1,24 @@
 {
-  "updated": "2026-06-05T05:07:57Z",
-  "count": 6,
-  "totalFetched": 188,
+  "updated": "2026-06-06T04:46:56Z",
+  "count": 10,
+  "totalFetched": 173,
   "articles": [
     {
       "id": 1,
-      "title": "Duration of status final rule: are transfer restrictions needed?",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/duration-of-status-final-rule-are-transfer-restrictions-needed/",
-      "pubDate": "2026-06-04",
-      "summary": "The article discusses the Department of Homeland Security’s upcoming final rule on duration of status, which is expected to cause significant disruption in the immigration sector. Some experts support new restrictions on student transfers under this rule.",
-      "insight": "The DHS’s pending duration-of-status final rule may indirectly affect international student recruitment by increasing perceived visa uncertainty, potentially dampening demand from risk-averse applicants—especially in F-1–dependent markets—though actual enrollment impact hinges on final provisions and implementation timing.  \nAdmissions teams should monitor official DHS guidance and student sentiment in key source countries, while reviewing transfer policies and advising agents on evolving U.S. visa expectations—not as an immediate trigger for strategy shifts, but as part of ongoing regulatory horizon scanning.",
+      "title": "UK transnational education enrolments surge across China, Vietnam, and Malaysia",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/education/uk-transnational-education-enrolments-surge-across-china-vietnam-and-malaysia-5078324.html",
+      "pubDate": "2026-06-06",
+      "summary": "UK transnational education (TNE) enrolments increased significantly across East Asia in the 2024/25 academic year. The British Council reported robust growth in China, Malaysia, Vietnam, and Myanmar.",
+      "insight": "UK TNE growth in East Asia signals strengthening regional demand for Western-aligned qualifications, possibly reflecting shifting preferences toward flexible, locally delivered pathways—though it’s unclear whether this directly reduces appetite for full-degree study abroad or simply complements it.  \nAdmissions teams should monitor local TNE partner performance and student progression patterns to assess potential pipeline opportunities, while reviewing messaging around articulation pathways and post-study value propositions in these markets.",
       "impact": "High",
-      "sources": [],
+      "sources": [
+        "China",
+        "Southeast Asia"
+      ],
       "dests": [
-        "USA"
+        "UK"
       ],
       "translated": false,
       "origLang": null,
@@ -24,13 +27,13 @@
     },
     {
       "id": 2,
-      "title": "High dropout rates to trigger sponsor license action, UK unis warned",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/high-dropout-rates-to-trigger-sponsor-license-action-uk-unis-warned/",
-      "pubDate": "2026-06-04",
-      "summary": "The UK government has warned universities that they risk having their sponsor license revoked if they fail to comply with new requirements related to high international student dropout rates. This warning was reported by The PIE News, which published the article titled “High dropout rates to trigger sponsor license action, UK unis warned.”",
-      "insight": "This UK policy shift signals growing regulatory scrutiny of student retention, potentially influencing international applicants’ perceptions of institutional stability and visa compliance—though direct demand impacts remain uncertain without evidence of broader global policy emulation.  \nAdmissions teams should track UK competitor institutions’ retention metrics and communications, while reviewing their own support frameworks for at-risk international cohorts to preempt reputational or operational vulnerabilities.",
+      "title": "Report: International students already studying in the UK or offshore through TNE represent an increasingly important recruitment opportunity",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/06/report-international-students-already-studying-in-the-uk-or-offshore-through-tne-represent-an-increasingly-important-recruitment-opportunity/",
+      "pubDate": "2026-06-03",
+      "summary": "Tighter compliance thresholds for UK universities recruiting international students, including the Home Office’s “Red, Amber, Green” scheme, are now in effect. As of 1 June 2026, universities will be assessed under updated Basic Compliance Assessment (BCA) metrics, and only institutions rated green will meet the required standard.",
+      "insight": "UK universities now face stricter compliance requirements for international student recruitment, with only “Green”-rated institutions eligible to sponsor visas from June 2026—potentially reshaping global student perceptions of UK study viability, though direct impacts on demand in other English-speaking countries remain uncertain and context-dependent.  \nAdmissions teams should track shifts in UK enrolment patterns and student inquiries from key source markets, while reviewing their own compliance frameworks and partnerships with UK institutions to assess potential ripple effects on joint programmes or pathway referrals.",
       "impact": "Low",
       "sources": [],
       "dests": [
@@ -43,16 +46,110 @@
     },
     {
       "id": 3,
-      "title": "How China, India and South Korea protect their high-stakes entrance exams",
-      "source": "The Hindu (Edu)",
-      "color": "#145a32",
-      "url": "https://www.thehindu.com/education/how-china-india-and-south-korea-protect-their-high-stakes-entrance-exams/article71040941.ece",
-      "pubDate": "2026-06-01",
-      "summary": "China, India, and South Korea are implementing distinct security measures to safeguard the integrity of their high-stakes university entrance examinations. These measures respond to rising global stakes for such exams.",
-      "insight": "Heightened exam security in China, India, and South Korea may indirectly influence international student demand by amplifying stress around domestic admissions, potentially increasing interest in overseas pathways—but causal links remain uncertain amid broader economic and policy variables.  \nAdmissions teams should monitor regional sentiment shifts via student surveys and agent feedback, and assess whether intensified domestic exam pressure correlates with earlier application timelines or increased inquiries about alternative entry routes like pathway programs.",
+      "title": "Hungary stops issuing worker visas to people from three countries, including Philippines",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/hungary-stops-issuing-worker-visas-to-people-from-three-countries-including-philippines-5082618.html",
+      "pubDate": "2026-06-06",
+      "summary": "Hungary’s government has halted the issuance of worker visas to citizens of the Philippines, Georgia, and Armenia, effective Friday. A government spokeswoman stated this measure is the first step toward regulating the inflow of guest workers.",
+      "insight": "Hungary’s suspension of worker visas for Filipinos, Georgians, and Armenians may indirectly influence student mobility patterns, as tighter labour migration pathways could heighten interest in study-abroad options—particularly among Filipino students from Southeast Asia seeking alternative routes to skilled migration, though direct causal links to student visa demand remain unconfirmed.  \nAdmissions teams should monitor application trends from the Philippines and Georgia for subtle shifts in volume or motivation, and assess whether partner agents or education fairs report increased inquiries about post-study work rights—especially in countries where student visas offer clearer pathways to employment.",
       "impact": "Low",
       "sources": [
-        "China",
+        "Southeast Asia"
+      ],
+      "dests": [],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 4,
+      "title": "New Zealand confirms November launch of six-month graduate work visa",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/education/new-zealand-confirms-november-launch-of-six-month-graduate-work-visa-5080705.html",
+      "pubDate": "2026-06-06",
+      "summary": "New Zealand will launch its Short-term Graduate Work Visa on November 16. The visa is a six-month work permit designed for international graduates.",
+      "insight": "This news signals a potential softening of New Zealand’s post-study work offer, which may modestly dampen its appeal relative to competitors like Australia or the UK—though demand shifts will depend on broader factors including tuition costs, living expenses, and perceived career outcomes.  \nAdmissions teams should track whether this change correlates with measurable dips in NZ-bound applications from key markets like India or China, and assess if their institution’s own graduate employment support services need strengthening to maintain competitiveness.",
+      "impact": "Low",
+      "sources": [],
+      "dests": [
+        "New Zealand"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 5,
+      "title": "4 Vietnamese universities increased their rankings in the top 10% in the world",
+      "source": "VnExpress (Giáo dục)",
+      "color": "#b94500",
+      "url": "https://vnexpress.net/4-dai-hoc-viet-nam-tang-hang-trong-top-10-the-gioi-5081266.html",
+      "pubDate": "2026-06-03",
+      "summary": "According to the CWUR rankings, six Vietnamese universities are among the top 10% of universities worldwide. Of these six, four improved their rankings compared to the previous year.",
+      "insight": "This news signals growing institutional capacity in Vietnam’s higher education sector, which may gradually influence outbound student demand—though direct impact on enrolments in English-speaking destinations remains uncertain without evidence of shifting preferences or policy changes.  \nAdmissions teams should monitor Vietnamese student application trends, scholarship uptake, and government scholarship programme expansions, while assessing whether improved domestic rankings correlate with changes in enrolment intentions or visa refusal rates over the next 12–18 months.",
+      "impact": "Medium",
+      "sources": [
+        "Southeast Asia"
+      ],
+      "dests": [],
+      "translated": true,
+      "origLang": "vi",
+      "relevanceScore": 7,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 6,
+      "title": "PolyU Faculty of Business celebrates 30th anniversary of its DBA programme, with over 400 academic and industry leaders gathering to explore new trends for scholar-leaders in AI era",
+      "source": "SCMP (Education)",
+      "color": "#7b241c",
+      "url": "https://www.scmp.com/presented/news/hong-kong/education/topics/polyu-dba-30th-gala/article/3354319/polyu-faculty-business-celebrates-30th-anniversary-its-dba-programme-over-400-academic-and-industry?utm_source=rss_feed",
+      "pubDate": "2026-05-31",
+      "summary": "The PolyU Faculty of Business held a grand dinner on 14 May to mark the 30th anniversary of its Doctor of Business Administration (DBA) programme. Over 400 academic and industry leaders attended, including Mr Paul CHAN, Financial Secretary of the Hong Kong Special Administrative Region Government, who served as guest of honour.",
+      "insight": "This milestone signals growing institutional confidence in Asia-based doctoral business education, potentially reflecting shifting preferences among high-achieving professionals who may prioritise regional credibility and AI-integrated curricula over traditional Western degrees—though direct impact on Western enrolment remains uncertain without longitudinal data.  \nAdmissions teams should track whether PolyU’s DBA anniversary sparks increased inquiries from Chinese and broader Asian professionals about hybrid or dual-degree pathways, and assess if industry leaders’ presence correlates with rising employer recognition of non-Western doctoral credentials in AI-driven sectors.",
+      "impact": "Low",
+      "sources": [
+        "China"
+      ],
+      "dests": [],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 7,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 7,
+      "title": "Hong Kong’s first astronaut success is also a story of youth potential",
+      "source": "SCMP (Education)",
+      "color": "#7b241c",
+      "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3355588/hong-kongs-first-astronaut-success-also-story-youth-potential?utm_source=rss_feed",
+      "pubDate": "2026-06-04",
+      "summary": "Dr. Lai Ka-Ying, a computer science graduate of the University of Hong Kong, has become Hong Kong’s first astronaut and China’s fourth female astronaut. As a payload specialist, she will operate an observatory designed by the Hong Kong University of Science and Technology to track greenhouse gases.",
+      "insight": "This milestone may subtly shift perceptions of STEM pathways in Greater China, potentially reinforcing interest in space-related and environmental science programmes abroad—though direct impact on enrolment remains uncertain without evidence of broader policy or sentiment changes.  \nAdmissions teams should track whether Hong Kong and mainland Chinese universities expand space/environmental science partnerships or scholarships, and monitor if students increasingly cite such national achievements when selecting overseas institutions for technical degrees.",
+      "impact": "Low",
+      "sources": [
+        "China"
+      ],
+      "dests": [],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 7,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 8,
+      "title": "Sammakka Sarakka Central Tribal University ties with TISS to offer M.A. course",
+      "source": "The Hindu (Edu)",
+      "color": "#145a32",
+      "url": "https://www.thehindu.com/news/national/telangana/sammakka-sarakka-central-tribal-university-ties-with-tiss-to-offer-ma-course/article71060547.ece",
+      "pubDate": "2026-06-04",
+      "summary": "Sammakka Sarakka Central Tribal University has partnered with the Tata Institute of Social Sciences, Hyderabad to offer an M.A. program in Public Policy and Governance. The course is being delivered through this institutional collaboration.",
+      "insight": "This collaboration signals growing domestic capacity in India for high-quality, policy-focused postgraduate education, potentially tempering outbound demand for similar M.A. programs abroad—though its actual impact on international enrolment remains uncertain and likely gradual.  \nAdmissions teams should monitor enrolment trends in public policy/governance programs among Indian applicants over the next 12–18 months and assess whether such partnerships correlate with shifts in application volumes or program preferences.",
+      "impact": "Low",
+      "sources": [
         "India"
       ],
       "dests": [],
@@ -62,17 +159,17 @@
       "insightSource": "qwen"
     },
     {
-      "id": 4,
-      "title": "4 Vietnamese universities climb in global top 10% rankings",
-      "source": "VnExpress (EN)",
-      "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/education/4-vietnamese-universities-climb-in-global-top-10-rankings-5081450.html",
-      "pubDate": "2026-06-03",
-      "summary": "Six Vietnamese universities are ranked among the top 10% of institutions worldwide in the 2026 Center for World University Rankings (CWUR). Four of these six universities have improved their global standing compared to the previous year.",
-      "insight": "This news signals growing academic credibility of Vietnamese institutions, which may modestly temper outbound student demand—particularly among high-achievers—though broader recruitment trends depend more on scholarship access, visa policies, and post-study work opportunities than rankings alone.  \n\nAdmissions teams should monitor Vietnamese application volumes by tier (e.g., undergraduate vs. postgraduate), track shifts in preferred destinations among top-performing schools, and assess whether rising domestic capacity correlates with changes in enrolment timing or credential expectations.",
+      "id": 9,
+      "title": "IIT Delhi and 18 NITs launch national network to boost research and student mobility",
+      "source": "Times of India (Edu)",
+      "color": "#d4820a",
+      "url": "https://timesofindia.indiatimes.com/education/news/iit-delhi-and-18-nits-launch-national-network-to-boost-research-and-student-mobility/articleshow/131528639.cms",
+      "pubDate": "2026-06-05",
+      "summary": "IIT Delhi has launched a national academic and research collaboration network with 18 NITs through newly signed MoUs to promote student and faculty mobility, joint research, shared infrastructure, and academic exchanges. The initiative includes an Early Admission Scheme enabling eligible NIT students to pursue advanced studies at IIT Delhi, supported by the ALIGN framework to strengthen academic and research engagement.",
+      "insight": "This development signals growing domestic capacity in India’s elite STEM education sector, potentially moderating outbound demand for master’s and PhD programmes abroad—though its impact on international enrolment remains uncertain given persistent aspirations for global exposure and credential diversification.  \n\nAdmissions teams should monitor uptake of the Early Admission Scheme and ALIGN framework over the next 12–18 months, particularly among high-achieving NIT undergraduates, to assess whether enhanced domestic research pathways meaningfully shift application behaviour toward overseas institutions.",
       "impact": "Low",
       "sources": [
-        "Southeast Asia"
+        "India"
       ],
       "dests": [],
       "translated": false,
@@ -81,38 +178,21 @@
       "insightSource": "qwen"
     },
     {
-      "id": 5,
-      "title": "International universities in Vietnam attract more students from specialized schools",
+      "id": 10,
+      "title": "Fewer Chinese teenagers register for tough university entry exam",
       "source": "VnExpress (EN)",
       "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/education/international-universities-in-vietnam-attract-more-students-from-specialized-schools-5081073.html",
-      "pubDate": "2026-06-03",
-      "summary": "Rising costs of overseas education and stricter visa requirements in some countries are prompting more students from Vietnam’s specialized schools to consider international universities located within Vietnam for higher education. This shift reflects a growing trend among these students to pursue internationally accredited degrees without studying abroad.",
-      "insight": "This development signals potential softening in demand for traditional study-abroad pathways among high-achieving Southeast Asian students, as domestically based international universities offer accredited alternatives amid rising overseas costs and tighter visa policies—though it remains unclear how much this displaces rather than delays outbound mobility.  \nAdmissions teams should monitor enrolment trends among Vietnamese specialized school graduates, track partnerships between local and foreign institutions in Vietnam, and assess whether these students later pursue postgraduate study abroad—using such data to refine outreach timing and scholarship strategies.",
+      "url": "https://e.vnexpress.net/news/news/education/fewer-chinese-teenagers-register-for-tough-university-entry-exam-5082583.html",
+      "pubDate": "2026-06-06",
+      "summary": "The number of Chinese students taking the national university entrance exam fell by 450,000 to 12.9 million compared to the previous year. This decline reflects a growing trend of teenagers choosing not to pursue academic degrees.",
+      "insight": "A modest 3.4% dip in China’s Gaokao registrations—though not directly indicating reduced overseas study intent—may reflect broader shifts in youth attitudes toward academic pathways, potentially amplifying demand for alternative credentials or earlier international enrolment, especially amid evolving domestic education policies and economic sentiment.  \nAdmissions teams should track provincial Gaokao participation trends alongside outbound visa data and agent feedback to discern whether this decline correlates with increased interest in foundation programmes, dual degrees, or non-degree pathways—not as an immediate signal, but as a contextual indicator of changing student decision timelines and priorities.",
       "impact": "Low",
       "sources": [
-        "Southeast Asia"
+        "China"
       ],
-      "dests": [],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 7,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 6,
-      "title": "Nepal ramps up oversight of education consultancies",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/nepal-ramps-up-oversight-of-education-consultancies/",
-      "pubDate": "2026-06-04",
-      "summary": "Nepali authorities are increasing oversight of education consultancies in response to fraud allegations and recent police raids. Stakeholders are urging stronger regulation and greater transparency in the sector.",
-      "insight": "This development signals potential short-term volatility in Nepal’s student outbound flow, as heightened scrutiny may temporarily delay applications or shift preferences toward destinations perceived as more transparent—though direct impacts on enrolment volumes remain uncertain pending regulatory implementation.  \nAdmissions teams should monitor Nepal-specific application trends and consultancies’ licensing status, while reinforcing clear, ethical recruitment messaging to students and agents to mitigate reputational risk amid growing market sensitivity to compliance.",
-      "impact": "Low",
-      "sources": [
-        "South Asia"
+      "dests": [
+        "USA"
       ],
-      "dests": [],
       "translated": false,
       "origLang": null,
       "relevanceScore": 7,
