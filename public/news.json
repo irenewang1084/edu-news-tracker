@@ -1,18 +1,18 @@
 {
-  "updated": "2026-06-07T05:16:00Z",
-  "count": 4,
-  "totalFetched": 165,
+  "updated": "2026-06-08T05:22:35Z",
+  "count": 8,
+  "totalFetched": 179,
   "articles": [
     {
       "id": 1,
-      "title": "US prioritizes World Cup visas, raising concerns over student enrollment declines",
-      "source": "VnExpress (EN)",
-      "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/education/us-prioritizes-world-cup-visas-raising-concerns-over-student-enrollment-declines-5082426.html",
-      "pubDate": "2026-06-07",
-      "summary": "U.S. education policy experts are warning that the administration’s decision to prioritize visa processing for the FIFA World Cup may severely reduce international student enrollment during the peak student visa season. This move draws comparisons to last year’s suspension of student visa interviews.",
-      "insight": "This news signals potential short-term visa processing delays for international students applying to U.S. institutions during the critical summer intake period, though the actual impact depends on resource reallocation scale and whether other visa categories are similarly deprioritized.  \nAdmissions teams should track U.S. embassy wait times in key source markets, assess applicant pipeline health relative to prior years, and prepare contingency messaging—while noting that broader demand trends and alternative destinations remain more decisive than this single policy adjustment.",
-      "impact": "Low",
+      "title": "Duration of status final rule: are transfer restrictions needed?",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/duration-of-status-final-rule-are-transfer-restrictions-needed/",
+      "pubDate": "2026-06-04",
+      "summary": "The article discusses the Department of Homeland Security’s upcoming final rule on duration of status, which is expected to cause significant disruption in the immigration sector. Some experts support new restrictions on student transfers under this rule.",
+      "insight": "The DHS’s pending duration-of-status final rule may indirectly affect international student recruitment by increasing perceived visa uncertainty, potentially dampening demand from risk-averse applicants—especially in F-1–dependent markets—though actual enrollment impact hinges on final provisions and implementation timing.  \nAdmissions teams should monitor official DHS guidance and student sentiment in key source countries, while reviewing transfer policies and advising agents on current regulatory flexibility, rather than adjusting recruitment plans until the rule’s scope and enforcement approach are clarified.",
+      "impact": "High",
       "sources": [],
       "dests": [
         "USA"
@@ -24,60 +24,137 @@
     },
     {
       "id": 2,
-      "title": "University of Liverpool campus in Bangalore now: Courses offered, admissions process, and fees explained",
-      "source": "Times of India (Edu)",
-      "color": "#d4820a",
-      "url": "https://timesofindia.indiatimes.com/education/news/university-of-liverpool-campus-in-bangalore-courses-offered-admissions-process-and-fees-explained/articleshow/131545711.cms",
+      "title": "UK transnational education enrolments surge across China, Vietnam, and Malaysia",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/education/uk-transnational-education-enrolments-surge-across-china-vietnam-and-malaysia-5078324.html",
       "pubDate": "2026-06-06",
-      "summary": "The University of Liverpool has received approval from India’s Ministry of Education to establish a branch campus in Bengaluru, with undergraduate and postgraduate programmes set to commence in 2026. Courses offered include Business Management, Computer Science, Biomedical Sciences, and Game Design, and admissions for the inaugural intake are currently open.",
-      "insight": "The University of Liverpool’s Bengaluru campus signals growing Indian demand for globally recognised degrees delivered locally, potentially moderating outbound enrolment—though its actual impact on traditional study-abroad flows remains uncertain pending uptake and regulatory stability.  \nAdmissions teams should monitor enrolment trends at this campus and similar India-based international branch campuses, as well as shifts in student preferences for hybrid delivery models and local-versus-offshore value propositions over the next 12–18 months.",
+      "summary": "UK transnational education (TNE) enrolments increased significantly across East Asia in the 2024/25 academic year. The British Council reported robust growth in China, Malaysia, Vietnam, and Myanmar.",
+      "insight": "UK TNE growth in East Asia suggests rising regional demand for Western-aligned qualifications, possibly reflecting shifting preferences toward flexible, locally delivered degrees—but it’s unclear whether this directly reduces appetite for full-degree study abroad or merely complements it.  \nAdmissions teams should monitor local TNE partnership developments and student pathway progression data in China, Vietnam, and Malaysia to assess whether TNE serves as a feeder into traditional study-abroad programmes or signals growing self-sufficiency in higher education provision.",
       "impact": "High",
       "sources": [
-        "India"
+        "China",
+        "Southeast Asia"
       ],
       "dests": [
         "UK"
       ],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 7,
+      "relevanceScore": 8,
       "insightSource": "qwen"
     },
     {
       "id": 3,
-      "title": "Shattuck St. Mary's Vietnam brings U.S. education to Hai Phong",
+      "title": "Report: International students already studying in the UK or offshore through TNE represent an increasingly important recruitment opportunity",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/06/report-international-students-already-studying-in-the-uk-or-offshore-through-tne-represent-an-increasingly-important-recruitment-opportunity/",
+      "pubDate": "2026-06-03",
+      "summary": "Tighter compliance thresholds for UK universities recruiting international students, including the Home Office’s “Red, Amber, Green” scheme, are now in effect. As of 1 June 2026, universities will be assessed under updated Basic Compliance Assessment (BCA) metrics, and only institutions rated green will meet the required standard.",
+      "insight": "UK universities now face stricter compliance requirements for international student recruitment, with only “Green”-rated institutions permitted to sponsor visas from June 2026—potentially tightening capacity and reshaping global student flows, though direct demand shifts in key source markets remain uncertain pending broader economic and geopolitical trends.  \nAdmissions teams should track UK visa refusal rates, Home Office policy updates, and competitor institution BCA ratings, while reviewing their own partnerships with UK providers to assess potential impacts on pathway programmes or articulation agreements over the next 12–18 months.",
+      "impact": "Low",
+      "sources": [],
+      "dests": [
+        "UK"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 4,
+      "title": "High dropout rates to trigger sponsor license action, UK unis warned",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/high-dropout-rates-to-trigger-sponsor-license-action-uk-unis-warned/",
+      "pubDate": "2026-06-04",
+      "summary": "The UK government has warned universities that they risk having their sponsor license revoked if they fail to comply with new requirements related to high international student dropout rates. This warning was reported by The PIE News, which published the article titled “High dropout rates to trigger sponsor license action, UK unis warned.”",
+      "insight": "This UK policy shift signals growing regulatory scrutiny of student retention, potentially influencing international applicants’ perceptions of institutional stability and visa compliance—though direct demand impacts remain uncertain without evidence of broader global policy emulation.  \nAdmissions teams should track UK competitor institutions’ retention metrics and communications, while reviewing their own support frameworks for at-risk international cohorts to preempt reputational or operational vulnerabilities.",
+      "impact": "Low",
+      "sources": [],
+      "dests": [
+        "UK"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 5,
+      "title": "New Zealand confirms November launch of six-month graduate work visa",
       "source": "VnExpress (EN)",
       "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/education/shattuck-st-mary-s-vietnam-brings-u-s-education-to-hai-phong-5082072.html",
-      "pubDate": "2026-06-05",
-      "summary": "Shattuck St. Mary's International School Vietnam (SSMVN) has received official approval from Hai Phong authorities to establish and operate an international school in Hai Phong. The school will offer day and boarding programs based on the U.S. educational model and provide a pathway to U.S. universities without requiring students to study abroad.",
-      "insight": "The establishment of a U.S.-curriculum school in Hai Phong signals growing regional demand for American-style education and may gradually shift outbound student flows—though it remains uncertain whether this will reduce overall U.S. university applications or merely delay them by strengthening domestic preparation pathways.  \nAdmissions teams should monitor SSMVN’s first graduating cohort (expected ~2027–2028), track enrollment trends across Southeast Asia, and assess whether such schools become feeder institutions—potentially warranting earlier outreach, articulation agreements, or tailored recruitment materials.",
+      "url": "https://e.vnexpress.net/news/news/education/new-zealand-confirms-november-launch-of-six-month-graduate-work-visa-5080705.html",
+      "pubDate": "2026-06-06",
+      "summary": "New Zealand will launch its Short-term Graduate Work Visa on November 16. The visa is a six-month work permit designed for international graduates.",
+      "insight": "This news signals a potential softening of New Zealand’s post-study work offer, which may modestly dampen its appeal relative to competitors like Australia or the UK—though demand shifts will depend on broader factors including tuition costs, living expenses, and perceived career outcomes.  \nAdmissions teams should track whether this change correlates with measurable dips in NZ-bound applications from key markets like India or China, and assess if their institution’s own graduate employment support services need strengthening to maintain competitiveness.",
+      "impact": "Low",
+      "sources": [],
+      "dests": [
+        "New Zealand"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 6,
+      "title": "Nepal ramps up oversight of education consultancies",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/nepal-ramps-up-oversight-of-education-consultancies/",
+      "pubDate": "2026-06-04",
+      "summary": "Nepali authorities are increasing oversight of education consultancies in response to fraud allegations and recent police raids. Stakeholders are urging stronger regulation and greater transparency in the sector.",
+      "insight": "Nepal’s heightened scrutiny of education consultancies may indirectly affect student demand for Western universities if regulatory crackdowns disrupt application pathways or erode trust in third-party agents, though actual enrollment impacts remain uncertain pending enforcement outcomes and student adaptation.  \nAdmissions teams should monitor Nepal-specific application volume trends, agent accreditation status, and any shifts in student inquiries about visa support—while continuing to verify partner consultants’ compliance with local regulations and institutional due diligence standards.",
       "impact": "Low",
       "sources": [
-        "Southeast Asia"
+        "South Asia"
       ],
-      "dests": [
-        "USA"
-      ],
+      "dests": [],
       "translated": false,
       "origLang": null,
       "relevanceScore": 7,
       "insightSource": "qwen"
     },
     {
-      "id": 4,
-      "title": "Inside 1 of world's only 2 UN international schools in Hanoi, where tuition costs up to $38,000",
+      "id": 7,
+      "title": "Hungary stops issuing worker visas to people from three countries, including Philippines",
       "source": "VnExpress (EN)",
       "color": "#d35400",
-      "url": "https://e.vnexpress.net/photo/education/inside-1-of-worlds-only-2-un-international-schools-in-hanoi-where-tuition-costs-up-to-38000-5071119.html",
-      "pubDate": "2026-06-07",
-      "summary": "United Nations International School of Hanoi (UNIS Hanoi) is the first international K-12 school in Vietnam and one of only two UN international schools worldwide. Established nearly 40 years ago, it occupies the largest school campus in Hanoi, spanning 9.2 hectares, with tuition fees reaching up to $38,000 annually.",
-      "insight": "UNIS Hanoi’s prominence signals growing regional demand for elite, English-medium pre-university education, potentially cultivating a pipeline of academically prepared, globally minded students from Southeast Asia—though direct correlation to tertiary enrolment trends remains uncertain without longitudinal data.  \nAdmissions teams should track UNIS Hanoi’s university placement reports and alumni destination patterns, while exploring partnerships with its counsellors to better understand evolving student aspirations, financial readiness, and preferences across US, UK, AU, and NZ higher education systems.",
+      "url": "https://e.vnexpress.net/news/news/hungary-stops-issuing-worker-visas-to-people-from-three-countries-including-philippines-5082618.html",
+      "pubDate": "2026-06-06",
+      "summary": "Hungary’s government has halted the issuance of worker visas to citizens of the Philippines, Georgia, and Armenia, effective Friday. A government spokeswoman stated this measure is the first step toward regulating the inflow of guest workers.",
+      "insight": "Hungary’s suspension of worker visas for Filipinos, Georgians, and Armenians may indirectly influence student mobility patterns, as tighter labour migration pathways could heighten interest in study-abroad options offering post-study work opportunities—though direct impact on student visa demand remains uncertain without evidence of spillover effects.  \nAdmissions teams should monitor enrolment trends from the Philippines and Georgia, especially in vocational or STEM programmes, while reviewing how partner agents frame post-study work prospects in light of evolving European labour policies.",
       "impact": "Low",
       "sources": [
         "Southeast Asia"
       ],
       "dests": [],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 7,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 8,
+      "title": "Dual PhD holder leaves UK startup to drive green tech research at Hanoi university",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/education/dual-phd-holder-leaves-uk-startup-to-drive-green-tech-research-at-hanoi-university-5077931.html",
+      "pubDate": "2026-06-07",
+      "summary": "A 33-year-old scholar with dual PhDs left a promising UK startup and declined indefinite residency in the United Kingdom to return to his alma mater in Hanoi, Vietnam. He is now leading green technology research at the Hanoi university.",
+      "insight": "This story hints at a potential softening of the ‘Western degree = automatic career advantage’ narrative among high-achieving Southeast Asian students, though it reflects an exceptional individual choice rather than broad market shift—visa policy changes or home-country research investment may be gaining traction as alternative value propositions.  \nAdmissions teams should track rising government R&D funding and academic return-incentive programs in Vietnam and comparable ASEAN nations, while reviewing how their institutions signal tangible post-study pathways beyond traditional Western employment or migration outcomes.",
+      "impact": "Low",
+      "sources": [
+        "Southeast Asia"
+      ],
+      "dests": [
+        "UK"
+      ],
       "translated": false,
       "origLang": null,
       "relevanceScore": 7,
