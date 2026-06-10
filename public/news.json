@@ -1,22 +1,22 @@
 {
-  "updated": "2026-06-09T04:58:44Z",
-  "count": 9,
-  "totalFetched": 182,
+  "updated": "2026-06-10T05:10:11Z",
+  "count": 5,
+  "totalFetched": 172,
   "articles": [
     {
       "id": 1,
-      "title": "Inside 1 of world's only 2 UN international schools in Hanoi, where tuition costs up to $38,000",
-      "source": "VnExpress (EN)",
-      "color": "#d35400",
-      "url": "https://e.vnexpress.net/photo/education/inside-1-of-worlds-only-2-un-international-schools-in-hanoi-where-tuition-costs-up-to-38000-5071119.html",
-      "pubDate": "2026-06-07",
-      "summary": "United Nations International School of Hanoi (UNIS Hanoi) is one of only two UN international schools worldwide and the first international K–12 school in Vietnam, established nearly 40 years ago. It occupies the largest school campus in Hanoi, spanning 9.2 hectares, and charges tuition of up to $38,000 per year.",
-      "insight": "The presence of a high-cost UN-affiliated school in Hanoi signals growing demand among affluent Vietnamese and regional families for globally recognized, English-medium education—potentially foreshadowing increased appetite for Western undergraduate and graduate degrees, though direct correlation to tertiary enrolment remains unproven.  \nAdmissions teams should track UNIS Hanoi’s university placement data and alumni destination trends, while exploring partnerships with elite Vietnamese K–12 institutions to better understand evolving academic pathways and family decision-making criteria.",
+      "title": "Report: International students already studying in the UK or offshore through TNE represent an increasingly important recruitment opportunity",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/06/report-international-students-already-studying-in-the-uk-or-offshore-through-tne-represent-an-increasingly-important-recruitment-opportunity/",
+      "pubDate": "2026-06-03",
+      "summary": "Tighter compliance thresholds for UK universities recruiting international students, including the Home Office’s “Red, Amber, Green” scheme, are now in effect. As of 1 June 2026, universities will be assessed under updated Basic Compliance Assessment (BCA) metrics, and only institutions rated green will meet the required standard.",
+      "insight": "UK universities now face stricter compliance requirements for international student recruitment, with only “Green”-rated institutions able to sponsor visas from June 2026—potentially reshaping global student perceptions of UK study viability, though direct demand shifts depend on how rigorously thresholds are applied and communicated across source markets.  \nAdmissions teams should track UK competitor BCA ratings and associated visa refusal trends, while reviewing their own partnerships with UK institutions to assess potential impacts on pathway programme credibility and student conversion—particularly for applicants from high-risk origin regions.",
       "impact": "Low",
-      "sources": [
-        "Southeast Asia"
+      "sources": [],
+      "dests": [
+        "UK"
       ],
-      "dests": [],
       "translated": false,
       "origLang": null,
       "relevanceScore": 8,
@@ -24,15 +24,17 @@
     },
     {
       "id": 2,
-      "title": "US prioritizes World Cup visas, raising concerns over student enrollment declines",
-      "source": "VnExpress (EN)",
-      "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/education/us-prioritizes-world-cup-visas-raising-concerns-over-student-enrollment-declines-5082426.html",
-      "pubDate": "2026-06-07",
-      "summary": "U.S. education policy experts are warning that the administration’s decision to prioritize visa processing for the FIFA World Cup may severely reduce international student enrollment during the peak student visa season. This move draws comparisons to last year’s suspension of student visa interviews.",
-      "insight": "This news signals potential short-term visa processing delays for international students applying to U.S. institutions during the critical summer intake period, though the actual impact depends on resource reallocation scale and whether other countries adjust their own visa timelines in response.  \nAdmissions teams should track U.S. State Department visa appointment wait times by country, monitor peer institutions’ enrollment updates, and assess whether prospective students from high-demand markets are expressing heightened concern about application timing or shifting preferences toward alternative destinations.",
+      "title": "US judge kills Trump's $100,000 H-1B fee: What happens next for Indian professionals?",
+      "source": "Times of India (Edu)",
+      "color": "#d4820a",
+      "url": "https://timesofindia.indiatimes.com/education/news/us-judge-kills-trumps-100000-h-1b-fee-what-happens-next-for-indian-professionals/articleshow/131608901.cms",
+      "pubDate": "2026-06-09",
+      "summary": "A Massachusetts federal judge invalidated President Trump’s $100,000 fee on certain H-1B visa petitions, ruling it an unauthorized tax. The decision removes a significant financial barrier for Indian professionals, who represent the majority of H-1B visa beneficiaries, and makes U.S. job sponsorships more accessible for employers.",
+      "insight": "This ruling temporarily eases H-1B financial barriers for Indian graduates, potentially reinforcing perceptions of U.S. post-study work value—though its direct impact on enrolment decisions remains uncertain given broader immigration policy volatility and competing destination factors.  \nAdmissions teams should track USCIS implementation updates and Indian student survey data on visa confidence, while benchmarking how peer institutions position U.S. career pathways amid evolving fee and lottery rule proposals.",
       "impact": "Low",
-      "sources": [],
+      "sources": [
+        "India"
+      ],
       "dests": [
         "USA"
       ],
@@ -43,32 +45,32 @@
     },
     {
       "id": 3,
-      "title": "More than 15 years of bringing the University of London's academic heritage to Vietnam",
-      "source": "VnExpress (Giáo dục)",
-      "color": "#b94500",
-      "url": "https://vnexpress.net/hon-15-nam-dua-di-san-hoc-thuat-dai-hoc-london-den-viet-nam-5081618.html",
-      "pubDate": "2026-06-08",
-      "summary": "BUV has served as a bridge connecting the University of London’s nearly 200-year academic heritage to Vietnam for 15 years. Through this partnership, Vietnamese students have gained access to the University of London’s training programs and international educational standards.",
-      "insight": "This news signals growing regional appetite for UK-aligned, locally delivered degrees in Southeast Asia—potentially reflecting shifting preferences toward hybrid pathways that balance international credibility with geographic convenience, though it remains unclear whether this directly reduces demand for offshore study.  \nAdmissions teams should monitor enrolment trends at similar UK-affiliated institutions in Vietnam and neighbouring countries, and assess whether their own articulation or dual-degree offerings resonate with students increasingly valuing recognised qualifications without full relocation.",
+      "title": "From Hanoi gifted school rejection to Ivy League: Vietnamese student aces 10 APs to reach Cornell",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/education/from-hanoi-gifted-school-rejection-to-ivy-league-vietnamese-student-aces-10-aps-to-reach-cornell-5079210.html",
+      "pubDate": "2026-06-09",
+      "summary": "A Vietnamese student from Hanoi was rejected from Hanoi-Amsterdam High School for the Gifted but instead pursued an international curriculum. He earned scores of 4 or 5 on 10 Advanced Placement exams and was admitted to Cornell University.",
+      "insight": "This story reflects growing Southeast Asian student interest in globally recognized curricula like AP as alternatives to national gifted programs, potentially indicating a shift toward U.S.-aligned pathways—though it remains unclear whether this represents a broad trend or an isolated high-achiever case.  \nAdmissions teams should monitor uptake of AP and IB in Vietnamese secondary schools, especially among students bypassing traditional elite tracks, and assess whether such profiles correlate with stronger academic resilience and cross-cultural adaptability in their intake data.",
       "impact": "Low",
       "sources": [
         "Southeast Asia"
       ],
       "dests": [],
-      "translated": true,
-      "origLang": "vi",
+      "translated": false,
+      "origLang": null,
       "relevanceScore": 8,
       "insightSource": "qwen"
     },
     {
       "id": 4,
-      "title": "Deep-Sea Water to Microchips, China Curbs Flashy Admission Packages",
-      "source": "Sixth Tone",
-      "color": "#922b21",
-      "url": "https://www.sixthtone.com/news/1018628/Deep-Sea Water to Microchips, China Curbs Flashy Admission Packages",
+      "title": "Cleaner, mother of two, admitted to master's program at Chinese university she's swept for years",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/education/cleaner-mother-of-two-admitted-to-master-s-program-at-chinese-university-she-s-swept-for-years-5083290.html",
       "pubDate": "2026-06-09",
-      "summary": "Chinese regulators have directed universities to replace extravagant student admission packages—which previously included items like microchips and deep-sea water—with simple one-page welcome letters. This move follows years of escalating competition among institutions to offer increasingly flashy and costly admission materials.",
-      "insight": "This news reflects tightening domestic regulatory oversight of higher education marketing in China, potentially signalling a broader cultural or policy shift toward valuing substance over spectacle—though its direct impact on international student demand remains uncertain and likely indirect.  \nAdmissions teams should monitor Chinese social media and education agency sentiment for shifts in how prestige and institutional care are perceived, and consider whether streamlined, values-driven welcome communications resonate more strongly with next-generation applicants.",
+      "summary": "Li Jia, a 33-year-old cleaner at Chengdu University of Technology since 2021, self-studied for and passed China’s national graduate entrance exam between her cleaning shifts. She was admitted to the university’s master’s program in 2024.",
+      "insight": "This story reflects growing domestic aspiration for advanced degrees in China, potentially signalling softening demand for overseas master’s study—though direct impact on international enrolments remains uncertain amid broader economic and policy trends.  \nAdmissions teams should monitor Chinese graduate entrance exam pass rates, domestic program expansion, and sentiment shifts in education forums, while reviewing scholarship messaging to emphasise unique value beyond degree attainment.",
       "impact": "Low",
       "sources": [
         "China"
@@ -81,91 +83,13 @@
     },
     {
       "id": 5,
-      "title": "Fewer Chinese teenagers register for tough university entry exam",
-      "source": "VnExpress (EN)",
-      "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/education/fewer-chinese-teenagers-register-for-tough-university-entry-exam-5082583.html",
-      "pubDate": "2026-06-06",
-      "summary": "The number of Chinese students taking the national university entrance exam fell by 450,000 to 12.9 million compared to the previous year. This decline reflects a growing trend of teenagers choosing not to pursue academic degrees.",
-      "insight": "A modest decline in China’s Gaokao registrations may signal shifting educational preferences among some students, though it remains unclear whether this reflects reduced overall demand for higher education or merely a diversification toward vocational paths, overseas study, or delayed entry—making it an early indicator rather than a definitive trend.  \nAdmissions teams should track regional Gaokao participation data alongside outbound student visa issuance and agent sentiment to assess whether declining domestic exam uptake correlates with increased interest in specific international destinations or program types, particularly in applied and technical fields.",
-      "impact": "Low",
-      "sources": [
-        "China"
-      ],
-      "dests": [
-        "USA"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 7,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 6,
-      "title": "Supreme Court seeks CBSE response over Gulf students’ Class 12 blank marksheets",
+      "title": "Centre clears three more foreign universities to establish campuses in India",
       "source": "Times of India (Edu)",
       "color": "#d4820a",
-      "url": "https://timesofindia.indiatimes.com/education/news/supreme-court-seeks-cbse-response-over-gulf-students-class-12-blank-marksheets/articleshow/131587724.cms",
-      "pubDate": "2026-06-08",
-      "summary": "The Supreme Court has issued a notice to the Central Board of Secondary Education (CBSE) regarding the alleged non-declaration of Class XII results and issuance of blank marksheets to students in Gulf countries, following a petition filed by advocates Vineet Jindal and Rajkishore Chaudhary on behalf of Saudi Arabia-based student Pransu Patel. The Court directed CBSE to resolve the matter by Friday and sought its response before the next hearing scheduled for June 12, 2026.",
-      "insight": "This incident highlights potential fragility in Gulf-based Indian students’ academic credentialing, which could indirectly influence demand for alternative pathways—including undergraduate admissions abroad—if trust in CBSE’s reliability erodes among families and education agents in the MENA region.  \n\nAdmissions teams should monitor regional sentiment shifts, CBSE’s resolution timeline, and any uptick in inquiries from Gulf-based Indian students seeking transcript verification or early application support—while avoiding premature policy changes pending clearer evidence of systemic impact.",
-      "impact": "Low",
-      "sources": [
-        "MENA"
-      ],
-      "dests": [],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 7,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 7,
-      "title": "Vietnamese, Cambodian PMs advance practical, results-oriented partnership during talks",
-      "source": "VnExpress (EN)",
-      "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/politics/vietnamese-cambodian-pms-advance-practical-results-oriented-partnership-during-talks-5083502.html",
-      "pubDate": "2026-06-09",
-      "summary": "Vietnamese and Cambodian prime ministers held talks in Hanoi on June 8 to strengthen political, economic, and security ties. They agreed to advance practical cooperation and regional connectivity.",
-      "insight": "Strengthened Vietnam–Cambodia ties may indirectly support regional stability and economic confidence, potentially sustaining or modestly boosting outbound student mobility from both countries—though direct impacts on enrolment demand remain uncertain without data on education-specific agreements or funding commitments.  \nAdmissions teams should monitor bilateral scholarship announcements, joint university initiatives, or visa facilitation measures emerging from this partnership, while continuing to track national education export strategies and regional sentiment shifts through local agent feedback and embassy education advisories.",
-      "impact": "Medium",
-      "sources": [
-        "Southeast Asia"
-      ],
-      "dests": [],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 6,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 8,
-      "title": "Hong Kong’s first astronaut success is also a story of youth potential",
-      "source": "SCMP (Education)",
-      "color": "#7b241c",
-      "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3355588/hong-kongs-first-astronaut-success-also-story-youth-potential?utm_source=rss_feed",
-      "pubDate": "2026-06-04",
-      "summary": "Dr. Lai Ka-Ying, a computer science graduate of the University of Hong Kong, has become Hong Kong’s first astronaut and China’s fourth female astronaut. As a payload specialist, she will operate an observatory designed by the Hong Kong University of Science and Technology to track greenhouse gases.",
-      "insight": "This milestone may subtly shift perceptions of Hong Kong and mainland China as talent-exporting regions, potentially reinforcing demand for STEM pathways abroad—though direct causal links to enrolment trends remain unproven and likely mediated by broader geopolitical and economic factors.  \nAdmissions teams should track whether Hong Kong’s renewed emphasis on space science and national pride in STEM achievement correlates with increased applications to aerospace or environmental engineering programmes, while reviewing scholarship messaging around global impact and regional role models.",
-      "impact": "Low",
-      "sources": [
-        "China"
-      ],
-      "dests": [],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 6,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 9,
-      "title": "What India can learn from the West’s ed-tech reckoning",
-      "source": "The Hindu (Edu)",
-      "color": "#145a32",
-      "url": "https://www.thehindu.com/education/what-india-can-learn-from-the-wests-ed-tech-reckoning/article71047881.ece",
-      "pubDate": "2026-06-06",
-      "summary": "The article discusses a growing educational divide in which some students receive instruction shaped by human educators while others are subject to algorithm-driven ed-tech platforms. It frames this as a “reckoning” in Western education systems, highlighting concerns about the increasing influence of technology over pedagogy and teacher autonomy.",
-      "insight": "This news may subtly influence Indian students’ perceptions of Western education quality, potentially amplifying demand for institutions that visibly prioritize human-centered teaching over algorithmic platforms—though direct impact on enrolment decisions remains uncertain and likely mediated by broader factors like employability and visa stability.  \nAdmissions teams should monitor Indian student surveys and agent feedback for emerging concerns about ed-tech saturation in Western classrooms, and consider highlighting faculty engagement, small-class pedagogy, and critical digital literacy training as differentiators in marketing materials.",
+      "url": "https://timesofindia.indiatimes.com/education/news/centre-clears-three-more-foreign-universities-to-establish-campuses-in-india/articleshow/131624535.cms",
+      "pubDate": "2026-06-10",
+      "summary": "The Indian government has approved three foreign universities—the University of Bristol, the University of York, and the University of New South Wales—to establish campuses in India. These campuses will be located in Mumbai and Bengaluru and will offer programs in finance, computer science, and business management, in alignment with the National Education Policy 2020.",
+      "insight": "This development signals growing domestic capacity for high-quality, internationally aligned education in India, potentially moderating outbound demand for undergraduate and master’s programs in finance, CS, and business—though actual enrolment impact depends on campus execution, accreditation, and student trust over time.  \nAdmissions teams should track enrolment uptake and graduate outcomes at these new campuses over the next 2–3 years, while reviewing messaging around value proposition, post-study opportunities, and regional advantages relative to emerging local alternatives.",
       "impact": "Low",
       "sources": [
         "India"
@@ -173,7 +97,7 @@
       "dests": [],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 6,
+      "relevanceScore": 8,
       "insightSource": "qwen"
     }
   ]
