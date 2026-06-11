@@ -1,17 +1,17 @@
 {
-  "updated": "2026-06-10T05:10:11Z",
-  "count": 5,
-  "totalFetched": 172,
+  "updated": "2026-06-11T05:18:14Z",
+  "count": 4,
+  "totalFetched": 182,
   "articles": [
     {
       "id": 1,
-      "title": "Report: International students already studying in the UK or offshore through TNE represent an increasingly important recruitment opportunity",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/06/report-international-students-already-studying-in-the-uk-or-offshore-through-tne-represent-an-increasingly-important-recruitment-opportunity/",
-      "pubDate": "2026-06-03",
-      "summary": "Tighter compliance thresholds for UK universities recruiting international students, including the Home Office’s “Red, Amber, Green” scheme, are now in effect. As of 1 June 2026, universities will be assessed under updated Basic Compliance Assessment (BCA) metrics, and only institutions rated green will meet the required standard.",
-      "insight": "UK universities now face stricter compliance requirements for international student recruitment, with only “Green”-rated institutions able to sponsor visas from June 2026—potentially reshaping global student perceptions of UK study viability, though direct demand shifts depend on how rigorously thresholds are applied and communicated across source markets.  \nAdmissions teams should track UK competitor BCA ratings and associated visa refusal trends, while reviewing their own partnerships with UK institutions to assess potential impacts on pathway programme credibility and student conversion—particularly for applicants from high-risk origin regions.",
+      "title": "The PIE investigates: The real cost of rejection in visa fees",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/the-pie-investigates-the-real-cost-of-rejection-in-visa-fees/",
+      "pubDate": "2026-06-08",
+      "summary": "The UK government collected over £9.3 million in visa fees from international students whose applications were refused over the past 12 months. Despite a decline in overall visa application numbers since 2012, revenue from refused applications has increased.",
+      "insight": "This news suggests growing financial risk for international students applying to the UK, potentially dampening demand—especially among cost-sensitive cohorts—but it’s unclear whether this reflects stricter visa policies, application quality issues, or broader geopolitical sentiment shifts.  \nAdmissions teams should track refusal rate trends by country and visa type, review pre-application support services, and assess whether partner agents or universities are reporting increased student hesitation about UK applications due to perceived affordability or fairness concerns.",
       "impact": "Low",
       "sources": [],
       "dests": [
@@ -24,20 +24,18 @@
     },
     {
       "id": 2,
-      "title": "US judge kills Trump's $100,000 H-1B fee: What happens next for Indian professionals?",
-      "source": "Times of India (Edu)",
-      "color": "#d4820a",
-      "url": "https://timesofindia.indiatimes.com/education/news/us-judge-kills-trumps-100000-h-1b-fee-what-happens-next-for-indian-professionals/articleshow/131608901.cms",
+      "title": "Why are TNE approvals surging in China?",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/why-are-tne-approvals-surging-in-china/",
       "pubDate": "2026-06-09",
-      "summary": "A Massachusetts federal judge invalidated President Trump’s $100,000 fee on certain H-1B visa petitions, ruling it an unauthorized tax. The decision removes a significant financial barrier for Indian professionals, who represent the majority of H-1B visa beneficiaries, and makes U.S. job sponsorships more accessible for employers.",
-      "insight": "This ruling temporarily eases H-1B financial barriers for Indian graduates, potentially reinforcing perceptions of U.S. post-study work value—though its direct impact on enrolment decisions remains uncertain given broader immigration policy volatility and competing destination factors.  \nAdmissions teams should track USCIS implementation updates and Indian student survey data on visa confidence, while benchmarking how peer institutions position U.S. career pathways amid evolving fee and lottery rule proposals.",
+      "summary": "China's Ministry of Education approved 219 new Transnational Education (TNE) partnerships in its latest round at the end of May. This represents the highest annual number of TNE approvals since 2012, according to sector analysts.",
+      "insight": "The surge in TNE approvals signals growing domestic capacity for internationally aligned education in China, potentially moderating outbound demand—but it’s too early to conclude whether this reflects shifting student preferences, policy-driven supply expansion, or preparatory infrastructure for future mobility.  \nAdmissions teams should track enrolment trends in newly approved TNE programmes over the next 12–18 months and assess whether partner institutions report changes in application volumes or student intent to study abroad.",
       "impact": "Low",
       "sources": [
-        "India"
+        "China"
       ],
-      "dests": [
-        "USA"
-      ],
+      "dests": [],
       "translated": false,
       "origLang": null,
       "relevanceScore": 8,
@@ -45,13 +43,13 @@
     },
     {
       "id": 3,
-      "title": "From Hanoi gifted school rejection to Ivy League: Vietnamese student aces 10 APs to reach Cornell",
+      "title": "15 years of University of London education in Vietnam",
       "source": "VnExpress (EN)",
       "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/education/from-hanoi-gifted-school-rejection-to-ivy-league-vietnamese-student-aces-10-aps-to-reach-cornell-5079210.html",
+      "url": "https://e.vnexpress.net/news/news/education/15-years-of-university-of-london-education-in-vietnam-5079687.html",
       "pubDate": "2026-06-09",
-      "summary": "A Vietnamese student from Hanoi was rejected from Hanoi-Amsterdam High School for the Gifted but instead pursued an international curriculum. He earned scores of 4 or 5 on 10 Advanced Placement exams and was admitted to Cornell University.",
-      "insight": "This story reflects growing Southeast Asian student interest in globally recognized curricula like AP as alternatives to national gifted programs, potentially indicating a shift toward U.S.-aligned pathways—though it remains unclear whether this represents a broad trend or an isolated high-achiever case.  \nAdmissions teams should monitor uptake of AP and IB in Vietnamese secondary schools, especially among students bypassing traditional elite tracks, and assess whether such profiles correlate with stronger academic resilience and cross-cultural adaptability in their intake data.",
+      "summary": "Academic programs offered through the University of London have been available in Vietnam for over 15 years. These programs provide Vietnamese students with access to internationally recognized degrees and academic standards.",
+      "insight": "The 15-year presence of University of London programs in Vietnam signals growing local appetite for UK-aligned, flexible, and internationally recognized qualifications—potentially reflecting shifting preferences toward hybrid or transnational education models, though direct implications for demand in traditional destination countries remain uncertain.  \nAdmissions teams should monitor enrolment trends in these London-affiliated Vietnamese programs, especially progression rates to UK campuses or graduate study abroad, as early indicators of evolving student pathways and competitive positioning in Southeast Asia.",
       "impact": "Low",
       "sources": [
         "Southeast Asia"
@@ -64,32 +62,13 @@
     },
     {
       "id": 4,
-      "title": "Cleaner, mother of two, admitted to master's program at Chinese university she's swept for years",
-      "source": "VnExpress (EN)",
-      "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/education/cleaner-mother-of-two-admitted-to-master-s-program-at-chinese-university-she-s-swept-for-years-5083290.html",
-      "pubDate": "2026-06-09",
-      "summary": "Li Jia, a 33-year-old cleaner at Chengdu University of Technology since 2021, self-studied for and passed China’s national graduate entrance exam between her cleaning shifts. She was admitted to the university’s master’s program in 2024.",
-      "insight": "This story reflects growing domestic aspiration for advanced degrees in China, potentially signalling softening demand for overseas master’s study—though direct impact on international enrolments remains uncertain amid broader economic and policy trends.  \nAdmissions teams should monitor Chinese graduate entrance exam pass rates, domestic program expansion, and sentiment shifts in education forums, while reviewing scholarship messaging to emphasise unique value beyond degree attainment.",
-      "impact": "Low",
-      "sources": [
-        "China"
-      ],
-      "dests": [],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 5,
-      "title": "Centre clears three more foreign universities to establish campuses in India",
+      "title": "QS top-20 UNSW, top-100 Bristol among four foreign universities cleared to open India campuses",
       "source": "Times of India (Edu)",
       "color": "#d4820a",
-      "url": "https://timesofindia.indiatimes.com/education/news/centre-clears-three-more-foreign-universities-to-establish-campuses-in-india/articleshow/131624535.cms",
+      "url": "https://timesofindia.indiatimes.com/education/news/qs-top-20-unsw-top-100-bristol-among-four-foreign-universities-cleared-to-open-india-campuses/articleshow/131633892.cms",
       "pubDate": "2026-06-10",
-      "summary": "The Indian government has approved three foreign universities—the University of Bristol, the University of York, and the University of New South Wales—to establish campuses in India. These campuses will be located in Mumbai and Bengaluru and will offer programs in finance, computer science, and business management, in alignment with the National Education Policy 2020.",
-      "insight": "This development signals growing domestic capacity for high-quality, internationally aligned education in India, potentially moderating outbound demand for undergraduate and master’s programs in finance, CS, and business—though actual enrolment impact depends on campus execution, accreditation, and student trust over time.  \nAdmissions teams should track enrolment uptake and graduate outcomes at these new campuses over the next 2–3 years, while reviewing messaging around value proposition, post-study opportunities, and regional advantages relative to emerging local alternatives.",
+      "summary": "India has granted Letters of Approval to the University of Bristol, University of York, UNSW, and University of Liverpool to establish campuses under the National Education Policy 2020, with Bristol and York located in Mumbai and UNSW and Liverpool in Bengaluru. Bristol plans to begin admissions in August 2026 with an initial intake of 250 students, and six to seven foreign university campuses are expected to open during 2026–27.",
+      "insight": "This development signals growing Indian regulatory openness to foreign higher education providers, potentially intensifying competition for domestic students who might otherwise consider studying abroad—though actual enrolment diversion remains uncertain pending campus quality, accreditation, and student perception.  \nAdmissions teams should monitor enrolment patterns at these new campuses, especially uptake among high-achieving Indian students, while reviewing their India-facing value propositions—scholarships, articulation pathways, and post-study work benefits—to ensure continued competitiveness amid evolving local options.",
       "impact": "Low",
       "sources": [
         "India"
