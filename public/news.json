@@ -1,21 +1,21 @@
 {
-  "updated": "2026-06-13T05:12:52Z",
-  "count": 3,
-  "totalFetched": 171,
+  "updated": "2026-06-14T05:24:34Z",
+  "count": 5,
+  "totalFetched": 169,
   "articles": [
     {
       "id": 1,
-      "title": "Bloomsbury Institute sponsor licence suspended",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/bloomsbury-institute-sponsor-licence-suspended/",
+      "title": "US visa processing centres in Africa to be reduced by more than half; only the latest barrier for African students",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/06/us-visa-processing-centres-in-africa-to-be-reduced-by-more-than-half-only-the-latest-barrier-for-african-students/",
       "pubDate": "2026-06-11",
-      "summary": "Bloomsbury Institute’s international student sponsor licence has been suspended by the UK Home Office. The news was first reported by The PIE News.",
-      "insight": "This suspension signals heightened UK Home Office scrutiny of smaller private providers, potentially reinforcing perceptions among international students—especially from high-regulation markets like India and Nigeria—that visa compliance and institutional credibility are increasingly decisive in destination choice. While not directly altering global demand, it may subtly shift preference toward universities with robust compliance track records and transparent immigration support.\n\nAdmissions teams should monitor UK visa refusal trends by nationality and source-region sentiment around “low-tier” institutions, while reviewing their own compliance communications to prospective students—particularly regarding post-study work eligibility and academic progression pathways.",
-      "impact": "High",
+      "summary": "The US government plans to reduce the number of US visa processing centres in Africa by more than half. This measure is part of a broader set of new policies aimed at making it more difficult and expensive for students from many African countries to obtain US student visas.",
+      "insight": "This news signals potential friction in US-bound student pathways from Africa, possibly dampening demand or shifting applications toward countries with more accessible visa processes—though actual enrolment impact depends on how African students respond and whether alternative routes (e.g., pathway programs, regional hubs) emerge.  \nAdmissions teams should monitor application volumes and visa refusal rates from key African markets over the next 6–12 months, while reviewing support services for visa documentation and exploring partnerships with trusted local agents to mitigate processing delays.",
+      "impact": "Low",
       "sources": [],
       "dests": [
-        "UK"
+        "USA"
       ],
       "translated": false,
       "origLang": null,
@@ -24,16 +24,35 @@
     },
     {
       "id": 2,
-      "title": "Deep-Sea Water to Microchips, China Curbs Flashy Admission Packages",
-      "source": "Sixth Tone",
-      "color": "#922b21",
-      "url": "https://www.sixthtone.com/news/1018628/Deep-Sea Water to Microchips, China Curbs Flashy Admission Packages",
-      "pubDate": "2026-06-13",
-      "summary": "Chinese regulators have directed universities to simplify their student admission packages, ending the practice of distributing elaborate welcome items such as microchips and deep-sea water. Schools are now required to revert to a basic one-page admission letter.",
-      "insight": "This regulatory move signals potential shifts in Chinese student expectations, as reduced domestic “welcome spectacle” may subtly elevate perceived value of overseas institutions’ personalized onboarding—though direct demand impacts remain unproven and likely secondary to broader factors like visa policy or employability outcomes.  \nAdmissions teams should monitor Chinese social media sentiment around university welcome experiences and track whether simplified domestic packages correlate with increased inquiries about international orientation support or branded welcome kits over the next 6–12 months.",
+      "title": "IDP Australia outsources onshore visa services to Bravo Migration",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/idp-australia-outsources-onshore-visa-services-to-bravo-migration/",
+      "pubDate": "2026-06-11",
+      "summary": "IDP Education and Bravo Migration have formed a new partnership to deliver onshore visa support services for international students in Australia. This arrangement involves IDP Australia outsourcing its onshore visa services to Bravo Migration.",
+      "insight": "This partnership signals growing operational specialisation in Australia’s international education sector, potentially reflecting increased complexity or volume in onshore visa processing—but it doesn’t directly indicate shifts in student demand, policy, or source market sentiment.  \nAdmissions teams should monitor whether this outsourcing leads to changes in visa processing timelines, service consistency, or student satisfaction for Australian pathways—particularly when advising applicants considering Australia as a study destination or post-study option.",
+      "impact": "Low",
+      "sources": [],
+      "dests": [
+        "Australia"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 3,
+      "title": "Bristol, York and UNSW get approval to set up campuses in India",
+      "source": "The Hindu (Edu)",
+      "color": "#145a32",
+      "url": "https://www.thehindu.com/education/bristol-york-and-unsw-get-approval-to-set-up-campuses-in-india/article71084509.ece",
+      "pubDate": "2026-06-11",
+      "summary": "Bristol, York, and UNSW have received approval to establish campuses in India. This development supports the internationalisation of education goals outlined in India’s National Education Policy 2020, according to Union Education Minister Dharmendra Pradhan.",
+      "insight": "This news signals growing institutional confidence in India’s regulatory environment for transnational education, potentially intensifying competition for high-achieving Indian students who may now weigh domestic campus options against overseas study—though actual enrolment shifts depend on implementation speed, fee structures, and degree recognition.  \nAdmissions teams should track enrolment patterns at these new campuses, monitor Indian student visa data for UK/Australia/NZ, and assess whether partnerships or articulation pathways with these institutions could strengthen recruitment—while avoiding premature strategic pivots given the early stage of rollout.",
       "impact": "Low",
       "sources": [
-        "China"
+        "India"
       ],
       "dests": [],
       "translated": false,
@@ -42,20 +61,38 @@
       "insightSource": "qwen"
     },
     {
-      "id": 3,
-      "title": "Pakistan’s UK recruitment boom is over – what comes next matters more",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/pakistans-uk-recruitment-boom-is-over-what-comes-next-matters-more/",
-      "pubDate": "2026-06-11",
-      "summary": "The article states that Pakistan’s UK student recruitment market has shifted from volume-led growth to a more disciplined and sustainable approach. This new phase rewards educational institutions that prioritize compliance, maintain a local presence, and build long-term relationships.",
-      "insight": "This shift in Pakistan’s UK recruitment signals a broader trend where compliance, local engagement, and relationship depth are increasingly valued over sheer application volume—though direct implications for other destinations remain uncertain without parallel policy changes or market signals.  \nAdmissions teams should monitor Pakistani student visa refusal rates, UK Home Office guidance updates, and emerging partnerships between Pakistani institutions and overseas universities to gauge whether similar discipline-driven expectations may spread across other Anglophone destinations.",
+      "id": 4,
+      "title": "Report: International students already studying in the UK or offshore through TNE represent an increasingly important recruitment opportunity",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/06/report-international-students-already-studying-in-the-uk-or-offshore-through-tne-represent-an-increasingly-important-recruitment-opportunity/",
+      "pubDate": "2026-06-03",
+      "summary": "Tighter compliance thresholds for UK universities recruiting international students, including the Home Office’s “Red, Amber, Green” scheme, are now in effect. As of 1 June 2026, universities will be assessed under updated Basic Compliance Assessment (BCA) metrics, and only institutions rated green will meet the required standard.",
+      "insight": "This UK policy shift signals growing regulatory scrutiny of international student pathways, potentially tightening access for students from lower-compliance source markets and indirectly influencing global perceptions of UK study as a secure, high-quality option amid rising visa stringency elsewhere.  \nAdmissions teams should monitor UK enrolment trends among shared source markets—especially China, India, and Nigeria—as well as shifts in agent partnerships and student inquiries toward alternative destinations, while reviewing their own compliance frameworks against emerging global standards.",
       "impact": "Low",
-      "sources": [
-        "South Asia"
-      ],
+      "sources": [],
       "dests": [
         "UK"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 6,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 5,
+      "title": "UK’s ELT sector reports declining enrolments through first quarter of 2026",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/06/uks-elt-sector-reports-declining-enrolments-through-first-quarter-of-2026/",
+      "pubDate": "2026-06-11",
+      "summary": "The UK’s English-language teaching (ELT) sector reported declining enrolments through the first quarter of 2026. According to English UK, the peak body representing 85% of accredited ELT centres in the country, the decline in students and student weeks in 2025 was more moderate than that observed in Canada’s and Australia’s ELT sectors.",
+      "insight": "The UK’s reported ELT enrolment decline in early 2026—milder than in Canada and Australia—may reflect shifting preferences among international students, tighter visa rules, or reduced confidence in post-study pathways, though causality remains unclear without granular data on source markets and policy changes.  \nAdmissions teams should track UK visa policy updates, regional application trends from key markets like China and India, and competitor pricing or scholarship offers—noting that ELT performance is a leading but imperfect indicator of broader undergraduate/postgraduate demand.",
+      "impact": "Low",
+      "sources": [],
+      "dests": [
+        "Canada",
+        "Australia"
       ],
       "translated": false,
       "origLang": null,
