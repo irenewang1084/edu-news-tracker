@@ -1,20 +1,20 @@
 {
-  "updated": "2026-06-15T06:14:21Z",
-  "count": 5,
-  "totalFetched": 175,
+  "updated": "2026-06-16T06:21:00Z",
+  "count": 3,
+  "totalFetched": 174,
   "articles": [
     {
       "id": 1,
-      "title": "Pranav Adani announces scholarships and 200 bicycles for IIM Calcutta campus mobility initiative",
-      "source": "Times of India (Edu)",
-      "color": "#d4820a",
-      "url": "https://timesofindia.indiatimes.com/education/news/pranav-adani-announces-scholarships-and-200-bicycles-for-iim-calcutta-campus-mobility-initiative/articleshow/131734572.cms",
+      "title": "Nigeria lifts tuition remittance cap even as visa concerns persist",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/nigeria-lifts-tuition-remittance-cap-even-as-visa-concerns-persist/",
       "pubDate": "2026-06-15",
-      "summary": "Pranav Adani visited IIM Calcutta and announced the continuation of full-fee scholarships for six MBA students per academic cycle. He also pledged a campus mobility initiative involving the donation of 200 bicycles for student use to support financial assistance and improve intra-campus movement.",
-      "insight": "This news reflects growing domestic investment in elite Indian management education, potentially reinforcing perceptions of high-quality, affordable alternatives—though its direct impact on outbound student demand remains uncertain amid broader economic and policy trends.  \nAdmissions teams should monitor IIM Calcutta’s scholarship uptake and bicycle initiative’s effect on student satisfaction and retention, while watching for similar corporate-backed support at other top Indian institutions that could influence regional enrollment decisions.",
-      "impact": "Medium",
+      "summary": "The Central Bank of Nigeria has raised the maximum tuition fee remittance limit for students studying abroad from $15,000 to $25,000 per semester. Experts note that despite this increase, access to visas and adequate funding remain significant challenges for many prospective international students from Nigeria.",
+      "insight": "This policy shift signals potential easing of financial constraints for Nigerian students pursuing overseas education, though its impact on actual enrolment remains uncertain given persistent visa hurdles and broader economic pressures in West Africa.  \nAdmissions teams should monitor uptake of the higher remittance cap alongside Nigerian visa refusal rates and local currency stability, while ensuring financial documentation guidance reflects the updated limit without assuming immediate demand growth.",
+      "impact": "High",
       "sources": [
-        "India"
+        "West Africa"
       ],
       "dests": [],
       "translated": false,
@@ -24,56 +24,15 @@
     },
     {
       "id": 2,
-      "title": "India steps up bid to reverse brain drain with global researcher scheme",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/india-steps-up-bid-to-reverse-brain-drain-with-global-researcher-scheme/",
+      "title": "US visa processing centres in Africa to be reduced by more than half; only the latest barrier for African students",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/06/us-visa-processing-centres-in-africa-to-be-reduced-by-more-than-half-only-the-latest-barrier-for-african-students/",
       "pubDate": "2026-06-11",
-      "summary": "India has launched a new global researcher scheme aimed at attracting Indian-origin researchers back to the country. The initiative seeks to strengthen India’s research ecosystem in response to concerns about brain drain and increasing international competition for scientific talent.",
-      "insight": "This initiative signals India’s intensified effort to retain and repatriate high-skilled talent, potentially influencing long-term graduate migration intentions—though its immediate impact on undergraduate or master’s student demand remains uncertain amid strong existing ties to Western education systems.  \nAdmissions teams should monitor uptake and early outcomes of the scheme—especially among PhD candidates and postdocs—as well as shifts in Indian media narratives around ‘return migration’ and career prospects, adjusting messaging on research pathways and alumni success stories accordingly.",
+      "summary": "The US government plans to reduce the number of visa processing centres in Africa by more than half. This measure is part of a broader set of new policies aimed at making it more difficult and costly for students from many African countries to obtain US student visas.",
+      "insight": "This news signals potential friction in US-bound African student pathways, possibly dampening demand or shifting preferences toward alternative destinations—though actual enrolment impact depends on how implementation interacts with existing visa backlogs and regional diplomatic relations.  \nAdmissions teams should monitor application volume and yield trends from key African countries over the next 6–12 months, while reviewing support services for visa documentation and exploring partnerships with local education agents to mitigate processing delays.",
       "impact": "Low",
-      "sources": [
-        "India"
-      ],
-      "dests": [],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 3,
-      "title": "Deep-Sea Water to Microchips, China Curbs Flashy Admission Packages",
-      "source": "Sixth Tone",
-      "color": "#922b21",
-      "url": "https://www.sixthtone.com/news/1018628/Deep-Sea Water to Microchips, China Curbs Flashy Admission Packages",
-      "pubDate": "2026-06-15",
-      "summary": "Chinese regulators are urging universities to replace elaborate admission welcome packages—which previously included items like microchips and deep-sea water—with simple one-page letters. This directive follows years of escalating competition among institutions to produce increasingly flashy and extravagant admission materials.",
-      "insight": "This regulatory shift in China signals growing official scrutiny of performative university marketing, potentially reflecting broader societal and policy preferences for substance over spectacle—though its direct impact on international student demand remains uncertain given differing recruitment contexts abroad.  \nAdmissions teams should monitor Chinese social media and education forums for shifts in applicant expectations around authenticity and value, and consider whether streamlined, values-driven communications resonate more strongly with next-generation applicants amid rising cost-of-living concerns.",
-      "impact": "Low",
-      "sources": [
-        "China"
-      ],
-      "dests": [],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 4,
-      "title": "US law schools see sharp drop in international student applications",
-      "source": "VnExpress (EN)",
-      "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/education/us-law-schools-see-sharp-drop-in-international-student-applications-5085262.html",
-      "pubDate": "2026-06-15",
-      "summary": "US law schools have experienced a sharp decline in international student applications. American University law professor Padideh Ala’i taught a spring international law class that included practicing lawyers from Vietnam, Colombia, and Azerbaijan, whose diverse backgrounds enriched discussions on tariffs and foreign trade.",
-      "insight": "This news may reflect broader shifts in international student demand for US graduate legal education, potentially influenced by visa policy perceptions, geopolitical tensions, or competition from other Anglophone destinations—but causal links remain unconfirmed without granular application data across programs and regions.  \nAdmissions teams should monitor application trends by region and degree level, track visa approval rates and policy updates in key markets like Vietnam and Colombia, and assess how alumni outcomes and post-study work pathways compare with peer countries to inform targeted outreach.",
-      "impact": "Low",
-      "sources": [
-        "Southeast Asia",
-        "Latin America"
-      ],
+      "sources": [],
       "dests": [
         "USA"
       ],
@@ -83,18 +42,16 @@
       "insightSource": "qwen"
     },
     {
-      "id": 5,
-      "title": "Pakistan’s UK recruitment boom is over – what comes next matters more",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/pakistans-uk-recruitment-boom-is-over-what-comes-next-matters-more/",
-      "pubDate": "2026-06-11",
-      "summary": "The era of volume-led growth in Pakistan’s UK student recruitment market has ended, shifting toward a more disciplined and sustainable approach. Institutions that invest in compliance, local presence, and long-term relationships are now being rewarded.",
-      "insight": "This signals a potential shift from rapid, transactional recruitment in South Asia toward greater emphasis on regulatory compliance, institutional credibility, and student support—though it remains unclear whether similar tightening will occur across other English-speaking destinations.  \nAdmissions teams should monitor UK visa policy updates, Pakistani agent partnerships, and emerging preferences for post-study work rights, while reviewing their own compliance frameworks and regional engagement strategies.",
+      "id": 3,
+      "title": "Report: International students already studying in the UK or offshore through TNE represent an increasingly important recruitment opportunity",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/06/report-international-students-already-studying-in-the-uk-or-offshore-through-tne-represent-an-increasingly-important-recruitment-opportunity/",
+      "pubDate": "2026-06-03",
+      "summary": "Tighter compliance thresholds for UK universities recruiting international students, including the Home Office’s “Red, Amber, Green” scheme, are now in effect. As of 1 June 2026, universities will be assessed under updated Basic Compliance Assessment (BCA) metrics, and only institutions rated green will meet the required standard.",
+      "insight": "UK universities now face stricter compliance requirements for international student recruitment, with only “Green”-rated institutions permitted to sponsor visas from June 2026—potentially reshaping global student perceptions of UK study viability and indirectly influencing demand for alternative destinations like the US, Australia, and NZ.  \nAdmissions teams should monitor UK visa refusal trends, partner institution compliance ratings, and shifts in agent/student inquiries from key source markets—noting early signals of redirected applications but avoiding premature strategic pivots without corroborating data.",
       "impact": "Low",
-      "sources": [
-        "South Asia"
-      ],
+      "sources": [],
       "dests": [
         "UK"
       ],
