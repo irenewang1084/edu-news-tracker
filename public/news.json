@@ -1,38 +1,22 @@
 {
-  "updated": "2026-06-16T06:21:00Z",
+  "updated": "2026-06-17T05:56:28Z",
   "count": 3,
-  "totalFetched": 174,
+  "totalFetched": 165,
   "articles": [
     {
       "id": 1,
-      "title": "Nigeria lifts tuition remittance cap even as visa concerns persist",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/nigeria-lifts-tuition-remittance-cap-even-as-visa-concerns-persist/",
+      "title": "US law schools see sharp drop in international student applications",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/education/us-law-schools-see-sharp-drop-in-international-student-applications-5085262.html",
       "pubDate": "2026-06-15",
-      "summary": "The Central Bank of Nigeria has raised the maximum tuition fee remittance limit for students studying abroad from $15,000 to $25,000 per semester. Experts note that despite this increase, access to visas and adequate funding remain significant challenges for many prospective international students from Nigeria.",
-      "insight": "This policy shift signals potential easing of financial constraints for Nigerian students pursuing overseas education, though its impact on actual enrolment remains uncertain given persistent visa hurdles and broader economic pressures in West Africa.  \nAdmissions teams should monitor uptake of the higher remittance cap alongside Nigerian visa refusal rates and local currency stability, while ensuring financial documentation guidance reflects the updated limit without assuming immediate demand growth.",
-      "impact": "High",
-      "sources": [
-        "West Africa"
-      ],
-      "dests": [],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 2,
-      "title": "US visa processing centres in Africa to be reduced by more than half; only the latest barrier for African students",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/06/us-visa-processing-centres-in-africa-to-be-reduced-by-more-than-half-only-the-latest-barrier-for-african-students/",
-      "pubDate": "2026-06-11",
-      "summary": "The US government plans to reduce the number of visa processing centres in Africa by more than half. This measure is part of a broader set of new policies aimed at making it more difficult and costly for students from many African countries to obtain US student visas.",
-      "insight": "This news signals potential friction in US-bound African student pathways, possibly dampening demand or shifting preferences toward alternative destinations—though actual enrolment impact depends on how implementation interacts with existing visa backlogs and regional diplomatic relations.  \nAdmissions teams should monitor application volume and yield trends from key African countries over the next 6–12 months, while reviewing support services for visa documentation and exploring partnerships with local education agents to mitigate processing delays.",
+      "summary": "US law schools have experienced a sharp decline in international student applications. American University law professor Padideh Ala’i taught a spring international law class that included practicing lawyers from Vietnam, Colombia, and Azerbaijan, whose diverse backgrounds enriched discussions on tariffs and foreign trade.",
+      "insight": "This news may reflect broader geopolitical or policy-related hesitancy among international students toward US graduate legal education, though it’s unclear whether the decline stems from visa restrictions, perceived value, or shifting preferences—especially given strong regional representation in existing cohorts.  \nAdmissions teams should track application trends by region and program type, benchmark against peer institutions’ data, and assess whether messaging around post-study work rights, affordability, and global career outcomes needs refinement for Southeast Asian and Latin American prospects.",
       "impact": "Low",
-      "sources": [],
+      "sources": [
+        "Southeast Asia",
+        "Latin America"
+      ],
       "dests": [
         "USA"
       ],
@@ -42,22 +26,41 @@
       "insightSource": "qwen"
     },
     {
+      "id": 2,
+      "title": "Deep-Sea Water to Microchips, China Curbs Flashy Admission Packages",
+      "source": "Sixth Tone",
+      "color": "#922b21",
+      "url": "https://www.sixthtone.com/news/1018628/Deep-Sea Water to Microchips, China Curbs Flashy Admission Packages",
+      "pubDate": "2026-06-17",
+      "summary": "Chinese regulators are urging universities to simplify their student admission packages, moving away from elaborate welcome items such as microchips and deep-sea water. Schools are now directed to revert to a basic one-page admission letter.",
+      "insight": "This regulatory shift in China signals potential softening of domestic prestige competition around admissions, possibly increasing openness to overseas study—but it does not directly indicate rising demand or policy changes affecting visas or outbound mobility.  \nAdmissions teams should monitor Chinese student sentiment toward domestic vs. international pathways and track whether simplified admissions correlate with shifts in application volumes or preferences for institutions emphasizing authenticity over spectacle.",
+      "impact": "Low",
+      "sources": [
+        "China"
+      ],
+      "dests": [],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
       "id": 3,
-      "title": "Report: International students already studying in the UK or offshore through TNE represent an increasingly important recruitment opportunity",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/06/report-international-students-already-studying-in-the-uk-or-offshore-through-tne-represent-an-increasingly-important-recruitment-opportunity/",
-      "pubDate": "2026-06-03",
-      "summary": "Tighter compliance thresholds for UK universities recruiting international students, including the Home Office’s “Red, Amber, Green” scheme, are now in effect. As of 1 June 2026, universities will be assessed under updated Basic Compliance Assessment (BCA) metrics, and only institutions rated green will meet the required standard.",
-      "insight": "UK universities now face stricter compliance requirements for international student recruitment, with only “Green”-rated institutions permitted to sponsor visas from June 2026—potentially reshaping global student perceptions of UK study viability and indirectly influencing demand for alternative destinations like the US, Australia, and NZ.  \nAdmissions teams should monitor UK visa refusal trends, partner institution compliance ratings, and shifts in agent/student inquiries from key source markets—noting early signals of redirected applications but avoiding premature strategic pivots without corroborating data.",
+      "title": "IELTS changes certificates globally",
+      "source": "VnExpress (Giáo dục)",
+      "color": "#b94500",
+      "url": "https://vnexpress.net/ielts-thay-doi-chung-chi-tren-toan-cau-5086578.html",
+      "pubDate": "2026-06-17",
+      "summary": "IELTS certificates will now feature the logo and certificate name aligned with Ofqual standards. Ofqual is the UK’s Office of Qualifications and Examinations Regulation.",
+      "insight": "This alignment with Ofqual standards reinforces IELTS’s regulatory credibility in the UK, potentially strengthening its acceptance for UK visas and university admissions—but its direct impact on demand or policy in the USA, Australia, or New Zealand remains uncertain without parallel regulatory shifts.  \nAdmissions teams should track whether UK visa guidance or partner agencies explicitly reference this update, and assess if regional agents or students in key markets (e.g., India, Nigeria, Vietnam) perceive it as enhancing IELTS’s legitimacy relative to alternatives like TOEFL or PTE.",
       "impact": "Low",
       "sources": [],
       "dests": [
         "UK"
       ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 6,
+      "translated": true,
+      "origLang": "vi",
+      "relevanceScore": 8,
       "insightSource": "qwen"
     }
   ]
