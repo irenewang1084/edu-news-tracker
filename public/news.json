@@ -1,22 +1,19 @@
 {
-  "updated": "2026-06-17T05:56:28Z",
-  "count": 3,
-  "totalFetched": 165,
+  "updated": "2026-06-18T05:28:12Z",
+  "count": 6,
+  "totalFetched": 174,
   "articles": [
     {
       "id": 1,
-      "title": "US law schools see sharp drop in international student applications",
-      "source": "VnExpress (EN)",
-      "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/education/us-law-schools-see-sharp-drop-in-international-student-applications-5085262.html",
-      "pubDate": "2026-06-15",
-      "summary": "US law schools have experienced a sharp decline in international student applications. American University law professor Padideh Ala’i taught a spring international law class that included practicing lawyers from Vietnam, Colombia, and Azerbaijan, whose diverse backgrounds enriched discussions on tariffs and foreign trade.",
-      "insight": "This news may reflect broader geopolitical or policy-related hesitancy among international students toward US graduate legal education, though it’s unclear whether the decline stems from visa restrictions, perceived value, or shifting preferences—especially given strong regional representation in existing cohorts.  \nAdmissions teams should track application trends by region and program type, benchmark against peer institutions’ data, and assess whether messaging around post-study work rights, affordability, and global career outcomes needs refinement for Southeast Asian and Latin American prospects.",
+      "title": "US visa processing centres in Africa to be reduced by more than half; only the latest barrier for African students",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/06/us-visa-processing-centres-in-africa-to-be-reduced-by-more-than-half-only-the-latest-barrier-for-african-students/",
+      "pubDate": "2026-06-11",
+      "summary": "The US government plans to reduce the number of US visa processing centres in Africa by more than half. This measure is part of a broader set of new policies aimed at making it more difficult and expensive for students from many African countries to obtain US student visas.",
+      "insight": "This news signals potential friction in US-bound student pathways from Africa, possibly dampening demand for US institutions while indirectly boosting interest in alternative destinations like the UK, Australia, and New Zealand—though actual enrolment shifts will depend on how implementation affects processing times, costs, and perceived reliability.  \nAdmissions teams should monitor African application trends by country and visa outcome data over the next 6–12 months, and assess whether enhanced support—such as pre-visa advising or partnerships with local agents—could mitigate emerging access barriers without assuming immediate large-scale diversion.",
       "impact": "Low",
-      "sources": [
-        "Southeast Asia",
-        "Latin America"
-      ],
+      "sources": [],
       "dests": [
         "USA"
       ],
@@ -27,18 +24,18 @@
     },
     {
       "id": 2,
-      "title": "Deep-Sea Water to Microchips, China Curbs Flashy Admission Packages",
-      "source": "Sixth Tone",
-      "color": "#922b21",
-      "url": "https://www.sixthtone.com/news/1018628/Deep-Sea Water to Microchips, China Curbs Flashy Admission Packages",
-      "pubDate": "2026-06-17",
-      "summary": "Chinese regulators are urging universities to simplify their student admission packages, moving away from elaborate welcome items such as microchips and deep-sea water. Schools are now directed to revert to a basic one-page admission letter.",
-      "insight": "This regulatory shift in China signals potential softening of domestic prestige competition around admissions, possibly increasing openness to overseas study—but it does not directly indicate rising demand or policy changes affecting visas or outbound mobility.  \nAdmissions teams should monitor Chinese student sentiment toward domestic vs. international pathways and track whether simplified admissions correlate with shifts in application volumes or preferences for institutions emphasizing authenticity over spectacle.",
+      "title": "One Nation seeks crackdown on student visa “course-hopping”",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/one-nation-seeks-crackdown-on-student-visa-course-hopping/",
+      "pubDate": "2026-06-16",
+      "summary": "Australian senator Pauline Hanson, representing the right-wing One Nation party, has called for stricter student visa rules to prevent international students from switching courses without leaving Australia. Her proposal would require students to depart the country before reapplying for a new student visa.",
+      "insight": "This proposal signals potential tightening of Australia’s student visa framework, which could dampen its appeal relative to the USA, UK, and New Zealand—especially among students from Asia seeking flexible study pathways—though actual policy impact remains uncertain pending legislative action.  \nAdmissions teams should monitor Australian government consultations and visa processing trends, while reviewing messaging around pathway flexibility and post-study options to proactively address prospective students’ growing concerns about regulatory stability and mobility.",
       "impact": "Low",
-      "sources": [
-        "China"
+      "sources": [],
+      "dests": [
+        "Australia"
       ],
-      "dests": [],
       "translated": false,
       "origLang": null,
       "relevanceScore": 8,
@@ -46,21 +43,82 @@
     },
     {
       "id": 3,
-      "title": "IELTS changes certificates globally",
-      "source": "VnExpress (Giáo dục)",
-      "color": "#b94500",
-      "url": "https://vnexpress.net/ielts-thay-doi-chung-chi-tren-toan-cau-5086578.html",
-      "pubDate": "2026-06-17",
-      "summary": "IELTS certificates will now feature the logo and certificate name aligned with Ofqual standards. Ofqual is the UK’s Office of Qualifications and Examinations Regulation.",
-      "insight": "This alignment with Ofqual standards reinforces IELTS’s regulatory credibility in the UK, potentially strengthening its acceptance for UK visas and university admissions—but its direct impact on demand or policy in the USA, Australia, or New Zealand remains uncertain without parallel regulatory shifts.  \nAdmissions teams should track whether UK visa guidance or partner agencies explicitly reference this update, and assess if regional agents or students in key markets (e.g., India, Nigeria, Vietnam) perceive it as enhancing IELTS’s legitimacy relative to alternatives like TOEFL or PTE.",
+      "title": "Columbia University brings back mandatory test scores for 2027 admissions",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/education/columbia-university-brings-back-mandatory-test-scores-for-2027-admissions-5086375.html",
+      "pubDate": "2026-06-18",
+      "summary": "Columbia University will require standardized test scores from applicants beginning with the Fall 2027 admissions cycle. This reverses its 2021 decision to adopt a test-optional policy, making it the first Ivy League school to do so.",
+      "insight": "Columbia’s return to test requirements may subtly influence international applicants’ perceptions of selectivity and fairness, particularly among students from regions where standardized testing is deeply embedded in academic culture—though direct impacts on global demand or visa pathways remain unproven and likely mediated by broader economic and geopolitical factors.  \nAdmissions teams should track whether peer institutions follow suit, assess regional variations in test access and preparation capacity, and review how messaging around equity, transparency, and holistic evaluation aligns with evolving expectations across key source markets like India, China, and Nigeria.",
       "impact": "Low",
       "sources": [],
       "dests": [
+        "USA"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 4,
+      "title": "“More of the right people”: diplomats walk a tightrope on UK-India student migration",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/diplomats-walk-a-tightrope-on-uk-india-student-migration/",
+      "pubDate": "2026-06-17",
+      "summary": "Senior British and Indian officials discussed balancing student migration between the UK and India at Cambridge’s India Business Dialogue, emphasizing bilateral opportunity and the need for “more of the right people.” The article notes that the definition of who constitutes the “right” people—and who decides—remains unresolved.",
+      "insight": "This news signals potential tightening of UK student visa policies targeting select Indian cohorts, possibly shifting demand toward alternative destinations like the US, Australia, or New Zealand—though concrete policy changes remain unannounced and market response is still uncertain.  \nAdmissions teams should track UK Home Office guidance updates and Indian student sentiment metrics closely, while reviewing recruitment messaging to emphasize academic fit and post-study pathways—not just volume—as bilateral definitions of “the right people” evolve.",
+      "impact": "Low",
+      "sources": [
+        "India"
+      ],
+      "dests": [
         "UK"
       ],
-      "translated": true,
-      "origLang": "vi",
-      "relevanceScore": 8,
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 7,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 5,
+      "title": "Nigerian agents report extortion over deposits kept by UK unis",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/nigerian-agents-report-extortion-over-deposits-kept-by-uk-unis/",
+      "pubDate": "2026-06-16",
+      "summary": "Nigerian education agents are reportedly paying bribes or making payments to secure the release of colleagues and sub-agents who have been arrested or threatened over tuition fee deposits held by UK universities. The issue involves extortion linked to funds deposited with British institutions that have not been released to agents or students.",
+      "insight": "This news signals potential reputational and operational risks for UK universities in West Africa, possibly dampening trust in deposit-handling practices and indirectly affecting demand if agents divert students to jurisdictions perceived as more transparent or less prone to such coercion.  \nAdmissions teams should monitor agent feedback and student inquiries from Nigeria and neighbouring countries for shifts in deposit concerns or preference changes, while reviewing their own fee-release timelines and communication clarity with agents to preempt similar perceptions.",
+      "impact": "Low",
+      "sources": [
+        "West Africa"
+      ],
+      "dests": [
+        "UK"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 6,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 6,
+      "title": "Prime Minister Research Chair Scheme 2026: Government invites Indian-origin researchers abroad- Check details",
+      "source": "Times of India (Edu)",
+      "color": "#d4820a",
+      "url": "https://timesofindia.indiatimes.com/education/news/pm-research-chair-scheme-2026-government-invites-indian-origin-researchers-abroad-check-details/articleshow/131801138.cms",
+      "pubDate": "2026-06-17",
+      "summary": "India's Ministry of Education has launched the Prime Minister Research Chair Scheme 2026 to attract Indian-origin researchers residing abroad for advanced research in 13 priority areas, including artificial intelligence and biotechnology. The scheme offers positions for both young and senior fellows at premier institutions, and applications are open until further notice.",
+      "insight": "This initiative signals potential long-term shifts in India’s higher education ecosystem, as it may strengthen domestic research capacity and subtly influence outbound student demand—though its direct impact on undergraduate or master’s enrolment remains uncertain amid strong global mobility trends.  \nAdmissions teams should monitor uptake of the scheme among Indian PhD candidates and postdocs abroad, as well as any subsequent policy signals (e.g., enhanced scholarships or visa incentives) that could reshape perceptions of India as a research destination relative to traditional host countries.",
+      "impact": "Low",
+      "sources": [
+        "India"
+      ],
+      "dests": [],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 6,
       "insightSource": "qwen"
     }
   ]
