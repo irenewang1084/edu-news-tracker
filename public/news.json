@@ -1,10 +1,109 @@
 {
-  "updated": "2026-06-20T05:03:38Z",
-  "count": 8,
-  "totalFetched": 184,
+  "updated": "2026-06-21T05:52:13Z",
+  "count": 6,
+  "totalFetched": 173,
   "articles": [
     {
       "id": 1,
+      "title": "UK’s ELT sector reports declining enrolments through first quarter of 2026",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/06/uks-elt-sector-reports-declining-enrolments-through-first-quarter-of-2026/",
+      "pubDate": "2026-06-11",
+      "summary": "The UK’s English-language teaching (ELT) sector reported declining enrolments during the first quarter of 2026, following a challenging year in 2025. According to data from English UK—the peak body representing 85% of accredited ELT centres in the country—the decline in students and student weeks was more moderate than that observed in Canada’s and Australia’s ELT sectors.",
+      "insight": "The UK’s ELT enrolment decline in early 2026—moderate relative to Canada and Australia—may reflect tightening visa policies, shifting source-market preferences, or post-pandemic recalibration, though causality remains unclear without granular data on student intent or visa refusal rates.  \nAdmissions teams should track UK visa processing times, Home Office policy updates, and comparative ELT enrolment trends across English-speaking destinations, while reviewing their own market-specific messaging around pathway credibility and post-study opportunities.",
+      "impact": "Low",
+      "sources": [],
+      "dests": [
+        "Canada",
+        "Australia"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 2,
+      "title": "Japan: Japanese proficiency essential for foreign graduates staying on to work",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/06/japan-japanese-proficiency-essential-for-foreign-graduates-staying-on-to-work/",
+      "pubDate": "2026-06-18",
+      "summary": "An increasing number of study abroad destinations beyond the traditional “Big Four” (Australia, Canada, the UK, and the US) are gaining popularity, supported by government and institutional efforts to boost international student enrolment and retain high-skilled graduates. Japan is highlighted as one such destination where Japanese language proficiency is essential for foreign graduates who wish to remain and work after completing their studies.",
+      "insight": "Japan’s emphasis on Japanese proficiency for post-study work signals a growing global trend where language competency is becoming a non-negotiable condition for graduate retention—potentially influencing student perceptions of destination viability, though direct demand shifts toward English-speaking countries remain unproven.  \nAdmissions teams should monitor longitudinal data on student applications to Japan versus traditional destinations, and assess whether rising language barriers elsewhere correlate with increased interest in English-taught programmes or streamlined visa pathways in their own countries.",
+      "impact": "Low",
+      "sources": [],
+      "dests": [
+        "Canada",
+        "Australia"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 3,
+      "title": "Deep-Sea Water to Microchips, China Curbs Flashy Admission Packages",
+      "source": "Sixth Tone",
+      "color": "#922b21",
+      "url": "https://www.sixthtone.com/news/1018628/Deep-Sea Water to Microchips, China Curbs Flashy Admission Packages",
+      "pubDate": "2026-06-21",
+      "summary": "Chinese regulators have directed universities to simplify their student admission packages, moving away from extravagant items like microchips and deep-sea water that institutions had used in increasingly elaborate welcome packets. The new guidance mandates a return to a basic one-page admission letter.",
+      "insight": "This move signals tightening domestic regulatory scrutiny on university branding and student experience in China, potentially reflecting broader policy shifts toward educational pragmatism—though its direct impact on outbound student demand remains uncertain without evidence of changing parental or student sentiment.  \nAdmissions teams should monitor Chinese social media and education consultancies for emerging narratives around ‘value-driven’ versus ‘prestige-driven’ study decisions, and assess whether simplified domestic welcome practices correlate with increased interest in overseas institutions offering tangible academic or career advantages.",
+      "impact": "Low",
+      "sources": [
+        "China"
+      ],
+      "dests": [],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 4,
+      "title": "Brazil: New surveys show strong, but price-sensitive, demand for study abroad",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/06/brazil-new-surveys-show-strong-but-price-sensitive-demand-for-study-abroad/",
+      "pubDate": "2026-06-11",
+      "summary": "New survey results indicate strong interest in study abroad among Brazilian students and an optimistic outlook from education agents. However, affordability concerns—especially exchange rate fluctuations—are a major factor influencing whether Brazilian students proceed with their study abroad plans.",
+      "insight": "Brazilian students remain a high-potential cohort for English-speaking destinations, but their conversion from interest to enrolment is increasingly contingent on perceived affordability—particularly amid BRL volatility against major currencies, which may dampen yield despite strong initial demand.  \nAdmissions teams should track real-time exchange rate trends and partner with agents to test flexible pricing models (e.g., tuition instalments, early-bird discounts in BRL), while monitoring whether rising local inflation or new Brazilian government scholarship initiatives shift cost sensitivity thresholds.",
+      "impact": "Low",
+      "sources": [
+        "Latin America"
+      ],
+      "dests": [],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 7,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 5,
+      "title": "Hong Kong parents turn to summer school options in Asia amid soaring airfares",
+      "source": "SCMP (Education)",
+      "color": "#7b241c",
+      "url": "https://www.scmp.com/news/hong-kong/education/article/3357803/hong-kong-parents-turn-summer-school-options-asia-amid-soaring-airfares?utm_source=rss_feed",
+      "pubDate": "2026-06-21",
+      "summary": "Hong Kong families are increasingly choosing summer schools in Asia instead of traditional destinations like Britain and North America due to sharply rising airfares. Applications for British summer schools dropped by 35 per cent this year, according to Samuel Chan Sze-ming, founder of education consultancy Britannia StudyLink, who attributed the decline to airfare increases linked to the war in Iran.",
+      "insight": "Rising airfares—cited as linked to geopolitical instability in the Middle East—are prompting Hong Kong families to shift summer study plans toward regional Asian options, suggesting potential short-term pressure on demand for Western summer programmes, though long-term degree enrolment trends remain uncertain.  \nAdmissions teams should monitor airfare volatility and regional sentiment in key source markets like Hong Kong and MENA, and assess whether bundled travel support or flexible start dates could mitigate cost-related hesitancy without pre-empting broader market shifts.",
+      "impact": "Low",
+      "sources": [
+        "MENA"
+      ],
+      "dests": [
+        "UK"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 7,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 6,
       "title": "US visa processing centres in Africa to be reduced by more than half; only the latest barrier for African students",
       "source": "ICEF Monitor",
       "color": "#1a3a5c",
@@ -17,141 +116,6 @@
       "dests": [
         "USA"
       ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 9,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 2,
-      "title": "“More of the right people”: diplomats walk a tightrope on UK-India student migration",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/diplomats-walk-a-tightrope-on-uk-india-student-migration/",
-      "pubDate": "2026-06-17",
-      "summary": "Senior British and Indian officials discussed balancing student migration and bilateral opportunities at Cambridge’s India Business Dialogue. The article highlights unresolved questions about who qualifies as the “right” people for UK-India student migration and who determines that designation.",
-      "insight": "This news signals growing diplomatic scrutiny of student migration criteria between the UK and India, potentially foreshadowing tighter visa targeting or enhanced academic quality controls—though direct policy shifts remain uncertain and may not immediately affect broader global recruitment.  \nAdmissions teams should monitor UK Home Office guidance updates, Indian government advisories, and bilateral education dialogues for signals on eligibility thresholds, while reviewing their UK pathway offerings and agent training to ensure alignment with evolving ‘high-value’ student definitions.",
-      "impact": "Low",
-      "sources": [
-        "India"
-      ],
-      "dests": [
-        "UK"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 9,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 3,
-      "title": "Columbia University brings back mandatory test scores for 2027 admissions",
-      "source": "VnExpress (EN)",
-      "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/education/columbia-university-brings-back-mandatory-test-scores-for-2027-admissions-5086375.html",
-      "pubDate": "2026-06-18",
-      "summary": "Columbia University will require standardized test scores from applicants beginning with the Fall 2027 admissions cycle. This reverses its 2021 decision to adopt a test-optional policy, making it the first Ivy League school to do so at that time.",
-      "insight": "Columbia’s return to test requirements may subtly influence international applicants’ perceptions of selectivity and fairness, particularly among high-achieving students from regions where standardized testing is deeply embedded in academic culture—though direct impacts on global demand remain uncertain without broader Ivy League alignment.  \nAdmissions teams should track whether peer institutions follow suit, monitor regional application volume shifts (especially from India, China, and Nigeria), and assess if test mandates correlate with changes in yield or scholarship negotiation patterns among admitted international students.",
-      "impact": "Low",
-      "sources": [],
-      "dests": [
-        "USA"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 4,
-      "title": "Lula government will require medical students to prove proficiency in Enamed to practice their profession",
-      "source": "Folha de S.Paulo",
-      "color": "#154360",
-      "url": "https://redir.folha.com.br/redir/online/educacao/rss091/*https://www1.folha.uol.com.br/educacao/2026/06/governo-lula-exigira-que-aluno-de-medicina-comprove-proficiencia-no-enamed-para-exercer-profissao.shtml",
-      "pubDate": "2026-06-19",
-      "summary": "President Lula signed a provisional measure on June 19, 2026, requiring medical students in Brazil to demonstrate proficiency through the Enamed (National Medical Training Assessment Examination) to practice medicine. This requirement applies to all doctors seeking to enter professional practice in the country.",
-      "insight": "This policy may indirectly influence Latin American student demand for health-related degrees abroad, as heightened domestic licensing requirements could prompt some to seek alternative pathways—but evidence of actual enrollment shifts remains uncertain and likely lagged.  \nAdmissions teams should monitor Brazilian and regional medical education forums, visa application trends for health programs, and partner university feedback to assess whether Enamed is becoming a catalyst for earlier or more strategic international applications.",
-      "impact": "Low",
-      "sources": [
-        "Latin America"
-      ],
-      "dests": [],
-      "translated": true,
-      "origLang": "pt",
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 5,
-      "title": "The Oxford Test of English certificate is used to enroll students in Vietnam",
-      "source": "VnExpress (Giáo dục)",
-      "color": "#b94500",
-      "url": "https://vnexpress.net/chung-chi-oxford-test-of-english-duoc-su-dung-tuyen-sinh-tai-viet-nam-5087272.html",
-      "pubDate": "2026-06-20",
-      "summary": "The Oxford Test of English (OTE) certificate is officially recognized by Vietnam’s Ministry of Education and Training. It may be used for university admission and training purposes in Vietnam.",
-      "insight": "The recognition of the Oxford Test of English in Vietnam signals growing diversification in English proficiency assessment preferences among Southeast Asian students, potentially reflecting shifting trust in alternative testing pathways—but it does not yet indicate a broad decline in IELTS/TOEFL demand or immediate policy shifts affecting Western university admissions.  \nAdmissions teams should monitor whether Vietnamese institutions begin recommending OTE for outbound study applications and track uptake among high-performing secondary schools, as early adoption could foreshadow future credential acceptance trends in key feeder markets.",
-      "impact": "Low",
-      "sources": [
-        "Southeast Asia"
-      ],
-      "dests": [],
-      "translated": true,
-      "origLang": "vi",
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 6,
-      "title": "Why do Indian students go abroad for MBBS?",
-      "source": "The Hindu (Edu)",
-      "color": "#145a32",
-      "url": "https://www.thehindu.com/videos/webinars/why-do-indian-students-go-abroad-for-mbbs/article70098007.ece",
-      "pubDate": "2026-06-19",
-      "summary": "The Hindu hosted a live webinar on July 19, 2025, at 5:00 p.m. to examine the economic factors driving Indian students to pursue MBBS degrees abroad. The panel featured Dr. Sunil Sharma, Director of The MD House; Ayushi Sharma, a student at Orenburg State Medical University; and Kadwin Pillai, Managing Director of Transword Educare.",
-      "insight": "This webinar highlights growing Indian student interest in overseas MBBS education, potentially reflecting domestic capacity constraints and cost–quality trade-offs—though its direct impact on non-MBBS destinations like the USA or UK remains uncertain without broader enrollment data.  \nAdmissions teams should track whether rising MBBS outbound trends correlate with increased applications to undergraduate health sciences or graduate medical pathways abroad, and assess if partner agents are shifting counseling emphasis toward integrated or alternative clinical degrees.",
-      "impact": "Low",
-      "sources": [
-        "India"
-      ],
-      "dests": [],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 7,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 7,
-      "title": "Japanese government invites Indians for jobs, higher studies",
-      "source": "The Hindu (Edu)",
-      "color": "#145a32",
-      "url": "https://www.thehindu.com/videos/webinars/japanese-government-invites-indians-for-jobs-higher-studies/article70130579.ece",
-      "pubDate": "2026-06-19",
-      "summary": "The Hindu hosted a webinar titled “Japanese government invites Indians for jobs, higher studies” on October 4, 2025. Panelists included Jenica Kalra (Assistant Director, JETRO), Sameer Arora (Principal, Shiv Nadar School, Gurgaon), Sagar Bahadur (Executive Director, Asia & Head of Regional Strategy, Acumen), and Hargun Luthra (Senior Advisor, University of Tokyo).",
-      "insight": "This initiative signals growing Japanese government efforts to attract Indian talent, potentially intensifying competition for high-achieving Indian students already sought by Western universities—though direct impact on enrolment demand remains uncertain given differing academic, cultural, and cost considerations.  \nAdmissions teams should monitor India-specific visa policy updates in Japan, JETRO’s recruitment metrics, and student sentiment shifts via surveys or agent feedback—noting whether Japanese offerings begin influencing application behaviour or choice sets among STEM and vocational cohorts.",
-      "impact": "Low",
-      "sources": [
-        "India"
-      ],
-      "dests": [],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 7,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 8,
-      "title": "Hong Kong’s HKU and CUHK among world’s top 20 universities – a first for city",
-      "source": "SCMP (Education)",
-      "color": "#7b241c",
-      "url": "https://www.scmp.com/news/hong-kong/education/article/3357454/2-universities-hku-and-cuhk-rank-among-worlds-top-20-first-hong-kong?utm_source=rss_feed",
-      "pubDate": "2026-06-17",
-      "summary": "The University of Hong Kong (HKU) and the Chinese University of Hong Kong (CUHK) have both been ranked among the world’s top 20 universities in a global league table, marking the first time two Hong Kong universities have achieved this simultaneously. According to UK-based Quacquarelli Symonds (QS), Hong Kong has the most improved higher education system in Asia for the second consecutive year.",
-      "insight": "This ranking milestone may modestly influence Asian student perceptions of Hong Kong as a high-quality, English-medium study destination—particularly for mainland Chinese students weighing proximity, cost, and post-study opportunities—but direct impact on demand for US/UK/AU/NZ institutions remains uncertain without evidence of shifting application patterns.  \nAdmissions teams should track Hong Kong universities’ enrolment data for mainland Chinese students over the next 12–18 months, especially in STEM and business programmes, while reviewing their own value propositions on affordability, career pathways, and regional appeal relative to this strengthened competitor cohort.",
-      "impact": "Low",
-      "sources": [
-        "China"
-      ],
-      "dests": [],
       "translated": false,
       "origLang": null,
       "relevanceScore": 6,
