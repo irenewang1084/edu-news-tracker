@@ -1,23 +1,21 @@
 {
-  "updated": "2026-06-22T06:17:15Z",
-  "count": 3,
+  "updated": "2026-06-23T04:54:13Z",
+  "count": 4,
   "totalFetched": 170,
   "articles": [
     {
       "id": 1,
-      "title": "“More of the right people”: diplomats walk a tightrope on UK-India student migration",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/diplomats-walk-a-tightrope-on-uk-india-student-migration/",
-      "pubDate": "2026-06-17",
-      "summary": "At the Cambridge India Business Dialogue, senior British and Indian officials discussed balancing student migration between the UK and India while emphasizing bilateral opportunity. The article highlights unresolved questions about who qualifies as the “right people” for migration and who determines that designation.",
-      "insight": "This news signals growing diplomatic attention to defining “desirable” student migrants, which may foreshadow tighter UK visa criteria or targeted recruitment—though direct policy shifts remain unconfirmed and demand from India remains robust overall.  \nAdmissions teams should track UK Home Office consultations on student visa reforms and Indian government messaging on overseas study, while reviewing their own eligibility screening and support pathways for Indian applicants amid evolving bilateral rhetoric.",
+      "title": "US visa processing centres in Africa to be reduced by more than half; only the latest barrier for African students",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/06/us-visa-processing-centres-in-africa-to-be-reduced-by-more-than-half-only-the-latest-barrier-for-african-students/",
+      "pubDate": "2026-06-11",
+      "summary": "The US government plans to reduce the number of US visa processing centres in Africa by more than half. This measure is part of a broader set of new policies aimed at making it more difficult and expensive for students from many African countries to obtain US student visas.",
+      "insight": "This news signals potential tightening of US visa access for African students, which may dampen demand for US study—though actual enrolment impact depends on how implementation interacts with broader geopolitical and economic factors affecting student mobility.  \nAdmissions teams should track application and enrolment trends from key African countries, assess whether peer institutions are adjusting outreach or support services, and review contingency plans for shifts in regional applicant volume or profile.",
       "impact": "Low",
-      "sources": [
-        "India"
-      ],
+      "sources": [],
       "dests": [
-        "UK"
+        "USA"
       ],
       "translated": false,
       "origLang": null,
@@ -26,35 +24,55 @@
     },
     {
       "id": 2,
-      "title": "Lula government will require medical students to prove proficiency in Enamed to practice their profession",
-      "source": "Folha de S.Paulo",
-      "color": "#154360",
-      "url": "https://redir.folha.com.br/redir/online/educacao/rss091/*https://www1.folha.uol.com.br/educacao/2026/06/governo-lula-exigira-que-aluno-de-medicina-comprove-proficiencia-no-enamed-para-exercer-profissao.shtml",
-      "pubDate": "2026-06-19",
-      "summary": "President Lula signed a provisional measure on June 19, 2026, requiring medical students in Brazil to demonstrate proficiency through the Enamed (National Medical Training Assessment Examination) to practice medicine. This requirement applies to all doctors seeking to enter professional practice in the country.",
-      "insight": "This policy may indirectly influence Latin American student demand for medical degrees abroad if Enamed requirements create perceived barriers to domestic practice, though actual enrollment shifts depend on how strictly Brazil enforces equivalency and whether alternative pathways remain viable.  \nAdmissions teams should monitor Brazilian regulatory updates, Enamed pass rates, and local media sentiment to assess whether this measure accelerates interest in internationally accredited medical programs—particularly those with strong clinical placement support in English-speaking countries.",
+      "title": "Japan: Japanese proficiency essential for foreign graduates staying on to work",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/06/japan-japanese-proficiency-essential-for-foreign-graduates-staying-on-to-work/",
+      "pubDate": "2026-06-18",
+      "summary": "An increasing number of study abroad destinations beyond the traditional “Big Four” (Australia, Canada, the UK, and the US) are gaining popularity, supported by government and institutional efforts to boost international student enrolment and retain high-skilled graduates. Japan is highlighted as one such destination where Japanese language proficiency is essential for foreign graduates seeking to remain and work after completing their studies.",
+      "insight": "This news signals growing competition from non-traditional destinations like Japan, where language requirements act as both a barrier and a differentiator—potentially reshaping student preferences, though direct impact on Anglophone enrolment remains uncertain amid broader geopolitical and economic factors.  \nAdmissions teams should monitor language-requirement trends in emerging study destinations and assess whether source-market students increasingly view multilingual competence as a strategic career asset, possibly influencing pre-departure preparation expectations and partnership priorities.",
       "impact": "Low",
-      "sources": [
-        "Latin America"
+      "sources": [],
+      "dests": [
+        "Canada",
+        "Australia"
       ],
-      "dests": [],
-      "translated": true,
-      "origLang": "pt",
+      "translated": false,
+      "origLang": null,
       "relevanceScore": 8,
       "insightSource": "qwen"
     },
     {
       "id": 3,
-      "title": "5 common mistakes that cause foreigners to be denied temporary residence cards in Vietnam",
-      "source": "VnExpress (EN)",
-      "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/5-common-mistakes-that-cause-foreigners-to-be-denied-temporary-residence-cards-in-vietnam-5079350.html",
-      "pubDate": "2026-06-21",
-      "summary": "A lawyer warned that minor paperwork errors can lead to the denial of temporary residence cards for foreigners in Vietnam. The article identifies five common mistakes that frequently result in rejection by immigration authorities.",
-      "insight": "This news hints at growing administrative complexity for international students in Vietnam-aligned Southeast Asian markets, potentially influencing student preferences toward destinations with more predictable visa pathways—though direct demand shifts remain unconfirmed without broader enrollment data.  \nAdmissions teams should track Vietnamese student application and enrollment trends alongside updates to Vietnam’s immigration policies, while reviewing pre-departure support materials to ensure clarity on documentation requirements for all Southeast Asian applicants.",
+      "title": "The Oxford Test of English certificate is used to enroll students in Vietnam",
+      "source": "VnExpress (Giáo dục)",
+      "color": "#b94500",
+      "url": "https://vnexpress.net/chung-chi-oxford-test-of-english-duoc-su-dung-tuyen-sinh-tai-viet-nam-5087272.html",
+      "pubDate": "2026-06-20",
+      "summary": "The Oxford Test of English (OTE) certificate is officially recognized by Vietnam’s Ministry of Education and Training. It may be used for university admission and training purposes in Vietnam.",
+      "insight": "This development signals growing institutional recognition of alternative English proficiency tests in Vietnam, potentially easing entry requirements for students targeting English-speaking universities—though direct impact on demand for Anglophone destinations remains uncertain without evidence of increased outbound mobility or policy shifts.  \nAdmissions teams should track whether Vietnamese institutions begin recommending OTE over IELTS/TOEFL for study-abroad pathways, and assess uptake among Southeast Asian applicants to gauge if it becomes a de facto credential influencing application behaviour across the region.",
       "impact": "Low",
       "sources": [
         "Southeast Asia"
+      ],
+      "dests": [],
+      "translated": true,
+      "origLang": "vi",
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 4,
+      "title": "Deep-Sea Water to Microchips, China Curbs Flashy Admission Packages",
+      "source": "Sixth Tone",
+      "color": "#922b21",
+      "url": "https://www.sixthtone.com/news/1018628/Deep-Sea Water to Microchips, China Curbs Flashy Admission Packages",
+      "pubDate": "2026-06-23",
+      "summary": "Chinese regulators have directed universities to simplify their student admission packages, moving away from extravagant items like microchips and deep-sea water that institutions had used in increasingly elaborate welcome packets. Schools are now urged to revert to a basic one-page admission letter.",
+      "insight": "This news reflects a broader Chinese policy shift toward educational austerity and symbolic modesty, which may subtly influence domestic student expectations around prestige and material incentives—but its direct impact on international enrolment decisions remains unproven and likely indirect.  \nAdmissions teams should monitor whether Chinese applicants increasingly prioritize institutional reputation, academic rigour, or post-study outcomes over branded swag, while noting potential shifts in how universities frame welcome experiences in marketing materials.",
+      "impact": "Low",
+      "sources": [
+        "China"
       ],
       "dests": [],
       "translated": false,
