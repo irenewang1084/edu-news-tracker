@@ -1,17 +1,56 @@
 {
-  "updated": "2026-06-24T04:57:22Z",
-  "count": 1,
-  "totalFetched": 179,
+  "updated": "2026-06-25T04:57:54Z",
+  "count": 6,
+  "totalFetched": 183,
   "articles": [
     {
       "id": 1,
-      "title": "Understand what changes with the mandatory Enamed to work as a doctor in Brazil",
+      "title": "UK Lords warn of “woefully inadequate” migration data amid settlement reform review",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/uk-lords-warn-of-woefully-inadequate-migration-data-amid-settlement-reform-review/",
+      "pubDate": "2026-06-24",
+      "summary": "A House of Lords committee has warned that the UK government is making major decisions on settlement and citizenship without adequate migration data. The committee called on ministers to reconsider plans to extend the qualifying period for permanent residence for migrants amid concerns over the “woefully inadequate” data available.",
+      "insight": "This news signals potential future tightening of UK post-study settlement pathways, which may modestly dampen UK appeal for international students prioritising long-term residency—though current visa rules remain unchanged and student demand drivers (e.g., quality, cost, employability) still dominate decision-making.  \nAdmissions teams should track UK Home Office consultations on settlement reforms and monitor agent/student sentiment in key source markets, particularly regarding perceived stability of post-graduation options, while maintaining focus on existing visa eligibility and support services.",
+      "impact": "Medium",
+      "sources": [],
+      "dests": [
+        "UK"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 2,
+      "title": "Japan: Japanese proficiency essential for foreign graduates staying on to work",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/06/japan-japanese-proficiency-essential-for-foreign-graduates-staying-on-to-work/",
+      "pubDate": "2026-06-18",
+      "summary": "An increasing number of study abroad destinations beyond the traditional “Big Four” (Australia, Canada, the UK, and the US) are gaining popularity, supported by government and institutional efforts to boost international student enrolment and retain high-skilled graduates. Japan is highlighted as one such destination where Japanese language proficiency is essential for foreign graduates seeking to remain and work after completing their studies.",
+      "insight": "This news signals growing competition from non-traditional destinations like Japan, where language requirements create distinct barriers and value propositions—potentially reshaping student preferences, especially among those prioritising post-study work opportunities in Asia, though direct impact on Anglophone enrolment remains uncertain.  \nAdmissions teams should monitor shifts in source-market sentiment toward Asian study destinations, track Japanese government policy updates on graduate visas and language mandates, and assess whether complementary language support or regional pathway partnerships could strengthen their own post-study work appeal.",
+      "impact": "Low",
+      "sources": [],
+      "dests": [
+        "Canada",
+        "Australia"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 3,
+      "title": "Lula government will require medical students to prove proficiency in Enamed to practice their profession",
       "source": "Folha de S.Paulo",
       "color": "#154360",
-      "url": "https://redir.folha.com.br/redir/online/educacao/rss091/*https://www1.folha.uol.com.br/educacao/2026/06/entenda-o-que-muda-com-o-enamed-obrigatorio-para-atuar-como-medico-no-brasil.shtml",
-      "pubDate": "2026-06-23",
-      "summary": "Starting in 2026, students entering medical school in Brazil must demonstrate proficiency in the Enamed (National Medical Training Assessment Examination) during their final year of study to obtain professional registration. This requirement is mandatory for all new medical students and applies specifically to the Enamed exam as a condition for licensure.",
-      "insight": "This policy shift may indirectly influence Latin American student demand for medical degrees abroad, as heightened domestic licensing requirements could increase interest in internationally accredited programmes—though actual enrolment impact remains uncertain without data on cross-border qualification recognition or migration intent.  \nAdmissions teams should monitor Brazilian regulatory updates and student inquiries about licensure pathways, while assessing whether their medical programmes align with Enamed’s competencies or offer articulation routes to Brazilian registration, particularly for applicants from Brazil and neighbouring countries.",
+      "url": "https://redir.folha.com.br/redir/online/educacao/rss091/*https://www1.folha.uol.com.br/educacao/2026/06/governo-lula-exigira-que-aluno-de-medicina-comprove-proficiencia-no-enamed-para-exercer-profissao.shtml",
+      "pubDate": "2026-06-19",
+      "summary": "President Lula signed a provisional measure on June 19, 2026, requiring medical students in Brazil to demonstrate proficiency through the Enamed (National Medical Training Assessment Examination) to practice medicine. This requirement applies to all doctors seeking to enter professional practice in the country.",
+      "insight": "This policy may indirectly influence Latin American student demand for medical degrees abroad, as tighter domestic licensing requirements could prompt some students to seek alternative pathways—though it remains unclear whether this will meaningfully shift enrolment toward English-speaking countries or simply reinforce existing preferences for local or European programmes.  \nAdmissions teams should monitor Brazilian and regional medical education forums, visa application trends for health-related courses, and enrolment data from Latin American applicants over the next 12–18 months to assess whether Enamed-related concerns correlate with measurable changes in application volumes or programme choices.",
       "impact": "Low",
       "sources": [
         "Latin America"
@@ -20,6 +59,65 @@
       "translated": true,
       "origLang": "pt",
       "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 4,
+      "title": "Deep-Sea Water to Microchips, China Curbs Flashy Admission Packages",
+      "source": "Sixth Tone",
+      "color": "#922b21",
+      "url": "https://www.sixthtone.com/news/1018628/Deep-Sea Water to Microchips, China Curbs Flashy Admission Packages",
+      "pubDate": "2026-06-25",
+      "summary": "Chinese regulators are urging universities to abandon elaborate admission packages that included items like microchips and deep-sea water. Schools are now directed to revert to a simple, one-page admission letter.",
+      "insight": "This regulatory move signals tightening domestic oversight of university marketing practices in China, potentially reflecting broader policy shifts toward educational austerity and value-driven messaging—though its direct impact on outbound student demand remains uncertain without evidence of parallel restrictions on overseas study.  \nAdmissions teams should monitor Chinese social media and education consultancies for emerging narratives around “meaningful” versus “flashy” institutional branding, and assess whether simplified, values-aligned communications resonate more strongly with families amid evolving domestic sentiment.",
+      "impact": "Low",
+      "sources": [
+        "China"
+      ],
+      "dests": [],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 5,
+      "title": "Hong Kong parents turn to summer school options in Asia amid soaring airfares",
+      "source": "SCMP (Education)",
+      "color": "#7b241c",
+      "url": "https://www.scmp.com/news/hong-kong/education/article/3357803/hong-kong-parents-turn-summer-school-options-asia-amid-soaring-airfares?utm_source=rss_feed",
+      "pubDate": "2026-06-21",
+      "summary": "Hong Kong families are increasingly choosing summer schools in Asia instead of traditional destinations like Britain and North America due to sharply rising airfares. Applications for British summer schools dropped by 35 per cent this year, according to Samuel Chan Sze-ming, founder of education consultancy Britannia StudyLink, with the surge in airfares attributed to the war in the Middle East.",
+      "insight": "Rising airfares—potentially exacerbated by geopolitical instability—are prompting Hong Kong families to shift summer education spending toward regional Asian options, suggesting possible short-term softening in demand for Western summer programmes, though long-term degree enrolment trends remain uncertain.  \nAdmissions teams should monitor application volumes and yield rates from Hong Kong and broader East Asia for summer 2025, while assessing whether pricing, scholarship offerings, or bundled travel support could mitigate airfare-related friction without pre-emptively overhauling strategy.",
+      "impact": "Low",
+      "sources": [
+        "MENA"
+      ],
+      "dests": [
+        "UK"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 6,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 6,
+      "title": "Indian students weigh outcomes more as rupee weakness adds costs",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/indian-students-weigh-outcomes-more-as-rupee-weakness-adds-costs/",
+      "pubDate": "2026-06-24",
+      "summary": "Indian students are reassessing their study-abroad plans due to the weakening rupee, which is increasing the financial burden of rising tuition fees and living costs. This currency volatility, combined with tighter immigration policies, is prompting students to reconsider their budgets, borrowing strategies, and preferred study destinations.",
+      "insight": "The rupee’s depreciation may dampen Indian student demand for high-cost destinations like the UK and Australia, though its impact on enrolment volumes remains uncertain amid countervailing factors such as scholarship uptake and long-term career ROI perceptions.  \nAdmissions teams should track rupee exchange rate trends alongside Indian student loan disbursement rates and regional application data to gauge affordability pressures—and assess whether targeted financial aid or fee-payment flexibility could strengthen competitiveness.",
+      "impact": "Low",
+      "sources": [
+        "India"
+      ],
+      "dests": [],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 6,
       "insightSource": "qwen"
     }
   ]
