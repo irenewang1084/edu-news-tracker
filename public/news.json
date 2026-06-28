@@ -1,22 +1,21 @@
 {
-  "updated": "2026-06-27T04:44:33Z",
-  "count": 3,
-  "totalFetched": 172,
+  "updated": "2026-06-28T05:11:26Z",
+  "count": 9,
+  "totalFetched": 181,
   "articles": [
     {
       "id": 1,
-      "title": "Japan: Japanese proficiency essential for foreign graduates staying on to work",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/06/japan-japanese-proficiency-essential-for-foreign-graduates-staying-on-to-work/",
-      "pubDate": "2026-06-18",
-      "summary": "An increasing number of study abroad destinations beyond the traditional “Big Four” (Australia, Canada, the UK, and the US) are gaining popularity, supported by government and institutional efforts to boost international enrolments and retain high-skilled foreign graduates. Japan is highlighted as one such destination where Japanese language proficiency is essential for foreign graduates seeking to remain and work after completing their studies.",
-      "insight": "This news signals growing competition from non-traditional destinations like Japan, where language requirements create a distinct barrier—and potential filter—for international graduates, possibly reshaping student preferences toward countries with lower linguistic entry thresholds or stronger post-study work pathways.  \nAdmissions teams should monitor enrolment trends in Japan and similar emerging destinations, particularly among students from East and Southeast Asia, while assessing whether their own visa policies, language support, and graduate employment services remain competitive in attracting high-potential applicants.",
-      "impact": "Low",
+      "title": "UK Lords warn of “woefully inadequate” migration data amid settlement reform review",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/uk-lords-warn-of-woefully-inadequate-migration-data-amid-settlement-reform-review/",
+      "pubDate": "2026-06-24",
+      "summary": "A House of Lords committee has warned that the UK government is making major decisions on settlement and citizenship without adequate migration data. The committee called on ministers to reconsider plans to extend the qualifying period for permanent residence for migrants amid concerns over the “woefully inadequate” data available.",
+      "insight": "This news signals potential future tightening of UK post-study settlement pathways, which may modestly dampen UK appeal for international students prioritising long-term residency—though current visa rules remain unchanged and student demand drivers (e.g., quality, cost, work rights) still dominate decision-making.  \nAdmissions teams should track UK Home Office consultations on settlement reforms and monitor source-market sentiment shifts via agent feedback and application data, particularly among high-intent markets where permanent residency prospects strongly influence destination choice.",
+      "impact": "Medium",
       "sources": [],
       "dests": [
-        "Canada",
-        "Australia"
+        "UK"
       ],
       "translated": false,
       "origLang": null,
@@ -25,13 +24,13 @@
     },
     {
       "id": 2,
-      "title": "Lula government will require medical students to prove proficiency in Enamed to practice their profession",
+      "title": "Understand what changes with the mandatory Enamed to work as a doctor in Brazil",
       "source": "Folha de S.Paulo",
       "color": "#154360",
-      "url": "https://redir.folha.com.br/redir/online/educacao/rss091/*https://www1.folha.uol.com.br/educacao/2026/06/governo-lula-exigira-que-aluno-de-medicina-comprove-proficiencia-no-enamed-para-exercer-profissao.shtml",
-      "pubDate": "2026-06-19",
-      "summary": "President Lula signed a provisional measure on June 19, 2026, requiring medical students in Brazil to demonstrate proficiency through the Enamed (National Medical Training Assessment Examination) to practice medicine. This requirement applies to all doctors seeking to enter professional practice in the country.",
-      "insight": "This policy may indirectly influence Latin American student demand for health-related degrees abroad, as heightened domestic licensing requirements could prompt some to seek alternative pathways—but evidence of actual enrollment shifts remains speculative and likely lagged.  \nAdmissions teams should monitor Brazilian and regional student visa application trends, Enamed pass rates, and local media sentiment around medical education quality, while avoiding premature curriculum or marketing adjustments until clearer migration or enrollment signals emerge.",
+      "url": "https://redir.folha.com.br/redir/online/educacao/rss091/*https://www1.folha.uol.com.br/educacao/2026/06/entenda-o-que-muda-com-o-enamed-obrigatorio-para-atuar-como-medico-no-brasil.shtml",
+      "pubDate": "2026-06-23",
+      "summary": "Starting in 2026, students entering medical school in Brazil must demonstrate proficiency in the Enamed (National Medical Training Assessment Examination) during their final year of study to obtain professional registration. This requirement is mandatory for all new medical students and applies specifically to the Enamed exam as a condition for licensure.",
+      "insight": "This policy shift may indirectly influence Latin American student demand for medical degrees abroad, as heightened domestic licensing requirements could prompt some to seek alternative pathways—but evidence of actual enrollment shifts remains uncertain and likely lagged.  \nAdmissions teams should monitor Brazilian medical school enrollment trends and consult agents on whether students are proactively considering overseas programs as contingency plans, while avoiding premature curriculum or marketing adjustments.",
       "impact": "Low",
       "sources": [
         "Latin America"
@@ -44,23 +43,140 @@
     },
     {
       "id": 3,
-      "title": "Hong Kong parents turn to summer school options in Asia amid soaring airfares",
-      "source": "SCMP (Education)",
-      "color": "#7b241c",
-      "url": "https://www.scmp.com/news/hong-kong/education/article/3357803/hong-kong-parents-turn-summer-school-options-asia-amid-soaring-airfares?utm_source=rss_feed",
-      "pubDate": "2026-06-21",
-      "summary": "Hong Kong families are increasingly choosing summer schools in Asia instead of traditional destinations like Britain and North America due to sharply rising airfares, which education consultants attribute partly to the war in the Middle East. Applications for British summer schools dropped by 35 per cent this year, according to Samuel Chan Sze-ming, founder of education consultancy Britannia StudyLink.",
-      "insight": "Rising airfares—partly linked to Middle East conflict—are prompting Hong Kong families to shift summer study plans toward nearer Asian destinations, suggesting potential short-term pressure on demand for Western summer programmes, though long-term degree enrolment trends remain uncertain.  \nAdmissions teams should track Hong Kong application data for summer 2025 and early 2026 intakes, while reviewing pricing, travel support offerings, and regional partnerships to assess whether cost-sensitive families are delaying or reconsidering longer-term study plans.",
+      "title": "UK: Visa application withdrawals surpass refusals in Q1 2026",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/06/uk-visa-application-withdrawals-surpass-refusals-in-q1-2026/",
+      "pubDate": "2026-06-25",
+      "summary": "Visa application withdrawals exceeded refusals in the UK during Q1 2026. Visa grant rates declined by 32% compared to the norm, and overall visa application volumes dropped significantly in the first half of 2026.",
+      "insight": "This UK visa trend—rising withdrawals and falling grants—may reflect growing applicant caution due to stricter processing, policy uncertainty, or shifting perceptions of post-study value, though it’s unclear whether this signals broad demand erosion or temporary procedural friction in one market.  \nAdmissions teams should track regional application patterns, withdrawal reasons where available, and comparative visa success rates across the UK, Australia, NZ, and US to assess whether students are reallocating preferences—and calibrate outreach and pre-application support accordingly.",
       "impact": "Low",
-      "sources": [
-        "MENA"
-      ],
+      "sources": [],
       "dests": [
         "UK"
       ],
       "translated": false,
       "origLang": null,
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 4,
+      "title": "World's top destination for international students to end rule for indefinite stay",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/education/world-s-top-destination-for-international-students-to-end-rule-for-indefinite-stay-5089023.html",
+      "pubDate": "2026-06-25",
+      "summary": "The Trump administration is ending the longstanding policy that allows international students to stay in the United States for the duration of their academic programs. It will replace this with a fixed admission period limited to four years.",
+      "insight": "This policy shift may dampen US appeal for students from regions prioritising long-term residency pathways, though demand impact remains uncertain given competing factors like academic reputation and post-study work opportunities elsewhere.  \nAdmissions teams should track application trends from high-intent markets—especially China, India, and Nigeria—and assess how peer nations’ visa stability and settlement policies influence student decision-making over the next 12–18 months.",
+      "impact": "Low",
+      "sources": [],
+      "dests": [
+        "USA"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 5,
+      "title": "UK unis must treat compliance as “strategic institutional risk”",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/uk-unis-must-treat-compliance-as-strategic-institutional-risk/",
+      "pubDate": "2026-06-26",
+      "summary": "UK universities must proactively manage compliance risks to avoid breaching the new Border Control Agency (BCA) thresholds. An immigration expert has emphasized that institutions should treat compliance as a “strategic institutional risk.”",
+      "insight": "This development signals growing regulatory scrutiny of international student compliance in the UK, potentially tightening visa sponsorship conditions and influencing prospective students’ perceptions of stability—though direct impacts on global demand remain uncertain without evidence of broader policy shifts.  \nAdmissions teams should monitor UK Home Office guidance updates, BCA threshold adjustments, and any resulting changes in student application or enrolment patterns from key source markets, particularly where reputational concerns about visa reliability are already elevated.",
+      "impact": "Low",
+      "sources": [],
+      "dests": [
+        "UK"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 6,
+      "title": "Indian students weigh outcomes more as rupee weakness adds costs",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/indian-students-weigh-outcomes-more-as-rupee-weakness-adds-costs/",
+      "pubDate": "2026-06-24",
+      "summary": "Indian students are reassessing their study abroad plans due to rupee weakness, which is increasing the financial burden of rising tuition fees and living costs. This currency volatility, combined with tighter immigration policies, is prompting students to reconsider budgets, borrowing strategies, and destination choices.",
+      "insight": "Rupee depreciation raises the effective cost of studying abroad for Indian students, potentially dampening demand—especially for higher-cost destinations—though actual enrollment impacts depend on concurrent factors like scholarship availability and perceived ROI.  \nAdmissions teams should track application volume trends by region and program, review financial aid uptake rates among Indian applicants, and assess whether partner agents report increased price sensitivity or shifts toward shorter/more affordable study options.",
+      "impact": "Low",
+      "sources": [
+        "India"
+      ],
+      "dests": [],
+      "translated": false,
+      "origLang": null,
       "relevanceScore": 7,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 7,
+      "title": "What is happening to student mobility flows between the Global South and Global North?",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/06/what-is-happening-to-student-mobility-flows-between-the-global-south-and-global-north/",
+      "pubDate": "2026-06-24",
+      "summary": "In 2026, students from Bangladesh, India, Nepal, Nigeria, and Pakistan are increasingly likely to face rejection of their study visa applications for Australia, Canada, the UK, and the US—the “Big Four” destination countries. These five countries are identified as the fastest-growing markets for schools and universities in those destinations.",
+      "insight": "This news signals potential tightening of visa pathways for students from five high-growth source countries—Bangladesh, India, Nepal, Nigeria, and Pakistan—into the Big Four destinations, which may dampen near-term enrolment growth despite strong underlying demand. While not yet confirmed policy, rising rejection rates could shift application behaviour and intensify competition for alternative destinations.  \n\nAdmissions teams should monitor official visa statistics, embassy guidance, and agent sentiment in these markets closely—and assess whether diversifying recruitment into emerging source regions or strengthening pre-departure support could mitigate future access risks.",
+      "impact": "Low",
+      "sources": [
+        "India",
+        "South Asia",
+        "West Africa"
+      ],
+      "dests": [
+        "Canada",
+        "Australia"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 6,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 8,
+      "title": "How well do we understand the demand for UK international education?",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/how-well-do-we-understand-the-demand-for-uk-international-education/",
+      "pubDate": "2026-06-25",
+      "summary": "The UK remains a top destination for international students, but its popularity has declined in recent years. Annie Bell and Anton Muscatelli argue that UK universities must fundamentally change their approach to address this shift in demand.",
+      "insight": "The UK’s declining appeal to international students signals potential shifts in global student preferences, possibly reflecting broader concerns about cost, post-study work rights, or perceptions of value—though it remains unclear whether this trend indicates systemic challenges or temporary market volatility.  \nAdmissions teams should monitor enrolment patterns from key source markets like China and India, track competitor messaging on affordability and employability, and assess how visa policy changes in the UK compare with those in peer destinations when refining recruitment strategies.",
+      "impact": "Low",
+      "sources": [],
+      "dests": [
+        "UK"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 6,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 9,
+      "title": "Why are Hong Kong, mainland universities rising in global rankings as US ones fall?",
+      "source": "SCMP (Education)",
+      "color": "#7b241c",
+      "url": "https://www.scmp.com/news/hong-kong/education/article/3358602/why-are-hong-kong-mainland-china-universities-gaining-ground-global-rankings?utm_source=rss_feed",
+      "pubDate": "2026-06-27",
+      "summary": "A South China Morning Post analysis found that over the past five years, universities in Hong Kong and mainland China have risen in global rankings while more than 70 percent of US institutions have declined. UK-based education data firm Quacquarelli Symonds (QS) attributed this shift to a broader dispersion of excellence in higher education beyond a handful of Western countries.",
+      "insight": "This trend may reflect growing confidence among Chinese students in domestic and regional institutions, potentially moderating demand for Western degrees—though it remains unclear how much this translates to reduced applications versus shifting preferences within existing applicant pools.  \nAdmissions teams should track application volumes and yield rates from China alongside sentiment indicators like social media discourse and agent feedback, while reviewing value propositions that emphasize unique experiential or post-study advantages not easily replicated regionally.",
+      "impact": "Low",
+      "sources": [
+        "China"
+      ],
+      "dests": [],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 6,
       "insightSource": "qwen"
     }
   ]
