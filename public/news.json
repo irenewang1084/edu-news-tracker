@@ -1,37 +1,17 @@
 {
-  "updated": "2026-06-29T05:23:23Z",
-  "count": 8,
-  "totalFetched": 171,
+  "updated": "2026-06-30T04:56:53Z",
+  "count": 5,
+  "totalFetched": 176,
   "articles": [
     {
       "id": 1,
-      "title": "Japan: Japanese proficiency essential for foreign graduates staying on to work",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/06/japan-japanese-proficiency-essential-for-foreign-graduates-staying-on-to-work/",
-      "pubDate": "2026-06-18",
-      "summary": "An increasing number of study abroad destinations beyond the traditional “Big Four” (Australia, Canada, the UK, and the US) are gaining popularity, supported by government and institutional efforts to boost international enrolments and retain high-skilled foreign graduates. Japan is highlighted as one such destination where Japanese language proficiency is essential for foreign graduates seeking to remain and work after completing their studies.",
-      "insight": "This news signals growing competition from non-traditional destinations like Japan, where language requirements act as both a barrier and a differentiator—potentially reshaping student preferences, especially among learners prioritising post-study work opportunities in Asia, though direct impact on Anglophone enrolments remains uncertain.  \nAdmissions teams should monitor shifts in source market interest toward Japanese language learning and regional mobility trends, while reviewing how their own post-study work pathways and language support offerings compare in messaging and accessibility to students weighing multiple destinations.",
-      "impact": "Low",
-      "sources": [],
-      "dests": [
-        "Canada",
-        "Australia"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 2,
-      "title": "Lula government will require medical students to prove proficiency in Enamed to practice their profession",
+      "title": "Understand what changes with the mandatory Enamed to work as a doctor in Brazil",
       "source": "Folha de S.Paulo",
       "color": "#154360",
-      "url": "https://redir.folha.com.br/redir/online/educacao/rss091/*https://www1.folha.uol.com.br/educacao/2026/06/governo-lula-exigira-que-aluno-de-medicina-comprove-proficiencia-no-enamed-para-exercer-profissao.shtml",
-      "pubDate": "2026-06-19",
-      "summary": "President Lula signed a provisional measure on June 19, 2026, requiring medical students in Brazil to demonstrate proficiency through the Enamed (National Medical Training Assessment Examination) to practice medicine. This requirement applies to all doctors seeking to enter professional practice in the country.",
-      "insight": "This policy may indirectly influence Latin American student demand for medical degrees abroad if Enamed requirements raise barriers to domestic practice, though its impact depends on whether students perceive overseas qualifications as viable alternatives or view the exam as a manageable step toward Brazilian licensure.  \nAdmissions teams should monitor enrolment trends among Brazilian and broader Latin American applicants to health programmes, alongside any shifts in visa sponsorship queries or inquiries about pathway options to practice in Brazil post-graduation.",
+      "url": "https://redir.folha.com.br/redir/online/educacao/rss091/*https://www1.folha.uol.com.br/educacao/2026/06/entenda-o-que-muda-com-o-enamed-obrigatorio-para-atuar-como-medico-no-brasil.shtml",
+      "pubDate": "2026-06-23",
+      "summary": "Starting in 2026, students entering medical school in Brazil must demonstrate proficiency in the Enamed (National Medical Training Assessment Examination) during their final year of study to obtain professional registration. This requirement is mandatory for all new medical students and applies specifically to the Enamed exam as a condition for licensure.",
+      "insight": "This policy shift may indirectly influence Latin American student demand for Anglophone medical degrees, as heightened domestic licensing requirements could prompt some to seek alternative pathways—but evidence of actual enrollment shifts remains speculative and likely lagged.  \nAdmissions teams should monitor Brazilian regulatory updates and regional sentiment surveys, while assessing whether partner institutions in Latin America are adapting pre-med or pathway programs to align with Enamed’s new timing and competencies.",
       "impact": "Low",
       "sources": [
         "Latin America"
@@ -43,19 +23,38 @@
       "insightSource": "qwen"
     },
     {
-      "id": 3,
-      "title": "Planning to study in India? Bureau of Immigration shares registration, visa extension rules for international students",
-      "source": "Times of India (Edu)",
-      "color": "#d4820a",
-      "url": "https://timesofindia.indiatimes.com/education/news/planning-to-study-in-india-bureau-of-immigration-shares-registration-visa-extension-rules-for-international-students/articleshow/132049887.cms",
-      "pubDate": "2026-06-28",
-      "summary": "Foreign students in India must register with the Foreigners Regional Registration Office (FRRO) within 14 days of arrival through the e-FRRO portal. They must also extend their Registration Certificate or Residential Permit and, if applicable, their Student Visa before expiry to maintain legal status and continue their studies.",
-      "insight": "This news reflects India’s tightening of administrative compliance for international students, which may indirectly influence global student decision-making if perceived as increasing bureaucratic burden—though direct impact on demand for Western destinations remains unproven and likely modest.  \nAdmissions teams should monitor Indian student application trends and consult agents on whether FRRO registration concerns are emerging in pre-application counselling, while ensuring their own visa support messaging remains clear and proactive.",
+      "id": 2,
+      "title": "UK: Visa application withdrawals surpass refusals in Q1 2026",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/06/uk-visa-application-withdrawals-surpass-refusals-in-q1-2026/",
+      "pubDate": "2026-06-25",
+      "summary": "Visa application withdrawals exceeded refusals in the UK during Q1 2026. Visa grant rates fell by 32% compared to the norm, and overall visa application volumes declined significantly in the first half of 2026.",
+      "insight": "This UK visa trend—rising withdrawals and falling grant rates—may reflect heightened application anxiety, stricter scrutiny, or shifting preferences among international students, though it’s unclear whether this signals broader demand erosion or short-term procedural friction in the UK system.  \nAdmissions teams should track UK visa processing times, refusal/withdrawal reasons by nationality, and concurrent enrolment trends in competing destinations to assess whether students are redirecting applications or delaying decisions amid perceived UK visa uncertainty.",
       "impact": "Low",
-      "sources": [
-        "India"
+      "sources": [],
+      "dests": [
+        "UK"
       ],
-      "dests": [],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 3,
+      "title": "Australia Bill proposes shift of international student allocation powers to ATEC",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/australia-bill-proposes-shift-of-international-student-allocation-powers-to-atec/",
+      "pubDate": "2026-06-29",
+      "summary": "Australia has introduced legislation that would transfer authority over the allocation of international student commencements to the Australian Tertiary Education Commission (ATEC). If passed, this bill would shift those powers from their current holder to ATEC.",
+      "insight": "This proposed bill signals a potential centralisation of international student intake management in Australia, which could lead to more coordinated, data-driven allocation across institutions—though its direct impact on global demand or visa policy remains uncertain pending legislative passage and implementation details.  \nAdmissions teams should monitor ATEC’s emerging role, any published allocation criteria or regional quotas, and shifts in Australian enrolment patterns by origin market, as these may influence competitor positioning and prospective student decision-making in key source countries.",
+      "impact": "Low",
+      "sources": [],
+      "dests": [
+        "Australia"
+      ],
       "translated": false,
       "origLang": null,
       "relevanceScore": 8,
@@ -63,19 +62,17 @@
     },
     {
       "id": 4,
-      "title": "America is losing Indian students to Europe",
-      "source": "VnExpress (EN)",
-      "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/education/america-is-losing-indian-students-to-europe-5088626.html",
+      "title": "UK unis must treat compliance as “strategic institutional risk”",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/uk-unis-must-treat-compliance-as-strategic-institutional-risk/",
       "pubDate": "2026-06-26",
-      "summary": "Indian students are increasingly opting for more affordable degree programs in Germany, France, and Ireland instead of the United States. This shift is driven by U.S. visa restrictions and a weakening Indian rupee, which make American degrees less financially justifiable.",
-      "insight": "This trend signals growing price sensitivity and visa-related risk aversion among Indian students, potentially indicating broader shifts in demand toward destinations offering lower costs, clearer post-study work pathways, and more predictable immigration policies—though it remains unclear if this reflects a temporary adjustment or a structural realignment.  \nAdmissions teams should monitor Indian student application volumes, scholarship uptake rates, and competitor messaging around affordability and visa support—particularly from European institutions—while reviewing their own financial aid packaging and pre-arrival guidance to address perceived uncertainties.",
+      "summary": "UK universities must proactively manage compliance risks to avoid breaching the new Border Control Agency (BCA) thresholds. An immigration expert has emphasized that institutions should treat compliance as a “strategic institutional risk.”",
+      "insight": "This news signals tightening UK immigration enforcement, potentially dampening demand from risk-averse students in key markets like India and Nigeria who prioritize visa certainty—though direct impact on global enrolment trends remains uncertain pending BCA implementation and enforcement patterns.  \nAdmissions teams should monitor UK Home Office guidance updates, track student application-to-enrolment conversion rates by nationality, and assess whether partner agents report shifting preferences toward countries with more predictable compliance pathways or streamlined visa processing.",
       "impact": "Low",
-      "sources": [
-        "India"
-      ],
+      "sources": [],
       "dests": [
-        "USA"
+        "UK"
       ],
       "translated": false,
       "origLang": null,
@@ -84,80 +81,21 @@
     },
     {
       "id": 5,
-      "title": "Vietnam boasts record 17 universities in 2026 THE Sustainability Impact Ratings",
-      "source": "VnExpress (EN)",
-      "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/education/vietnam-boasts-record-17-universities-in-2026-the-sustainability-impact-ratings-5090192.html",
-      "pubDate": "2026-06-26",
-      "summary": "A record 17 Vietnamese universities are included in the 2026 Times Higher Education (THE) Sustainability Impact Ratings. This represents Vietnam’s strongest performance to date in this ranking.",
-      "insight": "Vietnam’s record 17 universities in THE’s 2026 Sustainability Impact Ratings signals growing domestic capacity in sustainability education, potentially tempering outbound demand—though direct impact on enrolment decisions remains uncertain given students’ multifaceted motivations beyond institutional ESG credentials.  \nAdmissions teams should monitor Vietnamese student application trends by discipline—especially environmental science and policy—and track whether rising local sustainability offerings correlate with shifts in enrolment volumes or preferred study destinations over the next 12–18 months.",
-      "impact": "High",
-      "sources": [
-        "Southeast Asia"
-      ],
-      "dests": [],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 6,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 6,
-      "title": "Hong Kong parents turn to summer school options in Asia amid soaring airfares",
-      "source": "SCMP (Education)",
-      "color": "#7b241c",
-      "url": "https://www.scmp.com/news/hong-kong/education/article/3357803/hong-kong-parents-turn-summer-school-options-asia-amid-soaring-airfares?utm_source=rss_feed",
-      "pubDate": "2026-06-21",
-      "summary": "Hong Kong families are increasingly choosing summer schools in Asia instead of traditional destinations like Britain and North America due to sharply rising airfares, which education consultants attribute partly to the war in the Middle East. Applications for British summer schools dropped by 35 per cent this year, according to Samuel Chan Sze-ming, founder of education consultancy Britannia StudyLink.",
-      "insight": "This news suggests potential short-term demand softening for Western summer programmes among Hong Kong families, possibly reflecting broader cost sensitivity or geopolitical risk aversion—though it remains unclear whether this trend extends to full-degree applications or is confined to discretionary short-term study.  \nAdmissions teams should monitor application volumes and yield rates from Hong Kong and other high-cost-sensitivity markets over the next 12–18 months, while assessing whether regional alternatives (e.g., Singapore, Japan) are becoming feeder pathways or substitutes for traditional destinations.",
+      "title": "Everyone’s an expert in UKVI compliance now. Are the real experts getting a look‑in?",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/everyones-an-expert-in-ukvi-compliance-now-are-the-real-experts-getting-a-look-in/",
+      "pubDate": "2026-06-29",
+      "summary": "The article highlights growing concern that the discourse around UKVI compliance has become overcrowded with self-proclaimed experts, risking the marginalization of genuine specialists. Mike Strong and Alex Lock examine how professionals can reclaim authoritative space in this conversation, as published by The PIE News.",
+      "insight": "This news reflects rising anxiety among international students and agents about UKVI compliance complexity, potentially amplifying demand for transparent, trustworthy guidance—and possibly nudging some applicants toward destinations perceived as more predictable or less bureaucratically opaque.  \nAdmissions teams should monitor shifts in UK application volumes by source market and track whether trusted education agents or universities are increasingly positioning themselves as compliance navigators—especially where visa refusal rates or policy changes spark visible concern.",
       "impact": "Low",
-      "sources": [
-        "MENA"
-      ],
+      "sources": [],
       "dests": [
         "UK"
       ],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 6,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 7,
-      "title": "10 Vietnamese universities jumped on the sustainable development rankings",
-      "source": "VnExpress (Giáo dục)",
-      "color": "#b94500",
-      "url": "https://vnexpress.net/10-dai-hoc-viet-nhay-vot-tren-bang-xep-hang-phat-trien-ben-vung-5088948.html",
-      "pubDate": "2026-06-24",
-      "summary": "Ten Vietnamese universities improved their positions in the sustainable development rankings. Ho Chi Minh City University of Economics ranked within the 101–200 range.",
-      "insight": "This news signals growing institutional commitment to sustainability in Vietnam’s higher education sector, which may gradually influence student preferences—though direct evidence linking domestic ranking improvements to outbound demand shifts remains limited and indirect.  \nAdmissions teams should monitor Vietnamese student applications for sustainability-focused programs and track whether top-performing local universities begin offering competitive alternatives or partnerships that could affect enrolment decisions.",
-      "impact": "Low",
-      "sources": [
-        "Southeast Asia"
-      ],
-      "dests": [],
-      "translated": true,
-      "origLang": "vi",
-      "relevanceScore": 6,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 8,
-      "title": "Australia's No.1 university spot changes hands after one decade",
-      "source": "VnExpress (EN)",
-      "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/education/australia-s-no-1-university-spot-changes-hands-after-one-decade-5089749.html",
-      "pubDate": "2026-06-25",
-      "summary": "The Australian National University (ANU) and the University of Melbourne have jointly held the top position among Australian universities for nearly a decade. They have now been officially overtaken, marking the first time in ten years that neither institution holds the No. 1 ranking.",
-      "insight": "This ranking shift may reflect evolving perceptions of research strength, employability outcomes, or institutional reputation among international students—though direct causal links to enrolment demand remain unproven and likely vary by source market and academic discipline.  \nAdmissions teams should track whether this change correlates with measurable shifts in application volumes, offer acceptance rates, or agent feedback from key regions like China, India, and Southeast Asia over the next 12–18 months.",
-      "impact": "Low",
-      "sources": [],
-      "dests": [
-        "Australia"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 6,
+      "relevanceScore": 7,
       "insightSource": "qwen"
     }
   ]
