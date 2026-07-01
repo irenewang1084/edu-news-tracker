@@ -1,40 +1,22 @@
 {
-  "updated": "2026-06-30T04:56:53Z",
-  "count": 5,
-  "totalFetched": 176,
+  "updated": "2026-07-01T05:15:02Z",
+  "count": 4,
+  "totalFetched": 161,
   "articles": [
     {
       "id": 1,
-      "title": "Understand what changes with the mandatory Enamed to work as a doctor in Brazil",
-      "source": "Folha de S.Paulo",
-      "color": "#154360",
-      "url": "https://redir.folha.com.br/redir/online/educacao/rss091/*https://www1.folha.uol.com.br/educacao/2026/06/entenda-o-que-muda-com-o-enamed-obrigatorio-para-atuar-como-medico-no-brasil.shtml",
-      "pubDate": "2026-06-23",
-      "summary": "Starting in 2026, students entering medical school in Brazil must demonstrate proficiency in the Enamed (National Medical Training Assessment Examination) during their final year of study to obtain professional registration. This requirement is mandatory for all new medical students and applies specifically to the Enamed exam as a condition for licensure.",
-      "insight": "This policy shift may indirectly influence Latin American student demand for Anglophone medical degrees, as heightened domestic licensing requirements could prompt some to seek alternative pathways—but evidence of actual enrollment shifts remains speculative and likely lagged.  \nAdmissions teams should monitor Brazilian regulatory updates and regional sentiment surveys, while assessing whether partner institutions in Latin America are adapting pre-med or pathway programs to align with Enamed’s new timing and competencies.",
-      "impact": "Low",
-      "sources": [
-        "Latin America"
-      ],
-      "dests": [],
-      "translated": true,
-      "origLang": "pt",
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 2,
-      "title": "UK: Visa application withdrawals surpass refusals in Q1 2026",
+      "title": "Japan: Japanese proficiency essential for foreign graduates staying on to work",
       "source": "ICEF Monitor",
       "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/06/uk-visa-application-withdrawals-surpass-refusals-in-q1-2026/",
-      "pubDate": "2026-06-25",
-      "summary": "Visa application withdrawals exceeded refusals in the UK during Q1 2026. Visa grant rates fell by 32% compared to the norm, and overall visa application volumes declined significantly in the first half of 2026.",
-      "insight": "This UK visa trend—rising withdrawals and falling grant rates—may reflect heightened application anxiety, stricter scrutiny, or shifting preferences among international students, though it’s unclear whether this signals broader demand erosion or short-term procedural friction in the UK system.  \nAdmissions teams should track UK visa processing times, refusal/withdrawal reasons by nationality, and concurrent enrolment trends in competing destinations to assess whether students are redirecting applications or delaying decisions amid perceived UK visa uncertainty.",
+      "url": "https://monitor.icef.com/2026/06/japan-japanese-proficiency-essential-for-foreign-graduates-staying-on-to-work/",
+      "pubDate": "2026-06-18",
+      "summary": "An increasing number of study abroad destinations beyond the traditional “Big Four” (Australia, Canada, the UK, and the US) are gaining popularity, supported by government and institutional efforts to boost international enrolments and retain high-skilled foreign graduates. Japan is highlighted as one such destination where Japanese language proficiency is essential for foreign graduates seeking to remain and work after completing their studies.",
+      "insight": "This news signals a growing emphasis on language-based integration requirements in emerging study destinations like Japan, which may subtly influence student perceptions of post-study work viability—though direct impact on demand for Anglophone destinations remains uncertain amid broader global mobility trends.  \nAdmissions teams should monitor language proficiency expectations and graduate retention policies in key competitor markets, particularly where governments link work rights to local language ability, as such frameworks could shape comparative messaging around employability and settlement pathways.",
       "impact": "Low",
       "sources": [],
       "dests": [
-        "UK"
+        "Canada",
+        "Australia"
       ],
       "translated": false,
       "origLang": null,
@@ -42,14 +24,14 @@
       "insightSource": "qwen"
     },
     {
-      "id": 3,
-      "title": "Australia Bill proposes shift of international student allocation powers to ATEC",
+      "id": 2,
+      "title": "Student visa fees rise again as Australia adds ELICOS pricing tier",
       "source": "The PIE News",
       "color": "#7b341e",
-      "url": "https://thepienews.com/australia-bill-proposes-shift-of-international-student-allocation-powers-to-atec/",
-      "pubDate": "2026-06-29",
-      "summary": "Australia has introduced legislation that would transfer authority over the allocation of international student commencements to the Australian Tertiary Education Commission (ATEC). If passed, this bill would shift those powers from their current holder to ATEC.",
-      "insight": "This proposed bill signals a potential centralisation of international student intake management in Australia, which could lead to more coordinated, data-driven allocation across institutions—though its direct impact on global demand or visa policy remains uncertain pending legislative passage and implementation details.  \nAdmissions teams should monitor ATEC’s emerging role, any published allocation criteria or regional quotas, and shifts in Australian enrolment patterns by origin market, as these may influence competitor positioning and prospective student decision-making in key source countries.",
+      "url": "https://thepienews.com/student-visa-fees-rise-again-as-australia-adds-elicos-pricing-tier/",
+      "pubDate": "2026-06-30",
+      "summary": "Australia has increased student visa fees to AUD $2,500. Additionally, a new separate fee of AUD $2,050 has been introduced specifically for the English Language Intensive Courses for Overseas Students (ELICOS) visa category.",
+      "insight": "Australia’s student visa fee hike—especially the new ELICOS-specific charge—may dampen short-term demand from cost-sensitive applicants in price-sensitive markets, though its impact on overall enrolment depends on concurrent scholarship support, exchange rate shifts, and comparative affordability versus the US, UK, and NZ.  \nAdmissions teams should track application volume trends by nationality and course type over the next 6–12 months, while reviewing messaging around value proposition, financial planning tools, and alternative pathway options to mitigate potential friction for English-language preparatory students.",
       "impact": "Low",
       "sources": [],
       "dests": [
@@ -61,41 +43,46 @@
       "insightSource": "qwen"
     },
     {
-      "id": 4,
-      "title": "UK unis must treat compliance as “strategic institutional risk”",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/uk-unis-must-treat-compliance-as-strategic-institutional-risk/",
-      "pubDate": "2026-06-26",
-      "summary": "UK universities must proactively manage compliance risks to avoid breaching the new Border Control Agency (BCA) thresholds. An immigration expert has emphasized that institutions should treat compliance as a “strategic institutional risk.”",
-      "insight": "This news signals tightening UK immigration enforcement, potentially dampening demand from risk-averse students in key markets like India and Nigeria who prioritize visa certainty—though direct impact on global enrolment trends remains uncertain pending BCA implementation and enforcement patterns.  \nAdmissions teams should monitor UK Home Office guidance updates, track student application-to-enrolment conversion rates by nationality, and assess whether partner agents report shifting preferences toward countries with more predictable compliance pathways or streamlined visa processing.",
+      "id": 3,
+      "title": "Why are Hong Kong, mainland universities rising in global rankings as US ones fall?",
+      "source": "SCMP (Education)",
+      "color": "#7b241c",
+      "url": "https://www.scmp.com/news/hong-kong/education/article/3358602/why-are-hong-kong-mainland-china-universities-gaining-ground-global-rankings?utm_source=rss_feed",
+      "pubDate": "2026-06-27",
+      "summary": "A South China Morning Post analysis found that over the past five years, universities in Hong Kong and mainland China have risen in global rankings while more than 70 percent of US institutions have slipped. UK-based education data firm Quacquarelli Symonds (QS) attributed this shift to a broader distribution of excellence in higher education beyond a handful of Western countries.",
+      "insight": "This news may reflect shifting perceptions of academic quality and value among Chinese students, potentially influencing demand for Western degrees—though direct causal links to enrolment decisions remain unproven and likely mediated by factors like cost, career outcomes, and geopolitical sentiment.  \nAdmissions teams should monitor application trends from mainland China and Hong Kong, track competitor messaging around research output and employability, and assess whether their institutional narratives adequately address evolving priorities around global recognition and return on investment.",
       "impact": "Low",
-      "sources": [],
-      "dests": [
-        "UK"
+      "sources": [
+        "China"
       ],
+      "dests": [],
       "translated": false,
       "origLang": null,
       "relevanceScore": 7,
       "insightSource": "qwen"
     },
     {
-      "id": 5,
-      "title": "Everyone’s an expert in UKVI compliance now. Are the real experts getting a look‑in?",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/everyones-an-expert-in-ukvi-compliance-now-are-the-real-experts-getting-a-look-in/",
-      "pubDate": "2026-06-29",
-      "summary": "The article highlights growing concern that the discourse around UKVI compliance has become overcrowded with self-proclaimed experts, risking the marginalization of genuine specialists. Mike Strong and Alex Lock examine how professionals can reclaim authoritative space in this conversation, as published by The PIE News.",
-      "insight": "This news reflects rising anxiety among international students and agents about UKVI compliance complexity, potentially amplifying demand for transparent, trustworthy guidance—and possibly nudging some applicants toward destinations perceived as more predictable or less bureaucratically opaque.  \nAdmissions teams should monitor shifts in UK application volumes by source market and track whether trusted education agents or universities are increasingly positioning themselves as compliance navigators—especially where visa refusal rates or policy changes spark visible concern.",
+      "id": 4,
+      "title": "What is happening to student mobility flows between the Global South and Global North?",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/06/what-is-happening-to-student-mobility-flows-between-the-global-south-and-global-north/",
+      "pubDate": "2026-06-24",
+      "summary": "In 2026, students from Bangladesh, India, Nepal, Nigeria, and Pakistan—referred to as the Key Five—are increasingly likely to face rejection of their study visa applications for Australia, Canada, the UK, and the US. This trend reflects shifting student mobility flows between the Global South and Global North.",
+      "insight": "This news signals potential tightening of visa pathways for students from key Global South markets, which may dampen application volumes to Anglophone destinations—though actual enrolment impacts depend on how strictly policies are enforced and whether alternative routes (e.g., pathway programs or regional campuses) absorb the shift.  \nAdmissions teams should monitor real-time visa refusal rates, agent sentiment, and competitor responses in India, Nigeria, and Pakistan, while reviewing portfolio diversification strategies—notably growth opportunities in Southeast Asia, Latin America, and domestic pathway partnerships.",
       "impact": "Low",
-      "sources": [],
+      "sources": [
+        "India",
+        "South Asia",
+        "West Africa"
+      ],
       "dests": [
-        "UK"
+        "Canada",
+        "Australia"
       ],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 7,
+      "relevanceScore": 6,
       "insightSource": "qwen"
     }
   ]
