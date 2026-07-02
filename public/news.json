@@ -1,22 +1,21 @@
 {
-  "updated": "2026-07-01T05:15:02Z",
+  "updated": "2026-07-02T04:55:06Z",
   "count": 4,
-  "totalFetched": 161,
+  "totalFetched": 148,
   "articles": [
     {
       "id": 1,
-      "title": "Japan: Japanese proficiency essential for foreign graduates staying on to work",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/06/japan-japanese-proficiency-essential-for-foreign-graduates-staying-on-to-work/",
-      "pubDate": "2026-06-18",
-      "summary": "An increasing number of study abroad destinations beyond the traditional “Big Four” (Australia, Canada, the UK, and the US) are gaining popularity, supported by government and institutional efforts to boost international enrolments and retain high-skilled foreign graduates. Japan is highlighted as one such destination where Japanese language proficiency is essential for foreign graduates seeking to remain and work after completing their studies.",
-      "insight": "This news signals a growing emphasis on language-based integration requirements in emerging study destinations like Japan, which may subtly influence student perceptions of post-study work viability—though direct impact on demand for Anglophone destinations remains uncertain amid broader global mobility trends.  \nAdmissions teams should monitor language proficiency expectations and graduate retention policies in key competitor markets, particularly where governments link work rights to local language ability, as such frameworks could shape comparative messaging around employability and settlement pathways.",
+      "title": "UK universities to sponsor refugees under new asylum “safe routes” overhaul",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/uk-universities-to-sponsor-refugees-under-new-asylum-safe-routes-overhaul/",
+      "pubDate": "2026-06-30",
+      "summary": "UK universities will be permitted to directly sponsor refugees to study in the UK as part of a government initiative to expand safe and legal routes for those seeking asylum. This policy change is part of a broader overhaul of the UK’s asylum system aimed at providing more structured pathways for refugee resettlement through education.",
+      "insight": "This policy signals a potential shift in UK higher education’s role in humanitarian migration, which may indirectly influence perceptions of the UK as a welcoming destination for international students—though direct demand impacts remain uncertain given the narrow scope targeting asylum seekers rather than fee-paying international students.  \nAdmissions teams should monitor whether this initiative enhances the UK’s reputation for inclusivity among prospective students from conflict-affected regions, and assess if partner agencies or governments begin referencing it when advising students on study destinations.",
       "impact": "Low",
       "sources": [],
       "dests": [
-        "Canada",
-        "Australia"
+        "UK"
       ],
       "translated": false,
       "origLang": null,
@@ -25,13 +24,13 @@
     },
     {
       "id": 2,
-      "title": "Student visa fees rise again as Australia adds ELICOS pricing tier",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/student-visa-fees-rise-again-as-australia-adds-elicos-pricing-tier/",
-      "pubDate": "2026-06-30",
-      "summary": "Australia has increased student visa fees to AUD $2,500. Additionally, a new separate fee of AUD $2,050 has been introduced specifically for the English Language Intensive Courses for Overseas Students (ELICOS) visa category.",
-      "insight": "Australia’s student visa fee hike—especially the new ELICOS-specific charge—may dampen short-term demand from cost-sensitive applicants in price-sensitive markets, though its impact on overall enrolment depends on concurrent scholarship support, exchange rate shifts, and comparative affordability versus the US, UK, and NZ.  \nAdmissions teams should track application volume trends by nationality and course type over the next 6–12 months, while reviewing messaging around value proposition, financial planning tools, and alternative pathway options to mitigate potential friction for English-language preparatory students.",
+      "title": "Surprise hike in international student visa application fees “a direct hit to Australia’s competitiveness”",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/07/surprise-hike-in-international-student-visa-application-fees-a-direct-hit-to-australias-competitiveness/",
+      "pubDate": "2026-07-01",
+      "summary": "Australia’s Department of Home Affairs announced an immediate, unconsulted increase in international student visa application fees for study, work, and working-holiday visas, effective 1 July 2026. The fee hikes are non-refundable and impact all sub-sectors of the international education sector.",
+      "insight": "Australia’s sudden, unconsulted visa fee hike—effective mid-2026—may dampen short-term demand from cost-sensitive markets, particularly in Southeast Asia and India, though broader enrolment trends will depend on concurrent scholarship adjustments, exchange rates, and competing destinations’ pricing.  \nAdmissions teams should track real-time application volume shifts by cohort and origin country over the next 6–12 months, while reviewing messaging around affordability, value proposition, and alternative pathways to ensure positioning remains competitive amid evolving policy signals.",
       "impact": "Low",
       "sources": [],
       "dests": [
@@ -44,45 +43,41 @@
     },
     {
       "id": 3,
-      "title": "Why are Hong Kong, mainland universities rising in global rankings as US ones fall?",
-      "source": "SCMP (Education)",
-      "color": "#7b241c",
-      "url": "https://www.scmp.com/news/hong-kong/education/article/3358602/why-are-hong-kong-mainland-china-universities-gaining-ground-global-rankings?utm_source=rss_feed",
-      "pubDate": "2026-06-27",
-      "summary": "A South China Morning Post analysis found that over the past five years, universities in Hong Kong and mainland China have risen in global rankings while more than 70 percent of US institutions have slipped. UK-based education data firm Quacquarelli Symonds (QS) attributed this shift to a broader distribution of excellence in higher education beyond a handful of Western countries.",
-      "insight": "This news may reflect shifting perceptions of academic quality and value among Chinese students, potentially influencing demand for Western degrees—though direct causal links to enrolment decisions remain unproven and likely mediated by factors like cost, career outcomes, and geopolitical sentiment.  \nAdmissions teams should monitor application trends from mainland China and Hong Kong, track competitor messaging around research output and employability, and assess whether their institutional narratives adequately address evolving priorities around global recognition and return on investment.",
+      "title": "ICEF Podcast: “Good, steady, and disciplined”: New Zealand’s plan for sustainable international enrolment growth",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/07/icef-podcast-good-steady-and-disciplined-new-zealands-plan-for-sustainable-international-enrolment-growth/",
+      "pubDate": "2026-07-01",
+      "summary": "The ICEF Podcast features hosts Craig Riggs and Martijn van de Veen discussing recent developments in international student recruitment, including new foreign enrolment figures from the Netherlands and Azerbaijan’s plans to expand its international student base. The episode also includes a live discussion with ICEF’s Rod Hearps about New Zealand’s strategy for achieving sustainable international enrolment growth, described as “good, steady, and disciplined.”",
+      "insight": "New Zealand’s emphasis on “good, steady, and disciplined” growth signals a deliberate pivot toward quality and sustainability over rapid expansion, which may indirectly influence global perceptions of student mobility—though direct impacts on demand in the USA, UK, or Australia remain uncertain without parallel policy shifts.  \nAdmissions teams should monitor New Zealand’s visa processing timelines, post-study work rule refinements, and source-market-specific enrolment trends, as these could foreshadow broader regulatory or reputational shifts affecting student decision-making across comparable English-speaking destinations.",
+      "impact": "Low",
+      "sources": [],
+      "dests": [
+        "New Zealand"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 4,
+      "title": "Students of Southeast Asia's largest economy are choosing China over US",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/education/students-of-southeast-asia-s-largest-economy-are-choosing-china-over-us-5091344.html",
+      "pubDate": "2026-07-02",
+      "summary": "Indonesian students are increasingly choosing to study in China instead of the United States and other Western countries. This shift reflects deepening economic ties between Indonesia and China, influencing where Indonesia trains its future talent.",
+      "insight": "This trend signals a potential recalibration in Southeast Asian student preferences, possibly driven by China’s growing economic influence and scholarship offerings—though it remains unclear whether this reflects broad regional shifts or Indonesia-specific factors like bilateral agreements or perceived career advantages.  \nAdmissions teams should monitor Indonesian enrollment data, track Chinese university partnerships with Indonesian institutions, and assess how perceptions of post-study work opportunities, tuition value, and geopolitical narratives shape applicant decision-making across key ASEAN markets.",
       "impact": "Low",
       "sources": [
-        "China"
+        "China",
+        "Southeast Asia"
       ],
       "dests": [],
       "translated": false,
       "origLang": null,
       "relevanceScore": 7,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 4,
-      "title": "What is happening to student mobility flows between the Global South and Global North?",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/06/what-is-happening-to-student-mobility-flows-between-the-global-south-and-global-north/",
-      "pubDate": "2026-06-24",
-      "summary": "In 2026, students from Bangladesh, India, Nepal, Nigeria, and Pakistan—referred to as the Key Five—are increasingly likely to face rejection of their study visa applications for Australia, Canada, the UK, and the US. This trend reflects shifting student mobility flows between the Global South and Global North.",
-      "insight": "This news signals potential tightening of visa pathways for students from key Global South markets, which may dampen application volumes to Anglophone destinations—though actual enrolment impacts depend on how strictly policies are enforced and whether alternative routes (e.g., pathway programs or regional campuses) absorb the shift.  \nAdmissions teams should monitor real-time visa refusal rates, agent sentiment, and competitor responses in India, Nigeria, and Pakistan, while reviewing portfolio diversification strategies—notably growth opportunities in Southeast Asia, Latin America, and domestic pathway partnerships.",
-      "impact": "Low",
-      "sources": [
-        "India",
-        "South Asia",
-        "West Africa"
-      ],
-      "dests": [
-        "Canada",
-        "Australia"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 6,
       "insightSource": "qwen"
     }
   ]
