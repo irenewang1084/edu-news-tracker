@@ -1,17 +1,17 @@
 {
-  "updated": "2026-07-02T04:55:06Z",
-  "count": 4,
-  "totalFetched": 148,
+  "updated": "2026-07-03T04:34:08Z",
+  "count": 2,
+  "totalFetched": 176,
   "articles": [
     {
       "id": 1,
-      "title": "UK universities to sponsor refugees under new asylum “safe routes” overhaul",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/uk-universities-to-sponsor-refugees-under-new-asylum-safe-routes-overhaul/",
-      "pubDate": "2026-06-30",
-      "summary": "UK universities will be permitted to directly sponsor refugees to study in the UK as part of a government initiative to expand safe and legal routes for those seeking asylum. This policy change is part of a broader overhaul of the UK’s asylum system aimed at providing more structured pathways for refugee resettlement through education.",
-      "insight": "This policy signals a potential shift in UK higher education’s role in humanitarian migration, which may indirectly influence perceptions of the UK as a welcoming destination for international students—though direct demand impacts remain uncertain given the narrow scope targeting asylum seekers rather than fee-paying international students.  \nAdmissions teams should monitor whether this initiative enhances the UK’s reputation for inclusivity among prospective students from conflict-affected regions, and assess if partner agencies or governments begin referencing it when advising students on study destinations.",
+      "title": "UK: Visa application withdrawals surpass refusals in Q1 2026",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/06/uk-visa-application-withdrawals-surpass-refusals-in-q1-2026/",
+      "pubDate": "2026-06-25",
+      "summary": "Visa application withdrawals exceeded refusals in the UK during Q1 2026. Visa application volumes declined significantly, and grant rates fell by 32% compared to the norm.",
+      "insight": "This news may reflect growing applicant caution or procedural friction in the UK’s visa system, potentially shifting student preferences toward alternative destinations—but causality remains unclear without data on whether withdrawals stem from policy changes, rising costs, or broader geopolitical sentiment.  \nAdmissions teams should track UK visa processing times, withdrawal reasons (if disclosed), and comparative application trends across peer countries to assess whether this signals a durable demand shift or a short-term administrative anomaly.",
       "impact": "Low",
       "sources": [],
       "dests": [
@@ -24,13 +24,13 @@
     },
     {
       "id": 2,
-      "title": "Surprise hike in international student visa application fees “a direct hit to Australia’s competitiveness”",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/07/surprise-hike-in-international-student-visa-application-fees-a-direct-hit-to-australias-competitiveness/",
-      "pubDate": "2026-07-01",
-      "summary": "Australia’s Department of Home Affairs announced an immediate, unconsulted increase in international student visa application fees for study, work, and working-holiday visas, effective 1 July 2026. The fee hikes are non-refundable and impact all sub-sectors of the international education sector.",
-      "insight": "Australia’s sudden, unconsulted visa fee hike—effective mid-2026—may dampen short-term demand from cost-sensitive markets, particularly in Southeast Asia and India, though broader enrolment trends will depend on concurrent scholarship adjustments, exchange rates, and competing destinations’ pricing.  \nAdmissions teams should track real-time application volume shifts by cohort and origin country over the next 6–12 months, while reviewing messaging around affordability, value proposition, and alternative pathways to ensure positioning remains competitive amid evolving policy signals.",
+      "title": "“Frustration, disappointment, even heartbreak”: Ian Aird on Australia’s latest visa fee hike",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/frustration-disappointment-even-heartbreak-ian-aird-on-australias-latest-visa-fee-hike/",
+      "pubDate": "2026-07-02",
+      "summary": "The ELICOS sector has strongly reacted to Australia’s latest student visa fee increases, with English Australia CEO Ian Aird expressing widespread frustration among providers. Aird described the impact of the fee hike as causing frustration, disappointment, and even heartbreak.",
+      "insight": "Australia’s ELICOS sector backlash signals potential softening in demand for pathway English programs amid rising visa costs, though broader undergraduate/postgraduate enrolment trends remain uncertain and may vary by source market and institution type.  \nAdmissions teams should track Australian visa fee changes alongside competitor pricing and scholarship offers, while monitoring student sentiment in key markets—particularly Southeast Asia and Latin America—where cost sensitivity may shift application preferences toward alternative destinations.",
       "impact": "Low",
       "sources": [],
       "dests": [
@@ -39,45 +39,6 @@
       "translated": false,
       "origLang": null,
       "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 3,
-      "title": "ICEF Podcast: “Good, steady, and disciplined”: New Zealand’s plan for sustainable international enrolment growth",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/07/icef-podcast-good-steady-and-disciplined-new-zealands-plan-for-sustainable-international-enrolment-growth/",
-      "pubDate": "2026-07-01",
-      "summary": "The ICEF Podcast features hosts Craig Riggs and Martijn van de Veen discussing recent developments in international student recruitment, including new foreign enrolment figures from the Netherlands and Azerbaijan’s plans to expand its international student base. The episode also includes a live discussion with ICEF’s Rod Hearps about New Zealand’s strategy for achieving sustainable international enrolment growth, described as “good, steady, and disciplined.”",
-      "insight": "New Zealand’s emphasis on “good, steady, and disciplined” growth signals a deliberate pivot toward quality and sustainability over rapid expansion, which may indirectly influence global perceptions of student mobility—though direct impacts on demand in the USA, UK, or Australia remain uncertain without parallel policy shifts.  \nAdmissions teams should monitor New Zealand’s visa processing timelines, post-study work rule refinements, and source-market-specific enrolment trends, as these could foreshadow broader regulatory or reputational shifts affecting student decision-making across comparable English-speaking destinations.",
-      "impact": "Low",
-      "sources": [],
-      "dests": [
-        "New Zealand"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 4,
-      "title": "Students of Southeast Asia's largest economy are choosing China over US",
-      "source": "VnExpress (EN)",
-      "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/education/students-of-southeast-asia-s-largest-economy-are-choosing-china-over-us-5091344.html",
-      "pubDate": "2026-07-02",
-      "summary": "Indonesian students are increasingly choosing to study in China instead of the United States and other Western countries. This shift reflects deepening economic ties between Indonesia and China, influencing where Indonesia trains its future talent.",
-      "insight": "This trend signals a potential recalibration in Southeast Asian student preferences, possibly driven by China’s growing economic influence and scholarship offerings—though it remains unclear whether this reflects broad regional shifts or Indonesia-specific factors like bilateral agreements or perceived career advantages.  \nAdmissions teams should monitor Indonesian enrollment data, track Chinese university partnerships with Indonesian institutions, and assess how perceptions of post-study work opportunities, tuition value, and geopolitical narratives shape applicant decision-making across key ASEAN markets.",
-      "impact": "Low",
-      "sources": [
-        "China",
-        "Southeast Asia"
-      ],
-      "dests": [],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 7,
       "insightSource": "qwen"
     }
   ]
