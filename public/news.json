@@ -1,21 +1,21 @@
 {
-  "updated": "2026-07-03T04:34:08Z",
+  "updated": "2026-07-04T04:26:56Z",
   "count": 2,
-  "totalFetched": 176,
+  "totalFetched": 174,
   "articles": [
     {
       "id": 1,
-      "title": "UK: Visa application withdrawals surpass refusals in Q1 2026",
+      "title": "Surprise hike in international student visa application fees “a direct hit to Australia’s competitiveness”",
       "source": "ICEF Monitor",
       "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/06/uk-visa-application-withdrawals-surpass-refusals-in-q1-2026/",
-      "pubDate": "2026-06-25",
-      "summary": "Visa application withdrawals exceeded refusals in the UK during Q1 2026. Visa application volumes declined significantly, and grant rates fell by 32% compared to the norm.",
-      "insight": "This news may reflect growing applicant caution or procedural friction in the UK’s visa system, potentially shifting student preferences toward alternative destinations—but causality remains unclear without data on whether withdrawals stem from policy changes, rising costs, or broader geopolitical sentiment.  \nAdmissions teams should track UK visa processing times, withdrawal reasons (if disclosed), and comparative application trends across peer countries to assess whether this signals a durable demand shift or a short-term administrative anomaly.",
+      "url": "https://monitor.icef.com/2026/07/surprise-hike-in-international-student-visa-application-fees-a-direct-hit-to-australias-competitiveness/",
+      "pubDate": "2026-07-01",
+      "summary": "Australia’s Department of Home Affairs announced an immediate, unconsulted hike in international student visa application fees for study, work, and working-holiday visas, effective 1 July 2026. The fee increase applies across all sub-sectors of the international education sector and is non-refundable.",
+      "insight": "This fee hike signals potential downward pressure on Australia’s attractiveness for cost-sensitive international students, particularly from price-sensitive markets like India and Nigeria, though actual enrolment impact depends on concurrent scholarship offerings, exchange rates, and comparative fees in competing destinations.  \nAdmissions teams should track real-time application volume trends from key source countries to Australia, monitor competitor messaging around affordability, and assess whether partner agents are shifting counselling emphasis toward lower-cost alternatives or value-added support packages.",
       "impact": "Low",
       "sources": [],
       "dests": [
-        "UK"
+        "Australia"
       ],
       "translated": false,
       "origLang": null,
@@ -24,17 +24,17 @@
     },
     {
       "id": 2,
-      "title": "“Frustration, disappointment, even heartbreak”: Ian Aird on Australia’s latest visa fee hike",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/frustration-disappointment-even-heartbreak-ian-aird-on-australias-latest-visa-fee-hike/",
-      "pubDate": "2026-07-02",
-      "summary": "The ELICOS sector has strongly reacted to Australia’s latest student visa fee increases, with English Australia CEO Ian Aird expressing widespread frustration among providers. Aird described the impact of the fee hike as causing frustration, disappointment, and even heartbreak.",
-      "insight": "Australia’s ELICOS sector backlash signals potential softening in demand for pathway English programs amid rising visa costs, though broader undergraduate/postgraduate enrolment trends remain uncertain and may vary by source market and institution type.  \nAdmissions teams should track Australian visa fee changes alongside competitor pricing and scholarship offers, while monitoring student sentiment in key markets—particularly Southeast Asia and Latin America—where cost sensitivity may shift application preferences toward alternative destinations.",
+      "title": "ICEF Podcast: “Good, steady, and disciplined”: New Zealand’s plan for sustainable international enrolment growth",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/07/icef-podcast-good-steady-and-disciplined-new-zealands-plan-for-sustainable-international-enrolment-growth/",
+      "pubDate": "2026-07-01",
+      "summary": "The ICEF Podcast features hosts Craig Riggs and Martijn van de Veen discussing recent developments in international student recruitment, including new foreign enrolment figures from the Netherlands and Azerbaijan’s efforts to expand its international student base. The episode then shifts to a live discussion with ICEF’s Rod Hearps about New Zealand’s strategy for achieving sustainable international enrolment growth, described as “good, steady, and disciplined.”",
+      "insight": "New Zealand’s “good, steady, and disciplined” approach signals a deliberate pivot toward quality and sustainability over rapid growth, which may indirectly influence global perceptions of student mobility—though direct impacts on US, UK, or Australian demand remain uncertain without parallel policy shifts in those markets.  \nAdmissions teams should monitor New Zealand’s visa processing timelines, post-study work rule refinements, and source-market-specific enrolment trends, particularly in Asia and the Pacific, to assess whether its model inspires similar recalibrations elsewhere or creates new competitive opportunities.",
       "impact": "Low",
       "sources": [],
       "dests": [
-        "Australia"
+        "New Zealand"
       ],
       "translated": false,
       "origLang": null,
