@@ -1,36 +1,17 @@
 {
-  "updated": "2026-07-05T04:48:39Z",
-  "count": 5,
-  "totalFetched": 173,
+  "updated": "2026-07-06T05:01:49Z",
+  "count": 2,
+  "totalFetched": 178,
   "articles": [
     {
       "id": 1,
-      "title": "UK: Visa application withdrawals surpass refusals in Q1 2026",
+      "title": "Surprise hike in international student visa application fees “a direct hit to Australia’s competitiveness”",
       "source": "ICEF Monitor",
       "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/06/uk-visa-application-withdrawals-surpass-refusals-in-q1-2026/",
-      "pubDate": "2026-06-25",
-      "summary": "Visa application withdrawals exceeded refusals in the UK during Q1 2026. Visa grant rates fell by 32% compared to the norm, and overall visa application volumes declined significantly in the first half of 2026.",
-      "insight": "This news suggests potential softening in UK appeal for international students, possibly reflecting heightened visa uncertainty, procedural friction, or shifting perceptions—though it’s unclear whether withdrawals stem from policy changes, application strategy shifts, or broader geopolitical or economic factors affecting source markets.  \nAdmissions teams should track UK visa processing times, withdrawal reasons (if publicly available), and concurrent trends in student inquiries and applications from key regions—particularly India, Nigeria, and China—to assess whether this signals a longer-term recalibration of destination preferences or a temporary anomaly.",
-      "impact": "Low",
-      "sources": [],
-      "dests": [
-        "UK"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 2,
-      "title": "Australia maintains 2027 international student planning level at 295,000",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/australia-maintains-2027-international-student-planning-level-at-295000/",
-      "pubDate": "2026-07-03",
-      "summary": "The Australian government has maintained the 2027 international student planning level at 295,000. It confirmed that no active education provider will receive a lower allocation for 2027, as international student commencements are on track to remain below this cap.",
-      "insight": "Australia’s unchanged 295,000 cap for 2027 suggests continued policy stability and moderate growth in international enrolments, though it doesn’t directly indicate shifting demand or visa tightening—rather, it reflects confidence in current intake trajectories amid broader global competition for students.  \nAdmissions teams should monitor Australia’s actual 2024–2026 commencements, regional application trends from key source markets like India and China, and any subsequent adjustments to post-study work rights or course accreditation rules that could influence student choice.",
+      "url": "https://monitor.icef.com/2026/07/surprise-hike-in-international-student-visa-application-fees-a-direct-hit-to-australias-competitiveness/",
+      "pubDate": "2026-07-01",
+      "summary": "Australia’s Department of Home Affairs announced an immediate, unexpected increase in international student visa application fees, effective 1 July 2026, with no prior consultation with the education sector. The fee hike applies to study, work, and working-holiday visas and is non-refundable, affecting all sub-sectors of the international education industry.",
+      "insight": "This unexpected fee hike signals potential downward pressure on Australia’s attractiveness for cost-sensitive students, particularly from price-sensitive markets like India and Nigeria, though its full impact on global demand remains uncertain amid broader economic and geopolitical factors influencing student mobility.  \nAdmissions teams should monitor application volume trends from key feeder countries to Australia over the next 6–12 months and assess whether counterpart institutions in the UK, USA, and New Zealand see correlated shifts in inquiry patterns or conversion rates.",
       "impact": "Low",
       "sources": [],
       "dests": [
@@ -42,60 +23,22 @@
       "insightSource": "qwen"
     },
     {
-      "id": 3,
-      "title": "China in 2026: Slowing outbound student mobility, accelerating inbound momentum",
+      "id": 2,
+      "title": "ICEF Podcast: “Good, steady, and disciplined”: New Zealand’s plan for sustainable international enrolment growth",
       "source": "ICEF Monitor",
       "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/07/china-in-2026-slowing-outbound-student-mobility-accelerating-inbound-momentum/",
-      "pubDate": "2026-07-02",
-      "summary": "The number of international students studying in China reached approximately 380,000 from nearly 200 countries during the 2024/25 academic year, according to a senior Chinese education official cited in China Daily. This figure represents a decline from nearly 500,000 international students previously, while outbound mobility of Chinese students continues to slow and inbound momentum accelerates.",
-      "insight": "This news suggests a potential softening in China’s outbound student pipeline—though the 380,000 figure reflects inbound enrolment in China, not outbound numbers, it aligns with broader trends of slowing Chinese student departures amid economic caution, policy shifts, and growing domestic higher education capacity.  \nAdmissions teams should monitor Chinese applicants’ application volumes, scholarship uptake, and stated motivations over the next 1–2 cycles, while assessing whether rising domestic options or visa-related concerns are reshaping enrolment decisions at the margin.",
-      "impact": "Low",
-      "sources": [
-        "China"
-      ],
-      "dests": [],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 7,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 4,
-      "title": "TNE drives UK export growth as international enrolment revenue slows",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/uk-tne-exports-grow-by-17-in-2024/",
-      "pubDate": "2026-07-03",
-      "summary": "The UK’s total education exports reached £36.7 billion in 2024, showing modest growth toward the government’s £40 billion target by the end of the decade. This growth was driven primarily by transnational education (TNE), while revenue from international student enrolment slowed.",
-      "insight": "The UK’s shift toward transnational education (TNE) as a growth lever—amid slowing international enrolment revenue—may reflect evolving student preferences for flexible, lower-cost pathways, though it’s unclear whether this signals reduced demand for on-campus study or simply diversification in delivery models.  \nAdmissions teams should monitor UK TNE expansion patterns, especially in key source markets like India and Nigeria, and assess whether partnering on validated degrees or articulation pathways could complement traditional recruitment without diverting focus from core onshore enrolment goals.",
+      "url": "https://monitor.icef.com/2026/07/icef-podcast-good-steady-and-disciplined-new-zealands-plan-for-sustainable-international-enrolment-growth/",
+      "pubDate": "2026-07-01",
+      "summary": "The ICEF Podcast features hosts Craig Riggs and Martijn van de Veen discussing recent developments in international student recruitment, including new foreign enrolment figures from the Netherlands and Azerbaijan’s goals to expand its international student base. The episode then includes a live discussion with ICEF’s Rod Hearps focused on New Zealand’s strategy for achieving sustainable international enrolment growth, described as “good, steady, and disciplined.”",
+      "insight": "New Zealand’s “good, steady, and disciplined” approach signals a deliberate shift toward quality-controlled growth rather than volume-driven expansion, potentially influencing global perceptions of stability and regulatory predictability—though direct impacts on demand in other English-speaking destinations remain uncertain without parallel policy shifts.  \nAdmissions teams should monitor New Zealand’s visa processing timelines, post-study work rights adjustments, and enrolment caps by sector or nationality, as these may foreshadow similar recalibrations elsewhere or reveal emerging preferences among students prioritising long-term residency pathways.",
       "impact": "Low",
       "sources": [],
       "dests": [
-        "UK"
+        "New Zealand"
       ],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 7,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 5,
-      "title": "Why are Hong Kong, mainland universities rising in global rankings as US ones fall?",
-      "source": "SCMP (Education)",
-      "color": "#7b241c",
-      "url": "https://www.scmp.com/news/hong-kong/education/article/3358602/why-are-hong-kong-mainland-china-universities-gaining-ground-global-rankings?utm_source=rss_feed",
-      "pubDate": "2026-06-27",
-      "summary": "A South China Morning Post analysis found that over the past five years, universities in Hong Kong and mainland China have risen in global rankings while more than 70 percent of US institutions have declined. UK-based education data firm Quacquarelli Symonds (QS) attributed this shift to a broader distribution of excellence in higher education beyond a handful of Western countries.",
-      "insight": "This news suggests growing perception of academic quality in Chinese universities may modestly influence student decision-making, particularly among high-achieving applicants from China and neighbouring markets—though demand for Western degrees remains strong, and rankings alone rarely drive enrolment choices.  \nAdmissions teams should track application trends from Greater China, monitor how domestic policy shifts (e.g., scholarship expansions or visa facilitation) in Hong Kong and mainland institutions affect student consideration sets, and assess whether their value proposition resonates amid evolving regional reputation dynamics.",
-      "impact": "Low",
-      "sources": [
-        "China"
-      ],
-      "dests": [],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 6,
+      "relevanceScore": 8,
       "insightSource": "qwen"
     }
   ]
