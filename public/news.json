@@ -1,18 +1,18 @@
 {
-  "updated": "2026-07-08T04:01:18Z",
-  "count": 3,
-  "totalFetched": 176,
+  "updated": "2026-07-10T04:43:08Z",
+  "count": 6,
+  "totalFetched": 177,
   "articles": [
     {
       "id": 1,
-      "title": "Surprise hike in international student visa application fees “a direct hit to Australia’s competitiveness”",
+      "title": "Australia: As visa applications from foreign students fall, the government has set the national target for new international students in 2027",
       "source": "ICEF Monitor",
       "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/07/surprise-hike-in-international-student-visa-application-fees-a-direct-hit-to-australias-competitiveness/",
-      "pubDate": "2026-07-01",
-      "summary": "Australia’s Department of Home Affairs announced an immediate and unconsulted increase in international student visa application fees, effective 1 July 2026. The hike affects study, work, and working-holiday visas and applies across all sub-sectors of the international education sector, with fees being non-refundable.",
-      "insight": "This fee hike signals potential downward pressure on Australian student enrolments, especially among price-sensitive cohorts from Asia and developing economies, though actual demand impact depends on concurrent scholarship offers, exchange rates, and comparative value versus the US, UK, and NZ.  \nAdmissions teams should track application volume trends for Australia in key source markets over the next 6–12 months and benchmark their own fee structures, scholarship availability, and visa support services against evolving regional affordability perceptions.",
-      "impact": "Low",
+      "url": "https://monitor.icef.com/2026/07/australia-as-visa-applications-from-foreign-students-fall-the-government-has-set-the-national-target-for-new-international-students-in-2027/",
+      "pubDate": "2026-07-09",
+      "summary": "The Australian government has set the National Planning Level (NPL) for new international students in 2027 at 295,000 student spaces across universities and vocational education and training (VET) providers. This target is part of a broader strategy to manage the growth of the international education sector amid declining visa applications from foreign students.",
+      "insight": "Australia’s 2027 target of 295,000 international student places reflects a calibrated response to falling visa applications, suggesting possible tightening of intake caps or shifts in sectoral priorities—but it does not directly indicate broader global demand trends or policy changes elsewhere.  \nAdmissions teams should track Australia’s implementation of this cap, especially visa processing times and regional allocation patterns, while reviewing their own source-market messaging to ensure competitiveness amid evolving perceptions of post-study work and cost-of-living value.",
+      "impact": "Medium",
       "sources": [],
       "dests": [
         "Australia"
@@ -24,18 +24,18 @@
     },
     {
       "id": 2,
-      "title": "ICEF Podcast: “Good, steady, and disciplined”: New Zealand’s plan for sustainable international enrolment growth",
+      "title": "China in 2026: Slowing outbound student mobility, accelerating inbound momentum",
       "source": "ICEF Monitor",
       "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/07/icef-podcast-good-steady-and-disciplined-new-zealands-plan-for-sustainable-international-enrolment-growth/",
-      "pubDate": "2026-07-01",
-      "summary": "The ICEF Podcast features hosts Craig Riggs and Martijn van de Veen discussing recent developments in international student recruitment, including new foreign enrolment figures from the Netherlands and Azerbaijan’s goals to expand its international student base. The episode also includes a live discussion with ICEF’s Rod Hearps about New Zealand’s strategy for achieving sustainable international enrolment growth, described as “good, steady, and disciplined.”",
-      "insight": "New Zealand’s “good, steady, and disciplined” approach signals a deliberate shift toward quality and sustainability over rapid growth, potentially influencing global perceptions of destination reliability—though direct impacts on US/UK/AU demand remain uncertain without parallel policy shifts in those markets.  \nAdmissions teams should monitor how New Zealand’s regulatory consistency and student support frameworks resonate with agents and families in shared source markets like China and India, while benchmarking their own enrolment pacing and compliance transparency against this emerging best-practice narrative.",
+      "url": "https://monitor.icef.com/2026/07/china-in-2026-slowing-outbound-student-mobility-accelerating-inbound-momentum/",
+      "pubDate": "2026-07-02",
+      "summary": "The number of international students studying in China reached approximately 380,000 from nearly 200 countries during the 2024/25 academic year, according to a senior Chinese education official cited in the China Daily. This figure represents a decline from nearly 500,000 international students previously enrolled in China.",
+      "insight": "China’s reported 24% drop in inbound international students—from ~500,000 to ~380,000—may reflect broader geopolitical, economic, or reputational shifts affecting global student mobility patterns, though it does not directly indicate rising demand for Western destinations without corroborating data on outbound Chinese student flows.  \nAdmissions teams should track China’s latest outbound student visa issuance trends, scholarship policy updates, and sentiment indicators (e.g., social media discourse, agent feedback), while reviewing cohort performance metrics to assess whether this dip signals emerging opportunities or merely short-term volatility.",
       "impact": "Low",
-      "sources": [],
-      "dests": [
-        "New Zealand"
+      "sources": [
+        "China"
       ],
+      "dests": [],
       "translated": false,
       "origLang": null,
       "relevanceScore": 8,
@@ -43,21 +43,83 @@
     },
     {
       "id": 3,
-      "title": "Germany adds new test to pre-visa checks for Indian master’s applicants",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/germany-adds-new-test-to-pre-visa-checks-for-indian-masters-applicants/",
-      "pubDate": "2026-07-07",
-      "summary": "Germany will introduce the Digital Master Test (dMAT) as a mandatory requirement for selected Indian master’s applicants applying for the Academic Evaluation Centre (APS) documentation starting from the summer semester 2027. This test is part of pre-visa checks for Indian students seeking to study in Germany.",
-      "insight": "Germany’s new dMAT requirement for Indian master’s applicants signals potential friction in a key feeder market, possibly redirecting some high-achieving students toward alternative destinations like the US, UK, Australia, or New Zealand—though actual demand shifts depend on test accessibility, perceived fairness, and parallel visa policy changes elsewhere.  \nAdmissions teams should track Indian application volumes and APS processing timelines over the next 12–18 months, while reviewing whether their outreach and support services adequately address evolving credential verification expectations for Indian applicants.",
+      "title": "Decline in Indian demand a major factor in softer outlook for foreign enrolment in US higher education in 2026/27",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/07/decline-in-indian-demand-a-major-factor-in-softer-outlook-for-foreign-enrolment-in-us-higher-education-in-2026-27/",
+      "pubDate": "2026-07-09",
+      "summary": "The Institute of International Education (IIE) conducts a twice-yearly snapshot survey of US institutions to track international enrolment trends, with the 2026 Spring Snapshot serving as a critical indicator amid ongoing market and policy shifts. A decline in demand from Indian students is identified as a major factor contributing to the softer outlook for foreign enrolment in US higher education for the 2026/27 academic year.",
+      "insight": "A notable dip in Indian student demand for US institutions—potentially reflecting shifting preferences, economic pressures, or policy impacts—may signal broader recalibrations in global student mobility, though it remains unclear whether this trend will extend to the UK, Australia, or New Zealand.  \nAdmissions teams should track Indian application volumes, visa approval rates, and competitor messaging across key markets, while reviewing their value propositions for Indian students—not as an immediate crisis, but as part of ongoing market intelligence refinement.",
       "impact": "Low",
       "sources": [
         "India"
       ],
-      "dests": [],
+      "dests": [
+        "USA"
+      ],
       "translated": false,
       "origLang": null,
       "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 4,
+      "title": "Modi meets with Australian higher ed as Flinders announces India campus",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/flinders-university-announces-india-campus-as-modi-visits-australia/",
+      "pubDate": "2026-07-09",
+      "summary": "Flinders University is set to open a campus in Bengaluru, India, as announced by Australian Prime Minister Anthony Albanese during Indian Prime Minister Narendra Modi’s visit to Australia. The announcement was made in the context of Modi meeting with Australian higher education representatives.",
+      "insight": "Flinders’ Bengaluru campus signals growing Indian institutional confidence in domestic higher education capacity, potentially moderating outbound demand—though its impact on overall student flows remains uncertain given India’s expanding middle class and persistent preference for overseas degrees.  \nAdmissions teams should track enrolment patterns at Flinders’ new campus and broader Australia–India education agreements, as these may influence perceptions of Australian study quality and shape competitive messaging around value, pathways, and post-study opportunities.",
+      "impact": "Medium",
+      "sources": [
+        "India"
+      ],
+      "dests": [
+        "Australia"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 7,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 5,
+      "title": "Why are Hong Kong, mainland universities rising in global rankings as US ones fall?",
+      "source": "SCMP (Education)",
+      "color": "#7b241c",
+      "url": "https://www.scmp.com/news/hong-kong/education/article/3358602/why-are-hong-kong-mainland-china-universities-gaining-ground-global-rankings?utm_source=rss_feed",
+      "pubDate": "2026-06-27",
+      "summary": "A South China Morning Post analysis found that over the past five years, universities in Hong Kong and mainland China have risen in global rankings while more than 70 percent of US institutions have declined. UK-based education data firm Quacquarelli Symonds (QS) attributed this shift to a broader dispersion of excellence in higher education beyond a handful of Western countries.",
+      "insight": "This news may reflect shifting perceptions of academic quality and value among Chinese students, potentially influencing demand for Western degrees—though rankings alone rarely drive decisions without concurrent changes in visa policies, costs, or post-study outcomes.  \nAdmissions teams should monitor enrolment trends from China, especially applications to STEM and research-intensive programmes, alongside emerging partnerships with Chinese institutions and evolving government scholarship priorities.",
+      "impact": "Low",
+      "sources": [
+        "China"
+      ],
+      "dests": [],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 7,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 6,
+      "title": "Beyond Dubai’s Bling, Chinese Students See a Future",
+      "source": "Sixth Tone",
+      "color": "#922b21",
+      "url": "https://www.sixthtone.com/news/1018717/Beyond Dubai’s Bling, Chinese Students See a Future",
+      "pubDate": "2026-07-10",
+      "summary": "Chinese students in the UAE are increasingly choosing the country for its affordable international schooling rather than for Dubai’s luxury image. This shift is prompting them to reconsider their perspectives on education, career paths, and future opportunities.",
+      "insight": "This news suggests a potential softening of China’s traditional preference for Western study destinations, as students increasingly value affordability and regional stability over prestige—though it remains unclear whether this reflects broader sentiment or a niche response to UAE-specific education policy shifts.  \nAdmissions teams should monitor enrolment trends among Chinese students in Gulf-based institutions, track UAE visa and post-study work reforms, and assess whether similar affordability–stability trade-offs are gaining traction in other emerging destination markets.",
+      "impact": "Low",
+      "sources": [
+        "China",
+        "MENA"
+      ],
+      "dests": [],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 7,
       "insightSource": "qwen"
     }
   ]
