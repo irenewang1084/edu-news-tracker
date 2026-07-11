@@ -1,18 +1,18 @@
 {
-  "updated": "2026-07-10T04:43:08Z",
-  "count": 6,
-  "totalFetched": 177,
+  "updated": "2026-07-11T03:59:48Z",
+  "count": 4,
+  "totalFetched": 183,
   "articles": [
     {
       "id": 1,
-      "title": "Australia: As visa applications from foreign students fall, the government has set the national target for new international students in 2027",
+      "title": "Surprise hike in international student visa application fees “a direct hit to Australia’s competitiveness”",
       "source": "ICEF Monitor",
       "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/07/australia-as-visa-applications-from-foreign-students-fall-the-government-has-set-the-national-target-for-new-international-students-in-2027/",
-      "pubDate": "2026-07-09",
-      "summary": "The Australian government has set the National Planning Level (NPL) for new international students in 2027 at 295,000 student spaces across universities and vocational education and training (VET) providers. This target is part of a broader strategy to manage the growth of the international education sector amid declining visa applications from foreign students.",
-      "insight": "Australia’s 2027 target of 295,000 international student places reflects a calibrated response to falling visa applications, suggesting possible tightening of intake caps or shifts in sectoral priorities—but it does not directly indicate broader global demand trends or policy changes elsewhere.  \nAdmissions teams should track Australia’s implementation of this cap, especially visa processing times and regional allocation patterns, while reviewing their own source-market messaging to ensure competitiveness amid evolving perceptions of post-study work and cost-of-living value.",
-      "impact": "Medium",
+      "url": "https://monitor.icef.com/2026/07/surprise-hike-in-international-student-visa-application-fees-a-direct-hit-to-australias-competitiveness/",
+      "pubDate": "2026-07-01",
+      "summary": "Australia’s Department of Home Affairs announced an immediate, unconsulted hike in international student visa application fees for study, work, and working-holiday visas, effective 1 July 2026. The new non-refundable fees impact all sub-sectors of the international education sector.",
+      "insight": "Australia’s sudden, unconsulted visa fee hike—effective mid-2026—may dampen short-term demand from cost-sensitive source markets, though its full impact on enrolment decisions depends on concurrent scholarship offerings, exchange rates, and comparative affordability versus the US, UK, and NZ.  \n\nAdmissions teams should track real-time application volume trends from key Australian feeder countries, benchmark fee changes against peer destinations, and assess whether partner agents or schools signal shifting student preferences toward lower-cost or more predictable visa pathways.",
+      "impact": "Low",
       "sources": [],
       "dests": [
         "Australia"
@@ -24,18 +24,18 @@
     },
     {
       "id": 2,
-      "title": "China in 2026: Slowing outbound student mobility, accelerating inbound momentum",
+      "title": "ICEF Podcast: “Good, steady, and disciplined”: New Zealand’s plan for sustainable international enrolment growth",
       "source": "ICEF Monitor",
       "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/07/china-in-2026-slowing-outbound-student-mobility-accelerating-inbound-momentum/",
-      "pubDate": "2026-07-02",
-      "summary": "The number of international students studying in China reached approximately 380,000 from nearly 200 countries during the 2024/25 academic year, according to a senior Chinese education official cited in the China Daily. This figure represents a decline from nearly 500,000 international students previously enrolled in China.",
-      "insight": "China’s reported 24% drop in inbound international students—from ~500,000 to ~380,000—may reflect broader geopolitical, economic, or reputational shifts affecting global student mobility patterns, though it does not directly indicate rising demand for Western destinations without corroborating data on outbound Chinese student flows.  \nAdmissions teams should track China’s latest outbound student visa issuance trends, scholarship policy updates, and sentiment indicators (e.g., social media discourse, agent feedback), while reviewing cohort performance metrics to assess whether this dip signals emerging opportunities or merely short-term volatility.",
+      "url": "https://monitor.icef.com/2026/07/icef-podcast-good-steady-and-disciplined-new-zealands-plan-for-sustainable-international-enrolment-growth/",
+      "pubDate": "2026-07-01",
+      "summary": "The ICEF Podcast features hosts Craig Riggs and Martijn van de Veen discussing recent international education developments, including foreign enrolment figures from the Netherlands and Azerbaijan’s goals to expand its international student numbers. The episode then includes a live discussion with ICEF’s Rod Hearps focusing on New Zealand’s strategy for achieving sustainable international enrolment growth, described as “good, steady, and disciplined.”",
+      "insight": "New Zealand’s emphasis on “good, steady, and disciplined” growth signals a deliberate shift toward quality and sustainability over rapid expansion, which may indirectly influence global perceptions of education destination reliability—though direct impacts on demand in other countries remain uncertain without parallel policy shifts elsewhere.  \nAdmissions teams should monitor New Zealand’s visa processing timelines, post-study work rule adjustments, and enrolment trends by origin region, as these could foreshadow broader regulatory or market sentiment shifts relevant to competitive positioning in key source markets.",
       "impact": "Low",
-      "sources": [
-        "China"
+      "sources": [],
+      "dests": [
+        "New Zealand"
       ],
-      "dests": [],
       "translated": false,
       "origLang": null,
       "relevanceScore": 8,
@@ -43,20 +43,18 @@
     },
     {
       "id": 3,
-      "title": "Decline in Indian demand a major factor in softer outlook for foreign enrolment in US higher education in 2026/27",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/07/decline-in-indian-demand-a-major-factor-in-softer-outlook-for-foreign-enrolment-in-us-higher-education-in-2026-27/",
-      "pubDate": "2026-07-09",
-      "summary": "The Institute of International Education (IIE) conducts a twice-yearly snapshot survey of US institutions to track international enrolment trends, with the 2026 Spring Snapshot serving as a critical indicator amid ongoing market and policy shifts. A decline in demand from Indian students is identified as a major factor contributing to the softer outlook for foreign enrolment in US higher education for the 2026/27 academic year.",
-      "insight": "A notable dip in Indian student demand for US institutions—potentially reflecting shifting preferences, economic pressures, or policy impacts—may signal broader recalibrations in global student mobility, though it remains unclear whether this trend will extend to the UK, Australia, or New Zealand.  \nAdmissions teams should track Indian application volumes, visa approval rates, and competitor messaging across key markets, while reviewing their value propositions for Indian students—not as an immediate crisis, but as part of ongoing market intelligence refinement.",
+      "title": "Thailand busts fake birth certificate ring granting citizenship to 164 foreign children",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/crime/thailand-busts-fake-birth-certificate-ring-granting-citizenship-to-164-foreign-children-5095779.html",
+      "pubDate": "2026-07-10",
+      "summary": "Thai police dismantled a criminal network on July 9 that forged birth registration documents to obtain Thai citizenship for foreign children. The operation led to the arrest of several suspects, including a hospital employee and an administrative official, and involved 164 foreign children.",
+      "insight": "This news highlights growing scrutiny of citizenship-by-birth pathways in Thailand, potentially affecting long-term student mobility patterns from Southeast Asia if families reassess education-linked residency strategies amid tighter documentation controls. Its direct impact on enrolment demand remains unclear but warrants attention as regional trust in administrative processes evolves.  \n\nAdmissions teams should monitor Thai government announcements on birth registration reforms and consult local agents about shifting parental preferences—particularly regarding pre-university pathway planning—while avoiding assumptions about immediate enrolment fluctuations or visa policy spillovers to destination countries.",
       "impact": "Low",
       "sources": [
-        "India"
+        "Southeast Asia"
       ],
-      "dests": [
-        "USA"
-      ],
+      "dests": [],
       "translated": false,
       "origLang": null,
       "relevanceScore": 8,
@@ -64,62 +62,21 @@
     },
     {
       "id": 4,
-      "title": "Modi meets with Australian higher ed as Flinders announces India campus",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/flinders-university-announces-india-campus-as-modi-visits-australia/",
-      "pubDate": "2026-07-09",
-      "summary": "Flinders University is set to open a campus in Bengaluru, India, as announced by Australian Prime Minister Anthony Albanese during Indian Prime Minister Narendra Modi’s visit to Australia. The announcement was made in the context of Modi meeting with Australian higher education representatives.",
-      "insight": "Flinders’ Bengaluru campus signals growing Indian institutional confidence in domestic higher education capacity, potentially moderating outbound demand—though its impact on overall student flows remains uncertain given India’s expanding middle class and persistent preference for overseas degrees.  \nAdmissions teams should track enrolment patterns at Flinders’ new campus and broader Australia–India education agreements, as these may influence perceptions of Australian study quality and shape competitive messaging around value, pathways, and post-study opportunities.",
-      "impact": "Medium",
-      "sources": [
-        "India"
-      ],
-      "dests": [
-        "Australia"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 7,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 5,
-      "title": "Why are Hong Kong, mainland universities rising in global rankings as US ones fall?",
-      "source": "SCMP (Education)",
-      "color": "#7b241c",
-      "url": "https://www.scmp.com/news/hong-kong/education/article/3358602/why-are-hong-kong-mainland-china-universities-gaining-ground-global-rankings?utm_source=rss_feed",
-      "pubDate": "2026-06-27",
-      "summary": "A South China Morning Post analysis found that over the past five years, universities in Hong Kong and mainland China have risen in global rankings while more than 70 percent of US institutions have declined. UK-based education data firm Quacquarelli Symonds (QS) attributed this shift to a broader dispersion of excellence in higher education beyond a handful of Western countries.",
-      "insight": "This news may reflect shifting perceptions of academic quality and value among Chinese students, potentially influencing demand for Western degrees—though rankings alone rarely drive decisions without concurrent changes in visa policies, costs, or post-study outcomes.  \nAdmissions teams should monitor enrolment trends from China, especially applications to STEM and research-intensive programmes, alongside emerging partnerships with Chinese institutions and evolving government scholarship priorities.",
+      "title": "World's best destination tightens visa rules on foreign influencers creating paid content",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/world-s-best-destination-tightens-visa-rules-on-foreign-influencers-creating-paid-content-5094656.html",
+      "pubDate": "2026-07-11",
+      "summary": "Indonesia has tightened enforcement of its visa regulations in Bali, specifically targeting foreign influencers and content creators. Producing paid or commercial content while on a tourist visa may now result in deportation or a lifetime entry ban.",
+      "insight": "While this policy targets commercial content creators, not students, it may subtly influence Southeast Asian students’ perceptions of visa compliance risks and regional mobility constraints—potentially amplifying caution around short-term stays or side activities during study abroad.  \nAdmissions teams should monitor whether Indonesian and broader ASEAN student inquiries reflect heightened concerns about visa clarity, post-study work permissions, or regulatory scrutiny—especially among applicants with digital-creative profiles or entrepreneurial intentions.",
       "impact": "Low",
       "sources": [
-        "China"
+        "Southeast Asia"
       ],
       "dests": [],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 7,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 6,
-      "title": "Beyond Dubai’s Bling, Chinese Students See a Future",
-      "source": "Sixth Tone",
-      "color": "#922b21",
-      "url": "https://www.sixthtone.com/news/1018717/Beyond Dubai’s Bling, Chinese Students See a Future",
-      "pubDate": "2026-07-10",
-      "summary": "Chinese students in the UAE are increasingly choosing the country for its affordable international schooling rather than for Dubai’s luxury image. This shift is prompting them to reconsider their perspectives on education, career paths, and future opportunities.",
-      "insight": "This news suggests a potential softening of China’s traditional preference for Western study destinations, as students increasingly value affordability and regional stability over prestige—though it remains unclear whether this reflects broader sentiment or a niche response to UAE-specific education policy shifts.  \nAdmissions teams should monitor enrolment trends among Chinese students in Gulf-based institutions, track UAE visa and post-study work reforms, and assess whether similar affordability–stability trade-offs are gaining traction in other emerging destination markets.",
-      "impact": "Low",
-      "sources": [
-        "China",
-        "MENA"
-      ],
-      "dests": [],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 7,
+      "relevanceScore": 8,
       "insightSource": "qwen"
     }
   ]
