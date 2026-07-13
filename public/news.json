@@ -1,37 +1,37 @@
 {
-  "updated": "2026-07-12T04:20:42Z",
-  "count": 4,
-  "totalFetched": 186,
+  "updated": "2026-07-13T04:25:16Z",
+  "count": 9,
+  "totalFetched": 182,
   "articles": [
     {
       "id": 1,
-      "title": "UK VAT on private schools triggers record decline in Hong Kong students",
-      "source": "SCMP (Education)",
-      "color": "#7b241c",
-      "url": "https://www.scmp.com/news/hong-kong/education/article/3360226/uk-vat-private-schools-triggers-record-decline-hong-kong-students?utm_source=rss_feed",
-      "pubDate": "2026-07-11",
-      "summary": "Hong Kong student enrolment at UK private schools fell by 17 per cent and new admissions dropped by 26 per cent following the UK’s introduction of a 20 per cent VAT on school fees last year. A consultant noted that enrolment has reverted to pre-emigration wave levels, with Hong Kong parents becoming more selective due to increased costs.",
-      "insight": "This news signals potential sensitivity among Hong Kong families to education cost increases in premium Western destinations, though it remains unclear whether the VAT-driven UK dip reflects broader affordability concerns or a UK-specific policy reaction.  \nAdmissions teams should monitor Hong Kong application trends and fee-related sentiment over the next 1–2 cycles, while assessing whether competitor markets are positioning themselves as more cost-stable alternatives for high-income Asian families.",
+      "title": "Many British universities are on the verge of bankruptcy",
+      "source": "VnExpress (Giáo dục)",
+      "color": "#b94500",
+      "url": "https://vnexpress.net/nhieu-dai-hoc-anh-ben-bo-pha-san-5074498.html",
+      "pubDate": "2026-07-12",
+      "summary": "Dozens of British universities are at risk of bankruptcy due to lower-than-expected numbers of international students. This financial strain arises because many institutions rely heavily on tuition fees from international students to sustain operations.",
+      "insight": "This news signals potential shifts in the UK’s competitiveness for international students, possibly reflecting broader concerns about value, post-study work rights, or geopolitical perceptions—though it’s unclear whether declining enrolments stem from reduced demand or tighter visa policies and recruitment capacity.  \nAdmissions teams should monitor UK competitor institutions’ fee structures, scholarship offerings, and student support services, while tracking real-time application trends from key source markets to assess whether sentiment or policy changes are influencing global student decision-making.",
       "impact": "High",
       "sources": [],
       "dests": [
         "UK"
       ],
-      "translated": false,
-      "origLang": null,
+      "translated": true,
+      "origLang": "vi",
       "relevanceScore": 8,
       "insightSource": "qwen"
     },
     {
       "id": 2,
-      "title": "Australia: As visa applications from foreign students fall, the government has set the national target for new international students in 2027",
+      "title": "Surprise hike in international student visa application fees “a direct hit to Australia’s competitiveness”",
       "source": "ICEF Monitor",
       "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/07/australia-as-visa-applications-from-foreign-students-fall-the-government-has-set-the-national-target-for-new-international-students-in-2027/",
-      "pubDate": "2026-07-09",
-      "summary": "The Australian government has set the National Planning Level (NPL) for new international students at 295,000 places for the coming academic year, distributing these across universities and vocational education and training (VET) providers. This target is part of a broader strategy to manage the growth of the international education sector amid declining visa applications from foreign students.",
-      "insight": "Australia’s 295,000 NPL target reflects a calibrated response to falling visa applications, suggesting potential softening in demand from key source markets—but it doesn’t confirm systemic decline, as underlying drivers like quality perception, post-study work rights, and regional competition remain influential variables.  \nAdmissions teams should track Australia’s actual enrolment uptake against this target, alongside shifts in student application patterns across Asia and Latin America, while reviewing their own value propositions on affordability, pathway clarity, and graduate outcomes relative to Australian alternatives.",
-      "impact": "Medium",
+      "url": "https://monitor.icef.com/2026/07/surprise-hike-in-international-student-visa-application-fees-a-direct-hit-to-australias-competitiveness/",
+      "pubDate": "2026-07-01",
+      "summary": "Australia’s Department of Home Affairs announced an immediate, unconsulted increase in international student visa application fees, effective 1 July 2026. The hike affects study, work, and working-holiday visas and is non-refundable, impacting all sub-sectors of the international education sector.",
+      "insight": "This fee hike signals potential downward pressure on Australia’s attractiveness to cost-sensitive international students, particularly from price-sensitive markets like India and Southeast Asia, though actual enrolment impact depends on concurrent scholarship offerings and perceived value of Australian qualifications.  \nAdmissions teams should track real-time application volume shifts across comparable destinations, monitor partner agent feedback on student concerns, and assess whether Australian institutions respond with targeted financial support or streamlined visa pathways.",
+      "impact": "Low",
       "sources": [],
       "dests": [
         "Australia"
@@ -43,16 +43,35 @@
     },
     {
       "id": 3,
-      "title": "China in 2026: Slowing outbound student mobility, accelerating inbound momentum",
+      "title": "ICEF Podcast: “Good, steady, and disciplined”: New Zealand’s plan for sustainable international enrolment growth",
       "source": "ICEF Monitor",
       "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/07/china-in-2026-slowing-outbound-student-mobility-accelerating-inbound-momentum/",
-      "pubDate": "2026-07-02",
-      "summary": "The number of international students studying in China reached approximately 380,000 from nearly 200 countries during the 2024/25 academic year, according to a senior Chinese education official cited in China Daily. This figure represents a decline from nearly 500,000 international students previously enrolled in China.",
-      "insight": "China’s reported decline in international student enrolment—from ~500,000 to ~380,000—may reflect broader global shifts in mobility preferences, geopolitical perceptions, or domestic policy adjustments, though it does not directly indicate rising demand for Western destinations without corroborating data from source markets.  \nAdmissions teams should track Chinese outbound student visa issuance trends, scholarship announcements, and sentiment indicators (e.g., social media discourse, agency surveys) rather than assume immediate competitive pressure, as regional variations and cohort-specific factors remain highly influential.",
+      "url": "https://monitor.icef.com/2026/07/icef-podcast-good-steady-and-disciplined-new-zealands-plan-for-sustainable-international-enrolment-growth/",
+      "pubDate": "2026-07-01",
+      "summary": "The ICEF Podcast features hosts Craig Riggs and Martijn van de Veen discussing recent developments in international student recruitment, including new foreign enrolment data from the Netherlands and Azerbaijan’s goals to expand its international student base. The episode also includes a live discussion with ICEF’s Rod Hearps on New Zealand’s strategy for achieving sustainable international enrolment growth, described as “good, steady, and disciplined.”",
+      "insight": "New Zealand’s “good, steady, and disciplined” approach signals a deliberate shift toward quality-controlled growth rather than volume-driven expansion, which may indirectly influence global perceptions of stability and regulatory rigor—though direct impacts on demand or visa policy elsewhere remain uncertain without parallel policy shifts.  \nAdmissions teams should monitor how New Zealand’s emphasis on sustainability resonates with students from key source markets—particularly those prioritising post-study work rights and long-term value—and track whether similar frameworks emerge in competitor nations’ upcoming policy consultations.",
+      "impact": "Low",
+      "sources": [],
+      "dests": [
+        "New Zealand"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 4,
+      "title": "World's best destination tightens visa rules on foreign influencers creating paid content",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/world-s-best-destination-tightens-visa-rules-on-foreign-influencers-creating-paid-content-5094656.html",
+      "pubDate": "2026-07-11",
+      "summary": "Indonesia has tightened enforcement of its visa regulations in Bali, specifically targeting foreign influencers and content creators. Producing paid or commercial content while on a tourist visa may now result in deportation or a lifetime entry ban.",
+      "insight": "While Indonesia’s visa crackdown on foreign influencers doesn’t directly affect student visas, it reflects a broader regional trend of stricter enforcement of non-immigrant visa conditions—potentially shaping perceptions among Southeast Asian students about regulatory predictability and compliance risks when studying abroad.  \nAdmissions teams should monitor whether similar enforcement patterns emerge in key source countries’ student visa regimes and assess if rising concerns about post-study work compliance or content-creation restrictions influence application decisions or destination preferences among digitally engaged youth.",
       "impact": "Low",
       "sources": [
-        "China"
+        "Southeast Asia"
       ],
       "dests": [],
       "translated": false,
@@ -61,24 +80,102 @@
       "insightSource": "qwen"
     },
     {
-      "id": 4,
-      "title": "Decline in Indian demand a major factor in softer outlook for foreign enrolment in US higher education in 2026/27",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/07/decline-in-indian-demand-a-major-factor-in-softer-outlook-for-foreign-enrolment-in-us-higher-education-in-2026-27/",
-      "pubDate": "2026-07-09",
-      "summary": "The Institute of International Education (IIE) conducts a twice-yearly snapshot survey of US institutions to track international enrolment trends, with the 2026 Spring Snapshot serving as a critical indicator amid ongoing market and policy shifts. A decline in demand from Indian students is identified as a major factor contributing to the softer outlook for foreign enrolment in US higher education for the 2026/27 academic year.",
-      "insight": "A notable dip in Indian student demand for US institutions—driven by factors like visa processing delays, post-study work uncertainty, and intensified competition from the UK, Canada, and Australia—may signal broader shifts in global student mobility preferences, though it remains unclear whether this reflects a temporary recalibration or longer-term market repositioning.  \nAdmissions teams should closely track Indian application volumes, visa approval rates, and competitor marketing initiatives in key cities, while reviewing their value proposition around career outcomes and support services—not as an immediate crisis, but as input for agile, data-informed recruitment planning across 2025–26 cycles.",
+      "id": 5,
+      "title": "Dozens of UK universities at risk of insolvency amid lower-than-expected international enrollment",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/education/dozens-of-uk-universities-at-risk-of-insolvency-amid-lower-than-expected-international-enrollment-5096534.html",
+      "pubDate": "2026-07-12",
+      "summary": "Approximately 24 UK universities are at risk of insolvency within the next 12 months. This financial risk stems primarily from lower-than-expected international student enrollment and other financial pressures.",
+      "insight": "This news signals potential shifts in international student demand and institutional stability, particularly for UK universities reliant on overseas enrolment; while not directly indicating reduced global demand, it may reflect tightening visa policies, economic pressures in key source markets, or growing competition from alternative destinations.  \nAdmissions teams should monitor application trends from UK-sourced students, track policy changes in Tier 4/Student Route visa requirements, and assess how peer institutions in the UK are adjusting recruitment strategies—especially messaging around financial sustainability and post-study outcomes.",
       "impact": "Low",
-      "sources": [
-        "India"
-      ],
+      "sources": [],
       "dests": [
-        "USA"
+        "UK"
       ],
       "translated": false,
       "origLang": null,
       "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 6,
+      "title": "UK unis must pivot towards partnerships as China market evolves",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/uk-unis-must-pivot-towards-partnerships-as-china-market-evolves/",
+      "pubDate": "2026-07-10",
+      "summary": "UK universities must shift their approach to China from focusing solely on student recruitment to developing deeper strategic partnerships, according to delegates at the British Universities China Association’s ninth annual conference. This call for a pivot reflects evolving conditions in the Chinese market and aims to help UK institutions remain competitive.",
+      "insight": "This news signals a potential shift in how UK institutions engage with China—not necessarily declining student demand, but growing emphasis on institutional partnerships that may indirectly influence recruitment pathways, reputation, and long-term market access amid tightening geopolitical and regulatory scrutiny.  \nAdmissions teams should monitor UK-China MOU developments, joint research initiatives, and scholarship programmes linked to strategic partnerships, as these could shape future referral pipelines, agent relationships, and student perceptions of academic value beyond tuition alone.",
+      "impact": "Medium",
+      "sources": [
+        "China"
+      ],
+      "dests": [
+        "UK"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 7,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 7,
+      "title": "Erasmus+ to replace Turing and Taith as sector calls for best of both",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/erasmus-to-replace-turing-and-taith-as-sector-calls-for-best-of-both/",
+      "pubDate": "2026-07-10",
+      "summary": "The UK is phasing out the Turing and Taith schemes in favour of rejoining the Erasmus+ programme, which offers more generous funding. Stakeholders are urging that the transition retain the successful elements of Turing and Taith while integrating them into the new Erasmus+ framework.",
+      "insight": "The UK’s shift from Turing/Taith to Erasmus+ may indirectly influence international student demand by reinforcing perceptions of the UK’s re-engagement with European academic mobility, though direct impact on non-EU student flows remains uncertain amid broader geopolitical and visa policy trends.  \nAdmissions teams should monitor how UK universities position Erasmus+-linked opportunities for international students—especially in joint degrees or short-term exchanges—and track whether enhanced EU collaboration translates into new articulation pathways or marketing narratives targeting key source markets.",
+      "impact": "Low",
+      "sources": [],
+      "dests": [
+        "UK"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 7,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 8,
+      "title": "Beyond Dubai’s Bling, Chinese Students See a Future",
+      "source": "Sixth Tone",
+      "color": "#922b21",
+      "url": "https://www.sixthtone.com/news/1018717/Beyond Dubai’s Bling, Chinese Students See a Future",
+      "pubDate": "2026-07-13",
+      "summary": "Chinese students in the UAE are increasingly choosing to study there primarily for access to affordable international education rather than for Dubai’s luxury or glamour. This shift is prompting them to reconsider their perspectives on education, career paths, and future opportunities.",
+      "insight": "This trend signals a growing preference among Chinese students for cost-effective, internationally recognized education in emerging hubs like the UAE—potentially reflecting broader recalibrations in value perception, though it remains unclear whether this directly reduces demand for traditional Anglophone destinations or merely diversifies options.  \nAdmissions teams should monitor enrollment patterns from China and MENA regions, especially shifts in application timing, scholarship uptake, and post-study destination choices, while assessing whether their value propositions around affordability, career outcomes, and regional relevance need refinement.",
+      "impact": "Low",
+      "sources": [
+        "China",
+        "MENA"
+      ],
+      "dests": [],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 7,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 9,
+      "title": "Vietnam leads long-term foreign arrivals to South Korea for first time",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/vietnam-leads-long-term-foreign-arrivals-to-south-korea-for-first-time-5096269.html",
+      "pubDate": "2026-07-13",
+      "summary": "Vietnam became the largest source of foreigners entering South Korea for long-term stays in 2025, according to data released by the South Korean Ministry of Data and Statistics on July 9. This marked the first time Vietnam surpassed China since record-keeping began in 2000.",
+      "insight": "This news suggests shifting regional mobility patterns, potentially reflecting broader Southeast Asian student interest in English-speaking destinations—but direct implications for US/UK/AU/NZ recruitment remain uncertain without evidence of spillover effects or parallel visa policy changes.  \nAdmissions teams should monitor Vietnamese and broader ASEAN application trends, scholarship uptake, and South Korea’s evolving education diplomacy—particularly if Korean institutions’ success signals improved regional brand equity or new competitor partnerships.",
+      "impact": "Low",
+      "sources": [
+        "China",
+        "Southeast Asia"
+      ],
+      "dests": [],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 7,
       "insightSource": "qwen"
     }
   ]
