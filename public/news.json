@@ -1,74 +1,36 @@
 {
-  "updated": "2026-07-15T03:51:32Z",
-  "count": 4,
-  "totalFetched": 188,
+  "updated": "2026-07-16T03:55:05Z",
+  "count": 3,
+  "totalFetched": 189,
   "articles": [
     {
       "id": 1,
-      "title": "Many British universities are on the verge of bankruptcy",
-      "source": "VnExpress (Giáo dục)",
-      "color": "#b94500",
-      "url": "https://vnexpress.net/nhieu-dai-hoc-anh-ben-bo-pha-san-5074498.html",
-      "pubDate": "2026-07-12",
-      "summary": "Dozens of British universities are at risk of bankruptcy due to lower-than-expected numbers of international students. This shortfall has severely impacted their finances, as many institutions rely heavily on tuition fees from international students.",
-      "insight": "This news signals potential shifts in the UK’s competitiveness for international students, possibly reflecting broader concerns about affordability, post-study work prospects, or geopolitical perceptions—though it remains unclear whether declining enrolments stem from reduced demand or operational challenges at institutions.  \nAdmissions teams should monitor UK visa policy updates, competitor pricing strategies in key source markets, and student sentiment data (e.g., agent feedback, social listening) to assess whether this financial pressure translates into tangible recruitment opportunities or reputational risks elsewhere.",
+      "title": "UK VAT on private schools triggers record decline in Hong Kong students",
+      "source": "SCMP (Education)",
+      "color": "#7b241c",
+      "url": "https://www.scmp.com/news/hong-kong/education/article/3360226/uk-vat-private-schools-triggers-record-decline-hong-kong-students?utm_source=rss_feed",
+      "pubDate": "2026-07-11",
+      "summary": "Hong Kong student enrolment at UK private schools fell by 17 per cent and new admissions dropped by 26 per cent following the UK’s introduction of a 20 per cent VAT on school fees last year. A consultant noted that enrolment has reverted to pre-emigration wave levels, as rising costs have made Hong Kong parents more selective.",
+      "insight": "The UK’s VAT on private school fees may signal growing price sensitivity among Hong Kong families, potentially reshaping regional education migration patterns—though its direct impact on university enrolment remains uncertain given differing fee structures and student maturity levels.  \nAdmissions teams should monitor Hong Kong secondary-to-university transition trends, scholarship uptake, and competitor pricing shifts in the UK and alternative destinations, particularly for students previously considering UK private schools as a pathway to undergraduate study.",
       "impact": "High",
       "sources": [],
       "dests": [
         "UK"
       ],
-      "translated": true,
-      "origLang": "vi",
+      "translated": false,
+      "origLang": null,
       "relevanceScore": 8,
       "insightSource": "qwen"
     },
     {
       "id": 2,
-      "title": "Australia leaves 2027 international student cap unchanged despite weaker visa applications",
-      "source": "VnExpress (EN)",
-      "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/education/australia-leaves-2027-international-student-cap-unchanged-despite-weaker-visa-applications-5097286.html",
-      "pubDate": "2026-07-14",
-      "summary": "Australia has decided to keep its 2027 international student cap at 295,000 new commencements, the same level as the previous year. This decision comes despite a sustained decline in overseas student visa applications, which is attributed to stricter migration policies.",
-      "insight": "Australia’s unchanged 2027 student cap amid falling visa applications suggests potential softening demand or policy-driven deterrence, though it may also reflect cautious optimism about market recovery—making global recruitment trends harder to interpret without clearer data on enrolment conversion rates.  \nAdmissions teams should track Australia’s actual onshore enrolment figures, visa grant rates by nationality, and comparative cost-of-education shifts in competing destinations, as these indicators may reveal whether students are redirecting applications or delaying decisions rather than abandoning study abroad entirely.",
-      "impact": "High",
-      "sources": [],
-      "dests": [
-        "Australia"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 3,
-      "title": "Under New Policy, NSF Won’t Fund Research Involving Chinese Scientists",
-      "source": "Inside Higher Ed",
-      "color": "#285e61",
-      "url": "https://www.insidehighered.com/news/quick-takes/2026/07/14/nsf-wont-fund-research-involving-chinese-scientists",
-      "pubDate": "2026-07-14",
-      "summary": "The National Science Foundation (NSF) has implemented a new policy prohibiting funding for research projects that involve Chinese scientists. This policy took effect on July 14, 2026.",
-      "insight": "This NSF policy signals heightened geopolitical scrutiny of China-linked academic collaboration, potentially dampening Chinese students’ perceptions of research opportunities and long-term career pathways in U.S. STEM fields—though its direct impact on undergraduate or non-research graduate enrolment remains uncertain and likely indirect.  \nAdmissions teams should monitor shifts in Chinese student application volumes to U.S. research-intensive programs, track visa refusal trends for STEM applicants, and assess how peer institutions in the UK, Australia, and New Zealand position themselves as alternative research destinations amid evolving U.S. science policy.",
-      "impact": "Medium",
-      "sources": [
-        "China"
-      ],
-      "dests": [],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 4,
-      "title": "Dozens of UK universities at risk of insolvency amid lower-than-expected international enrollment",
-      "source": "VnExpress (EN)",
-      "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/education/dozens-of-uk-universities-at-risk-of-insolvency-amid-lower-than-expected-international-enrollment-5096534.html",
-      "pubDate": "2026-07-12",
-      "summary": "Approximately 24 UK universities are at risk of insolvency within the next 12 months. This financial vulnerability stems primarily from lower-than-expected international student enrollment and other related financial pressures.",
-      "insight": "This news signals potential shifts in international student demand and institutional stability, though it’s unclear whether lower UK enrollment reflects broader global trends, source-market-specific factors, or temporary policy disruptions—so caution is warranted before extrapolating to other English-speaking destinations.  \nAdmissions teams should monitor competitor pricing, scholarship offers, and visa processing timelines in key markets, while assessing whether prospective students express heightened concerns about institutional sustainability or post-study work opportunities in affected regions.",
+      "title": "England: Government “remains of the view” that the International Student Levy should go ahead; implementation planned for August 2028",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/07/england-government-remains-of-the-view-that-the-international-student-levy-should-go-ahead-implementation-planned-for-august-2028/",
+      "pubDate": "2026-07-15",
+      "summary": "The UK government confirmed in September 2025 that it will implement an International Student Levy of £925 per international student, to be charged as a flat fee to higher education providers. The levy is scheduled to take effect in August 2028, following its initial proposal in the May 2025 immigration white paper.",
+      "insight": "The UK’s planned £925 International Student Levy—set for August 2028—may modestly dampen institutional competitiveness in price-sensitive source markets, though its direct impact on student demand remains uncertain pending final policy details and concurrent visa or cost-of-living developments.  \nAdmissions teams should track how UK universities absorb or pass on the levy, monitor shifts in application volumes from key regions like India and Nigeria, and assess whether peer destinations adjust pricing or messaging in response to perceived UK affordability changes.",
       "impact": "Low",
       "sources": [],
       "dests": [
@@ -77,6 +39,25 @@
       "translated": false,
       "origLang": null,
       "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 3,
+      "title": "New HEPI, Kaplan and London Economics Report ‘The benefits and costs of international higher education students to the UK economy’",
+      "source": "HEPI",
+      "color": "#4a235a",
+      "url": "https://www.hepi.ac.uk/2026/07/09/new-hepi-kaplan-and-london-economics-report-international-higher-education-students-and-the-uk-economy/",
+      "pubDate": "2026-07-08",
+      "summary": "A new report by HEPI, Kaplan, and London Economics titled ‘The benefits and costs of international higher education students to the UK economy’ finds that every 10 international students generate approximately £1 million in net economic benefit to the UK. The report highlights that international students are a major economic asset, contributing significantly to communities, jobs, and national economic growth.",
+      "insight": "This report strengthens the UK’s evidence-based case for international education as economically vital, potentially reinforcing policy stability and softening visa rhetoric—but direct impacts on student demand or global competitiveness remain uncertain amid broader geopolitical and cost-of-living pressures.  \nAdmissions teams should track UK visa processing times, post-study work rule enforcement, and competitor nations’ parallel economic impact studies, as these may influence source market perceptions of value, employability, and long-term return on investment.",
+      "impact": "Low",
+      "sources": [],
+      "dests": [
+        "UK"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 7,
       "insightSource": "qwen"
     }
   ]
