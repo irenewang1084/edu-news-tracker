@@ -1,17 +1,17 @@
 {
-  "updated": "2026-07-16T03:55:05Z",
-  "count": 3,
-  "totalFetched": 189,
+  "updated": "2026-07-17T03:55:08Z",
+  "count": 4,
+  "totalFetched": 192,
   "articles": [
     {
       "id": 1,
-      "title": "UK VAT on private schools triggers record decline in Hong Kong students",
-      "source": "SCMP (Education)",
-      "color": "#7b241c",
-      "url": "https://www.scmp.com/news/hong-kong/education/article/3360226/uk-vat-private-schools-triggers-record-decline-hong-kong-students?utm_source=rss_feed",
-      "pubDate": "2026-07-11",
-      "summary": "Hong Kong student enrolment at UK private schools fell by 17 per cent and new admissions dropped by 26 per cent following the UK’s introduction of a 20 per cent VAT on school fees last year. A consultant noted that enrolment has reverted to pre-emigration wave levels, as rising costs have made Hong Kong parents more selective.",
-      "insight": "The UK’s VAT on private school fees may signal growing price sensitivity among Hong Kong families, potentially reshaping regional education migration patterns—though its direct impact on university enrolment remains uncertain given differing fee structures and student maturity levels.  \nAdmissions teams should monitor Hong Kong secondary-to-university transition trends, scholarship uptake, and competitor pricing shifts in the UK and alternative destinations, particularly for students previously considering UK private schools as a pathway to undergraduate study.",
+      "title": "Record UG international applicants to UK, UCAS data shows",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/record-ug-international-applicants-to-uk-ucas-data-shows/",
+      "pubDate": "2026-07-16",
+      "summary": "The number of international applicants to undergraduate programs in the UK via UCAS has reached a record high, according to new UCAS data. This information was reported by The PIE News.",
+      "insight": "A record number of international undergraduate applicants to UK universities signals sustained global demand for UK higher education, though it’s unclear whether this reflects broader shifts in student preferences or is driven by specific factors like post-study work visa enhancements or regional marketing success.  \nAdmissions teams should monitor application trends from overlapping source markets—particularly India, Nigeria, and China—to assess potential spillover effects or competitive pressure, while reviewing their own value propositions against UK institutions’ recent policy and messaging developments.",
       "impact": "High",
       "sources": [],
       "dests": [
@@ -24,17 +24,17 @@
     },
     {
       "id": 2,
-      "title": "England: Government “remains of the view” that the International Student Levy should go ahead; implementation planned for August 2028",
+      "title": "Breaking: US Department of Homeland Security publishes rule to end Duration of Status for international students",
       "source": "ICEF Monitor",
       "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/07/england-government-remains-of-the-view-that-the-international-student-levy-should-go-ahead-implementation-planned-for-august-2028/",
-      "pubDate": "2026-07-15",
-      "summary": "The UK government confirmed in September 2025 that it will implement an International Student Levy of £925 per international student, to be charged as a flat fee to higher education providers. The levy is scheduled to take effect in August 2028, following its initial proposal in the May 2025 immigration white paper.",
-      "insight": "The UK’s planned £925 International Student Levy—set for August 2028—may modestly dampen institutional competitiveness in price-sensitive source markets, though its direct impact on student demand remains uncertain pending final policy details and concurrent visa or cost-of-living developments.  \nAdmissions teams should track how UK universities absorb or pass on the levy, monitor shifts in application volumes from key regions like India and Nigeria, and assess whether peer destinations adjust pricing or messaging in response to perceived UK affordability changes.",
+      "url": "https://monitor.icef.com/2026/07/breaking-us-department-of-homeland-security-publishes-rule-to-end-duration-of-status-for-international-students/",
+      "pubDate": "2026-07-16",
+      "summary": "The US Department of Homeland Security has published a final rule ending Duration of Status (D/S) for F and J nonimmigrant students and their dependents. The rule reflects only minor revisions from the August 2025 proposal, despite extensive opposition from scientific, business, and higher education sectors.",
+      "insight": "This rule signals potential long-term shifts in US appeal for international students, as fixed visa durations may increase perceived administrative complexity and reduce flexibility—though immediate demand impacts remain uncertain given lagged enrollment decisions and competing global factors.  \n\nAdmissions teams should track application volume trends by region and visa type over the next 6–12 months, while reviewing messaging around post-study work rights and regulatory stability to ensure clarity amid evolving US immigration expectations.",
       "impact": "Low",
       "sources": [],
       "dests": [
-        "UK"
+        "USA"
       ],
       "translated": false,
       "origLang": null,
@@ -43,21 +43,41 @@
     },
     {
       "id": 3,
-      "title": "New HEPI, Kaplan and London Economics Report ‘The benefits and costs of international higher education students to the UK economy’",
-      "source": "HEPI",
-      "color": "#4a235a",
-      "url": "https://www.hepi.ac.uk/2026/07/09/new-hepi-kaplan-and-london-economics-report-international-higher-education-students-and-the-uk-economy/",
-      "pubDate": "2026-07-08",
-      "summary": "A new report by HEPI, Kaplan, and London Economics titled ‘The benefits and costs of international higher education students to the UK economy’ finds that every 10 international students generate approximately £1 million in net economic benefit to the UK. The report highlights that international students are a major economic asset, contributing significantly to communities, jobs, and national economic growth.",
-      "insight": "This report strengthens the UK’s evidence-based case for international education as economically vital, potentially reinforcing policy stability and softening visa rhetoric—but direct impacts on student demand or global competitiveness remain uncertain amid broader geopolitical and cost-of-living pressures.  \nAdmissions teams should track UK visa processing times, post-study work rule enforcement, and competitor nations’ parallel economic impact studies, as these may influence source market perceptions of value, employability, and long-term return on investment.",
+      "title": "Joint sector alert sends a clear compliance message to Australian higher education and VET providers",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/07/joint-sector-alert-sends-a-clear-compliance-message-to-australian-higher-education-and-vet-providers/",
+      "pubDate": "2026-07-16",
+      "summary": "Australia has two national quality-assurance regulators for tertiary education: TEQSA, which oversees higher education, and ASQA, which regulates the vocational education and training (VET) sector. These agencies jointly regulate certain institutions and have issued a joint sector alert to communicate a clear compliance message to both higher education and VET providers.",
+      "insight": "This joint alert signals heightened regulatory scrutiny of provider compliance in Australia’s tertiary sector, which may indirectly influence international student confidence—particularly among risk-averse applicants from Asia—if perceived as foreshadowing stricter visa or enrolment conditions, though direct demand impacts remain uncertain without evidence of enforcement escalation.  \nAdmissions teams should monitor Australian government communications and agent feedback for shifts in applicant concerns about institutional credibility or visa processing delays, and consider reinforcing transparency around partner institution quality assurance when advising prospective students from key source markets.",
       "impact": "Low",
       "sources": [],
       "dests": [
-        "UK"
+        "Australia"
       ],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 7,
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 4,
+      "title": "Germany sees 370% rise in Indian student applications as MSc in AI interest and career prospects drive demand",
+      "source": "Times of India (Edu)",
+      "color": "#d4820a",
+      "url": "https://timesofindia.indiatimes.com/education/news/germany-sees-370-rise-in-indian-student-applications-as-msc-in-ai-interest-and-career-prospects-drive-demand/articleshow/132432963.cms",
+      "pubDate": "2026-07-16",
+      "summary": "Germany saw a 370% year-on-year increase in applications from Indian students during the first half of 2026, according to Leap Scholar's Germany Study-to-Work Report, which analyzed data from over 124,000 aspirants. Interest in MSc Artificial Intelligence programmes rose by 600%, with affordability, employment prospects, post-study work options, and return on investment identified as the main factors driving Indian students’ decisions to study in Germany.",
+      "insight": "This sharp rise in Indian applications to Germany—driven by AI specialisations, affordability, and strong post-study work pathways—suggests shifting preferences among high-intent STEM students, though it doesn’t yet confirm a broad decline in demand for Anglophone destinations.  \nAdmissions teams should track whether similar AI-focused programme growth, visa policy refinements, or ROI messaging emerge in their own markets—and assess if current scholarship, career support, or industry partnerships adequately address the same drivers highlighted in Germany’s appeal.",
+      "impact": "Low",
+      "sources": [
+        "India",
+        "MENA"
+      ],
+      "dests": [],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 8,
       "insightSource": "qwen"
     }
   ]
