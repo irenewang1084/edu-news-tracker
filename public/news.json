@@ -1,17 +1,55 @@
 {
-  "updated": "2026-07-17T03:55:08Z",
-  "count": 4,
-  "totalFetched": 192,
+  "updated": "2026-07-18T03:48:47Z",
+  "count": 9,
+  "totalFetched": 191,
   "articles": [
     {
       "id": 1,
-      "title": "Record UG international applicants to UK, UCAS data shows",
+      "title": "England: Government “remains of the view” that the International Student Levy should go ahead; implementation planned for August 2028",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/07/england-government-remains-of-the-view-that-the-international-student-levy-should-go-ahead-implementation-planned-for-august-2028/",
+      "pubDate": "2026-07-15",
+      "summary": "The UK government confirmed in September 2025 that it will implement an International Student Levy of £925 per international student, to be charged as a flat fee to higher education providers. The levy is scheduled to take effect in August 2028, following its initial proposal in the May 2025 immigration white paper.",
+      "insight": "The UK’s planned £925 International Student Levy—set for August 2028—may modestly dampen institutional willingness to recruit international students, particularly from lower-margin markets, though its direct impact on student demand or visa policy remains uncertain pending final regulations and sector response.  \nAdmissions teams should track how UK universities adjust recruitment targets, scholarship offerings, and regional outreach in response to the levy, while benchmarking against competitor nations’ fee structures and immigration incentives over the next 12–18 months.",
+      "impact": "Low",
+      "sources": [],
+      "dests": [
+        "UK"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 9,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 2,
+      "title": "“The tsunami keeps coming”: US leaders react to final D/S rule",
       "source": "The PIE News",
       "color": "#7b341e",
-      "url": "https://thepienews.com/record-ug-international-applicants-to-uk-ucas-data-shows/",
-      "pubDate": "2026-07-16",
-      "summary": "The number of international applicants to undergraduate programs in the UK via UCAS has reached a record high, according to new UCAS data. This information was reported by The PIE News.",
-      "insight": "A record number of international undergraduate applicants to UK universities signals sustained global demand for UK higher education, though it’s unclear whether this reflects broader shifts in student preferences or is driven by specific factors like post-study work visa enhancements or regional marketing success.  \nAdmissions teams should monitor application trends from overlapping source markets—particularly India, Nigeria, and China—to assess potential spillover effects or competitive pressure, while reviewing their own value propositions against UK institutions’ recent policy and messaging developments.",
+      "url": "https://thepienews.com/the-tsunami-keeps-coming-us-leaders-react-to-final-d-s-rule/",
+      "pubDate": "2026-07-17",
+      "summary": "The U.S. Department of Homeland Security announced the termination of duration of status (D/S) for certain nonimmigrant visa categories, a policy change associated with the Trump administration. U.S. leaders criticized the move as an “arbitrary intrusion” into higher education, and the reaction was reported by The PIE News under the headline “The tsunami keeps coming”: US leaders react to final D/S rule.",
+      "insight": "This policy shift may dampen U.S. appeal for students from countries where D/S applied—especially in STEM and exchange programs—though its direct impact on overall demand remains uncertain amid broader geopolitical and economic factors influencing student mobility.  \nAdmissions teams should track enrolment trends among affected visa holders (e.g., J-1, F-1 in specific fields), consult legal advisors on compliance implications, and assess whether messaging around visa stability needs updating in outreach to key source markets.",
+      "impact": "Low",
+      "sources": [],
+      "dests": [
+        "USA"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 9,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 3,
+      "title": "UK VAT on private schools triggers record decline in Hong Kong students",
+      "source": "SCMP (Education)",
+      "color": "#7b241c",
+      "url": "https://www.scmp.com/news/hong-kong/education/article/3360226/uk-vat-private-schools-triggers-record-decline-hong-kong-students?utm_source=rss_feed",
+      "pubDate": "2026-07-11",
+      "summary": "UK private schools saw a record decline in Hong Kong student enrolment after the UK imposed a 20 per cent VAT on school fees, resulting in a 17 per cent overall drop in enrolment and a 26 per cent fall in new admissions. According to an annual census by the UK’s Independent Schools Council, enrolment has reverted to pre-emigration wave levels as Hong Kong parents become more selective amid rising costs.",
+      "insight": "This news signals potential sensitivity among Hong Kong families to sudden cost increases in education destinations, suggesting demand may shift toward jurisdictions with stable fee structures and clear value propositions—though broader geopolitical and economic factors remain stronger drivers than VAT alone.  \nAdmissions teams should monitor Hong Kong enrolment trends across their institutions, assess fee transparency and scholarship offerings, and track whether similar policy changes emerge in other key source markets or destination countries.",
       "impact": "High",
       "sources": [],
       "dests": [
@@ -23,14 +61,92 @@
       "insightSource": "qwen"
     },
     {
-      "id": 2,
+      "id": 4,
+      "title": "DSE candidates overcome physical challenges to achieve hard-earned results",
+      "source": "SCMP (Education)",
+      "color": "#7b241c",
+      "url": "https://www.scmp.com/news/hong-kong/education/article/3360716/dse-candidates-overcome-physical-challenges-achieve-hard-earned-results?utm_source=rss_feed",
+      "pubDate": "2026-07-15",
+      "summary": "Tam Chun-yu, a 20-year-old non-verbal student at the Hong Kong Red Cross John F. Kennedy Centre, achieved DSE results of level 2 in English, Chinese, and information and communication technology (ICT), and level 3 in Chinese, typing all answers with one finger. His total score of seven points out of 42 was announced on Wednesday as part of the official DSE results release.",
+      "insight": "This story highlights growing visibility of students with diverse abilities from China achieving academic milestones despite significant physical barriers, potentially signalling heightened interest among families in inclusive, supportive overseas education environments—though direct demand shifts remain unconfirmed without broader data.  \nAdmissions teams should monitor Chinese social media and education forums for emerging narratives around disability-inclusive admissions, while reviewing accessibility provisions and outreach messaging to ensure alignment with evolving expectations of equity and support.",
+      "impact": "Low",
+      "sources": [
+        "China"
+      ],
+      "dests": [],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 5,
+      "title": "Decline in Indian demand a major factor in softer outlook for foreign enrolment in US higher education in 2026/27",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/07/decline-in-indian-demand-a-major-factor-in-softer-outlook-for-foreign-enrolment-in-us-higher-education-in-2026-27/",
+      "pubDate": "2026-07-09",
+      "summary": "The Institute of International Education (IIE) conducts a twice-yearly snapshot survey of US institutions to track international enrolment trends, and this year’s 2026 Spring Snapshot is considered especially critical due to ongoing market and policy shifts. A decline in demand from Indian students is identified as a major factor contributing to the softer outlook for foreign enrolment in US higher education for the 2026/27 academic year.",
+      "insight": "A notable dip in Indian student demand for US institutions—potentially reflecting shifting preferences, affordability concerns, or policy impacts—may signal broader recalibrations in global student mobility, though it remains unclear whether this represents a temporary correction or longer-term realignment across English-speaking destinations.  \nAdmissions teams should track Indian application trends across their own pipelines, monitor H-1B and post-study work policy developments in key markets, and assess how peer institutions are adjusting outreach—while avoiding premature assumptions about spillover effects to other source regions.",
+      "impact": "Low",
+      "sources": [
+        "India"
+      ],
+      "dests": [
+        "USA"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 7,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 6,
+      "title": "Vietnam mandates AI and digital skills for all university graduates",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/education/vietnam-mandates-ai-and-digital-skills-for-all-university-graduates-5098095.html",
+      "pubDate": "2026-07-16",
+      "summary": "Vietnam’s Ministry of Education and Training has issued a new regulation requiring all university students to graduate with digital competencies and knowledge of artificial intelligence. This is the first time these skills have been mandated as compulsory learning outcomes for undergraduate programs in the country.",
+      "insight": "Vietnam’s new mandate signals growing domestic prioritisation of AI and digital literacy, potentially reshaping student expectations around curriculum relevance and global employability—though direct impacts on outbound mobility remain uncertain without evidence of shifting preferences or policy incentives.  \nAdmissions teams should monitor Vietnamese student inquiries for increased emphasis on AI-related coursework, tech-integrated pedagogy, or career outcomes, and assess whether their programmes explicitly articulate digital skill development to align with evolving national graduate standards.",
+      "impact": "Low",
+      "sources": [
+        "Southeast Asia"
+      ],
+      "dests": [],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 7,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 7,
+      "title": "Southeast Asia's No.2 economy extends work permits for 770,000 foreigners to ease labor shortages",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/southeast-asia-s-no-2-economy-extends-work-permits-for-770-000-foreigners-to-ease-labor-shortages-5098035.html",
+      "pubDate": "2026-07-16",
+      "summary": "The Thai Cabinet approved an extension of work permits for approximately 770,000 migrant workers from Laos, Myanmar, and Vietnam. This measure aims to address labor shortages in Thailand’s manufacturing and services sectors and support ongoing economic activity.",
+      "insight": "This news signals potential softening in Thailand’s appeal as a regional study destination for students from Laos, Myanmar, and Vietnam, as extended work permits may strengthen local employment incentives over overseas education—though direct enrolment impact remains uncertain without data on student mobility trends.  \nAdmissions teams should monitor Thai university enrolment patterns among these three nationalities and track whether extended work rights correlate with declining visa applications or shifts toward vocational pathways, adjusting outreach messaging accordingly.",
+      "impact": "Low",
+      "sources": [
+        "Southeast Asia"
+      ],
+      "dests": [],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 7,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 8,
       "title": "Breaking: US Department of Homeland Security publishes rule to end Duration of Status for international students",
       "source": "ICEF Monitor",
       "color": "#1a3a5c",
       "url": "https://monitor.icef.com/2026/07/breaking-us-department-of-homeland-security-publishes-rule-to-end-duration-of-status-for-international-students/",
       "pubDate": "2026-07-16",
-      "summary": "The US Department of Homeland Security has published a final rule ending Duration of Status (D/S) for F and J nonimmigrant students and their dependents. The rule reflects only minor revisions from the August 2025 proposal, despite extensive opposition from scientific, business, and higher education sectors.",
-      "insight": "This rule signals potential long-term shifts in US appeal for international students, as fixed visa durations may increase perceived administrative complexity and reduce flexibility—though immediate demand impacts remain uncertain given lagged enrollment decisions and competing global factors.  \n\nAdmissions teams should track application volume trends by region and visa type over the next 6–12 months, while reviewing messaging around post-study work rights and regulatory stability to ensure clarity amid evolving US immigration expectations.",
+      "summary": "The US Department of Homeland Security has published a final rule ending Duration of Status (D/S) for F and J nonimmigrant students and their dependents. The final rule includes only minor revisions from the August 2025 proposal, despite extensive lobbying from scientific, business, and higher education sectors.",
+      "insight": "This rule signals potential tightening of US student visa flexibility, which may dampen demand from risk-averse or compliance-sensitive applicants—though actual enrolment impact depends on implementation timing, alternative destinations’ policies, and how institutions mitigate perceived instability.  \nAdmissions teams should track early application trends from key markets like India and China, review messaging around US visa certainty, and assess whether competitors in the UK, Australia, or NZ are positioning themselves as more predictable alternatives amid evolving immigration narratives.",
       "impact": "Low",
       "sources": [],
       "dests": [
@@ -38,46 +154,27 @@
       ],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 8,
+      "relevanceScore": 6,
       "insightSource": "qwen"
     },
     {
-      "id": 3,
-      "title": "Joint sector alert sends a clear compliance message to Australian higher education and VET providers",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/07/joint-sector-alert-sends-a-clear-compliance-message-to-australian-higher-education-and-vet-providers/",
-      "pubDate": "2026-07-16",
-      "summary": "Australia has two national quality-assurance regulators for tertiary education: TEQSA, which oversees higher education, and ASQA, which regulates the vocational education and training (VET) sector. These agencies jointly regulate certain institutions and have issued a joint sector alert to communicate a clear compliance message to both higher education and VET providers.",
-      "insight": "This joint alert signals heightened regulatory scrutiny of provider compliance in Australia’s tertiary sector, which may indirectly influence international student confidence—particularly among risk-averse applicants from Asia—if perceived as foreshadowing stricter visa or enrolment conditions, though direct demand impacts remain uncertain without evidence of enforcement escalation.  \nAdmissions teams should monitor Australian government communications and agent feedback for shifts in applicant concerns about institutional credibility or visa processing delays, and consider reinforcing transparency around partner institution quality assurance when advising prospective students from key source markets.",
-      "impact": "Low",
-      "sources": [],
-      "dests": [
-        "Australia"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 4,
-      "title": "Germany sees 370% rise in Indian student applications as MSc in AI interest and career prospects drive demand",
-      "source": "Times of India (Edu)",
-      "color": "#d4820a",
-      "url": "https://timesofindia.indiatimes.com/education/news/germany-sees-370-rise-in-indian-student-applications-as-msc-in-ai-interest-and-career-prospects-drive-demand/articleshow/132432963.cms",
-      "pubDate": "2026-07-16",
-      "summary": "Germany saw a 370% year-on-year increase in applications from Indian students during the first half of 2026, according to Leap Scholar's Germany Study-to-Work Report, which analyzed data from over 124,000 aspirants. Interest in MSc Artificial Intelligence programmes rose by 600%, with affordability, employment prospects, post-study work options, and return on investment identified as the main factors driving Indian students’ decisions to study in Germany.",
-      "insight": "This sharp rise in Indian applications to Germany—driven by AI specialisations, affordability, and strong post-study work pathways—suggests shifting preferences among high-intent STEM students, though it doesn’t yet confirm a broad decline in demand for Anglophone destinations.  \nAdmissions teams should track whether similar AI-focused programme growth, visa policy refinements, or ROI messaging emerge in their own markets—and assess if current scholarship, career support, or industry partnerships adequately address the same drivers highlighted in Germany’s appeal.",
+      "id": 9,
+      "title": "Beyond Dubai’s Bling, Chinese Students See a Future",
+      "source": "Sixth Tone",
+      "color": "#922b21",
+      "url": "https://www.sixthtone.com/news/1018717/Beyond Dubai’s Bling, Chinese Students See a Future",
+      "pubDate": "2026-07-18",
+      "summary": "Chinese students in the UAE are increasingly choosing to study there primarily for access to affordable international education rather than being attracted by Dubai’s luxury or glamour. This shift is prompting them to reconsider their perspectives on education, career paths, and future opportunities.",
+      "insight": "This trend signals growing demand among Chinese students for cost-effective, globally recognized education outside traditional Anglophone destinations, potentially reflecting shifting perceptions of value and risk in international study—though it remains unclear whether this represents a sustained pivot or short-term adaptation to visa or economic pressures.  \nAdmissions teams should monitor enrollment patterns from China into UAE institutions, especially in STEM and business programs, while assessing whether affordability, regional stability, and post-study work pathways are becoming decisive factors in student decision-making alongside brand prestige.",
       "impact": "Low",
       "sources": [
-        "India",
+        "China",
         "MENA"
       ],
       "dests": [],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 8,
+      "relevanceScore": 6,
       "insightSource": "qwen"
     }
   ]
