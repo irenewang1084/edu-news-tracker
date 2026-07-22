@@ -1,36 +1,36 @@
 {
-  "updated": "2026-07-21T04:03:16Z",
-  "count": 8,
-  "totalFetched": 177,
+  "updated": "2026-07-22T04:11:32Z",
+  "count": 7,
+  "totalFetched": 190,
   "articles": [
     {
       "id": 1,
-      "title": "Week in review: Trump administration finalizes its 4-year student visa cap",
-      "source": "Higher Ed Dive",
-      "color": "#1e5631",
-      "url": "https://www.highereddive.com/news/week-in-review-trump-administration-finalizes-its-4-year-student-visa-cap/825567/",
-      "pubDate": "2026-07-20",
-      "summary": "The Trump administration finalized a four-year cap on student visas during its final weeks in office. The article also reported on Republican efforts to downsize the U.S. Department of Education and funding cuts affecting universities in Nebraska and Texas.",
-      "insight": "This news signals potential tightening of U.S. student visa access, possibly dampening demand from affected source markets—though the cap’s actual implementation and enforcement remain uncertain amid pending policy reversals or legal challenges.  \nAdmissions teams should monitor U.S. visa issuance data, State Department announcements, and competitor messaging in key markets like India and China, while assessing whether shifts in U.S. appeal create opportunities to highlight alternative destinations’ stability and post-study pathways.",
-      "impact": "High",
+      "title": "Breaking: US Department of Homeland Security publishes rule to end Duration of Status for international students",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/07/breaking-us-department-of-homeland-security-publishes-rule-to-end-duration-of-status-for-international-students/",
+      "pubDate": "2026-07-16",
+      "summary": "The US Department of Homeland Security has published a final rule ending Duration of Status (D/S) for F and J nonimmigrant students and their dependents. The final rule incorporates only minor revisions from the August 2025 proposal, despite extensive opposition from scientific, business, and higher education sectors.",
+      "insight": "This rule signals potential tightening of US student visa conditions by replacing indefinite Duration of Status with fixed, program-specific validity periods—likely amplifying perceptions of reduced flexibility and post-study stability, though actual demand shifts will depend on implementation timing, enforcement rigor, and comparative policy changes elsewhere.  \nAdmissions teams should track early data on US visa approval rates, processing times, and student survey sentiment—particularly from high-volume markets like India and China—while benchmarking against evolving visa frameworks in the UK, Australia, and New Zealand to inform proactive messaging and pathway advising.",
+      "impact": "Low",
       "sources": [],
       "dests": [
         "USA"
       ],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 10,
+      "relevanceScore": 9,
       "insightSource": "qwen"
     },
     {
       "id": 2,
-      "title": "“The tsunami keeps coming”: US leaders react to final D/S rule",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/the-tsunami-keeps-coming-us-leaders-react-to-final-d-s-rule/",
-      "pubDate": "2026-07-17",
-      "summary": "The Department of Homeland Security announced the termination of duration of status (D/S) for certain nonimmigrant visa categories, a policy change under the Trump administration. U.S. higher education leaders criticized the decision as an “arbitrary intrusion” into academic institutions, expressing concern over its impact on international students and scholars.",
-      "insight": "This policy shift signals potential tightening of U.S. visa conditions for certain international students, possibly dampening U.S. appeal relative to countries with more predictable stay durations—though actual enrollment impact depends on implementation scope and student response across source markets.  \nAdmissions teams should track application trends from high-D/S-dependency cohorts (e.g., Chinese STEM master’s applicants) and assess whether peer institutions in the UK, Australia, and NZ are positioning themselves as stable alternatives amid growing visa uncertainty.",
+      "title": "Nearly 6 in 10 US colleges report fewer foreign applications as student visa refusals hit decade high",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/education/nearly-6-in-10-us-colleges-report-fewer-foreign-applications-as-student-visa-refusals-hit-decade-high-5098322.html",
+      "pubDate": "2026-07-20",
+      "summary": "Nearly 6 in 10 U.S. colleges reported a decline in international student applications for the 2026–27 academic year, according to a survey by the Institute of International Education. This drop coincides with student visa refusals reaching a decade-high level.",
+      "insight": "This news suggests growing friction in U.S. international student recruitment, potentially reflecting heightened visa scrutiny, shifting perceptions of safety or opportunity, or broader geopolitical tensions—though it remains unclear whether the decline stems primarily from reduced demand, increased application barriers, or strategic re-routing to alternative destinations.  \nAdmissions teams should monitor real-time visa refusal rates by country and cohort, track application trends across competitor markets (especially UK/Australia/NZ), and assess whether outreach messaging needs recalibration around visa support, post-study work pathways, and institutional responsiveness to policy uncertainty.",
       "impact": "Low",
       "sources": [],
       "dests": [
@@ -38,41 +38,41 @@
       ],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 10,
+      "relevanceScore": 9,
       "insightSource": "qwen"
     },
     {
       "id": 3,
-      "title": "International students can stay in the US for a maximum of 4 years",
-      "source": "VnExpress (Giáo dục)",
-      "color": "#b94500",
-      "url": "https://vnexpress.net/du-hoc-sinh-duoc-o-my-toi-da-4-nam-5088811.html",
-      "pubDate": "2026-07-17",
-      "summary": "F-1 international students are permitted to remain in the United States for a maximum of four years under the new law. This duration is not fixed or automatically renewable.",
-      "insight": "This news may signal tightening US visa duration limits for F-1 students, potentially dampening demand from prospective applicants in key markets—especially those seeking longer-degree pathways—though its actual impact depends on implementation details and whether exemptions apply to common degree lengths.  \nAdmissions teams should monitor official USCIS guidance, consult legal advisors on visa validity versus program length alignment, and assess whether partner agents or high-school counsellors are reporting increased concerns about US study duration limitations relative to alternatives like the UK or Australia.",
-      "impact": "Low",
+      "title": "UK VAT on private schools triggers record decline in Hong Kong students",
+      "source": "SCMP (Education)",
+      "color": "#7b241c",
+      "url": "https://www.scmp.com/news/hong-kong/education/article/3360226/uk-vat-private-schools-triggers-record-decline-hong-kong-students?utm_source=rss_feed",
+      "pubDate": "2026-07-11",
+      "summary": "Hong Kong student enrolment at UK private schools fell by 17 per cent and new admissions dropped by 26 per cent following the UK’s introduction of a 20 per cent VAT on school fees last year. A consultant noted that enrolment has reverted to pre-emigration wave levels, with parents becoming more selective due to increased costs.",
+      "insight": "The UK’s VAT on private school fees may signal growing price sensitivity among Hong Kong families, potentially affecting downstream university choices—though its direct impact on higher education demand remains uncertain given differing cost structures and visa pathways.  \nAdmissions teams should monitor Hong Kong application trends, fee-paying behaviour, and shifts toward more affordable destinations or scholarship-seeking, while assessing whether similar tax or policy changes could emerge in their own jurisdictions.",
+      "impact": "High",
       "sources": [],
       "dests": [
-        "USA"
+        "UK"
       ],
-      "translated": true,
-      "origLang": "vi",
-      "relevanceScore": 10,
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 8,
       "insightSource": "qwen"
     },
     {
       "id": 4,
-      "title": "Joint sector alert sends a clear compliance message to Australian higher education and VET providers",
+      "title": "England: Government “remains of the view” that the International Student Levy should go ahead; implementation planned for August 2028",
       "source": "ICEF Monitor",
       "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/07/joint-sector-alert-sends-a-clear-compliance-message-to-australian-higher-education-and-vet-providers/",
-      "pubDate": "2026-07-16",
-      "summary": "Australia has two national quality-assurance regulators for tertiary education: TEQSA, which oversees higher education, and ASQA, which regulates the vocational education and training (VET) sector. TEQSA and ASQA jointly regulate institutions where there is regulatory overlap, and they have issued a joint sector alert to communicate a clear compliance message to Australian higher education and VET providers.",
-      "insight": "This joint alert signals heightened regulatory scrutiny across Australia’s tertiary sector, potentially influencing international students’ perceptions of institutional stability and compliance—though direct impacts on demand or visa policy remain uncertain without further evidence of enforcement action.  \nAdmissions teams should monitor Australian provider communications and student feedback for shifts in confidence, while reviewing partner institution accreditation status with TEQSA and ASQA to ensure alignment with evolving quality assurance expectations.",
+      "url": "https://monitor.icef.com/2026/07/england-government-remains-of-the-view-that-the-international-student-levy-should-go-ahead-implementation-planned-for-august-2028/",
+      "pubDate": "2026-07-15",
+      "summary": "The UK government confirmed in September 2025 that it would implement an International Student Levy of £925 per international student, to be charged as a flat fee to higher education providers. The levy is scheduled to take effect in August 2028, following its initial proposal in the May 2025 immigration white paper.",
+      "insight": "The UK’s planned £925 International Student Levy—set for August 2028—may modestly dampen institutional competitiveness in price-sensitive source markets, though its direct impact on student demand remains uncertain pending final policy details and concurrent visa or scholarship adjustments.  \nAdmissions teams should track how UK universities absorb or pass on the levy, monitor enrolment trends from key regions like India and Nigeria post-2025, and assess whether rival destinations amplify messaging around comparative affordability or post-study work advantages.",
       "impact": "Low",
       "sources": [],
       "dests": [
-        "Australia"
+        "UK"
       ],
       "translated": false,
       "origLang": null,
@@ -81,18 +81,20 @@
     },
     {
       "id": 5,
-      "title": "Nepalese education consultancies protest sweeping new regulations",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/nepalese-education-consultancies-protest-sweeping-new-regulations/",
+      "title": "Indians worst hit as Canada cuts down on student intake",
+      "source": "The Hindu (Edu)",
+      "color": "#145a32",
+      "url": "https://www.thehindu.com/data/indians-worst-hit-as-canada-cuts-down-on-student-intake/article71242721.ece",
       "pubDate": "2026-07-20",
-      "summary": "Nepalese education consultancies have initiated nationwide protests against new government regulations targeting their sector. The consultancies warn that the regulations could force smaller agencies to shut down and reduce accessibility to overseas study opportunities.",
-      "insight": "This development signals potential short-term volatility in Nepal’s outbound student pipeline, as regulatory tightening may delay or deter applications—particularly from smaller consultancies—though actual enrolment impact depends on how swiftly agencies adapt and whether students pivot to alternative pathways or destinations.  \nAdmissions teams should track Nepali application volumes by intake, monitor shifts in consultancy partnerships or marketing channels, and engage with trusted local agents to gauge sentiment—while avoiding premature assumptions about long-term demand changes without further evidence.",
+      "summary": "Indian students have experienced a steady increase in enrollment in Canada since 2015, but this trend is now reversing rapidly. The Canadian government’s recent policy to reduce international student intake is expected to intensify this decline through 2026.",
+      "insight": "Canada’s policy shift may redirect some Indian students toward alternative destinations, though actual migration depends on visa processing times, scholarship availability, and perceptions of post-study work opportunities elsewhere.  \nAdmissions teams should track Indian student application trends, competitor messaging on affordability and pathways, and local agent sentiment—while avoiding assumptions that all displaced applicants will favour their country without tailored support.",
       "impact": "Low",
       "sources": [
-        "South Asia"
+        "India"
       ],
-      "dests": [],
+      "dests": [
+        "Canada"
+      ],
       "translated": false,
       "origLang": null,
       "relevanceScore": 8,
@@ -100,38 +102,19 @@
     },
     {
       "id": 6,
-      "title": "UK loses nearly $4B as international student numbers fall: report",
-      "source": "VnExpress (EN)",
-      "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/education/uk-loses-nearly-4b-as-international-student-numbers-fall-report-5099173.html",
-      "pubDate": "2026-07-20",
-      "summary": "A new report estimates that the UK economy lost £2.9 billion (US$3.89 billion) due to a decline in international student enrolment. The report highlights the significant financial contribution that overseas students make to the UK economy.",
-      "insight": "This UK enrolment decline—driven by tightened visa rules, rising living costs, and shifting perceptions of post-study work value—may signal softening demand in traditional Anglophone destinations, though it’s unclear whether students are abandoning the UK entirely or redistributing across other English-speaking countries.  \nAdmissions teams should track real-time application trends from key source markets (especially India and Nigeria), monitor competitor policy changes (e.g., Australia’s post-study work extensions), and assess how their own visa support, cost transparency, and graduate outcomes messaging align with evolving student priorities.",
+      "title": "Decline in Indian demand a major factor in softer outlook for foreign enrolment in US higher education in 2026/27",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/07/decline-in-indian-demand-a-major-factor-in-softer-outlook-for-foreign-enrolment-in-us-higher-education-in-2026-27/",
+      "pubDate": "2026-07-09",
+      "summary": "The Institute of International Education (IIE) conducts a twice-yearly snapshot survey of US institutions to track international enrolment trends, with the 2026 Spring Snapshot serving as a critical indicator amid ongoing market and policy shifts. A decline in Indian student demand is identified as a major factor contributing to the softer outlook for foreign enrolment in US higher education for the 2026/27 academic year.",
+      "insight": "A notable dip in Indian student applications to US institutions—driven by evolving visa scrutiny, post-study work uncertainties, and intensified competition from alternative destinations—may signal broader shifts in aspirational preferences, though it remains unclear whether this reflects a temporary correction or longer-term realignment across global education markets.  \nAdmissions teams should closely track Indian applicants’ enrolment conversion rates, scholarship uptake, and stated concerns about affordability and career outcomes, while benchmarking against peer institutions’ outreach effectiveness and policy responsiveness in key Tier 2 and Tier 3 Indian cities.",
       "impact": "Low",
-      "sources": [],
-      "dests": [
-        "UK"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 7,
-      "title": "From golden ticket to dead end: the UK degree crisis in Malaysia",
-      "source": "HEPI",
-      "color": "#4a235a",
-      "url": "https://www.hepi.ac.uk/2026/07/17/from-golden-ticket-to-dead-end-the-uk-degree-crisis-in-malaysia/",
-      "pubDate": "2026-07-17",
-      "summary": "This article, authored by Dr Andrew Woon, a Senior Lecturer at Monash University Malaysia, discusses the UK’s Transnational Education (TNE) strategy in Malaysia. In the 2023–24 academic year, over 43,000 students in Malaysia pursued UK qualifications through this pathway.",
-      "insight": "The surge in Malaysian students pursuing UK degrees via transnational education may reflect growing regional preference for UK qualifications amid concerns over visa restrictions and post-study work limitations elsewhere—but it’s unclear whether this signals broader demand shifts or is specific to Malaysia’s longstanding UK academic ties.  \nAdmissions teams should monitor enrolment trends in Malaysia and neighbouring Southeast Asian markets, especially student migration patterns toward UK TNE providers versus traditional offshore study, while reviewing their own articulation pathways and local partnership strategies.",
-      "impact": "High",
       "sources": [
-        "Southeast Asia"
+        "India"
       ],
       "dests": [
-        "UK"
+        "USA"
       ],
       "translated": false,
       "origLang": null,
@@ -139,19 +122,20 @@
       "insightSource": "qwen"
     },
     {
-      "id": 8,
-      "title": "UK led the world in study visa issuance in 2025 despite woes",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/uk-led-the-world-in-study-visa-issuance-in-2025-despite-woes/",
-      "pubDate": "2026-07-20",
-      "summary": "The UK issued more new study visas in 2025 than any other country globally, according to analysis by The PIE. This occurred despite a spike in study visa refusals during the fourth quarter of 2025.",
-      "insight": "The UK’s top global position in study visa issuance in 2025—despite rising refusals late in the year—suggests continued strong demand for UK education, though it may also reflect shifting applicant behaviour, policy adjustments, or regional market volatility rather than unambiguous growth.  \nAdmissions teams should track quarterly UK refusal rates by nationality, compare processing timelines against peer destinations, and assess whether perceived UK visa unpredictability is influencing application choices among high-potential cohorts in key source markets.",
+      "id": 7,
+      "title": "Priced out of Tsinghua once, Vietnamese scholar bounces back with full PhD scholarship",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/education/priced-out-of-tsinghua-once-vietnamese-scholar-bounces-back-with-full-phd-scholarship-5099882.html",
+      "pubDate": "2026-07-21",
+      "summary": "A Vietnamese woman initially abandoned her dream of studying at Tsinghua University due to inability to afford the tuition. After a year of preparation, she secured a full Chinese Government Scholarship (CSC) to pursue a PhD at Tsinghua University.",
+      "insight": "This story reflects growing financial sensitivity among Southeast Asian students toward elite Chinese institutions, possibly indicating shifting preferences where scholarship availability increasingly outweighs institutional prestige—though it’s unclear if this signals broader regional demand shifts away from Western destinations.  \nAdmissions teams should track CSC scholarship expansion and Vietnamese/SEA student application patterns to Chinese universities, while reviewing their own merit- and need-based aid offerings to remain competitive amid rising cost-consciousness in key source markets.",
       "impact": "Low",
-      "sources": [],
-      "dests": [
-        "UK"
+      "sources": [
+        "China",
+        "Southeast Asia"
       ],
+      "dests": [],
       "translated": false,
       "origLang": null,
       "relevanceScore": 7,
