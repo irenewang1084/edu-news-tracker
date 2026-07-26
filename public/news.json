@@ -1,40 +1,40 @@
 {
-  "updated": "2026-07-25T03:59:04Z",
-  "count": 4,
-  "totalFetched": 182,
+  "updated": "2026-07-26T04:21:17Z",
+  "count": 3,
+  "totalFetched": 186,
   "articles": [
     {
       "id": 1,
-      "title": "Canadian immigration officials have made several updates to compliance guidance for study permits and post-graduate work permits",
+      "title": "Updated: US Department of Homeland Security publishes rule to end Duration of Status for international students",
       "source": "ICEF Monitor",
       "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/07/canadian-immigration-officials-have-made-several-updates-to-compliance-guidance-for-study-permits-and-post-graduate-work-permits/",
-      "pubDate": "2026-07-22",
-      "summary": "Immigration, Refugees and Citizenship Canada (IRCC) has updated several internal policy, procedures, and guidance documents related to study permits and post-graduate work permits over the past four to six weeks. While primarily intended for IRCC staff, some of these updated documents have been published publicly “as a courtesy to stakeholders.”",
-      "insight": "IRCC’s updated compliance guidance for study and post-graduate work permits may indirectly influence international student decision-making, particularly among applicants from high-volume source regions weighing Canada’s perceived stability and post-study pathways against competing destinations—though direct demand shifts remain unconfirmed.  \nAdmissions teams should monitor Canadian visa processing times, refusal trends, and student sentiment in shared source markets (e.g., India, Nigeria, Philippines), while reviewing how their own post-study work offerings and messaging compare to Canada’s evolving policy signals.",
+      "url": "https://monitor.icef.com/2026/07/breaking-us-department-of-homeland-security-publishes-rule-to-end-duration-of-status-for-international-students/",
+      "pubDate": "2026-07-16",
+      "summary": "The US Department of Homeland Security published a final rule on 22 July 2026 to eliminate Duration of Status (D/S) for F and J nonimmigrant students and their dependents. The rule reflects only minor revisions from DHS’s August 2025 proposal, despite extensive opposition from scientific, business, and higher education stakeholders.",
+      "insight": "This rule signals potential long-term shifts in US appeal for international students, as stricter visa duration limits and increased compliance burdens may dampen demand—especially from risk-averse or academically mobile source markets—though immediate enrolment impacts remain uncertain amid broader geopolitical and economic factors.  \nAdmissions teams should track early application trends from key markets like India and China, monitor peer institutions’ US recruitment messaging, and assess whether complementary support services (e.g., visa advising, academic planning) need strengthening to offset perceived US regulatory complexity.",
       "impact": "Medium",
       "sources": [],
       "dests": [
-        "Canada"
+        "USA"
       ],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 8,
+      "relevanceScore": 9,
       "insightSource": "qwen"
     },
     {
       "id": 2,
-      "title": "Joint sector alert sends a clear compliance message to Australian higher education and VET providers",
+      "title": "England: Government “remains of the view” that the International Student Levy should go ahead; implementation planned for August 2028",
       "source": "ICEF Monitor",
       "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/07/joint-sector-alert-sends-a-clear-compliance-message-to-australian-higher-education-and-vet-providers/",
-      "pubDate": "2026-07-16",
-      "summary": "Australia has two national quality-assurance regulators for tertiary education: TEQSA, which oversees higher education, and ASQA, which regulates the vocational education and training (VET) sector. These agencies jointly regulate institutions where there is regulatory overlap, and they have issued a joint sector alert to communicate a clear compliance message to providers in both sectors.",
-      "insight": "This joint alert signals heightened regulatory scrutiny of Australian providers’ compliance with student welfare and academic integrity standards, which may indirectly influence international students’ perceptions of Australia’s education quality and post-study value—though direct impacts on demand or visa rules remain unconfirmed.  \nAdmissions teams should monitor whether this triggers reputational spillover in key source markets like India or China, and consider reinforcing transparent messaging about institutional compliance and student support when positioning Australia alongside competing destinations.",
+      "url": "https://monitor.icef.com/2026/07/england-government-remains-of-the-view-that-the-international-student-levy-should-go-ahead-implementation-planned-for-august-2028/",
+      "pubDate": "2026-07-15",
+      "summary": "The UK government confirmed in September 2025 that it would implement an International Student Levy of £925 per international student, to be charged as a flat fee to higher education providers. The levy is scheduled to take effect in August 2028, following its initial proposal in the May 2025 immigration white paper.",
+      "insight": "The UK’s planned £925 International Student Levy—set for August 2028—may modestly dampen institutional willingness to recruit international students, particularly from lower-margin markets, though its direct impact on student demand or visa policy remains uncertain pending final implementation details and potential exemptions.  \nAdmissions teams should track how UK universities adjust recruitment targets, scholarship offerings, and agent partnerships in response to the levy, while benchmarking against tuition trends and policy shifts in Australia, Canada, and the US to assess relative value proposition changes for prospective students.",
       "impact": "Low",
       "sources": [],
       "dests": [
-        "Australia"
+        "UK"
       ],
       "translated": false,
       "origLang": null,
@@ -43,13 +43,13 @@
     },
     {
       "id": 3,
-      "title": "Hong Kong retains 17th spot among top cities for students but high costs hurt",
-      "source": "SCMP (Education)",
-      "color": "#7b241c",
-      "url": "https://www.scmp.com/news/hong-kong/education/article/3361353/hong-kong-retains-17th-spot-among-top-cities-students-high-costs-hurt?utm_source=rss_feed",
-      "pubDate": "2026-07-21",
-      "summary": "Hong Kong retained its 17th position in the QS Best Student Cities 2027 ranking. However, QS cited high living costs, the steepest tuition fees in East Asia, limited international diversity, and a persistent shortage of student accommodation as key challenges deterring international applicants.",
-      "insight": "Hong Kong’s stagnant ranking and cited cost and accommodation challenges may modestly increase outbound student demand from East Asia, though direct causal links to shifts in US/UK/AU/NZ applications remain unproven and likely mediated by broader economic and geopolitical factors.  \nAdmissions teams should track enrolment trends from Hong Kong and mainland China, benchmark tuition and housing support against Hong Kong’s affordability gaps, and assess whether messaging around value, accommodation guarantees, or cost-of-living assistance resonates more strongly with affected cohorts.",
+      "title": "UK unis join forces to offer study pathways for visa brake students",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/uk-unis-join-forces-to-offer-study-pathways-for-visa-brake-students/",
+      "pubDate": "2026-07-23",
+      "summary": "Nine UK universities are collaborating with the NGO Mosaik Education to offer remote postgraduate study pathways for international students from countries affected by the UK’s strict study visa pause. The initiative provides an alternative route for eligible students to begin their studies online before potentially transitioning to on-campus learning.",
+      "insight": "This collaboration signals growing institutional adaptation to restrictive visa policies, potentially reflecting heightened student demand for flexible, lower-risk entry pathways amid global mobility uncertainty—though it remains unclear whether such models will shift broader enrolment preferences or merely serve as temporary workarounds.  \nAdmissions teams should monitor uptake and completion rates of these remote-to-on-campus pathways, as well as policy developments in key source markets, to assess whether similar hybrid models could strengthen recruitment resilience without compromising academic integrity or compliance.",
       "impact": "Low",
       "sources": [],
       "dests": [
@@ -57,27 +57,7 @@
       ],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 7,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 4,
-      "title": "Opportunity to receive a degree from Ky Nam University with scholarships",
-      "source": "VnExpress (Giáo dục)",
-      "color": "#b94500",
-      "url": "https://vnexpress.net/co-hoi-nhan-bang-dai-hoc-ky-nam-cung-hoc-bong-5099427.html",
-      "pubDate": "2026-07-22",
-      "summary": "The Jinan University Program offers a 2+2 training model enabling students to earn a bachelor’s degree from Ky Nam University in China. Scholarships covering up to 50% of tuition fees are available for the portion of study conducted in Vietnam.",
-      "insight": "This initiative reflects growing regional academic collaboration and may indicate shifting preferences among Southeast Asian students toward hybrid, cost-advantaged pathways—though it’s unclear whether this directly reduces demand for Western degrees or merely diversifies options amid rising tuition and visa concerns.  \nAdmissions teams should monitor enrollment trends from Vietnam and China in their 2024–25 intake data, particularly for undergraduate business or STEM programs, and assess whether partner institutions in ASEAN are developing similar articulation agreements that could reshape competitive positioning.",
-      "impact": "Low",
-      "sources": [
-        "China",
-        "Southeast Asia"
-      ],
-      "dests": [],
-      "translated": true,
-      "origLang": "vi",
-      "relevanceScore": 6,
+      "relevanceScore": 8,
       "insightSource": "qwen"
     }
   ]
