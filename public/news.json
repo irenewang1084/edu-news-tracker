@@ -1,21 +1,21 @@
 {
-  "updated": "2026-07-27T04:31:08Z",
-  "count": 5,
-  "totalFetched": 189,
+  "updated": "2026-07-28T03:53:50Z",
+  "count": 3,
+  "totalFetched": 179,
   "articles": [
     {
       "id": 1,
-      "title": "Canadian immigration officials have made several updates to compliance guidance for study permits and post-graduate work permits",
+      "title": "England: Government “remains of the view” that the International Student Levy should go ahead; implementation planned for August 2028",
       "source": "ICEF Monitor",
       "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/07/canadian-immigration-officials-have-made-several-updates-to-compliance-guidance-for-study-permits-and-post-graduate-work-permits/",
-      "pubDate": "2026-07-22",
-      "summary": "Immigration, Refugees and Citizenship Canada (IRCC) has updated several internal policy, procedures, and guidance documents related to study permits and post-graduate work permits over the past four to six weeks. While these documents are primarily intended for IRCC staff, some have been published publicly as a courtesy to stakeholders.",
-      "insight": "Canada’s updated compliance guidance for study and post-graduate work permits may indirectly influence international student decision-making, as perceived regulatory tightening or procedural clarity could affect Canada’s competitiveness—though direct demand shifts remain unconfirmed without enrollment or application data.  \nAdmissions teams should monitor Canadian visa approval rates, processing times, and student testimonials from key source markets over the next 3–6 months to assess whether these policy updates correlate with observable enrolment trends or sentiment shifts.",
-      "impact": "Medium",
+      "url": "https://monitor.icef.com/2026/07/england-government-remains-of-the-view-that-the-international-student-levy-should-go-ahead-implementation-planned-for-august-2028/",
+      "pubDate": "2026-07-15",
+      "summary": "The UK government confirmed in September 2025 that it will implement an International Student Levy of £925 per international student, to be charged as a flat fee to higher education providers. The levy is scheduled to take effect in August 2028, following its initial proposal in the May 2025 immigration white paper.",
+      "insight": "The UK’s planned £925 International Student Levy—set for August 2028—may modestly dampen institutional competitiveness in price-sensitive source markets, though its direct impact on student demand remains uncertain pending final policy details and concurrent visa or scholarship adjustments.  \nAdmissions teams should track how UK universities absorb or pass on the levy, monitor shifts in application volumes from key regions like India and Nigeria, and assess whether rival destinations (e.g., Australia, Canada) position themselves as comparatively cost-effective alternatives ahead of the 2028 implementation.",
+      "impact": "Low",
       "sources": [],
       "dests": [
-        "Canada"
+        "UK"
       ],
       "translated": false,
       "origLang": null,
@@ -24,74 +24,38 @@
     },
     {
       "id": 2,
-      "title": "Joint sector alert sends a clear compliance message to Australian higher education and VET providers",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/07/joint-sector-alert-sends-a-clear-compliance-message-to-australian-higher-education-and-vet-providers/",
-      "pubDate": "2026-07-16",
-      "summary": "Australia has two national quality-assurance regulators for tertiary education: TEQSA, which oversees higher education, and ASQA, which regulates the vocational education and training (VET) sector. TEQSA and ASQA jointly regulate institutions where there is regulatory overlap, and they have issued a joint sector alert to communicate a clear compliance message to Australian higher education and VET providers.",
-      "insight": "This joint alert signals heightened regulatory scrutiny across Australia’s tertiary sector, potentially influencing international students’ perceptions of institutional stability and compliance—though direct impacts on demand or visa rules remain unconfirmed and likely indirect.  \nAdmissions teams should monitor Australian provider responses to the alert, especially any shifts in marketing claims, course offerings, or student support services, while tracking whether source markets express growing concern about regulatory risk in their decision-making.",
-      "impact": "Low",
-      "sources": [],
-      "dests": [
-        "Australia"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 3,
-      "title": "US universities urge foreign students to return from overseas before 4-year visa limit takes effect",
+      "title": "US colleges lost 20% of new foreign undergraduates, but one Southeast Asian country isn't budging",
       "source": "VnExpress (EN)",
       "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/education/us-universities-urge-foreign-students-to-return-from-overseas-before-4-year-visa-limit-takes-effect-5101273.html",
-      "pubDate": "2026-07-25",
-      "summary": "U.S. universities are advising international students holding F-1 and J-1 visas to return from overseas before September 15, when new U.S. immigration changes take effect. These changes include a four-year visa limit that could impact students’ ability to remain in or reenter the United States.",
-      "insight": "This news signals potential short-term shifts in demand from students in countries where U.S. visa processing delays or four-year limits heighten concerns about continuity of study, though broader enrolment trends depend on how widely the policy is implemented and whether alternatives like visa renewals abroad mitigate impact.  \nAdmissions teams should monitor application patterns from key U.S.-competitive markets (e.g., India, China, Nigeria) for signs of increased inquiries about alternative destinations, while reviewing their messaging on visa support, pathway flexibility, and post-study work options to address emerging risk perceptions.",
+      "url": "https://e.vnexpress.net/news/news/education/us-colleges-lost-20-of-new-foreign-undergraduates-but-one-southeast-asian-country-isn-t-budging-5101423.html",
+      "pubDate": "2026-07-27",
+      "summary": "U.S. colleges experienced a 20% decline in new foreign undergraduate enrollments this year. Singaporean students, however, have remained relatively stable in their enrollment numbers in U.S. institutions.",
+      "insight": "The 20% drop in new foreign undergraduates suggests broad demand softening—potentially tied to geopolitical concerns, visa processing delays, or shifting perceptions of U.S. value—but Singapore’s resilience hints that high-income, education-focused markets may remain less sensitive to macro trends.  \nAdmissions teams should track Singaporean application yield, scholarship uptake, and peer-market shifts (e.g., UK/Australia enrolment patterns), while reviewing messaging around safety, post-study work pathways, and institutional stability—not as an immediate pivot, but as contextual calibration for long-term recruitment strategy.",
       "impact": "Low",
-      "sources": [],
+      "sources": [
+        "Southeast Asia"
+      ],
       "dests": [
         "USA"
       ],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 8,
+      "relevanceScore": 7,
       "insightSource": "qwen"
     },
     {
-      "id": 4,
+      "id": 3,
       "title": "Updated: US Department of Homeland Security publishes rule to end Duration of Status for international students",
       "source": "ICEF Monitor",
       "color": "#1a3a5c",
       "url": "https://monitor.icef.com/2026/07/breaking-us-department-of-homeland-security-publishes-rule-to-end-duration-of-status-for-international-students/",
       "pubDate": "2026-07-16",
-      "summary": "The US Department of Homeland Security published a final rule on 22 July 2026 to eliminate Duration of Status (D/S) for F and J nonimmigrant students and their dependents. The rule reflects only minor revisions from DHS’s August 2025 proposal, despite extensive opposition from scientific, business, and higher education stakeholders.",
-      "insight": "This rule signals potential long-term shifts in US appeal for international students, as replacing D/S with fixed-duration visas may increase administrative complexity and perceived immigration uncertainty—though actual demand impacts depend on implementation rigor and comparative policy changes elsewhere.  \nAdmissions teams should track early visa processing data, student sentiment surveys from key source markets, and competitor messaging around visa stability, while reviewing contingency plans for students prioritising countries with more predictable post-study pathways.",
+      "summary": "The US Department of Homeland Security published a final rule on 22 July 2026 to end Duration of Status (D/S) for F and J nonimmigrant students and their dependents. Despite extensive lobbying from scientific, business, and higher education sectors, DHS made only minor revisions to its original August 2025 proposal.",
+      "insight": "This rule signals potential tightening of US student visa conditions, possibly dampening demand from risk-averse applicants in key markets like China and India, though actual enrolment impact depends on implementation details, alternative destinations’ policies, and how institutions mitigate perceived instability.  \nAdmissions teams should track early application trends for Fall 2027, consult legal advisors on updated compliance requirements, and assess whether messaging around visa predictability—especially versus UK/Australia’s streamlined pathways—needs refinement ahead of major recruitment cycles.",
       "impact": "Medium",
       "sources": [],
       "dests": [
         "USA"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 6,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 5,
-      "title": "Hong Kong retains 17th spot among top cities for students but high costs hurt",
-      "source": "SCMP (Education)",
-      "color": "#7b241c",
-      "url": "https://www.scmp.com/news/hong-kong/education/article/3361353/hong-kong-retains-17th-spot-among-top-cities-students-high-costs-hurt?utm_source=rss_feed",
-      "pubDate": "2026-07-21",
-      "summary": "Hong Kong retained its 17th position in the QS Best Student Cities 2027 ranking. High living costs, the steepest tuition fees in East Asia, limited international diversity, and a persistent shortage of student accommodation were cited as key challenges deterring international applicants.",
-      "insight": "Hong Kong’s stagnant ranking and cited cost and accommodation challenges may modestly increase outbound student demand from East Asia, though direct shifts to Western destinations remain uncertain without clearer evidence of enrolment declines or policy changes.  \nAdmissions teams should track Hong Kong’s tuition adjustments, housing policy developments, and regional sentiment shifts—particularly among Chinese, Southeast Asian, and Korean applicants—to gauge potential secondary effects on application volumes and destination preferences.",
-      "impact": "Low",
-      "sources": [],
-      "dests": [
-        "UK"
       ],
       "translated": false,
       "origLang": null,
