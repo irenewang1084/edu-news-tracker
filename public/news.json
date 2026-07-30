@@ -1,21 +1,21 @@
 {
-  "updated": "2026-07-29T03:58:46Z",
-  "count": 6,
-  "totalFetched": 175,
+  "updated": "2026-07-30T03:49:17Z",
+  "count": 4,
+  "totalFetched": 164,
   "articles": [
     {
       "id": 1,
-      "title": "Canadian immigration officials have made several updates to compliance guidance for study permits and post-graduate work permits",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/07/canadian-immigration-officials-have-made-several-updates-to-compliance-guidance-for-study-permits-and-post-graduate-work-permits/",
-      "pubDate": "2026-07-22",
-      "summary": "Immigration, Refugees and Citizenship Canada (IRCC) has updated several internal policy, procedures, and guidance documents related to study permits and post-graduate work permits over the past four to six weeks. While these documents are primarily for internal IRCC staff use, some have been published publicly as a courtesy to stakeholders.",
-      "insight": "Canada’s updated compliance guidance for study and post-graduate work permits may indirectly influence international student decision-making, particularly among applicants weighing long-term settlement pathways—though direct demand shifts remain unconfirmed without corresponding data on application volumes or visa refusal trends.  \nAdmissions teams should monitor Canadian visa processing times, PGWP approval rates, and student sentiment in key source markets (e.g., India, Nigeria, Philippines) via agent feedback and social listening, while reviewing their own post-study work messaging for accuracy and competitiveness.",
+      "title": "“We’ve lost 20 years of growth”: Australian ELICOS and VET sectors hit out at visa policy",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/weve-lost-20-years-of-growth-australian-elicos-and-vet-sectors-hit-out-at-visa-policy/",
+      "pubDate": "2026-07-29",
+      "summary": "Australian ELICOS and VET sector leaders criticized the government’s visa policy at a major industry event, citing record-high visa denial rates and the push for “managed growth” as damaging to their sectors. They claimed these policies have resulted in a loss equivalent to 20 years of growth.",
+      "insight": "This news signals potential softening in Australia’s appeal for international students, particularly in ELICOS and VET pathways, which may indirectly shift demand toward alternative destinations like the US, UK, or NZ—though undergraduate and postgraduate university enrolments remain less directly affected and regional preferences vary.  \nAdmissions teams should monitor Australian visa refusal trends by source country, student inquiries referencing policy concerns, and competitor marketing shifts—especially from Australian institutions adjusting pathway offerings—as early indicators of broader sentiment changes worth factoring into recruitment planning.",
       "impact": "Medium",
       "sources": [],
       "dests": [
-        "Canada"
+        "Australia"
       ],
       "translated": false,
       "origLang": null,
@@ -24,13 +24,34 @@
     },
     {
       "id": 2,
-      "title": "Joint sector alert sends a clear compliance message to Australian higher education and VET providers",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/07/joint-sector-alert-sends-a-clear-compliance-message-to-australian-higher-education-and-vet-providers/",
-      "pubDate": "2026-07-16",
-      "summary": "Australia has two national quality-assurance regulators for tertiary education: TEQSA, which oversees higher education, and ASQA, which regulates the vocational education and training (VET) sector. TEQSA and ASQA jointly regulate institutions where there is regulatory overlap, and they have issued a joint sector alert to communicate a clear compliance message to Australian higher education and VET providers.",
-      "insight": "This joint alert signals heightened regulatory scrutiny across Australia’s tertiary sector, potentially influencing international students’ perceptions of institutional stability and compliance—though direct impacts on demand or visa policy remain uncertain without further evidence.  \nAdmissions teams should monitor Australian provider responses to the alert, track any subsequent changes in student visa processing times or PR pathways, and assess whether competitor institutions adjust marketing claims around quality assurance or graduate outcomes.",
+      "title": "US colleges lost 20% of new foreign undergraduates, but one Southeast Asian country isn't budging",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/education/us-colleges-lost-20-of-new-foreign-undergraduates-but-one-southeast-asian-country-isn-t-budging-5101423.html",
+      "pubDate": "2026-07-27",
+      "summary": "U.S. colleges experienced a 20% decline in new foreign undergraduate enrollments this year. Singaporean students, however, have maintained relatively stable enrollment levels in U.S. institutions.",
+      "insight": "The 20% drop in new foreign undergraduate enrollments signals potential shifts in global student mobility—possibly reflecting visa policy changes, economic pressures, or growing competition from alternative destinations—though Singapore’s stability suggests regional heterogeneity rather than uniform decline.  \nAdmissions teams should monitor Singaporean enrollment trends closely, assess local outreach effectiveness, and explore whether Singapore’s resilience stems from institutional partnerships, scholarship uptake, or perceived value—while benchmarking against peer institutions in ASEAN markets.",
+      "impact": "Low",
+      "sources": [
+        "Southeast Asia"
+      ],
+      "dests": [
+        "USA"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 3,
+      "title": "Australia’s visa “quality correction” leaves sector seeking greater certainty",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/australias-visa-quality-correction-leaves-sector-seeking-greater-certainty/",
+      "pubDate": "2026-07-29",
+      "summary": "Australia implemented a year of sweeping visa policy reforms aimed at improving visa integrity through what officials termed a “quality correction.” This prompted a candid discussion at The PIE Live Asia Pacific conference about balancing those integrity measures with the country’s long-term international competitiveness, as the education and migration sector seeks greater policy certainty.",
+      "insight": "Australia’s “quality correction” signals tighter visa scrutiny and potential delays or refusals for some applicants, which may dampen short-term demand from risk-averse students in key Asian markets—though broader enrolment trends remain influenced by multiple factors including tuition value and post-study work rights.  \nAdmissions teams should track Australian visa refusal rates, processing times, and competitor messaging from UK/Canada/NZ institutions, while reviewing their own pre-application support and alternative pathway offerings to mitigate student concerns about immigration uncertainty.",
       "impact": "Low",
       "sources": [],
       "dests": [
@@ -42,79 +63,22 @@
       "insightSource": "qwen"
     },
     {
-      "id": 3,
-      "title": "US universities urge foreign students to return from overseas before 4-year visa limit takes effect",
-      "source": "VnExpress (EN)",
-      "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/education/us-universities-urge-foreign-students-to-return-from-overseas-before-4-year-visa-limit-takes-effect-5101273.html",
-      "pubDate": "2026-07-25",
-      "summary": "U.S. universities are advising international students holding F-1 and J-1 visas to return from overseas before September 15, when new U.S. immigration changes take effect. These changes include a four-year visa limit for certain foreign nationals, prompting institutions to urge timely reentry to avoid potential complications with student status.",
-      "insight": "This news signals potential tightening of U.S. visa policy for certain international students, which may dampen short-term demand from affected source markets—though broader global recruitment trends remain influenced by multiple factors including competing destinations’ policies and economic conditions.  \nAdmissions teams should monitor U.S. Department of State updates on visa issuance patterns and consult with agents in key markets to assess whether student concerns about visa duration are translating into shifted application preferences toward longer-term or more predictable pathways elsewhere.",
-      "impact": "Low",
-      "sources": [],
-      "dests": [
-        "USA"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
       "id": 4,
-      "title": "How Will New Student Visa Rules Impact Athletics?",
-      "source": "Inside Higher Ed",
-      "color": "#285e61",
-      "url": "https://www.insidehighered.com/news/students/athletics/2026/07/28/how-will-new-student-visa-rules-impact-athletics",
-      "pubDate": "2026-07-28",
-      "summary": "New federal student visa rules limit international students to four years of stay in the United States, conflicting with NCAA policy that permits athletes to compete for five seasons. This discrepancy cuts off collegiate athletic eligibility for some international student-athletes after their fourth year.",
-      "insight": "This news signals potential friction for U.S. universities recruiting international student-athletes, as the four-year visa cap may deter prospects from athletic source markets where five-year NCAA eligibility is expected—though broader non-athletic recruitment demand remains unaffected pending further policy implementation and exemptions.  \nAdmissions teams should track how U.S. institutions adapt—through advocacy, alternative pathways (e.g., transfer options), or enhanced advising—and monitor sentiment shifts in key athletic recruiting regions like Canada, Europe, and parts of Asia, particularly among high-performing student-athletes weighing destination choices.",
-      "impact": "Low",
-      "sources": [],
-      "dests": [
-        "USA"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 5,
-      "title": "Hong Kong retains 17th spot among top cities for students but high costs hurt",
-      "source": "SCMP (Education)",
-      "color": "#7b241c",
-      "url": "https://www.scmp.com/news/hong-kong/education/article/3361353/hong-kong-retains-17th-spot-among-top-cities-students-high-costs-hurt?utm_source=rss_feed",
-      "pubDate": "2026-07-21",
-      "summary": "Hong Kong retained its 17th position in the QS Best Student Cities ranking for 2027. However, QS cited high living costs, the highest tuition fees in East Asia, limited international diversity, and a persistent shortage of student accommodation as key challenges deterring international applicants.",
-      "insight": "Hong Kong’s stagnant ranking and cited cost and accommodation challenges may modestly increase outbound student demand from East Asia, though direct shifts to Western destinations remain uncertain without clearer evidence of enrolment declines or visa policy changes.  \nAdmissions teams should monitor Hong Kong-origin application volumes and tuition affordability perceptions in key feeder markets like mainland China and Southeast Asia, while assessing whether their value propositions effectively contrast with Hong Kong’s cost and housing constraints.",
-      "impact": "Low",
-      "sources": [],
-      "dests": [
-        "UK"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 6,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 6,
-      "title": "Can foreign campuses in India replace study abroad?",
-      "source": "The Hindu (Edu)",
-      "color": "#145a32",
-      "url": "https://www.thehindu.com/education/can-foreign-campuses-in-india-replace-study-abroad/article71271825.ece",
-      "pubDate": "2026-07-28",
-      "summary": "The article discusses the emergence of foreign university campuses in India, such as those established by institutions like NYU, Duke, and the University of Warwick, under India’s new regulatory framework allowing foreign higher education institutions to operate on Indian soil. It notes that while these campuses offer internationally recognized degrees without requiring students to leave India, they currently face limitations including restricted program scope, regulatory hurdles, and limited scale compared to traditional study abroad options.",
-      "insight": "The rise of foreign campuses in India introduces a new, domestically accessible alternative for high-achieving students seeking globally recognized degrees, potentially dampening outbound demand—though current scale, program limitations, and regulatory uncertainty mean near-term impact on traditional study abroad remains modest.  \nAdmissions teams should track enrollment growth, degree accreditation status, and student sentiment toward these campuses—particularly among top-tier Indian applicants—as early indicators of shifting preferences, while refining value propositions around experiential differentiation and post-study opportunities.",
+      "title": "China’s Study Abroad Boom Finds a New Generation: Retirees",
+      "source": "Sixth Tone",
+      "color": "#922b21",
+      "url": "https://www.sixthtone.com/news/1018818/China’s Study Abroad Boom Finds a New Generation: Retirees",
+      "pubDate": "2026-07-30",
+      "summary": "A growing number of retired Chinese citizens are enrolling in overseas study programs after decades of work and family obligations. However, many encounter challenges because these educational institutions are primarily designed for younger students.",
+      "insight": "This trend signals a potential long-term expansion of the international student demographic beyond traditional age groups, though its scale and sustainability remain uncertain given limited current data on retiree enrollment volumes or policy support.  \nAdmissions teams should monitor emerging demand signals—such as niche program inquiries from older Chinese nationals—and assess feasibility of tailored academic pathways, without diverting core recruitment resources from established student segments.",
       "impact": "Low",
       "sources": [
-        "India"
+        "China"
       ],
       "dests": [],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 6,
+      "relevanceScore": 7,
       "insightSource": "qwen"
     }
   ]
