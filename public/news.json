@@ -1,42 +1,40 @@
 {
-  "updated": "2026-07-30T03:49:17Z",
-  "count": 4,
-  "totalFetched": 164,
+  "updated": "2026-07-31T04:16:09Z",
+  "count": 6,
+  "totalFetched": 178,
   "articles": [
     {
       "id": 1,
-      "title": "“We’ve lost 20 years of growth”: Australian ELICOS and VET sectors hit out at visa policy",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/weve-lost-20-years-of-growth-australian-elicos-and-vet-sectors-hit-out-at-visa-policy/",
-      "pubDate": "2026-07-29",
-      "summary": "Australian ELICOS and VET sector leaders criticized the government’s visa policy at a major industry event, citing record-high visa denial rates and the push for “managed growth” as damaging to their sectors. They claimed these policies have resulted in a loss equivalent to 20 years of growth.",
-      "insight": "This news signals potential softening in Australia’s appeal for international students, particularly in ELICOS and VET pathways, which may indirectly shift demand toward alternative destinations like the US, UK, or NZ—though undergraduate and postgraduate university enrolments remain less directly affected and regional preferences vary.  \nAdmissions teams should monitor Australian visa refusal trends by source country, student inquiries referencing policy concerns, and competitor marketing shifts—especially from Australian institutions adjusting pathway offerings—as early indicators of broader sentiment changes worth factoring into recruitment planning.",
+      "title": "Canadian immigration officials have made several updates to compliance guidance for study permits and post-graduate work permits",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/07/canadian-immigration-officials-have-made-several-updates-to-compliance-guidance-for-study-permits-and-post-graduate-work-permits/",
+      "pubDate": "2026-07-22",
+      "summary": "Immigration, Refugees and Citizenship Canada (IRCC) has updated several internal policy, procedures, and guidance documents related to study permits and post-graduate work permits over the past four to six weeks. While these documents are primarily intended for IRCC staff, some have been published publicly “as a courtesy to stakeholders.”",
+      "insight": "Canada’s updated compliance guidance for study and post-graduate work permits may indirectly influence international student decision-making, as perceived visa stability or pathway clarity could affect comparative attractiveness—though direct demand shifts remain unconfirmed without enrollment or application data.  \nAdmissions teams should monitor Canadian application trends, agent feedback from key source markets (e.g., India, Nigeria), and any subsequent public IRCC communications—noting that internal policy refinements rarely trigger immediate policy changes but can foreshadow future enforcement or processing adjustments.",
       "impact": "Medium",
       "sources": [],
       "dests": [
-        "Australia"
+        "Canada"
       ],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 8,
+      "relevanceScore": 9,
       "insightSource": "qwen"
     },
     {
       "id": 2,
-      "title": "US colleges lost 20% of new foreign undergraduates, but one Southeast Asian country isn't budging",
-      "source": "VnExpress (EN)",
-      "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/education/us-colleges-lost-20-of-new-foreign-undergraduates-but-one-southeast-asian-country-isn-t-budging-5101423.html",
-      "pubDate": "2026-07-27",
-      "summary": "U.S. colleges experienced a 20% decline in new foreign undergraduate enrollments this year. Singaporean students, however, have maintained relatively stable enrollment levels in U.S. institutions.",
-      "insight": "The 20% drop in new foreign undergraduate enrollments signals potential shifts in global student mobility—possibly reflecting visa policy changes, economic pressures, or growing competition from alternative destinations—though Singapore’s stability suggests regional heterogeneity rather than uniform decline.  \nAdmissions teams should monitor Singaporean enrollment trends closely, assess local outreach effectiveness, and explore whether Singapore’s resilience stems from institutional partnerships, scholarship uptake, or perceived value—while benchmarking against peer institutions in ASEAN markets.",
+      "title": "Get a grip on Australian study visas: an open letter to Julian Hill",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/get-a-grip-on-australian-study-visas-an-open-letter-to-julian-hill/",
+      "pubDate": "2026-07-30",
+      "summary": "Ravi Lochan Singh wrote an open letter to Julian Hill, Australia’s assistant minister for international education, following Hill’s candid address at The PIE Live Asia Pacific conference. The letter, published by The PIE News, addresses concerns about Australian student visa policies and was titled “Get a grip on Australian study visas.”",
+      "insight": "This open letter signals growing scrutiny of Australia’s student visa framework, potentially influencing perceptions of visa reliability and post-study work prospects among prospective students—though direct demand shifts remain unconfirmed without supporting enrolment or application data.  \nAdmissions teams should track Australian visa policy updates, student sentiment in key source markets (especially India and Southeast Asia), and comparative messaging from peer destinations to assess whether this critique amplifies existing concerns about pathway clarity or processing delays.",
       "impact": "Low",
-      "sources": [
-        "Southeast Asia"
-      ],
+      "sources": [],
       "dests": [
-        "USA"
+        "Australia"
       ],
       "translated": false,
       "origLang": null,
@@ -45,40 +43,79 @@
     },
     {
       "id": 3,
-      "title": "Australia’s visa “quality correction” leaves sector seeking greater certainty",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/australias-visa-quality-correction-leaves-sector-seeking-greater-certainty/",
-      "pubDate": "2026-07-29",
-      "summary": "Australia implemented a year of sweeping visa policy reforms aimed at improving visa integrity through what officials termed a “quality correction.” This prompted a candid discussion at The PIE Live Asia Pacific conference about balancing those integrity measures with the country’s long-term international competitiveness, as the education and migration sector seeks greater policy certainty.",
-      "insight": "Australia’s “quality correction” signals tighter visa scrutiny and potential delays or refusals for some applicants, which may dampen short-term demand from risk-averse students in key Asian markets—though broader enrolment trends remain influenced by multiple factors including tuition value and post-study work rights.  \nAdmissions teams should track Australian visa refusal rates, processing times, and competitor messaging from UK/Canada/NZ institutions, while reviewing their own pre-application support and alternative pathway offerings to mitigate student concerns about immigration uncertainty.",
+      "title": "Hong Kong retains 17th spot among top cities for students but high costs hurt",
+      "source": "SCMP (Education)",
+      "color": "#7b241c",
+      "url": "https://www.scmp.com/news/hong-kong/education/article/3361353/hong-kong-retains-17th-spot-among-top-cities-students-high-costs-hurt?utm_source=rss_feed",
+      "pubDate": "2026-07-21",
+      "summary": "Hong Kong retained its 17th position in the QS Best Student Cities 2027 ranking. However, QS cited high living costs, the highest tuition fees in East Asia, limited international diversity, and a persistent student accommodation shortage as key challenges deterring international applicants.",
+      "insight": "Hong Kong’s stagnant ranking and cited cost and accommodation challenges may modestly increase outbound student demand from East Asia, though direct spillover to US/UK/AU/NZ markets remains uncertain without evidence of shifting application patterns or visa policy changes.  \nAdmissions teams should track application volumes from Hong Kong and mainland China—particularly for undergraduate and pre-master’s pathways—and assess whether partner agents report growing interest in alternatives due to affordability or housing concerns.",
       "impact": "Low",
       "sources": [],
       "dests": [
-        "Australia"
+        "UK"
       ],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 8,
+      "relevanceScore": 7,
       "insightSource": "qwen"
     },
     {
       "id": 4,
-      "title": "China’s Study Abroad Boom Finds a New Generation: Retirees",
-      "source": "Sixth Tone",
-      "color": "#922b21",
-      "url": "https://www.sixthtone.com/news/1018818/China’s Study Abroad Boom Finds a New Generation: Retirees",
-      "pubDate": "2026-07-30",
-      "summary": "A growing number of retired Chinese citizens are enrolling in overseas study programs after decades of work and family obligations. However, many encounter challenges because these educational institutions are primarily designed for younger students.",
-      "insight": "This trend signals a potential long-term expansion of the international student demographic beyond traditional age groups, though its scale and sustainability remain uncertain given limited current data on retiree enrollment volumes or policy support.  \nAdmissions teams should monitor emerging demand signals—such as niche program inquiries from older Chinese nationals—and assess feasibility of tailored academic pathways, without diverting core recruitment resources from established student segments.",
+      "title": "‘Not an Australia alternative’: New Zealand’s international ed sector is going for growth",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/not-an-australia-alternative-new-zealands-international-ed-sector-is-going-for-growth/",
+      "pubDate": "2026-07-28",
+      "summary": "New Zealand is actively pursuing growth in its international education sector by promoting itself as a distinct and desirable study destination, not merely as an alternative to Australia. The country is implementing plans to increase international student enrolments, emphasizing its unique appeal rather than positioning itself in relation to Australia.",
+      "insight": "New Zealand’s push to brand itself as a standalone study destination—rather than an Australian alternative—signals growing strategic differentiation in the Oceania market, potentially reshaping student perceptions and demand patterns, though direct impacts on enrolment volumes or source market shifts remain uncertain without accompanying data on uptake or policy changes.  \nAdmissions teams should monitor New Zealand’s enrolment growth metrics, visa processing timelines, and marketing resonance in key source markets like India and China, while reviewing how their own value propositions compare on factors such as post-study work rights, cost, and cultural appeal.",
       "impact": "Low",
+      "sources": [],
+      "dests": [
+        "Australia",
+        "New Zealand"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 7,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 5,
+      "title": "Changing landscape for student recruitment in India calls for new strategies",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/07/changing-landscape-for-student-recruitment-in-india-calls-for-new-strategies/",
+      "pubDate": "2026-07-30",
+      "summary": "India remains the most important student source market by volume and demand for universities seeking to maintain or grow international student enrolments. Although Indian students studying abroad declined by 5.5% in 2025, there are still 1.2 million Indians enrolled in foreign universities.",
+      "insight": "While the 5.5% decline in Indian students studying abroad in 2025 may reflect short-term visa policy shifts, economic factors, or evolving preferences, it doesn’t yet signal a structural downturn—India remains the largest source market with 1.2 million enrolled overseas, suggesting resilience amid volatility.  \nAdmissions teams should track quarterly enrolment trends by destination country, monitor India’s new education policies and bilateral agreements, and assess regional demand shifts—particularly in STEM and vocational pathways—to refine outreach and support offerings without overreacting to one year’s data.",
+      "impact": "High",
       "sources": [
-        "China"
+        "India"
       ],
       "dests": [],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 7,
+      "relevanceScore": 6,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 6,
+      "title": "UK universities urged to diversify Sub-Saharan Africa strategies",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/uk-universities-urged-to-diversify-sub-saharan-africa-strategies/",
+      "pubDate": "2026-07-30",
+      "summary": "UK universities have been advised to expand their transnational education opportunities and adopt more varied student recruitment approaches in Sub-Saharan Africa. This recommendation follows recent tightening of compliance regulations and policy shifts affecting international student mobility.",
+      "insight": "UK universities’ push to diversify Sub-Saharan Africa strategies may signal growing institutional recognition of shifting regulatory and competitive pressures, though direct implications for US, Australian, or New Zealand recruitment remain uncertain without parallel policy changes in those countries.  \nAdmissions teams should monitor UK-led partnerships, scholarship expansions, and visa trend data from key African nations—noting potential spillover effects on student preferences, application timing, and regional competition for high-achieving candidates.",
+      "impact": "Low",
+      "sources": [],
+      "dests": [
+        "UK"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 6,
       "insightSource": "qwen"
     }
   ]
