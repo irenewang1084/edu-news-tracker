@@ -1,17 +1,17 @@
 {
-  "updated": "2026-08-01T04:15:35Z",
-  "count": 4,
-  "totalFetched": 174,
+  "updated": "2026-08-02T04:19:46Z",
+  "count": 10,
+  "totalFetched": 175,
   "articles": [
     {
       "id": 1,
-      "title": "Canadian immigration officials increase their scrutiny of study permit applicants’ financial documentation",
+      "title": "Canadian immigration officials have made several updates to compliance guidance for study permits and post-graduate work permits",
       "source": "ICEF Monitor",
       "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/07/canadian-immigration-officials-increase-their-scrutiny-of-study-permit-applicants-financial-documentation/",
-      "pubDate": "2026-07-30",
-      "summary": "New analyses of study permit applications and refusal data reveal a strong correlation between an applicant’s ability to demonstrate adequate and stable finances and their likelihood of approval for studying at a Canadian higher education institution. This finding coincides with increased scrutiny by Canadian immigration officials of financial documentation submitted by study permit applicants.",
-      "insight": "This news suggests Canadian visa tightening may indirectly influence global student decision-making, as prospective applicants from shared source markets—especially those with marginal financial profiles—could reassess Canada versus alternative destinations, though direct demand shifts remain unconfirmed.  \nAdmissions teams should monitor application volume and demographic trends from high-overlap regions (e.g., India, Nigeria, Philippines), while reviewing pre-enrolment financial advising resources to support students navigating increasingly rigorous visa documentation requirements elsewhere.",
+      "url": "https://monitor.icef.com/2026/07/canadian-immigration-officials-have-made-several-updates-to-compliance-guidance-for-study-permits-and-post-graduate-work-permits/",
+      "pubDate": "2026-07-22",
+      "summary": "Immigration, Refugees and Citizenship Canada (IRCC) has updated several internal policy, procedures, and guidance documents related to study permits and post-graduate work permits over the past four to six weeks. While primarily intended for IRCC staff, some of these updated documents have been published publicly as a courtesy to stakeholders.",
+      "insight": "Canada’s updated compliance guidance for study and post-graduate work permits may indirectly influence international student decision-making, particularly among applicants weighing destination countries with evolving immigration pathways—though direct demand shifts remain unconfirmed without corresponding application or enrolment data.  \nAdmissions teams should monitor Canadian visa approval rates, PGWP eligibility clarifications, and student sentiment in key source markets (e.g., India, Nigeria, Philippines), while reviewing their own immigration support services to ensure alignment with global policy trends.",
       "impact": "Medium",
       "sources": [],
       "dests": [
@@ -24,32 +24,130 @@
     },
     {
       "id": 2,
-      "title": "From H-1B to OPT: International students are Trump's next $100,000 visa fee target",
-      "source": "Times of India (Edu)",
-      "color": "#d4820a",
-      "url": "https://timesofindia.indiatimes.com/education/news/from-h-1b-to-opt-international-students-are-trumps-next-100000-visa-fee-target/articleshow/132758238.cms",
-      "pubDate": "2026-07-31",
-      "summary": "The Trump administration is reportedly considering imposing a $100,000 fee on the Optional Practical Training (OPT) program for international students. This proposal follows a federal court’s recent invalidation of a similar high fee for H-1B visas.",
-      "insight": "This proposed $100,000 OPT fee—though unconfirmed and legally uncertain following the H-1B ruling—could dampen U.S. appeal for degree-seekers prioritizing post-study work, potentially shifting demand toward countries with more predictable, affordable pathways like the UK, Australia, or New Zealand.  \nAdmissions teams should track official USCIS updates and consult legal advisors on OPT policy developments, while benchmarking competitor institutions’ messaging around work-integrated learning and alternative destinations to inform proactive student counseling.",
-      "impact": "Medium",
+      "title": "The new visa law puts American international students in a difficult position",
+      "source": "VnExpress (Giáo dục)",
+      "color": "#b94500",
+      "url": "https://vnexpress.net/luat-visa-moi-day-du-hoc-sinh-my-vao-the-kho-5102581.html",
+      "pubDate": "2026-08-02",
+      "summary": "The new US visa law imposes additional procedures and costs on international students. It particularly affects those who change their study plans or pursue doctoral degrees, creating uncertainty in their visa status.",
+      "insight": "This news may dampen US appeal for international students—especially those planning doctoral studies or flexible academic pathways—potentially shifting demand toward countries with more predictable visa frameworks, though concrete enrollment impacts remain uncertain pending implementation and student response.  \nAdmissions teams should track application trends from key markets, consult immigration advisors on evolving visa requirements, and assess whether enhanced pre-departure support or clearer pathway guidance could mitigate perceived risks for prospective students.",
+      "impact": "Low",
       "sources": [],
       "dests": [
         "USA"
       ],
-      "translated": false,
-      "origLang": null,
+      "translated": true,
+      "origLang": "vi",
       "relevanceScore": 8,
       "insightSource": "qwen"
     },
     {
       "id": 3,
-      "title": "HKDSE exam takers in mainland China face 220% jump in registration fee to HK$8,000",
+      "title": "Hong Kong retains 17th spot among top cities for students but high costs hurt",
       "source": "SCMP (Education)",
       "color": "#7b241c",
-      "url": "https://www.scmp.com/news/hong-kong/education/article/3362519/candidates-taking-dse-exams-mainland-face-220-entry-fee-jump-hk8000?utm_source=rss_feed",
+      "url": "https://www.scmp.com/news/hong-kong/education/article/3361353/hong-kong-retains-17th-spot-among-top-cities-students-high-costs-hurt?utm_source=rss_feed",
+      "pubDate": "2026-07-21",
+      "summary": "Hong Kong retained its 17th position in the QS Best Student Cities 2027 ranking. However, QS cited high living costs, the highest tuition fees in East Asia, limited international diversity, and a persistent shortage of student accommodation as key challenges deterring international applicants.",
+      "insight": "Hong Kong’s stagnant ranking and cited cost and accommodation challenges may modestly increase outbound student demand from East Asia, though direct shifts to Western destinations remain uncertain without stronger evidence of enrolment declines or policy changes.  \nAdmissions teams should track Hong Kong’s tuition adjustments, housing policy reforms, and visa facilitation efforts—particularly for students from mainland China and Southeast Asia—as potential indicators of evolving competitive pressure in key source markets.",
+      "impact": "Low",
+      "sources": [],
+      "dests": [
+        "UK"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 6,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 4,
+      "title": "Annual student city ranking underlines continued ascent of Asian destinations",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/07/annual-student-city-ranking-underlines-continued-ascent-of-asian-destinations/",
+      "pubDate": "2026-07-30",
+      "summary": "The 2027 QS Best Student Cities ranking identifies the most attractive cities for students to study in, with top locations found in Asia, Europe, and Australia. QS determines the ranking based on factors including employer activity, affordability, university quality, and current student opinions.",
+      "insight": "This ranking signals growing appeal of Asian student destinations, potentially intensifying competition for international students—especially from key source markets—though it doesn’t directly indicate declining demand for Anglophone countries, as regional preferences, program fit, and post-study opportunities remain decisive.  \nAdmissions teams should monitor enrolment trends from high-potential source countries (e.g., India, Indonesia, Vietnam) toward top-ranked Asian cities, while assessing how their institutions’ value propositions—particularly affordability, graduate outcomes, and visa pathways—compare in evolving student decision-making hierarchies.",
+      "impact": "Low",
+      "sources": [],
+      "dests": [
+        "Australia"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 6,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 5,
+      "title": "Twice denied F-1 visa, Indian student now works at Tesla while pursuing PhD",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/education/twice-denied-f-1-visa-indian-student-now-works-at-tesla-while-pursuing-phd-5102110.html",
+      "pubDate": "2026-07-30",
+      "summary": "An Indian student was denied an F-1 visa twice before successfully obtaining one and entering the United States. He subsequently joined Tesla as an employee while concurrently enrolling in and pursuing a Ph.D. program, and now offers advice to visa applicants on strengthening their profiles.",
+      "insight": "This case highlights persistent visa challenges for Indian students, potentially reinforcing perceptions of U.S. graduate study as high-risk yet high-reward—though it’s unclear whether such outlier success stories meaningfully shift broader application trends or reflect tightening adjudication standards elsewhere.  \nAdmissions teams should track F-1 denial rate data by nationality and program level, while reviewing how their institutional support—especially visa guidance, funding clarity, and employer-aligned PhD pathways—resonates with risk-averse applicants from high-volume markets like India.",
+      "impact": "Low",
+      "sources": [
+        "India"
+      ],
+      "dests": [
+        "USA"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 6,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 6,
+      "title": "Mexico’s UNAM weighs whether to rerun admissions exams amid AI-cheating concerns",
+      "source": "El País (English)",
+      "color": "#1a5276",
+      "url": "https://english.elpais.com/international/2026-07-30/mexicos-unam-weighs-whether-to-rerun-admissions-exams-amid-ai-cheating-concerns.html",
+      "pubDate": "2026-07-30",
+      "summary": "Mexico’s National Autonomous University of Mexico (UNAM) is considering whether to rerun its admissions exams due to concerns about artificial intelligence–assisted cheating. The decision follows unusually high scores on the online tests, which have prompted suspicions and led the university to evaluate whether to validate the existing results.",
+      "insight": "UNAM’s potential exam rerun signals growing scrutiny of AI-assisted cheating in high-stakes admissions, possibly heightening global concerns about academic integrity—though direct impacts on demand for US/UK/AU/NZ study remain uncertain without evidence of broader regional spillover.  \nAdmissions teams should monitor whether Latin American students delay or redirect applications amid UNAM’s decision, and assess if peer institutions introduce stricter proctoring or AI-detection policies that could reshape application behaviour or trust in digital assessments.",
+      "impact": "Low",
+      "sources": [
+        "Latin America"
+      ],
+      "dests": [],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 6,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 7,
+      "title": "U.S. Universities Among 7 Approved to Set Up Greek Branch Campuses",
+      "source": "Inside Higher Ed",
+      "color": "#285e61",
+      "url": "https://www.insidehighered.com/news/global/us-colleges-world/2026/07/31/us-universities-approved-set-greek-branch-campuses",
       "pubDate": "2026-07-31",
-      "summary": "Students taking the Hong Kong Diploma of Secondary Education (HKDSE) exam in mainland China next year will pay a registration fee of HK$8,000, representing a 220% increase from the current HK$2,500 following the end of a pilot scheme. Meanwhile, local Hong Kong students will face a 4% fee increase per subject, with charges ranging from HK$540 to HK$808.",
-      "insight": "The sharp HKDSE fee hike in mainland China may signal growing financial and logistical barriers for students seeking Hong Kong qualifications, potentially redirecting some applicants toward overseas pathways—but causality remains unproven without data on actual enrolment shifts or policy intent.  \nAdmissions teams should track HKDSE registration volumes and student sentiment surveys from mainland China over the next 6–12 months, while reviewing whether their outreach messaging or scholarship offerings need refinement to address perceived cost or credential credibility concerns.",
+      "summary": "Seven foreign universities, including institutions from the U.S., U.K., and France, have been approved to establish branch campuses in Greece. This approval follows a controversial legal change governing private higher education institutions in Greece.",
+      "insight": "This development signals Greece’s push to become a regional higher education hub, potentially reshaping student flow in Southern Europe—but its impact on demand for Anglophone degrees remains uncertain, as branch campuses may attract students who would otherwise study locally or in nearby EU countries rather than diverting traditional outbound cohorts.  \nAdmissions teams should monitor enrolment patterns at these new Greek branches, especially among Balkan, Middle Eastern, and Turkish students, while assessing whether Greek-language support, dual-degree pathways, or lower-cost alternatives could indirectly influence application decisions in overlapping source markets.",
+      "impact": "Low",
+      "sources": [],
+      "dests": [
+        "USA",
+        "UK"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 6,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 8,
+      "title": "Mainland Chinese families lose legal challenge over public university fees",
+      "source": "SCMP (Education)",
+      "color": "#7b241c",
+      "url": "https://www.scmp.com/news/hong-kong/education/article/3362597/mainland-chinese-families-lose-legal-challenge-over-public-university-fees?utm_source=rss_feed",
+      "pubDate": "2026-07-31",
+      "summary": "A group of 87 mainland Chinese families who migrated to Hong Kong under talent visa schemes lost a legal challenge against the government’s policy requiring their children to reside in Hong Kong for at least two years before qualifying for publicly funded university places as dependants. High Court Judge Russell Coleman ruled on Friday that the Education Bureau’s requirement was not irrational.",
+      "insight": "This ruling may subtly influence perceptions among mainland Chinese families about Hong Kong’s education accessibility, potentially nudging some toward alternative destinations like the US, UK, Australia, or New Zealand—though direct demand shifts remain unproven and likely gradual.  \nAdmissions teams should monitor Hong Kong university application trends from mainland talent-visa families and track whether education agents begin highlighting residency-free pathways abroad, while avoiding premature assumptions about enrolment impact.",
       "impact": "Low",
       "sources": [
         "China"
@@ -57,26 +155,45 @@
       "dests": [],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 8,
+      "relevanceScore": 6,
       "insightSource": "qwen"
     },
     {
-      "id": 4,
-      "title": "US considers charging $100,000 fee for international graduates seeking to work",
+      "id": 9,
+      "title": "Vietnamese student crowned Excel world champion in California",
       "source": "VnExpress (EN)",
       "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/education/us-considers-charging-100-000-fee-for-international-graduates-seeking-to-work-5103764.html",
+      "url": "https://e.vnexpress.net/news/news/education/vietnamese-student-crowned-excel-world-champion-in-california-5103523.html",
       "pubDate": "2026-07-31",
-      "summary": "The U.S. government is considering imposing a $100,000 fee on international students who seek to remain in the country after graduation to work. This proposed fee is part of broader immigration tightening measures.",
-      "insight": "This proposed $100,000 fee—though unconfirmed and likely subject to significant legislative and political hurdles—could dampen U.S. appeal for international graduates weighing post-study work options, potentially shifting demand toward countries with more predictable, lower-cost pathways like the UK, Australia, or New Zealand.  \nAdmissions teams should track official U.S. policy developments closely, assess how peer institutions are messaging post-graduation prospects, and review their own career support offerings—noting that current students remain unaffected until any rule is finalized and implemented.",
+      "summary": "A Vietnamese student won the world Microsoft Excel championship at the Microsoft Office Specialist World Championship in California on July 29. The student received an $8,000 prize for the victory.",
+      "insight": "This victory highlights growing technical proficiency among Southeast Asian students, potentially reinforcing perceptions of regional academic rigor and digital readiness—though it remains unclear whether such niche achievements meaningfully shift broader enrollment decisions or institutional reputation.  \nAdmissions teams should monitor whether national or regional education bodies amplify this win in promotional campaigns, and assess if partner agencies begin referencing similar skill-based accolades when positioning study destinations to high-achieving STEM and business applicants.",
       "impact": "Low",
-      "sources": [],
-      "dests": [
-        "USA"
+      "sources": [
+        "Southeast Asia"
       ],
+      "dests": [],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 8,
+      "relevanceScore": 6,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 10,
+      "title": "China’s Study Abroad Boom Finds a New Generation: Retirees",
+      "source": "Sixth Tone",
+      "color": "#922b21",
+      "url": "https://www.sixthtone.com/news/1018818/China’s Study Abroad Boom Finds a New Generation: Retirees",
+      "pubDate": "2026-08-02",
+      "summary": "A growing number of retired Chinese citizens are enrolling in overseas study programs after decades of work and family obligations. However, many report that these educational settings are primarily designed for younger students, creating challenges for this new cohort of older learners.",
+      "insight": "This trend signals potential long-term diversification in China’s outbound student profile, though its scale and sustainability remain uncertain given retirees’ smaller numbers, distinct motivations (lifelong learning vs. career advancement), and possible visa eligibility constraints for full-time study programs.  \nAdmissions teams should monitor uptake of short-term, non-degree, or senior-friendly programs in China—especially those with flexible entry requirements—and assess whether existing support services, housing, and curriculum design inadvertently exclude older learners.",
+      "impact": "Low",
+      "sources": [
+        "China"
+      ],
+      "dests": [],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 6,
       "insightSource": "qwen"
     }
   ]
