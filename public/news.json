@@ -1,17 +1,17 @@
 {
-  "updated": "2026-08-03T04:24:13Z",
-  "count": 6,
-  "totalFetched": 185,
+  "updated": "2026-08-04T03:56:57Z",
+  "count": 3,
+  "totalFetched": 186,
   "articles": [
     {
       "id": 1,
-      "title": "Canadian immigration officials increase their scrutiny of study permit applicants’ financial documentation",
+      "title": "Canadian immigration officials have made several updates to compliance guidance for study permits and post-graduate work permits",
       "source": "ICEF Monitor",
       "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/07/canadian-immigration-officials-increase-their-scrutiny-of-study-permit-applicants-financial-documentation/",
-      "pubDate": "2026-07-30",
-      "summary": "New analyses of study permit applications and refusal data reveal a strong correlation between an applicant’s ability to demonstrate adequate and stable finances and their likelihood of approval for studying at a Canadian higher education institution. Canadian immigration officials are consequently increasing their scrutiny of financial documentation submitted with study permit applications.",
-      "insight": "This news signals potential shifts in student demand from markets where Canadian study permits are increasingly difficult to obtain, possibly redirecting applications toward the USA, UK, Australia, and New Zealand—though direct causal links to enrolment changes remain uncertain without longitudinal data on applicant behaviour.  \nAdmissions teams should monitor application volume and demographic trends from key overlapping source countries (e.g., India, Nigeria, Philippines), while reviewing whether their financial documentation guidance aligns with evolving global visa expectations—not as an immediate policy shift, but as part of proactive compliance preparedness.",
+      "url": "https://monitor.icef.com/2026/07/canadian-immigration-officials-have-made-several-updates-to-compliance-guidance-for-study-permits-and-post-graduate-work-permits/",
+      "pubDate": "2026-07-22",
+      "summary": "Immigration, Refugees and Citizenship Canada (IRCC) has updated several internal policy, procedures, and guidance documents related to study permits and post-graduate work permits over the past four to six weeks. While primarily intended for IRCC staff use, some of these updated documents have been published publicly as a courtesy to stakeholders.",
+      "insight": "Canada’s updated study and PGWP compliance guidance may indirectly influence international student decision-making, as perceptions of visa stability and post-study work clarity affect destination preferences—though direct demand shifts remain unconfirmed without enrollment or application data.  \nAdmissions teams should monitor Canadian application trends, agent feedback from key source markets (e.g., India, Nigeria), and any subsequent public IRCC communications—noting that procedural updates rarely trigger immediate policy changes but can signal longer-term enforcement or eligibility shifts.",
       "impact": "Medium",
       "sources": [],
       "dests": [
@@ -24,53 +24,17 @@
     },
     {
       "id": 2,
-      "title": "Australia’s visa “quality correction” leaves sector seeking greater certainty",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/australias-visa-quality-correction-leaves-sector-seeking-greater-certainty/",
-      "pubDate": "2026-07-29",
-      "summary": "A year of sweeping visa policy reforms in Australia has prompted a discussion at The PIE Live Asia Pacific conference about balancing visa integrity with the country’s long-term international competitiveness. The article reports that these reforms, described as a “quality correction,” have left the education and migration sector seeking greater certainty.",
-      "insight": "Australia’s “quality correction” in visa policy may dampen short-term demand from risk-averse students and agents in key Asian markets, though its broader impact on global student mobility remains uncertain amid shifting perceptions of visa reliability and post-study pathways.  \nAdmissions teams should track Australian enrolment data by origin region and visa grant rates over the next 6–12 months, while reviewing messaging around visa support and alternative destination options for students expressing concern about application complexity or processing delays.",
+      "title": "US to make visa bond program permanent for people from 50 countries, including Cambodia",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/us-to-make-visa-bond-program-permanent-for-people-from-50-countries-including-cambodia-5104556.html",
+      "pubDate": "2026-08-03",
+      "summary": "The U.S. State Department will make permanent a visa bond program requiring applicants from 50 countries—including Cambodia—to post bonds of up to $20,000 when applying for U.S. visas. The program primarily affects applicants from African countries and was announced in a federal notice posted online on Friday.",
+      "insight": "This policy signals heightened U.S. visa scrutiny for nationals from 50 countries—including Cambodia—potentially dampening student demand for U.S. study, though its direct impact on enrolment remains uncertain given limited data on bond compliance rates and alternative pathways.  \nAdmissions teams should monitor application volume and yield trends from affected countries, especially Cambodia and other Southeast Asian nations, while reviewing support resources for visa guidance and assessing whether partner agents or institutions report increased applicant hesitation or financial barriers.",
       "impact": "Low",
-      "sources": [],
-      "dests": [
-        "Australia"
+      "sources": [
+        "Southeast Asia"
       ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 3,
-      "title": "Get a grip on Australian study visas: an open letter to Julian Hill",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/get-a-grip-on-australian-study-visas-an-open-letter-to-julian-hill/",
-      "pubDate": "2026-07-30",
-      "summary": "Ravi Lochan Singh published an open letter to Julian Hill, Australia’s assistant minister for international education, following Hill’s candid address at The PIE Live Asia Pacific conference. The letter, titled “Get a grip on Australian study visas,” appeared on The PIE News website.",
-      "insight": "This open letter signals growing scrutiny of Australia’s student visa integrity measures, potentially influencing prospective students’ perceptions of visa reliability and post-study pathways—though direct demand shifts remain unconfirmed without accompanying policy changes or data.  \nAdmissions teams should track Australian government responses, visa refusal trends, and sentiment shifts in key Asian source markets, while reviewing how their own visa support messaging compares with Australia’s evolving narrative on compliance and student welfare.",
-      "impact": "Low",
-      "sources": [],
-      "dests": [
-        "Australia"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 4,
-      "title": "Trump eyes $100,000 OPT fee",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/trump-eyes-100000-opt-fee/",
-      "pubDate": "2026-07-31",
-      "summary": "The Trump administration is reportedly considering imposing a $100,000 fee on the Optional Practical Training (OPT) program, which allows international students to work in the U.S. after graduation. This potential policy change was reported by The PIE News.",
-      "insight": "A $100,000 OPT fee—though unconfirmed and likely facing legal and political hurdles—could dampen U.S. appeal for international students weighing post-study work value, especially from cost-sensitive markets like India and Nigeria, potentially shifting demand toward countries with more predictable, affordable pathways.  \nAdmissions teams should track official USCIS guidance and student sentiment surveys in key source regions, while reviewing comparative messaging on graduate employment outcomes across the U.S., UK, Australia, and New Zealand to ensure institutional positioning remains competitive and transparent.",
-      "impact": "Low",
-      "sources": [],
       "dests": [
         "USA"
       ],
@@ -80,33 +44,14 @@
       "insightSource": "qwen"
     },
     {
-      "id": 5,
-      "title": "HKDSE exam takers in mainland China face 220% jump in registration fee to HK$8,000",
-      "source": "SCMP (Education)",
-      "color": "#7b241c",
-      "url": "https://www.scmp.com/news/hong-kong/education/article/3362519/candidates-taking-dse-exams-mainland-face-220-entry-fee-jump-hk8000?utm_source=rss_feed",
-      "pubDate": "2026-07-31",
-      "summary": "Students taking the HKDSE exam in mainland China next year will pay a registration fee of HK$8,000, representing a 220% increase from the current HK$2,500 following the end of a pilot scheme. Local Hong Kong students will face a 4% fee increase per subject, with charges ranging from HK$540 to HK$808.",
-      "insight": "The sharp fee hike for HKDSE candidates in mainland China may signal growing financial and logistical barriers to Hong Kong-based qualifications, potentially increasing interest in alternative pathways—including undergraduate degrees abroad—though direct demand shifts remain unconfirmed without broader market data.  \nAdmissions teams should track application volumes from mainland Chinese students targeting UK/Australia/NZ/US institutions in late 2024–2025, while reviewing scholarship eligibility criteria and outreach timing to align with possible recalibrations in student planning due to rising HKDSE costs.",
-      "impact": "Low",
-      "sources": [
-        "China"
-      ],
-      "dests": [],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 6,
-      "title": "US considers charging $100,000 fee for international graduates seeking to work",
+      "id": 3,
+      "title": "New US visa rules create fresh hurdles for international students pursuing higher study or careers",
       "source": "VnExpress (EN)",
       "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/education/us-considers-charging-100-000-fee-for-international-graduates-seeking-to-work-5103764.html",
-      "pubDate": "2026-07-31",
-      "summary": "The U.S. government is considering imposing a $100,000 fee on international students who seek to remain in the country after graduation to work. This proposed measure is part of broader immigration tightening efforts.",
-      "insight": "This proposed $100,000 fee—though unconfirmed and likely subject to significant legislative and political hurdles—could dampen U.S. appeal for international graduates weighing post-study work options, particularly among cost-sensitive students from Asia and Africa, thereby indirectly influencing regional application trends.  \nAdmissions teams should track official USCIS/Department of Homeland Security updates, consult legal immigration partners, and assess whether peer institutions in the UK, Australia, or New Zealand are positioning themselves as more affordable post-study work alternatives in marketing materials.",
+      "url": "https://e.vnexpress.net/news/news/education/new-us-visa-rules-create-fresh-hurdles-for-international-students-pursuing-higher-study-or-careers-5104716.html",
+      "pubDate": "2026-08-04",
+      "summary": "New U.S. visa regulations impose additional administrative requirements, higher costs, and stricter rules for international students. These changes may complicate students’ plans to switch academic programs or pursue doctoral studies.",
+      "insight": "This news signals potential downward pressure on U.S. appeal for international students, especially those prioritising post-study work flexibility or programme-switching—though demand shifts will vary by source market and depend on how other English-speaking destinations respond.  \nAdmissions teams should track application trends from key markets like India and China, review visa advisory resources with partners, and assess whether enhanced support for visa compliance or alternative pathway messaging strengthens competitiveness amid evolving policy uncertainty.",
       "impact": "Low",
       "sources": [],
       "dests": [
