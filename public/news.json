@@ -1,22 +1,22 @@
 {
-  "updated": "2026-08-05T03:52:38Z",
-  "count": 4,
-  "totalFetched": 191,
+  "updated": "2026-08-06T03:57:32Z",
+  "count": 5,
+  "totalFetched": 176,
   "articles": [
     {
       "id": 1,
-      "title": "Canadian immigration officials increase their scrutiny of study permit applicants’ financial documentation",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/07/canadian-immigration-officials-increase-their-scrutiny-of-study-permit-applicants-financial-documentation/",
-      "pubDate": "2026-07-30",
-      "summary": "New analyses of study permit applications and refusal data reveal a strong correlation between an applicant’s ability to demonstrate adequate and stable finances and their likelihood of approval for studying at a Canadian higher education institution. This finding coincides with increased scrutiny by Canadian immigration officials of financial documentation submitted with study permit applications.",
-      "insight": "This news signals potential shifts in student demand from markets where Canadian study permits are increasingly difficult to obtain, possibly redirecting applications toward the USA, UK, Australia, and New Zealand—though direct causal links to enrolment changes remain unconfirmed without longitudinal data.  \nAdmissions teams should monitor application volume and demographic trends from key overlapping source countries (e.g., India, Nigeria, Philippines), while reviewing whether their financial documentation guidance aligns with rising global visa scrutiny standards.",
+      "title": "Vietnam warns of fraudument e-visa websites targeting foreign travelers",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/vietnam-warns-of-fraudument-e-visa-websites-targeting-foreign-travelers-5105504.html",
+      "pubDate": "2026-08-05",
+      "summary": "Vietnam’s authorities are intensifying efforts to detect and remove fraudulent websites and links that falsely offer e-visa services for travelers. This action follows a rise in demand for Vietnam’s official e-visa system, which has attracted scams targeting foreign visitors.",
+      "insight": "While not directly altering visa policy, this fraud surge signals heightened vulnerability among Southeast Asian students navigating Vietnam’s e-visa process—potentially affecting travel confidence and indirect enrollment decisions if visa complications delay or deter regional mobility.  \nAdmissions teams should monitor Vietnamese government advisories and partner with trusted education agents to verify official visa channels, ensuring pre-departure guidance includes clear, updated e-visa authentication steps for affected student cohorts.",
       "impact": "Medium",
-      "sources": [],
-      "dests": [
-        "Canada"
+      "sources": [
+        "Southeast Asia"
       ],
+      "dests": [],
       "translated": false,
       "origLang": null,
       "relevanceScore": 8,
@@ -24,13 +24,34 @@
     },
     {
       "id": 2,
-      "title": "US: Trump administration considers $100,000 OPT fee",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/trump-eyes-100000-opt-fee/",
-      "pubDate": "2026-07-31",
-      "summary": "The Trump administration is reportedly considering imposing a $100,000 fee on the Optional Practical Training (OPT) program, which allows international students to work in the United States after graduation. This potential policy change was reported by The PIE News.",
-      "insight": "This proposed $100,000 OPT fee—though unconfirmed and subject to regulatory hurdles—could dampen US appeal for international students weighing post-study work value, especially from cost-sensitive markets, potentially shifting demand toward countries with more accessible graduate employment pathways.  \nAdmissions teams should track official USCIS updates and consult legal advisors on OPT policy trajectories, while benchmarking competitor messaging around career outcomes and alternative destinations’ visa frameworks to inform proactive student counselling and recruitment positioning.",
+      "title": "US to make visa bond program permanent for people from 50 countries, including Cambodia",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/us-to-make-visa-bond-program-permanent-for-people-from-50-countries-including-cambodia-5104556.html",
+      "pubDate": "2026-08-03",
+      "summary": "The U.S. State Department will make permanent a visa bond program requiring applicants from 50 countries—including Cambodia—to post bonds of up to $20,000 when applying for U.S. visas. The program, announced in a federal notice posted online on Friday, primarily affects applicants from African countries.",
+      "insight": "This policy signals heightened U.S. visa scrutiny for nationals from 50 countries—including Cambodia—potentially dampening student demand for U.S. study, though its direct impact on higher education applicants remains uncertain given the program’s focus on non-immigrant visa categories beyond F-1.  \nAdmissions teams should monitor Cambodian and other affected Southeast Asian student application trends, consult with U.S. agents on bond implementation timelines, and assess whether complementary support—like visa guidance or financial advising—may help mitigate perceived barriers.",
+      "impact": "Low",
+      "sources": [
+        "Southeast Asia"
+      ],
+      "dests": [
+        "USA"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 3,
+      "title": "New US visa rules create fresh hurdles for international students pursuing higher study or careers",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/education/new-us-visa-rules-create-fresh-hurdles-for-international-students-pursuing-higher-study-or-careers-5104716.html",
+      "pubDate": "2026-08-04",
+      "summary": "New U.S. visa regulations impose additional administrative requirements, higher costs, and stricter rules for international students. These changes may complicate students’ plans to change academic programs or pursue doctoral studies.",
+      "insight": "This news signals potential downward pressure on U.S. appeal for international students, especially those seeking flexibility in academic progression or long-term career pathways, though actual enrollment impact depends on how source markets interpret both the policy’s practical burden and broader geopolitical perceptions.  \nAdmissions teams should track application trends from key markets—particularly India, China, and Nigeria—for shifts in U.S.-bound intent versus alternatives, while reviewing institutional support services for visa compliance and contingency planning around program change restrictions.",
       "impact": "Low",
       "sources": [],
       "dests": [
@@ -42,40 +63,37 @@
       "insightSource": "qwen"
     },
     {
-      "id": 3,
-      "title": "HKDSE exam takers in mainland China face 220% jump in registration fee to HK$8,000",
-      "source": "SCMP (Education)",
-      "color": "#7b241c",
-      "url": "https://www.scmp.com/news/hong-kong/education/article/3362519/candidates-taking-dse-exams-mainland-face-220-entry-fee-jump-hk8000?utm_source=rss_feed",
-      "pubDate": "2026-07-31",
-      "summary": "Students taking the HKDSE exam in mainland China next year will pay a registration fee of HK$8,000, representing a 220% increase from the current HK$2,500 following the end of a pilot scheme. Local Hong Kong students will face a 4% fee increase per subject, with charges ranging from HK$540 to HK$808.",
-      "insight": "The sharp fee hike for HKDSE exams in mainland China may signal growing financial and logistical barriers for students seeking Hong Kong qualifications, potentially redirecting some applicants toward alternative pathways—including undergraduate admissions in English-speaking countries—though demand shifts will depend on broader economic and policy trends.  \nAdmissions teams should monitor application volumes from mainland China for HKDSE-affiliated schools and track whether universities in Hong Kong report enrolment declines, while reviewing scholarship eligibility criteria to assess if targeted support could attract high-achieving candidates affected by this cost increase.",
+      "id": 4,
+      "title": "Sweeping work permit refusals draw student protests in Canada",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/sweeping-work-permit-refusals-draw-student-protests-in-canada/",
+      "pubDate": "2026-08-05",
+      "summary": "Student protests and a hunger strike have occurred in Canada in response to widespread refusals of Post-Graduation Work Permits (PGWPs). Stakeholders are now calling for mandatory immigration advice to be provided to prospective international students.",
+      "insight": "This news signals potential shifts in student demand as Canadian PGWP refusals may heighten visa outcome anxiety among international students, possibly increasing interest in alternative destinations with perceived more predictable post-study work pathways—though direct impact on US/UK/AU/NZ enrolment remains unproven and likely mediated by source-market-specific perceptions.  \nAdmissions teams should monitor regional sentiment shifts—especially in key feeder markets like India and Nigeria—and assess whether prospective students increasingly prioritise transparent immigration advice, institutional support services, or visa success data when comparing destinations.",
       "impact": "Low",
-      "sources": [
-        "China"
+      "sources": [],
+      "dests": [
+        "Canada"
       ],
-      "dests": [],
       "translated": false,
       "origLang": null,
       "relevanceScore": 8,
       "insightSource": "qwen"
     },
     {
-      "id": 4,
-      "title": "Students challenge UK ‘visa brake’ in High Court",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/students-challenge-uk-visa-brake-in-high-court/",
-      "pubDate": "2026-08-04",
-      "summary": "Two landmark legal cases were filed last week against the UK Home Office challenging the government’s ‘visa brake’ policy, which suspends study visa issuance to nationals of Afghanistan, Cameroon, Sudan, and Myanmar. The cases were reported by The PIE News.",
-      "insight": "This UK policy shift may indirectly influence global student mobility patterns, as prospective applicants from affected countries—particularly those with strong ties to Southeast Asia and West Africa—could reassess UK options, potentially increasing demand for alternative destinations like the US, Australia, or New Zealand, though actual enrolment impacts remain uncertain pending litigation outcomes.  \nAdmissions teams should monitor visa policy developments in key source markets, track application trends from Afghanistan, Cameroon, Sudan, and Myanmar, and assess whether partner agents or schools report shifting student preferences—noting that proactive outreach and clear visa guidance may help capture redirected interest without immediate operational changes.",
+      "id": 5,
+      "title": "Report: US considering a $100,000 fee for Optional Practical Training",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/08/report-us-considering-a-100000-fee-for-optional-practical-training/",
+      "pubDate": "2026-08-06",
+      "summary": "The Trump administration is reportedly considering imposing a $100,000 fee on international students seeking Optional Practical Training (OPT) in the United States after graduation. According to The Wall Street Journal, this potential policy change is based on information from people familiar with the matter.",
+      "insight": "This reported proposal signals growing policy uncertainty for US-bound international students, potentially dampening demand from cost-sensitive markets and amplifying perceptions of the US as less accessible—though its actual implementation remains unconfirmed and subject to legal and political hurdles.  \nAdmissions teams should track official USCIS updates and consult immigration counsel while benchmarking competitor messaging on visa pathways, especially in markets where OPT is a key decision factor, to proactively address student concerns without premature policy assumptions.",
       "impact": "Low",
-      "sources": [
-        "Southeast Asia",
-        "West Africa"
-      ],
+      "sources": [],
       "dests": [
-        "UK"
+        "USA"
       ],
       "translated": false,
       "origLang": null,
