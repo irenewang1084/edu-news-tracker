@@ -1,22 +1,22 @@
 {
-  "updated": "2026-08-06T03:57:32Z",
+  "updated": "2026-08-07T03:42:59Z",
   "count": 5,
-  "totalFetched": 176,
+  "totalFetched": 172,
   "articles": [
     {
       "id": 1,
-      "title": "Vietnam warns of fraudument e-visa websites targeting foreign travelers",
-      "source": "VnExpress (EN)",
-      "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/vietnam-warns-of-fraudument-e-visa-websites-targeting-foreign-travelers-5105504.html",
+      "title": "Australia poised to further restrict immigration in bid to drive down net migration figures",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/08/australia-poised-to-further-restrict-immigration-in-bid-to-drive-down-net-migration-figures/",
       "pubDate": "2026-08-05",
-      "summary": "Vietnam’s authorities are intensifying efforts to detect and remove fraudulent websites and links that falsely offer e-visa services for travelers. This action follows a rise in demand for Vietnam’s official e-visa system, which has attracted scams targeting foreign visitors.",
-      "insight": "While not directly altering visa policy, this fraud surge signals heightened vulnerability among Southeast Asian students navigating Vietnam’s e-visa process—potentially affecting travel confidence and indirect enrollment decisions if visa complications delay or deter regional mobility.  \nAdmissions teams should monitor Vietnamese government advisories and partner with trusted education agents to verify official visa channels, ensuring pre-departure guidance includes clear, updated e-visa authentication steps for affected student cohorts.",
-      "impact": "Medium",
-      "sources": [
-        "Southeast Asia"
+      "summary": "Australia’s national government is facing pressure to further restrict immigration amid rising public concern, with 55% of Australians surveyed in the Lowy Institute Poll released on 22 June 2026 stating that annual migrant intake is too high—the highest level recorded to date. The government aims to reduce net migration figures in response to this sentiment.",
+      "insight": "This news signals growing political and public pressure in Australia to curb overall immigration, which may indirectly influence international student policy—though student visas remain formally distinct from skilled migration, tighter border rhetoric could affect perceptions of welcome, processing times, or post-study work eligibility over time.  \nAdmissions teams should monitor Australian government announcements on student visa caps, post-study work rights, and regional study requirements, while tracking shifts in source market sentiment via agent feedback and application data—noting that policy changes often unfold gradually and may be offset by targeted incentives for high-demand fields.",
+      "impact": "High",
+      "sources": [],
+      "dests": [
+        "Australia"
       ],
-      "dests": [],
       "translated": false,
       "origLang": null,
       "relevanceScore": 8,
@@ -24,54 +24,14 @@
     },
     {
       "id": 2,
-      "title": "US to make visa bond program permanent for people from 50 countries, including Cambodia",
-      "source": "VnExpress (EN)",
-      "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/us-to-make-visa-bond-program-permanent-for-people-from-50-countries-including-cambodia-5104556.html",
-      "pubDate": "2026-08-03",
-      "summary": "The U.S. State Department will make permanent a visa bond program requiring applicants from 50 countries—including Cambodia—to post bonds of up to $20,000 when applying for U.S. visas. The program, announced in a federal notice posted online on Friday, primarily affects applicants from African countries.",
-      "insight": "This policy signals heightened U.S. visa scrutiny for nationals from 50 countries—including Cambodia—potentially dampening student demand for U.S. study, though its direct impact on higher education applicants remains uncertain given the program’s focus on non-immigrant visa categories beyond F-1.  \nAdmissions teams should monitor Cambodian and other affected Southeast Asian student application trends, consult with U.S. agents on bond implementation timelines, and assess whether complementary support—like visa guidance or financial advising—may help mitigate perceived barriers.",
-      "impact": "Low",
-      "sources": [
-        "Southeast Asia"
-      ],
-      "dests": [
-        "USA"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 3,
-      "title": "New US visa rules create fresh hurdles for international students pursuing higher study or careers",
-      "source": "VnExpress (EN)",
-      "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/education/new-us-visa-rules-create-fresh-hurdles-for-international-students-pursuing-higher-study-or-careers-5104716.html",
-      "pubDate": "2026-08-04",
-      "summary": "New U.S. visa regulations impose additional administrative requirements, higher costs, and stricter rules for international students. These changes may complicate students’ plans to change academic programs or pursue doctoral studies.",
-      "insight": "This news signals potential downward pressure on U.S. appeal for international students, especially those seeking flexibility in academic progression or long-term career pathways, though actual enrollment impact depends on how source markets interpret both the policy’s practical burden and broader geopolitical perceptions.  \nAdmissions teams should track application trends from key markets—particularly India, China, and Nigeria—for shifts in U.S.-bound intent versus alternatives, while reviewing institutional support services for visa compliance and contingency planning around program change restrictions.",
-      "impact": "Low",
-      "sources": [],
-      "dests": [
-        "USA"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 4,
-      "title": "Sweeping work permit refusals draw student protests in Canada",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/sweeping-work-permit-refusals-draw-student-protests-in-canada/",
-      "pubDate": "2026-08-05",
-      "summary": "Student protests and a hunger strike have occurred in Canada in response to widespread refusals of Post-Graduation Work Permits (PGWPs). Stakeholders are now calling for mandatory immigration advice to be provided to prospective international students.",
-      "insight": "This news signals potential shifts in student demand as Canadian PGWP refusals may heighten visa outcome anxiety among international students, possibly increasing interest in alternative destinations with perceived more predictable post-study work pathways—though direct impact on US/UK/AU/NZ enrolment remains unproven and likely mediated by source-market-specific perceptions.  \nAdmissions teams should monitor regional sentiment shifts—especially in key feeder markets like India and Nigeria—and assess whether prospective students increasingly prioritise transparent immigration advice, institutional support services, or visa success data when comparing destinations.",
-      "impact": "Low",
+      "title": "Canadian immigration officials increase their scrutiny of study permit applicants’ financial documentation",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/07/canadian-immigration-officials-increase-their-scrutiny-of-study-permit-applicants-financial-documentation/",
+      "pubDate": "2026-07-30",
+      "summary": "New analyses of study permit applications and refusal data reveal a strong correlation between an applicant’s ability to demonstrate adequate and stable finances and their likelihood of approval for studying at a Canadian higher education institution. Canadian immigration officials are increasing their scrutiny of financial documentation submitted by study permit applicants.",
+      "insight": "This news suggests Canadian visa tightening may modestly shift student demand toward alternative destinations like the US, UK, Australia, and New Zealand—though actual enrolment impacts depend on how applicants perceive Canada’s competitiveness relative to other countries’ visa stability and post-study work prospects.  \nAdmissions teams should monitor application volume and origin-market sentiment trends over the next 6–12 months, particularly among students from regions historically favouring Canada, while reviewing whether their financial documentation guidance aligns with evolving global visa expectations.",
+      "impact": "Medium",
       "sources": [],
       "dests": [
         "Canada"
@@ -82,19 +42,58 @@
       "insightSource": "qwen"
     },
     {
-      "id": 5,
-      "title": "Report: US considering a $100,000 fee for Optional Practical Training",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/08/report-us-considering-a-100000-fee-for-optional-practical-training/",
-      "pubDate": "2026-08-06",
-      "summary": "The Trump administration is reportedly considering imposing a $100,000 fee on international students seeking Optional Practical Training (OPT) in the United States after graduation. According to The Wall Street Journal, this potential policy change is based on information from people familiar with the matter.",
-      "insight": "This reported proposal signals growing policy uncertainty for US-bound international students, potentially dampening demand from cost-sensitive markets and amplifying perceptions of the US as less accessible—though its actual implementation remains unconfirmed and subject to legal and political hurdles.  \nAdmissions teams should track official USCIS updates and consult immigration counsel while benchmarking competitor messaging on visa pathways, especially in markets where OPT is a key decision factor, to proactively address student concerns without premature policy assumptions.",
+      "id": 3,
+      "title": "HKDSE exam takers in mainland China face 220% jump in registration fee to HK$8,000",
+      "source": "SCMP (Education)",
+      "color": "#7b241c",
+      "url": "https://www.scmp.com/news/hong-kong/education/article/3362519/candidates-taking-dse-exams-mainland-face-220-entry-fee-jump-hk8000?utm_source=rss_feed",
+      "pubDate": "2026-07-31",
+      "summary": "Students taking the HKDSE exam in mainland China next year will pay a registration fee of HK$8,000, representing a 220% increase from the current HK$2,500 following the end of a pilot scheme. Local Hong Kong students will face a 4% fee increase per subject, with charges ranging from HK$540 to HK$808.",
+      "insight": "The sharp fee hike for HKDSE candidates in mainland China may signal growing financial and logistical barriers to Hong Kong-based qualifications, potentially increasing interest in alternative pathways—including undergraduate degrees abroad—though direct demand shifts remain unconfirmed without broader enrollment data.  \nAdmissions teams should track application volumes from mainland Chinese students targeting UK/Australia/NZ/US universities in late 2024–2025, particularly those previously considering HKDSE as a route to Hong Kong or overseas study, while reviewing scholarship eligibility criteria for this cohort.",
       "impact": "Low",
-      "sources": [],
-      "dests": [
-        "USA"
+      "sources": [
+        "China"
       ],
+      "dests": [],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 4,
+      "title": "UGC flags 32 fake universities; warns students against unauthorised EdTech tie-ups and invalid degrees",
+      "source": "Times of India (Edu)",
+      "color": "#d4820a",
+      "url": "https://timesofindia.indiatimes.com/education/news/ugc-flags-32-fake-universities-warns-students-against-unauthorised-edtech-tie-ups-and-invalid-degrees/articleshow/133005592.cms",
+      "pubDate": "2026-08-06",
+      "summary": "The University Grants Commission (UGC) has identified 32 fake universities operating across India. It has warned students against enrolling in unauthorised institutions or EdTech programmes with illegal franchise arrangements and advised verifying a university’s recognition status on the UGC website, as degrees from such entities are not legally recognised.",
+      "insight": "This news may indirectly boost demand for reputable overseas universities among Indian and MENA students seeking credible alternatives to domestic institutions with questionable legitimacy, though actual enrolment shifts depend on awareness, affordability, and visa policy responses.  \nAdmissions teams should monitor queries about degree recognition and accreditation from these regions, and consider reinforcing messaging around official recognition status and post-study outcomes in outreach materials.",
+      "impact": "Low",
+      "sources": [
+        "India",
+        "MENA"
+      ],
+      "dests": [],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 5,
+      "title": "Vietnamese students denied Taiwan visas as graduation paperwork rules change",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/education/vietnamese-students-denied-taiwan-visas-as-graduation-paperwork-rules-change-5105712.html",
+      "pubDate": "2026-08-06",
+      "summary": "Vietnamese students planning to study in Taiwan are facing visa denials because Taipei’s representative offices now require full high school diplomas for student visa applications. This policy change has put some students at risk of missing their university enrollment dates.",
+      "insight": "This development may indirectly signal shifting demand from Vietnamese students toward alternative destinations like the US, UK, Australia, and New Zealand if Taiwan’s stricter diploma requirements persist—though direct impact on enrolment volumes remains uncertain without data on student redirection intent or scale.  \nAdmissions teams should monitor Vietnamese application trends over the next 1–2 cycles and assess whether counselling partners report increased inquiries about English-speaking destinations amid growing visa complexity in East Asia.",
+      "impact": "Low",
+      "sources": [
+        "Southeast Asia"
+      ],
+      "dests": [],
       "translated": false,
       "origLang": null,
       "relevanceScore": 8,
