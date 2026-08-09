@@ -1,21 +1,21 @@
 {
-  "updated": "2026-08-08T02:48:17Z",
+  "updated": "2026-08-09T02:55:56Z",
   "count": 5,
-  "totalFetched": 190,
+  "totalFetched": 186,
   "articles": [
     {
       "id": 1,
-      "title": "Report: US considering a $100,000 fee for Optional Practical Training",
+      "title": "Australia poised to further restrict immigration in bid to drive down net migration figures",
       "source": "ICEF Monitor",
       "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/08/report-us-considering-a-100000-fee-for-optional-practical-training/",
-      "pubDate": "2026-08-06",
-      "summary": "The Trump administration is reportedly considering imposing a $100,000 fee on international students seeking Optional Practical Training (OPT) authorization to work in the United States after graduating from an American university. This potential policy change was reported by The Wall Street Journal, citing sources familiar with the matter.",
-      "insight": "This reported proposal signals heightened regulatory risk for US-bound international students, potentially dampening demand—especially among cost-sensitive applicants from Asia and Latin America—though its actual implementation remains uncertain and subject to legal and political hurdles.  \nAdmissions teams should track official USCIS updates and consult immigration counsel while benchmarking competitor messaging on post-study work pathways, particularly in markets where OPT has historically influenced destination choice.",
-      "impact": "Low",
+      "url": "https://monitor.icef.com/2026/08/australia-poised-to-further-restrict-immigration-in-bid-to-drive-down-net-migration-figures/",
+      "pubDate": "2026-08-05",
+      "summary": "Australia’s national government faces growing pressure to restrict immigration amid rising public concern, with 55% of Australians surveyed in the Lowy Institute Poll released on 22 June 2026 stating that annual migrant intake is too high—the highest level recorded to date. The government is reportedly poised to implement further restrictions aimed at reducing net migration figures.",
+      "insight": "This news signals potential tightening of Australia’s student visa settings and broader immigration policy, which may dampen its appeal to international students—particularly those seeking post-study work or residency pathways—though direct impacts on enrolment demand remain uncertain amid strong academic reputation and regional competition.  \nAdmissions teams should monitor upcoming Australian government announcements on student visa caps, work rights, and Genuine Temporary Entrant requirements, while benchmarking shifts in application volumes from key source markets like India and China against concurrent policy changes in the UK, Canada, and New Zealand.",
+      "impact": "High",
       "sources": [],
       "dests": [
-        "USA"
+        "Australia"
       ],
       "translated": false,
       "origLang": null,
@@ -24,17 +24,17 @@
     },
     {
       "id": 2,
-      "title": "US universities sell opportunity. A $100k OPT fee could change the product",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/100k-opt-fee-could-change-the-product/",
-      "pubDate": "2026-08-06",
-      "summary": "The Trump administration is considering imposing a $100,000 fee for Optional Practical Training (OPT), a program that allows international students to work in the U.S. after graduation. Richard T. Herman warns that this proposed fee poses a serious risk to U.S. international education.",
-      "insight": "This proposed $100,000 OPT fee—though unconfirmed and subject to regulatory hurdles—could dampen U.S. appeal for international students weighing post-study work value, especially from cost-sensitive markets, potentially shifting demand toward countries with more predictable or affordable pathways.  \nAdmissions teams should track official USCIS updates, consult agents on early sentiment shifts in key source regions like India and China, and benchmark competitor messaging around career outcomes—not as an immediate trigger, but as part of ongoing risk-informed recruitment planning.",
-      "impact": "Low",
+      "title": "Canadian immigration officials increase their scrutiny of study permit applicants’ financial documentation",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/07/canadian-immigration-officials-increase-their-scrutiny-of-study-permit-applicants-financial-documentation/",
+      "pubDate": "2026-07-30",
+      "summary": "New analyses of study permit applications and refusal data reveal a strong correlation between an applicant’s ability to demonstrate adequate and stable finances and their likelihood of approval for studying at a Canadian higher education institution. This finding coincides with increased scrutiny by Canadian immigration officials of financial documentation submitted by study permit applicants.",
+      "insight": "This news may indirectly signal shifting demand patterns, as heightened financial scrutiny in Canada could make its study permits comparatively harder to obtain—potentially increasing interest in alternative destinations like the US, UK, Australia, and New Zealand, though actual enrolment shifts depend on broader economic and policy factors.  \nAdmissions teams should monitor application volume and visa refusal trends from key Canadian source markets (e.g., India, Nigeria, Philippines), while reviewing whether their own financial documentation guidance aligns with evolving global expectations for transparency and stability.",
+      "impact": "Medium",
       "sources": [],
       "dests": [
-        "USA"
+        "Canada"
       ],
       "translated": false,
       "origLang": null,
@@ -43,20 +43,18 @@
     },
     {
       "id": 3,
-      "title": "Nobel-winning chemist criticizes visa curbs as he relocates from US to China",
-      "source": "VnExpress (EN)",
-      "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/education/nobel-winning-chemist-criticizes-visa-curbs-as-he-relocates-from-us-to-china-5105887.html",
-      "pubDate": "2026-08-06",
-      "summary": "Nobel Prize-winning chemist Omar Yaghi has criticized increasingly restrictive visa policies in the United States and other Western countries. He cited these policies as undermining international scientific collaboration and is relocating from the US to China.",
-      "insight": "This high-profile relocation signals potential reputational risk for Western countries’ academic openness, possibly influencing prospective students’ perceptions of visa accessibility and research climate—though direct impact on enrolment decisions remains uncertain and likely mediated by broader geopolitical and economic factors.  \nAdmissions teams should monitor sentiment shifts in key source markets—especially China—through student surveys and agent feedback, and assess whether visa processing delays or policy rhetoric are increasingly cited as deterrents during application counselling.",
+      "title": "HKDSE exam takers in mainland China face 220% jump in registration fee to HK$8,000",
+      "source": "SCMP (Education)",
+      "color": "#7b241c",
+      "url": "https://www.scmp.com/news/hong-kong/education/article/3362519/candidates-taking-dse-exams-mainland-face-220-entry-fee-jump-hk8000?utm_source=rss_feed",
+      "pubDate": "2026-07-31",
+      "summary": "Students taking the HKDSE exam in mainland China next year will pay a registration fee of HK$8,000, representing a 220% increase from the current HK$2,500 following the end of a pilot scheme. Local Hong Kong students will face a 4% fee increase per subject, with charges ranging from HK$540 to HK$808.",
+      "insight": "The sharp fee hike for HKDSE exams in mainland China may signal growing financial and logistical barriers for students seeking Hong Kong-based qualifications, potentially redirecting some toward alternative international pathways—but direct impact on demand for US/UK/AU/NZ universities remains uncertain without evidence of broader policy shifts.  \nAdmissions teams should monitor application trends from mainland China over the next 12–18 months, particularly for students previously targeting HKDSE as a gateway, while reviewing scholarship eligibility criteria to assess whether enhanced financial support could address emerging cost sensitivities.",
       "impact": "Low",
       "sources": [
         "China"
       ],
-      "dests": [
-        "USA"
-      ],
+      "dests": [],
       "translated": false,
       "origLang": null,
       "relevanceScore": 8,
@@ -64,13 +62,13 @@
     },
     {
       "id": 4,
-      "title": "London’s Bloomsbury Institute loses licence to sponsor international students",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/londons-bloomsbury-institute-loses-licence-to-sponsor-international-students/",
-      "pubDate": "2026-08-07",
-      "summary": "The Bloomsbury Institute in London has had its licence to sponsor international students revoked by the UK Home Office. This decision follows the institute’s failure to meet the Basic Compliance Assessment requirements.",
-      "insight": "This revocation signals heightened UK regulatory scrutiny of smaller private providers, potentially reinforcing perceptions among international students—especially from risk-averse markets—that institutional reputation and compliance robustness are critical when choosing destinations. It may indirectly influence demand shifts toward more established universities, though broader trends depend on how widely similar enforcement actions spread.  \nAdmissions teams should monitor UK Home Office updates on sponsor licence suspensions and track student sentiment surveys in key source markets for signs of growing concern about visa reliability or institutional credibility, while reviewing their own compliance documentation readiness.",
+      "title": "UK gets first 'super-university' as Kent and Greenwich merge into higher education giant",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/education/uk-gets-first-super-university-as-kent-and-greenwich-merge-into-higher-education-giant-5106021.html",
+      "pubDate": "2026-08-06",
+      "summary": "The Universities of Kent and Greenwich have merged to form the UK’s first “super-university,” a move aimed at improving long-term financial resilience amid widespread financial pressure on UK higher education institutions. Several UK universities are currently under financial strain, with some facing insolvency risks.",
+      "insight": "The merger signals growing institutional consolidation in the UK amid financial pressures, which may indirectly influence international student perceptions of stability and value—though direct impacts on demand or visa policy remain unproven and likely lagged.  \nAdmissions teams should monitor how merged institutions reposition their global branding, fee structures, and support services for international students, while tracking whether similar mergers emerge in other English-speaking countries as a potential indicator of sector-wide strategic shifts.",
       "impact": "Low",
       "sources": [],
       "dests": [
@@ -83,21 +81,18 @@
     },
     {
       "id": 5,
-      "title": "US student visas plunge 62% for Indians, only 34% for Chinese in 2025",
-      "source": "Times of India (Edu)",
-      "color": "#d4820a",
-      "url": "https://timesofindia.indiatimes.com/education/news/us-student-visas-plunge-62-for-indians-only-34-for-chinese/articleshow/133027783.cms",
-      "pubDate": "2026-08-07",
-      "summary": "In 2025, US student visa issuances to Indian nationals fell by 62 percent, while those to Chinese nationals declined by 34 percent. A think tank’s analysis recommends overhauling the Optional Practical Training (OPT) program, which many Indian graduates rely on for temporary US employment.",
-      "insight": "The sharp decline in US student visas for Indian nationals—far exceeding China’s drop—may reflect tightening US immigration policies, growing concerns over post-study work access, or shifting preferences toward alternative destinations, though it remains unclear how much this signals broader demand erosion versus temporary policy-driven disruption.  \nAdmissions teams should track real-time application trends from India and China, assess how OPT uncertainty affects yield rates, and review messaging around career pathways—particularly for STEM fields—while avoiding premature assumptions about long-term market shifts.",
+      "title": "Vietnamese students denied Taiwan visas as graduation paperwork rules change",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/education/vietnamese-students-denied-taiwan-visas-as-graduation-paperwork-rules-change-5105712.html",
+      "pubDate": "2026-08-06",
+      "summary": "Vietnamese students planning to study in Taiwan are facing delays in obtaining student visas because Taipei’s representative offices now require full high school diplomas as part of the application process. This policy change has put some students at risk of missing their university enrollment deadlines.",
+      "insight": "This news may signal heightened sensitivity among Vietnamese students to visa processing reliability and documentation complexity, potentially increasing demand for alternative destinations like the US, UK, Australia, or New Zealand—though direct causal links to enrolment shifts remain unconfirmed.  \nAdmissions teams should monitor Vietnamese application volumes and visa refusal/delay patterns over the next 1–2 intake cycles, and consider reinforcing pre-application document guidance and partner agent training on credential verification requirements.",
       "impact": "Low",
       "sources": [
-        "China",
-        "India"
+        "Southeast Asia"
       ],
-      "dests": [
-        "USA"
-      ],
+      "dests": [],
       "translated": false,
       "origLang": null,
       "relevanceScore": 8,
