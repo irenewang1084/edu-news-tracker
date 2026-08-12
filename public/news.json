@@ -1,21 +1,21 @@
 {
-  "updated": "2026-08-11T02:57:04Z",
-  "count": 3,
-  "totalFetched": 184,
+  "updated": "2026-08-12T03:17:30Z",
+  "count": 9,
+  "totalFetched": 177,
   "articles": [
     {
       "id": 1,
-      "title": "Australia poised to further restrict immigration in bid to drive down net migration figures",
+      "title": "Visa delays and policy uncertainty projected to reduce foreign enrolment in the US by more than 100,000 students this fall",
       "source": "ICEF Monitor",
       "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/08/australia-poised-to-further-restrict-immigration-in-bid-to-drive-down-net-migration-figures/",
-      "pubDate": "2026-08-05",
-      "summary": "Australia’s national government is facing pressure to further restrict immigration amid rising public concern, with 55% of Australians surveyed in the Lowy Institute Poll released on 22 June 2026 stating that annual migrant intake is too high—the highest level of concern recorded to date. The government aims to reduce net migration figures in response to this sentiment.",
-      "insight": "This news signals potential tightening of Australia’s broader immigration settings, which may indirectly affect international student perceptions of post-study work prospects and long-term settlement pathways—though current student visa policies remain unchanged and demand drivers like education quality persist.  \nAdmissions teams should monitor Australian government announcements on skilled migration thresholds, PR pathway adjustments, and state-level nomination criteria, as shifts could influence source market sentiment and comparative destination attractiveness over the medium term.",
-      "impact": "High",
+      "url": "https://monitor.icef.com/2026/08/visa-delays-and-policy-uncertainty-projected-to-reduce-foreign-enrolment-in-the-us-by-more-than-100000-students-this-fall/",
+      "pubDate": "2026-08-11",
+      "summary": "A new analysis by NAFSA and JB International projects that visa processing delays and upcoming policy changes will reduce international student enrollment in the United States by more than 100,000 students this fall. The projection is based on institutional responses collected in IIE’s Spring 2026 Snapshot on International Educational Exchange.",
+      "insight": "This projection signals potential demand softening in the US market due to administrative friction and policy ambiguity, which may shift student preferences toward countries with more predictable visa pathways—though actual enrolment impacts depend on how quickly alternative destinations scale capacity and marketing.  \nAdmissions teams should track real-time application and deposit trends from key source markets, assess competitor messaging around visa support and post-study work rights, and review internal processing timelines to ensure responsiveness amid evolving global mobility expectations.",
+      "impact": "Medium",
       "sources": [],
       "dests": [
-        "Australia"
+        "USA"
       ],
       "translated": false,
       "origLang": null,
@@ -24,15 +24,36 @@
     },
     {
       "id": 2,
-      "title": "Canadian immigration officials increase their scrutiny of study permit applicants’ financial documentation",
+      "title": "Report: US considering a $100,000 fee for Optional Practical Training",
       "source": "ICEF Monitor",
       "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/07/canadian-immigration-officials-increase-their-scrutiny-of-study-permit-applicants-financial-documentation/",
-      "pubDate": "2026-07-30",
-      "summary": "New analyses of study permit applications and refusal data reveal a strong correlation between an applicant’s ability to demonstrate adequate and stable finances and their likelihood of approval for studying at a Canadian higher education institution. Canadian immigration officials are consequently increasing their scrutiny of financial documentation submitted by study permit applicants.",
-      "insight": "This news signals potential shifts in student demand from markets where Canadian study permits are a common backup or alternative pathway, as heightened financial scrutiny may deter applicants with borderline documentation—though direct spillover to other destinations remains uncertain without evidence of broader policy contagion.  \nAdmissions teams should monitor application volume and yield trends from key overlapping source countries (e.g., India, Nigeria, Philippines), especially among students previously targeting Canada, while reviewing whether their own financial guidance and verification processes align with evolving global expectations around funding transparency.",
-      "impact": "Medium",
+      "url": "https://monitor.icef.com/2026/08/report-us-considering-a-100000-fee-for-optional-practical-training/",
+      "pubDate": "2026-08-06",
+      "summary": "The Wall Street Journal reported that the Trump administration is considering imposing a $100,000 fee on international students seeking Optional Practical Training (OPT) authorization to work in the U.S. after graduating from an American university. This potential policy change was described as being under consideration by people familiar with the matter, according to the WSJ.",
+      "insight": "This proposed $100,000 OPT fee—though unconfirmed and potentially subject to legal or political hurdles—could dampen U.S. appeal for international students weighing post-study work value, especially among cost-sensitive markets in India, Nigeria, and Southeast Asia, thereby indirectly affecting relative demand for U.S. degrees versus alternatives.  \nAdmissions teams should track official USCIS guidance, stakeholder reactions from universities and industry groups, and early shifts in application volumes or yield rates from key source countries—noting that policy implementation remains uncertain and may evolve significantly before any final rule is issued.",
+      "impact": "Low",
       "sources": [],
+      "dests": [
+        "USA"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 3,
+      "title": "AICTE-Mitacs GRI 2027: Indian students can now apply for fully funded Canada research internship",
+      "source": "Times of India (Edu)",
+      "color": "#d4820a",
+      "url": "https://timesofindia.indiatimes.com/education/news/aicte-mitacs-gri-2027-indian-students-can-now-apply-for-fully-funded-canada-research-internship/articleshow/133149585.cms",
+      "pubDate": "2026-08-11",
+      "summary": "The AICTE-Mitacs Globalink Research Internship 2027 is a fully funded 12-week research programme for eligible Indian undergraduate students, to be hosted at participating Canadian universities between May and October 2027. Applications are open until September 16, 2026, and up to 300 students will be selected annually.",
+      "insight": "This initiative signals growing Indian student interest in high-quality, research-focused international experiences—potentially intensifying competition for top STEM talent, though its direct impact on US/UK/AU/NZ enrolments remains uncertain given differing programme structures and durations.  \nAdmissions teams should track uptake and participant feedback from the AICTE-Mitacs GRI 2027 cohort, as well as any subsequent expansion or replication of such bilateral, fully funded models, to inform scholarship strategy and outreach timing.",
+      "impact": "Low",
+      "sources": [
+        "India"
+      ],
       "dests": [
         "Canada"
       ],
@@ -42,14 +63,111 @@
       "insightSource": "qwen"
     },
     {
-      "id": 3,
-      "title": "HKDSE exam takers in mainland China face 220% jump in registration fee to HK$8,000",
-      "source": "SCMP (Education)",
-      "color": "#7b241c",
-      "url": "https://www.scmp.com/news/hong-kong/education/article/3362519/candidates-taking-dse-exams-mainland-face-220-entry-fee-jump-hk8000?utm_source=rss_feed",
-      "pubDate": "2026-07-31",
-      "summary": "Students taking the Hong Kong Diploma of Secondary Education (HKDSE) exam in mainland China next year will pay a registration fee of HK$8,000, representing a 220% increase from the current HK$2,500 following the end of a pilot scheme. Meanwhile, local Hong Kong students will face a 4% fee increase per subject, with charges ranging from HK$540 to HK$808.",
-      "insight": "The sharp fee hike for HKDSE exams in mainland China may signal growing financial and logistical barriers for students seeking Hong Kong qualifications, potentially redirecting some toward alternative pathways—including undergraduate admissions in English-speaking countries—though demand shifts will depend on broader education policy and economic factors.  \nAdmissions teams should track application volume and demographic patterns from mainland China over the next 12–18 months, particularly among academically strong students previously targeting HKDSE, while reviewing scholarship eligibility criteria to ensure competitiveness amid evolving cost sensitivities.",
+      "id": 4,
+      "title": "U.K. government pauses Chevening Fellowships for a year over likely budget cuts",
+      "source": "The Hindu (Edu)",
+      "color": "#145a32",
+      "url": "https://www.thehindu.com/education/uk-government-pauses-chevening-fellowships-for-a-year-over-likely-budget-cuts/article71333218.ece",
+      "pubDate": "2026-08-11",
+      "summary": "The U.K. government has paused Chevening Fellowships for one year due to anticipated budget cuts. This suspension affects specific fellowship programmes—including the CRISP programme for science and innovation, the cybersecurity fellowship, and the South Asia Journalism Programme—while Chevening Scholarships remain open for applications.",
+      "insight": "The pause in Chevening Fellowships—particularly those targeting South Asian professionals in science, cybersecurity, and journalism—may modestly increase demand for alternative postgraduate pathways in the UK and competing destinations, though broader student recruitment trends remain influenced more by visa policy, cost-of-living, and labour market outcomes than this targeted suspension.  \nAdmissions teams should monitor application volumes from South Asia for taught master’s and professional programmes, track any shifts in competitor messaging around fellowship alternatives, and assess whether partner institutions or governments launch compensatory funding initiatives in response to the Chevening gap.",
+      "impact": "Low",
+      "sources": [
+        "South Asia"
+      ],
+      "dests": [],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 5,
+      "title": "The first foreign university to open a branch in Vietnam",
+      "source": "VnExpress (Giáo dục)",
+      "color": "#b94500",
+      "url": "https://vnexpress.net/rmit-duoc-cap-phep-thanh-lap-phan-hieu-dai-hoc-nuoc-ngoai-dau-tien-o-viet-nam-5107814.html",
+      "pubDate": "2026-08-11",
+      "summary": "RMIT Saigon South is the first foreign university branch to open in Vietnam. It plans to expand its facilities and training programs.",
+      "insight": "RMIT Saigon South’s expansion signals growing Vietnamese institutional capacity and regional confidence in higher education quality, potentially moderating outbound demand—but it’s unclear whether this will meaningfully reduce student flows to Anglophone destinations or merely shift preferences toward hybrid pathways.  \nAdmissions teams should track Vietnamese student application trends by cohort and destination, while assessing whether RMIT’s growth correlates with changes in scholarship uptake, visa refusal rates, or interest in dual-degree partnerships with Western universities.",
+      "impact": "Low",
+      "sources": [
+        "Southeast Asia"
+      ],
+      "dests": [],
+      "translated": true,
+      "origLang": "vi",
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 6,
+      "title": "Which are the best cities in Southeast Asia for international students?",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/brainteaser/which-are-the-best-cities-in-southeast-asia-for-international-students-5106704.html",
+      "pubDate": "2026-08-11",
+      "summary": "Several Southeast Asian cities have become increasingly attractive destinations for international students due to their world-class universities, affordable living costs, and vibrant multicultural communities. These factors collectively enhance the appeal of the region for higher education.",
+      "insight": "This news signals growing regional competition for Southeast Asian students, as improved local education infrastructure and affordability may moderate outbound demand—though actual enrolment shifts depend on factors like degree recognition and post-study work rights in destination countries.  \nAdmissions teams should track enrolment trends from ASEAN nations, assess partnerships with regional universities, and review messaging around value proposition—particularly cost, career outcomes, and cultural integration—relative to emerging Southeast Asian alternatives.",
+      "impact": "Low",
+      "sources": [
+        "Southeast Asia"
+      ],
+      "dests": [],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 7,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 7,
+      "title": "Changing landscape for student recruitment in India calls for new strategies",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/07/changing-landscape-for-student-recruitment-in-india-calls-for-new-strategies/",
+      "pubDate": "2026-07-30",
+      "summary": "India remains the most important student source market by volume and demand for universities focused on international student enrolment. Although Indian students studying abroad declined by 5.5% in 2025, there are still 1.2 million Indians enrolled in foreign universities.",
+      "insight": "While the 5.5% decline in Indian students studying abroad in 2025 may reflect short-term economic or policy shifts, it doesn’t yet signal a structural downturn—India remains the largest source market by volume, with 1.2 million students still overseas, suggesting resilience amid evolving preferences.  \nAdmissions teams should track regional application trends, visa processing timelines, and scholarship uptake in key Indian states, while reviewing messaging around ROI, post-study work pathways, and institutional partnerships to align with shifting student priorities.",
+      "impact": "High",
+      "sources": [
+        "India"
+      ],
+      "dests": [],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 6,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 8,
+      "title": "Party General Secretary, State President To Lam begins state visit to Australia",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/politics/party-general-secretary-state-president-to-lam-begins-state-visit-to-australia-5107207.html",
+      "pubDate": "2026-08-10",
+      "summary": "Vietnam’s Party General Secretary and State President To Lam arrived at Sydney Kingsford Smith Airport on Sunday evening local time to begin a four-day state visit to Australia. The visit was conducted at the invitation of Australian Governor-General Sam Mostyn.",
+      "insight": "This high-level diplomatic visit signals strengthening Vietnam–Australia ties, potentially boosting student mobility through enhanced bilateral cooperation, though direct impacts on enrolment demand or visa policy remain uncertain without follow-up agreements or funding announcements.  \n\nAdmissions teams should monitor upcoming MOUs on education, scholarship expansions, or streamlined visa pathways—particularly for postgraduate and research students—as these may emerge in the coming months and influence application trends from Vietnam.",
+      "impact": "Low",
+      "sources": [
+        "Southeast Asia"
+      ],
+      "dests": [
+        "Australia"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 6,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 9,
+      "title": "China’s Study Abroad Boom Finds a New Generation: Retirees",
+      "source": "Sixth Tone",
+      "color": "#922b21",
+      "url": "https://www.sixthtone.com/news/1018818/China’s Study Abroad Boom Finds a New Generation: Retirees",
+      "pubDate": "2026-08-12",
+      "summary": "A growing number of retired Chinese citizens are enrolling in overseas study programs after decades of work and family responsibilities. However, many encounter challenges because these educational programs are primarily designed for younger students.",
+      "insight": "This trend signals a potential, albeit nascent, expansion of the traditional international student demographic in key English-speaking destinations, though its scale and sustainability remain uncertain given retirees’ distinct motivations, financial profiles, and lower enrollment elasticity compared to younger cohorts.  \nAdmissions teams should monitor enrolment data for short-term language, cultural immersion, or non-credit programs among older Chinese applicants—and assess whether existing support services, visa pathways, and marketing channels inadvertently exclude or underserve this emerging segment.",
       "impact": "Low",
       "sources": [
         "China"
@@ -57,7 +175,7 @@
       "dests": [],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 8,
+      "relevanceScore": 6,
       "insightSource": "qwen"
     }
   ]
