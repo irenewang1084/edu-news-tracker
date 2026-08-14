@@ -1,21 +1,21 @@
 {
-  "updated": "2026-08-13T03:20:42Z",
-  "count": 4,
-  "totalFetched": 178,
+  "updated": "2026-08-14T03:18:48Z",
+  "count": 6,
+  "totalFetched": 184,
   "articles": [
     {
       "id": 1,
-      "title": "Canada’s language training sector in “state of crisis” after further enrolment declines in 2025",
+      "title": "Visa delays and policy uncertainty projected to reduce foreign enrolment in the US by more than 100,000 students this fall",
       "source": "ICEF Monitor",
       "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/08/canadas-language-training-sector-in-state-of-crisis-after-further-enrolment-declines-in-2025/",
-      "pubDate": "2026-08-12",
-      "summary": "Languages Canada’s 2025 Annual Survey Report states that the country’s language training sector is in a “state of crisis” due to further enrolment declines in 2025. The report is based on responses from over 150 Canadian English and French language programmes that participated in both the 2024 and 2025 surveys.",
-      "insight": "Canada’s language training sector crisis may reflect broader shifts in international student preferences, potentially indicating reduced interest in Canada as a study destination due to visa processing delays, cost-of-living pressures, or evolving perceptions of post-study work opportunities—though direct spillover to other countries remains uncertain without corroborating data from source markets.  \nAdmissions teams should monitor application trends from key Canadian feeder countries (e.g., India, Nigeria, Philippines), track comparative visa approval rates and processing times, and assess whether language test waivers or pathway partnerships need refinement to remain competitive amid changing enrolment patterns elsewhere.",
-      "impact": "High",
+      "url": "https://monitor.icef.com/2026/08/visa-delays-and-policy-uncertainty-projected-to-reduce-foreign-enrolment-in-the-us-by-more-than-100000-students-this-fall/",
+      "pubDate": "2026-08-11",
+      "summary": "A new analysis by NAFSA and JB International projects that visa processing delays and upcoming policy changes will reduce international student enrolment in the United States by more than 100,000 students this fall. The projection is based on institutional responses collected in IIE’s Spring 2026 Snapshot on International Educational Exchange.",
+      "insight": "This news signals potential softening in US demand for international students, driven by documented visa delays and policy uncertainty—though it remains unclear whether this reflects broader global sentiment shifts or is largely US-specific due to its unique immigration challenges.  \nAdmissions teams should monitor real-time application trends from key source markets, track competitor institutions’ enrolment data, and assess whether prospective students are expressing heightened concerns about visa timelines or post-study work prospects in their outreach and counselling interactions.",
+      "impact": "Medium",
       "sources": [],
       "dests": [
-        "Canada"
+        "USA"
       ],
       "translated": false,
       "origLang": null,
@@ -24,17 +24,17 @@
     },
     {
       "id": 2,
-      "title": "UK Home Office revokes Bloomsbury Institute’s student sponsor license",
+      "title": "Report: US considering a $100,000 fee for Optional Practical Training",
       "source": "ICEF Monitor",
       "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/08/uk-home-office-revokes-bloomsbury-institutes-student-sponsor-license/",
-      "pubDate": "2026-08-12",
-      "summary": "The UK Home Office has revoked Bloomsbury Institute’s student sponsor license, the most serious sanction available for licensed sponsors. This action means the institute can no longer sponsor international students to study in the UK.",
-      "insight": "This revocation signals heightened UK regulatory scrutiny of student sponsors, potentially amplifying perceptions of visa risk among international applicants—though direct impact on overall demand remains uncertain without evidence of broader enforcement trends or shifts in source market sentiment.  \nAdmissions teams should monitor UK Home Office announcements and agent feedback for emerging concerns about compliance burdens or processing delays, while reviewing their own sponsorship practices and contingency plans for students considering multiple English-speaking destinations.",
-      "impact": "High",
+      "url": "https://monitor.icef.com/2026/08/report-us-considering-a-100000-fee-for-optional-practical-training/",
+      "pubDate": "2026-08-06",
+      "summary": "The Wall Street Journal reported that the Trump administration is considering imposing a $100,000 fee on international students seeking Optional Practical Training (OPT) authorization to work in the U.S. after graduating from an American university. This potential policy change was disclosed by people familiar with the matter and was first published by ICEF Monitor.",
+      "insight": "This proposed $100,000 OPT fee—though unconfirmed and potentially subject to legal or political reversal—could dampen U.S. appeal for international students weighing post-study work value, especially among cost-sensitive markets in Asia and Latin America, thereby indirectly intensifying competition for talent elsewhere.  \nAdmissions teams should track official USCIS/ICE guidance and consult legal partners on OPT policy trajectories, while benchmarking how peer institutions in the UK, Australia, and New Zealand are positioning their post-study work offerings relative to evolving U.S. uncertainty.",
+      "impact": "Low",
       "sources": [],
       "dests": [
-        "UK"
+        "USA"
       ],
       "translated": false,
       "origLang": null,
@@ -43,16 +43,16 @@
     },
     {
       "id": 3,
-      "title": "HKDSE exam takers in mainland China face 220% jump in registration fee to HK$8,000",
-      "source": "SCMP (Education)",
-      "color": "#7b241c",
-      "url": "https://www.scmp.com/news/hong-kong/education/article/3362519/candidates-taking-dse-exams-mainland-face-220-entry-fee-jump-hk8000?utm_source=rss_feed",
-      "pubDate": "2026-07-31",
-      "summary": "Students taking the HKDSE exam in mainland China next year will pay a registration fee of HK$8,000, representing a 220% increase from the current HK$2,500 following the end of a pilot scheme. Meanwhile, local Hong Kong students will face a 4% fee increase per subject, with charges ranging from HK$540 to HK$808.",
-      "insight": "The sharp fee hike for HKDSE exams in mainland China may signal growing financial and logistical barriers for students seeking Hong Kong qualifications, potentially redirecting some toward alternative pathways—including undergraduate admissions in English-speaking countries—though demand shifts will depend on broader economic and policy trends.  \nAdmissions teams should track application volume and yield patterns from mainland China over the next 12–18 months, particularly among academically strong students previously targeting Hong Kong universities, while reviewing scholarship eligibility criteria to remain competitive amid rising education costs.",
+      "title": "RMIT Vietnam secures approval for new Hanoi campus and Saigon South expansion",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/rmit-vietnam-secures-approval-for-new-hanoi-campus-and-saigon-south-expansion/",
+      "pubDate": "2026-08-11",
+      "summary": "RMIT University has received approval from the Vietnamese government to establish a new campus in Hanoi. It has also secured approval to redevelop its existing Saigon South campus in Ho Chi Minh City.",
+      "insight": "RMIT Vietnam’s campus expansion signals growing institutional confidence in Vietnam’s higher education market, potentially reflecting stronger domestic demand and indirect pressure on regional recruitment as Southeast Asian students weigh increasingly competitive local options alongside traditional Anglophone destinations.  \n\nAdmissions teams should monitor Vietnamese student enrolment trends across their institutions, track RMIT Vietnam’s programme offerings and fee structures, and assess whether this development correlates with shifts in outbound mobility patterns or scholarship uptake from key Southeast Asian source regions.",
       "impact": "Low",
       "sources": [
-        "China"
+        "Southeast Asia"
       ],
       "dests": [],
       "translated": false,
@@ -62,20 +62,56 @@
     },
     {
       "id": 4,
-      "title": "Australian university wins Vietnam's first foreign branch campus license",
+      "title": "U.K. government pauses Chevening Fellowships for a year over likely budget cuts",
+      "source": "The Hindu (Edu)",
+      "color": "#145a32",
+      "url": "https://www.thehindu.com/education/uk-government-pauses-chevening-fellowships-for-a-year-over-likely-budget-cuts/article71333218.ece",
+      "pubDate": "2026-08-11",
+      "summary": "The U.K. government has paused Chevening Fellowships for one year due to anticipated budget cuts. This pause affects the CRISP programme for science and innovation, the cybersecurity fellowship, and the South Asia Journalism Programme, while Chevening Scholarships remain open.",
+      "insight": "The pause in Chevening Fellowships—particularly the South Asia Journalism Programme—may modestly reduce short-term demand for UK-based professional development opportunities, though broader undergraduate and postgraduate student flows remain unaffected and Chevening Scholarships continue as usual.  \nAdmissions teams should monitor whether partner institutions in South Asia report shifts in applicant interest toward alternative destinations or programmes, and assess if their outreach can strategically highlight complementary funded opportunities amid evolving UK government priorities.",
+      "impact": "Low",
+      "sources": [
+        "South Asia"
+      ],
+      "dests": [],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 5,
+      "title": "Nearly 31% fewer Indians are moving abroad to study: What is making students lose appetite for overseas education?",
+      "source": "Times of India (Edu)",
+      "color": "#d4820a",
+      "url": "https://timesofindia.indiatimes.com/education/news/fewer-indian-students-are-moving-abroad-to-study-what-is-making-them-lose-their-appetite-for-overseas-education/articleshow/133207965.cms",
+      "pubDate": "2026-08-13",
+      "summary": "Overseas student departures from India have declined for two consecutive years after peaking in 2023, with nearly 31% fewer Indian students moving abroad to study. This drop is attributed to rising education costs, tighter visa regulations, uncertain job prospects, and evolving immigration policies.",
+      "insight": "This decline signals potential softening in Indian student demand for overseas study, likely driven by cost and immigration concerns—but it remains unclear whether this reflects a structural shift or temporary headwinds amid broader global mobility trends.  \nAdmissions teams should track quarterly visa issuance data, scholarship uptake rates, and competitor pricing strategies in India, while reviewing value propositions around post-study work pathways and affordability to gauge resilience in this key source market.",
+      "impact": "Low",
+      "sources": [
+        "India"
+      ],
+      "dests": [],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 6,
+      "title": "Thailand steps up crackdown on foreigners engaged in illegal business activities",
       "source": "VnExpress (EN)",
       "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/education/australian-university-wins-vietnam-s-first-foreign-branch-campus-license-5108006.html",
-      "pubDate": "2026-08-12",
-      "summary": "RMIT Saigon South has been granted Vietnam’s first license for a foreign university branch campus. This authorization allows the institution to expand both its physical campus and its range of academic programs.",
-      "insight": "RMIT’s milestone signals growing Vietnamese regulatory openness to foreign higher education, potentially reflecting rising domestic demand for internationally accredited degrees—but it remains unclear whether this will meaningfully divert students from traditional Anglophone destinations or instead expand overall outbound mobility.  \nAdmissions teams should track Vietnamese student application trends to their institutions over the next 12–18 months, particularly in STEM and business fields, while noting how RMIT Saigon South’s program offerings, tuition levels, and graduate outcomes evolve relative to regional alternatives.",
+      "url": "https://e.vnexpress.net/news/news/thailand-steps-up-crackdown-on-foreigners-engaged-in-illegal-business-activities-5108592.html",
+      "pubDate": "2026-08-14",
+      "summary": "Thailand has intensified enforcement actions against illegal business networks and suspected nominee shareholding by conducting joint inspections of hotels and other establishments in Bangkok’s Huai Khwang District. The Government Public Relations Department reported this crackdown.",
+      "insight": "This news may indirectly affect student demand from Southeast Asia if perceptions of Thailand as a regional study or work destination shift due to stricter enforcement of business regulations, though no direct link to student visas or education policy is evident.  \nAdmissions teams should monitor Thai government communications on visa categories and consult local agents about any emerging concerns among prospective students regarding post-study work options or third-country residency plans.",
       "impact": "Low",
       "sources": [
         "Southeast Asia"
       ],
-      "dests": [
-        "Australia"
-      ],
+      "dests": [],
       "translated": false,
       "origLang": null,
       "relevanceScore": 8,
