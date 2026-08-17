@@ -1,21 +1,21 @@
 {
-  "updated": "2026-08-16T02:14:48Z",
-  "count": 4,
-  "totalFetched": 174,
+  "updated": "2026-08-17T02:12:13Z",
+  "count": 5,
+  "totalFetched": 169,
   "articles": [
     {
       "id": 1,
-      "title": "Visa delays and policy uncertainty projected to reduce foreign enrolment in the US by more than 100,000 students this fall",
+      "title": "Canada’s language training sector in “state of crisis” after further enrolment declines in 2025",
       "source": "ICEF Monitor",
       "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/08/visa-delays-and-policy-uncertainty-projected-to-reduce-foreign-enrolment-in-the-us-by-more-than-100000-students-this-fall/",
-      "pubDate": "2026-08-11",
-      "summary": "A new analysis by NAFSA and JB International projects that visa processing delays and upcoming policy changes will reduce international student enrolment in the United States by more than 100,000 students this fall. The projection is based on institutional responses collected in IIE’s Spring 2026 Snapshot on International Educational Exchange.",
-      "insight": "This news signals potential softening in US-bound demand amid growing visa processing bottlenecks and policy ambiguity, though it remains unclear how much reflects temporary administrative delays versus longer-term shifts in student preferences across key source markets.  \nAdmissions teams should monitor real-time application trends from top sending countries, track competitor messaging around visa support and processing timelines, and assess whether their own pre-enrolment services—especially visa guidance—need refinement to address rising applicant anxiety.",
-      "impact": "Medium",
+      "url": "https://monitor.icef.com/2026/08/canadas-language-training-sector-in-state-of-crisis-after-further-enrolment-declines-in-2025/",
+      "pubDate": "2026-08-12",
+      "summary": "Languages Canada’s 2025 Annual Survey Report states that the country’s language training sector is in a “state of crisis” due to further enrolment declines in 2025. The report is based on responses from over 150 Canadian English and French language programmes that participated in both the 2024 and 2025 surveys.",
+      "insight": "Canada’s language training sector crisis may reflect broader shifts in international student preferences, potentially indicating reduced interest in Canada as a study destination due to visa processing delays, cost-of-living pressures, or evolving perceptions of post-study work opportunities—though direct spillover to other countries remains uncertain and context-dependent.  \nAdmissions teams should monitor application trends from key Canadian feeder markets (e.g., India, Nigeria, Philippines), track comparative visa approval rates and processing times, and assess whether language test waiver policies or pathway partnerships need refinement in response to changing enrolment patterns elsewhere.",
+      "impact": "High",
       "sources": [],
       "dests": [
-        "USA"
+        "Canada"
       ],
       "translated": false,
       "origLang": null,
@@ -24,17 +24,17 @@
     },
     {
       "id": 2,
-      "title": "Report: US considering a $100,000 fee for Optional Practical Training",
+      "title": "UK Home Office revokes Bloomsbury Institute’s student sponsor licence",
       "source": "ICEF Monitor",
       "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/08/report-us-considering-a-100000-fee-for-optional-practical-training/",
-      "pubDate": "2026-08-06",
-      "summary": "The Trump administration is reportedly considering imposing a $100,000 fee on international students seeking Optional Practical Training (OPT) in the United States after graduating from American universities. This potential policy change was disclosed by The Wall Street Journal, citing sources familiar with the matter.",
-      "insight": "This proposed $100,000 OPT fee—though unconfirmed and potentially subject to legal or political hurdles—could dampen US appeal for international students weighing post-study work value, especially from price-sensitive markets like India and Nigeria, thereby indirectly reshaping regional demand patterns across English-speaking study destinations.  \nAdmissions teams should track official USCIS and DHS announcements closely, benchmark competitor messaging on post-study work pathways, and assess whether their institution’s career support services need enhanced emphasis in marketing to offset perceived US visa uncertainty.",
-      "impact": "Low",
+      "url": "https://monitor.icef.com/2026/08/uk-home-office-revokes-bloomsbury-institutes-student-sponsor-license/",
+      "pubDate": "2026-08-12",
+      "summary": "The UK Home Office has revoked Bloomsbury Institute’s student sponsor licence, the most serious sanction available against a licensed sponsor. This action means the institute can no longer sponsor international students to study in the UK.",
+      "insight": "This revocation signals heightened UK Home Office scrutiny of student sponsors, potentially amplifying perceptions among international applicants—especially from high-risk or visa-sensitive markets—that UK study pathways are becoming more complex or less reliable, though direct demand shifts remain unconfirmed.  \nAdmissions teams should monitor UK visa refusal trends, competitor messaging around compliance and support, and consult agents in key source countries to gauge whether this incident is influencing application decisions or prompting increased interest in alternative destinations.",
+      "impact": "High",
       "sources": [],
       "dests": [
-        "USA"
+        "UK"
       ],
       "translated": false,
       "origLang": null,
@@ -43,18 +43,18 @@
     },
     {
       "id": 3,
-      "title": "U.K. government pauses Chevening Fellowships for a year over likely budget cuts",
-      "source": "The Hindu (Edu)",
-      "color": "#145a32",
-      "url": "https://www.thehindu.com/education/uk-government-pauses-chevening-fellowships-for-a-year-over-likely-budget-cuts/article71333218.ece",
-      "pubDate": "2026-08-11",
-      "summary": "The U.K. government has paused Chevening Fellowships for one year due to anticipated budget cuts. This suspension affects specific fellowship programmes—including the CRISP programme for science and innovation, the cybersecurity fellowship, and the South Asia Journalism Programme—while Chevening Scholarships remain open for applications.",
-      "insight": "The pause in Chevening Fellowships—particularly those targeting South Asian professionals in science, cybersecurity, and journalism—may modestly increase demand for alternative postgraduate pathways in the UK and competing destinations, though broader student recruitment trends remain influenced more by visa policy, cost-of-living, and labour market outcomes than this targeted suspension.  \nAdmissions teams should monitor application volumes from South Asia for taught master’s and professional programmes, especially in STEM and media, while tracking whether UK Home Office announcements on post-study work or skilled worker visas follow this fiscal tightening, as those signals will carry greater weight for prospective students.",
-      "impact": "Low",
-      "sources": [
-        "South Asia"
+      "title": "New Zealand targets outcomes as international education demand accelerates",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/new-zealand-targets-outcomes-as-international-education-demand-accelerates/",
+      "pubDate": "2026-08-14",
+      "summary": "New Zealand’s international education sector is focusing on delivering measurable outcomes amid a surge in global demand. Public support for the sector remains strong, presenting a critical opportunity to demonstrate tangible results.",
+      "insight": "New Zealand’s emphasis on measurable outcomes reflects growing global pressure on international education to prove value—though direct implications for US, UK, or Australian recruitment remain uncertain, it may subtly influence student expectations around employability, ROI, and post-study pathways across English-speaking destinations.  \nAdmissions teams should monitor how NZ’s outcome-focused messaging resonates in shared source markets (e.g., India, China, Nigeria), particularly shifts in student inquiries about graduate outcomes, visa transparency, or institutional accountability—not as an immediate trigger, but as a signal of evolving decision-making criteria.",
+      "impact": "Medium",
+      "sources": [],
+      "dests": [
+        "New Zealand"
       ],
-      "dests": [],
       "translated": false,
       "origLang": null,
       "relevanceScore": 8,
@@ -62,13 +62,32 @@
     },
     {
       "id": 4,
-      "title": "Thailand steps up crackdown on foreigners engaged in illegal business activities",
+      "title": "Sudanese students to appeal after UK court upholds visa brake",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/sudanese-students-to-appeal-after-uk-court-upholds-visa-brake/",
+      "pubDate": "2026-08-13",
+      "summary": "Sudanese students holding full scholarships at Oxford, Cambridge, Imperial College London, and University College London are unable to begin their master’s courses in September due to the UK’s visa restrictions. Sudan Scholars UK announced they will appeal after a UK court upheld the government’s visa brake policy.",
+      "insight": "This case highlights growing geopolitical and policy risks for high-achieving students from conflict-affected regions, potentially dampening UK appeal and indirectly boosting demand for alternative destinations—though broader enrolment impacts remain uncertain pending appeal outcomes and policy evolution.  \nAdmissions teams should track visa policy shifts in key markets, assess sentiment among Sudanese and similar at-risk student cohorts, and review scholarship support structures—noting that proactive communication and flexible enrolment pathways may strengthen institutional resilience without immediate operational changes.",
+      "impact": "Low",
+      "sources": [],
+      "dests": [
+        "UK"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 5,
+      "title": "Indonesia plans separate visa for foreign content creators",
       "source": "VnExpress (EN)",
       "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/thailand-steps-up-crackdown-on-foreigners-engaged-in-illegal-business-activities-5108592.html",
+      "url": "https://e.vnexpress.net/news/news/indonesia-plans-separate-visa-for-foreign-content-creators-5108710.html",
       "pubDate": "2026-08-14",
-      "summary": "Thailand has intensified enforcement actions against illegal business networks and suspected nominee shareholding. Joint inspections were conducted in hotels and establishments in Bangkok’s Huai Khwang District, as reported by the Government Public Relations Department.",
-      "insight": "This news reflects Thailand’s broader regulatory tightening on foreign economic activity, which may indirectly influence regional student mobility patterns if perceived as signalling stricter immigration or residency enforcement—though direct impacts on enrolment demand remain uncertain without evidence of spillover effects on student visas.  \nAdmissions teams should monitor Thai government announcements on visa policy updates and track whether regional sentiment shifts among Southeast Asian students, particularly regarding perceptions of Thailand as a study destination or transit hub, while continuing to prioritise established recruitment channels.",
+      "summary": "Indonesia is introducing a new visa category specifically for foreign content creators. This initiative aims to formally differentiate commercial digital content production from journalistic activities.",
+      "insight": "This visa development signals Indonesia’s growing recognition of digital creative careers, potentially reinforcing student interest in media, communications, and digital arts programmes abroad—though direct impact on enrolment remains uncertain without evidence of shifting career aspirations or outbound mobility trends.  \nAdmissions teams should monitor Indonesian student applications for creative disciplines and track whether local policy changes correlate with increased inquiries about internships, industry placements, or post-study work pathways aligned with content creation careers.",
       "impact": "Low",
       "sources": [
         "Southeast Asia"
