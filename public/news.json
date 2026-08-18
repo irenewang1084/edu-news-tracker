@@ -1,21 +1,21 @@
 {
-  "updated": "2026-08-17T02:12:13Z",
-  "count": 5,
+  "updated": "2026-08-18T02:08:33Z",
+  "count": 4,
   "totalFetched": 169,
   "articles": [
     {
       "id": 1,
-      "title": "Canada’s language training sector in “state of crisis” after further enrolment declines in 2025",
+      "title": "Visa delays and policy uncertainty projected to reduce foreign enrolment in the US by more than 100,000 students this fall",
       "source": "ICEF Monitor",
       "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/08/canadas-language-training-sector-in-state-of-crisis-after-further-enrolment-declines-in-2025/",
-      "pubDate": "2026-08-12",
-      "summary": "Languages Canada’s 2025 Annual Survey Report states that the country’s language training sector is in a “state of crisis” due to further enrolment declines in 2025. The report is based on responses from over 150 Canadian English and French language programmes that participated in both the 2024 and 2025 surveys.",
-      "insight": "Canada’s language training sector crisis may reflect broader shifts in international student preferences, potentially indicating reduced interest in Canada as a study destination due to visa processing delays, cost-of-living pressures, or evolving perceptions of post-study work opportunities—though direct spillover to other countries remains uncertain and context-dependent.  \nAdmissions teams should monitor application trends from key Canadian feeder markets (e.g., India, Nigeria, Philippines), track comparative visa approval rates and processing times, and assess whether language test waiver policies or pathway partnerships need refinement in response to changing enrolment patterns elsewhere.",
-      "impact": "High",
+      "url": "https://monitor.icef.com/2026/08/visa-delays-and-policy-uncertainty-projected-to-reduce-foreign-enrolment-in-the-us-by-more-than-100000-students-this-fall/",
+      "pubDate": "2026-08-11",
+      "summary": "A new analysis by NAFSA and JB International projects that visa processing delays and upcoming policy changes will reduce international student enrolment in the United States by more than 100,000 students this fall. The projection is based on institutional responses collected in IIE’s Spring 2026 Snapshot on International Educational Exchange.",
+      "insight": "This news signals potential softening in US-bound demand amid growing visa processing bottlenecks and policy ambiguity, though it remains unclear how much reflects temporary administrative delays versus longer-term shifts in student preferences across key source markets.  \nAdmissions teams should monitor real-time application trends from top sending countries, track competitor messaging around visa support and processing timelines, and assess whether their own pre-enrolment services—especially visa guidance—need refinement to address rising applicant anxiety.",
+      "impact": "Medium",
       "sources": [],
       "dests": [
-        "Canada"
+        "USA"
       ],
       "translated": false,
       "origLang": null,
@@ -24,17 +24,17 @@
     },
     {
       "id": 2,
-      "title": "UK Home Office revokes Bloomsbury Institute’s student sponsor licence",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/08/uk-home-office-revokes-bloomsbury-institutes-student-sponsor-license/",
-      "pubDate": "2026-08-12",
-      "summary": "The UK Home Office has revoked Bloomsbury Institute’s student sponsor licence, the most serious sanction available against a licensed sponsor. This action means the institute can no longer sponsor international students to study in the UK.",
-      "insight": "This revocation signals heightened UK Home Office scrutiny of student sponsors, potentially amplifying perceptions among international applicants—especially from high-risk or visa-sensitive markets—that UK study pathways are becoming more complex or less reliable, though direct demand shifts remain unconfirmed.  \nAdmissions teams should monitor UK visa refusal trends, competitor messaging around compliance and support, and consult agents in key source countries to gauge whether this incident is influencing application decisions or prompting increased interest in alternative destinations.",
-      "impact": "High",
+      "title": "Clare rejects Hanson’s “farce” claim as he defends international education reforms",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/clare-rejects-hansons-farce-claim-as-he-defends-international-education-reforms/",
+      "pubDate": "2026-08-17",
+      "summary": "Australia’s education minister Jason Clare rejected Pauline Hanson’s characterization of the country’s international education sector as a “farce.” Clare acknowledged that unscrupulous providers and substandard practices continue to threaten the sector’s reputation while defending ongoing reforms.",
+      "insight": "Australia’s renewed focus on reforming its international education sector—amid political criticism of quality and integrity—may indirectly influence student demand, as prospective applicants in key Asian and Pacific markets assess perceptions of regulatory stability and institutional reputation. While not yet signaling immediate policy shifts, it highlights growing scrutiny that could affect Australia’s competitiveness against the US, UK, and New Zealand.\n\nAdmissions teams should monitor Australian government announcements on visa integrity measures, provider accreditation updates, and comparative messaging from Australian institutions—particularly how they address quality assurance—to inform regional outreach and student counselling responses.",
+      "impact": "Medium",
       "sources": [],
       "dests": [
-        "UK"
+        "Australia"
       ],
       "translated": false,
       "origLang": null,
@@ -43,17 +43,17 @@
     },
     {
       "id": 3,
-      "title": "New Zealand targets outcomes as international education demand accelerates",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/new-zealand-targets-outcomes-as-international-education-demand-accelerates/",
-      "pubDate": "2026-08-14",
-      "summary": "New Zealand’s international education sector is focusing on delivering measurable outcomes amid a surge in global demand. Public support for the sector remains strong, presenting a critical opportunity to demonstrate tangible results.",
-      "insight": "New Zealand’s emphasis on measurable outcomes reflects growing global pressure on international education to prove value—though direct implications for US, UK, or Australian recruitment remain uncertain, it may subtly influence student expectations around employability, ROI, and post-study pathways across English-speaking destinations.  \nAdmissions teams should monitor how NZ’s outcome-focused messaging resonates in shared source markets (e.g., India, China, Nigeria), particularly shifts in student inquiries about graduate outcomes, visa transparency, or institutional accountability—not as an immediate trigger, but as a signal of evolving decision-making criteria.",
-      "impact": "Medium",
+      "title": "Report: US considering a $100,000 fee for Optional Practical Training",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/08/report-us-considering-a-100000-fee-for-optional-practical-training/",
+      "pubDate": "2026-08-06",
+      "summary": "The Wall Street Journal reported that the Trump administration is considering imposing a $100,000 fee on international students seeking Optional Practical Training (OPT) authorization to work in the U.S. after graduating from an American university. This potential policy change was disclosed by people familiar with the matter and was first published by ICEF Monitor.",
+      "insight": "This proposed $100,000 OPT fee—though unconfirmed and potentially subject to legal or political reversal—could dampen U.S. appeal for international students weighing post-study work value, especially among cost-sensitive markets in Asia and Latin America, thereby indirectly intensifying competition for talent elsewhere.  \nAdmissions teams should track official USCIS/ICE guidance and student sentiment surveys closely, while reviewing comparative messaging on post-graduation pathways across destinations—noting that UK, Australia, and NZ may gain relative advantage if U.S. work authorization becomes significantly more expensive or uncertain.",
+      "impact": "Low",
       "sources": [],
       "dests": [
-        "New Zealand"
+        "USA"
       ],
       "translated": false,
       "origLang": null,
@@ -62,37 +62,18 @@
     },
     {
       "id": 4,
-      "title": "Sudanese students to appeal after UK court upholds visa brake",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/sudanese-students-to-appeal-after-uk-court-upholds-visa-brake/",
-      "pubDate": "2026-08-13",
-      "summary": "Sudanese students holding full scholarships at Oxford, Cambridge, Imperial College London, and University College London are unable to begin their master’s courses in September due to the UK’s visa restrictions. Sudan Scholars UK announced they will appeal after a UK court upheld the government’s visa brake policy.",
-      "insight": "This case highlights growing geopolitical and policy risks for high-achieving students from conflict-affected regions, potentially dampening UK appeal and indirectly boosting demand for alternative destinations—though broader enrolment impacts remain uncertain pending appeal outcomes and policy evolution.  \nAdmissions teams should track visa policy shifts in key markets, assess sentiment among Sudanese and similar at-risk student cohorts, and review scholarship support structures—noting that proactive communication and flexible enrolment pathways may strengthen institutional resilience without immediate operational changes.",
+      "title": "US risks losing $3.4B as international students look elsewhere",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/education/us-risks-losing-3-4b-as-international-students-look-elsewhere-5109938.html",
+      "pubDate": "2026-08-18",
+      "summary": "The United States risks losing up to $3.4 billion in economic activity next academic year due to a projected decline in international student enrollment. This drop is also expected to result in the loss of nearly 40,000 jobs.",
+      "insight": "This news signals potential softening in US appeal for international students, possibly reflecting broader shifts in visa perceptions, post-study work opportunities, or geopolitical sentiment—though the $3.4B figure aggregates institutional impacts and doesn’t confirm uniform demand decline across all source markets or disciplines.  \nAdmissions teams should track real-time application trends by region and level, benchmark against peer institutions’ yield data, and assess whether evolving policy signals or competitor marketing initiatives correlate with changing applicant behavior—without assuming immediate crisis or overcorrecting strategy prematurely.",
       "impact": "Low",
       "sources": [],
       "dests": [
-        "UK"
+        "USA"
       ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 5,
-      "title": "Indonesia plans separate visa for foreign content creators",
-      "source": "VnExpress (EN)",
-      "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/indonesia-plans-separate-visa-for-foreign-content-creators-5108710.html",
-      "pubDate": "2026-08-14",
-      "summary": "Indonesia is introducing a new visa category specifically for foreign content creators. This initiative aims to formally differentiate commercial digital content production from journalistic activities.",
-      "insight": "This visa development signals Indonesia’s growing recognition of digital creative careers, potentially reinforcing student interest in media, communications, and digital arts programmes abroad—though direct impact on enrolment remains uncertain without evidence of shifting career aspirations or outbound mobility trends.  \nAdmissions teams should monitor Indonesian student applications for creative disciplines and track whether local policy changes correlate with increased inquiries about internships, industry placements, or post-study work pathways aligned with content creation careers.",
-      "impact": "Low",
-      "sources": [
-        "Southeast Asia"
-      ],
-      "dests": [],
       "translated": false,
       "origLang": null,
       "relevanceScore": 8,
