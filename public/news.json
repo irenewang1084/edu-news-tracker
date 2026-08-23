@@ -1,17 +1,17 @@
 {
-  "updated": "2026-08-22T02:08:43Z",
-  "count": 8,
-  "totalFetched": 171,
+  "updated": "2026-08-23T02:24:00Z",
+  "count": 7,
+  "totalFetched": 166,
   "articles": [
     {
       "id": 1,
-      "title": "Unions, advocacy groups sue to overturn US visa rule for foreign students, journalists",
-      "source": "VnExpress (EN)",
-      "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/education/unions-advocacy-groups-sue-to-overturn-us-visa-rule-for-foreign-students-journalists-5110737.html",
-      "pubDate": "2026-08-19",
-      "summary": "A coalition of unions and advocacy groups filed a lawsuit against the federal government on Tuesday to block a new U.S. visa rule that would restrict how long foreign students and journalists can stay in the country without applying for extensions. The plaintiffs seek to overturn the rule, which they argue imposes undue burdens on affected individuals and institutions.",
-      "insight": "This news signals potential volatility in U.S. student visa policy, which may dampen demand from risk-averse applicants—especially in competitive source markets—though actual enrolment impact depends on litigation outcomes and whether similar restrictions emerge elsewhere.  \nAdmissions teams should track the lawsuit’s progress, monitor shifts in application volumes from key regions like India and China, and assess whether peer institutions are adjusting messaging or support services around U.S. visa uncertainty.",
+      "title": "US coalition files lawsuit to challenge rule ending Duration of Status admissions for international students",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/08/us-coalition-files-lawsuit-to-challenge-rule-ending-duration-of-status-admissions-for-international-students/",
+      "pubDate": "2026-08-18",
+      "summary": "A consortium of prominent education organizations and unions has filed a lawsuit challenging the Department of Homeland Security’s final rule that eliminates the Duration of Status (D/S) framework for international students. The coalition has submitted a complaint contesting the rule’s legality and a motion for a preliminary injunction.",
+      "insight": "This rule change—though currently contested—introduces regulatory uncertainty for F-1 students in the US, potentially dampening demand from risk-averse applicants in key Asian and Latin American markets if perceived as increasing visa complexity or reducing post-study flexibility.  \nAdmissions teams should track litigation developments and DHS guidance closely, while reviewing messaging around US visa stability and preparing comparative talking points highlighting alternative destinations’ predictable immigration pathways.",
       "impact": "Low",
       "sources": [],
       "dests": [
@@ -24,6 +24,101 @@
     },
     {
       "id": 2,
+      "title": "Vietnam to award 1,500 full scholarships for strategic technology training abroad",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/education/vietnam-to-award-1-500-full-scholarships-for-strategic-technology-training-abroad-5111265.html",
+      "pubDate": "2026-08-21",
+      "summary": "Vietnam will award 1,500 full scholarships to outstanding students and young scientists for studying and conducting research in strategic technologies abroad. The program, approved by the Vietnamese government, targets leading universities worldwide.",
+      "insight": "This initiative signals growing Vietnamese government investment in high-skill outbound education, potentially increasing demand for STEM and strategic technology programmes at top-tier universities in the US, UK, Australia, and NZ—though actual enrolment impact depends on partner university selection and bilateral agreements.  \nAdmissions teams should monitor Vietnam’s official scholarship partner announcements, track which institutions are designated for these 1,500 awards, and assess alignment with their own strategic technology offerings and capacity to support high-achieving Vietnamese scholars.",
+      "impact": "Low",
+      "sources": [
+        "Southeast Asia"
+      ],
+      "dests": [],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 9,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 3,
+      "title": "US judge strikes down policy suspending immigrant visa processing for 75 nations",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/us-judge-strikes-down-policy-suspending-immigrant-visa-processing-for-75-nations-5112095.html",
+      "pubDate": "2026-08-22",
+      "summary": "A U.S. judge ruled on Friday to strike down a Trump administration policy that suspended immigrant visa processing for applicants from 75 countries. The judge determined the policy exceeded the statutory authority of Secretary of State Marco Rubio.",
+      "insight": "This ruling may indirectly ease concerns among prospective students from affected countries about broader U.S. immigration restrictions, potentially improving U.S. appeal relative to competitors—though its direct impact on non-immigrant student visas remains limited and uncertain.  \nAdmissions teams should monitor State Department guidance on visa processing timelines and track whether source-market messaging shifts in response to perceived U.S. policy moderation, while continuing to benchmark against UK, Australia, and New Zealand visa trends.",
+      "impact": "High",
+      "sources": [],
+      "dests": [
+        "USA"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 4,
+      "title": "UK Home Office revokes Bloomsbury Institute’s student sponsor licence",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/08/uk-home-office-revokes-bloomsbury-institutes-student-sponsor-license/",
+      "pubDate": "2026-08-12",
+      "summary": "The UK Home Office has revoked Bloomsbury Institute’s student sponsor licence, the most serious sanction available against a licensed sponsor. This action means the institute can no longer sponsor international students to study in the UK.",
+      "insight": "This revocation signals heightened UK Home Office scrutiny of student sponsors, potentially amplifying perceptions among international applicants—especially from high-risk or visa-sensitive markets—that UK study pathways are becoming more complex or less reliable, though direct demand shifts remain unconfirmed.  \nAdmissions teams should monitor UK visa refusal trends, competitor messaging around compliance and support, and consult agents in key source countries to gauge whether this incident is influencing application decisions or raising questions about institutional credibility.",
+      "impact": "High",
+      "sources": [],
+      "dests": [
+        "UK"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 6,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 5,
+      "title": "What South India reveals about the future of international education",
+      "source": "The Hindu (Edu)",
+      "color": "#145a32",
+      "url": "https://www.thehindu.com/education/what-south-india-reveals-about-the-future-of-international-education/article71366039.ece",
+      "pubDate": "2026-08-20",
+      "summary": "The article examines how South India’s rapidly expanding network of private higher education institutions, particularly in fields like engineering and information technology, is shaping new models for international student recruitment and transnational academic partnerships. It highlights that institutions in cities such as Bengaluru and Chennai are increasingly collaborating with foreign universities, offering dual-degree programs, and attracting students from Africa, Southeast Asia, and the Middle East due to lower costs and English-medium instruction.",
+      "insight": "South India’s growth in English-medium, cost-competitive private STEM education may gradually reshape demand patterns, as students from Africa, Southeast Asia, and the Middle East explore regional alternatives—though direct substitution for Western degrees remains uncertain amid persistent prestige and migration aspirations.  \nAdmissions teams should track enrolment trends in these South Indian institutions, especially dual-degree uptake and student origin shifts, while assessing whether partnerships or articulation pathways could complement—not compete with—their own offerings in high-growth source markets.",
+      "impact": "Low",
+      "sources": [
+        "India"
+      ],
+      "dests": [],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 6,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 6,
+      "title": "UK student visa applications fall again, raising fresh fears for university finances",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/education/uk-student-visa-applications-fall-again-raising-fresh-fears-for-university-finances-5110663.html",
+      "pubDate": "2026-08-20",
+      "summary": "UK student visa applications declined again in July. This drop has raised new concerns for universities as they enter a peak period of international recruitment.",
+      "insight": "The UK’s continued decline in student visa applications may reflect shifting preferences among international students, tighter visa rules, or broader geopolitical and cost-of-living concerns—but causality remains unclear without granular source-market data.  \nAdmissions teams should track application trends in key feeder countries, monitor competitor messaging on affordability and post-study work rights, and assess whether their own value proposition aligns with evolving student priorities around stability, ROI, and immigration pathways.",
+      "impact": "Low",
+      "sources": [],
+      "dests": [
+        "UK"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 6,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 7,
       "title": "F-1 visa issuance drops 34% in a year as US immigration policies bite",
       "source": "The PIE News",
       "color": "#7b341e",
@@ -37,120 +132,6 @@
       ],
       "dests": [
         "USA"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 9,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 3,
-      "title": "Taiwan’s international enrolment up by 17% in 2025/26",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/08/taiwans-international-enrolment-up-by-17-in-2025-26/",
-      "pubDate": "2026-08-19",
-      "summary": "Taiwan’s international student enrolment reached 140,420 in the 2025/26 academic year, a 17% increase from the previous year and a new all-time high. Of these students, approximately 90,000 are enrolled in degree programmes, while the remainder consist of exchange students, Mandarin-language learners, and students from China and Hong Kong; the government’s target is 320,000 international students.",
-      "insight": "Taiwan’s 17% international enrolment rise—driven partly by students from China and Hong Kong—may reflect shifting regional preferences amid evolving geopolitical and visa conditions, though it’s unclear whether this signals broader demand diversification or short-term policy-driven flows.  \nAdmissions teams should monitor enrolment trends in Taiwan alongside Chinese government guidance on overseas study, regional scholarship expansions, and student sentiment surveys—noting potential implications for recruitment messaging and partnership development with Asian institutions.",
-      "impact": "Low",
-      "sources": [
-        "China"
-      ],
-      "dests": [],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 4,
-      "title": "Singapore answers Hong Kong's tax cut with tax-free profits, multi-employer visa",
-      "source": "VnExpress (EN)",
-      "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/singapore-answers-hong-kong-s-tax-cut-with-tax-free-profits-multi-employer-visa-5111012.html",
-      "pubDate": "2026-08-20",
-      "summary": "Singapore will exempt fund managers’ share of investment profits from tax, effective August 19, as announced by the Monetary Authority of Singapore. The country will also introduce a new work pass track for senior investment professionals to strengthen its competitiveness with Hong Kong.",
-      "insight": "This policy shift signals Singapore’s intensified effort to position itself as a premier Asia-Pacific hub for finance careers, potentially influencing Southeast Asian students’ post-study destination preferences—though direct impacts on undergraduate or master’s enrolment remain uncertain and likely secondary to broader economic and geopolitical factors.  \nAdmissions teams should monitor trends in Singapore’s graduate employment rates, work pass approvals for international graduates, and student surveys from Southeast Asia to assess whether this initiative begins reshaping perceptions of career pathways—and adjust employer engagement or alumni outreach strategies accordingly.",
-      "impact": "Low",
-      "sources": [
-        "Southeast Asia"
-      ],
-      "dests": [],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 5,
-      "title": "Vietnam moves to make English compulsory for 6-year-olds, two years ahead of schedule",
-      "source": "VnExpress (EN)",
-      "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/education/vietnam-moves-to-make-english-compulsory-for-6-year-olds-two-years-ahead-of-schedule-5111356.html",
-      "pubDate": "2026-08-20",
-      "summary": "Vietnam plans to make English compulsory for six-year-old first graders starting in the 2028–2029 school year, advancing the implementation by two years from the original government schedule. Under the draft Education Ministry circular, first graders will study English for 70 periods annually.",
-      "insight": "This policy shift signals Vietnam’s intensified focus on early English proficiency, potentially strengthening long-term demand for Anglophone higher education—though the impact on near-term enrolment remains uncertain given the 2028 rollout and complex interplay of affordability, visa access, and institutional reputation.  \nAdmissions teams should track Vietnamese students’ evolving English test scores, grade-level preparedness, and cohort progression through this new curriculum, while assessing whether partner schools or pathway providers begin adapting outreach to align with earlier language development milestones.",
-      "impact": "Low",
-      "sources": [
-        "Southeast Asia"
-      ],
-      "dests": [],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 6,
-      "title": "Canada’s language training sector in “state of crisis” after further enrolment declines in 2025",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/08/canadas-language-training-sector-in-state-of-crisis-after-further-enrolment-declines-in-2025/",
-      "pubDate": "2026-08-12",
-      "summary": "Languages Canada’s 2025 Annual Survey Report states that the country’s language training sector is in a “state of crisis” due to further enrolment declines in 2025. The report is based on responses from over 150 Canadian English and French language programmes that participated in both the 2024 and 2025 surveys.",
-      "insight": "Canada’s language training sector crisis may reflect broader shifts in international student preferences, potentially indicating reduced interest in Canada as a study destination due to visa processing delays, cost-of-living pressures, or evolving perceptions of post-study work opportunities—though direct spillover to other countries remains uncertain and context-dependent.  \nAdmissions teams should monitor application trends from key Canadian feeder markets (e.g., India, Nigeria, Philippines), track comparative visa approval rates and processing times, and assess whether language test waiver policies or pathway partnerships need refinement in response to changing enrolment patterns elsewhere.",
-      "impact": "High",
-      "sources": [],
-      "dests": [
-        "Canada"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 7,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 7,
-      "title": "UK Home Office revokes Bloomsbury Institute’s student sponsor licence",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/08/uk-home-office-revokes-bloomsbury-institutes-student-sponsor-license/",
-      "pubDate": "2026-08-12",
-      "summary": "The UK Home Office has revoked Bloomsbury Institute’s student sponsor licence, the most serious sanction available against a licensed sponsor. This decision means the institute can no longer sponsor international students to study in the UK.",
-      "insight": "This revocation signals heightened UK Home Office scrutiny of student sponsors, potentially amplifying perceptions among international applicants—especially from high-risk or overrepresented source markets—that UK visa pathways are becoming more complex or less reliable, though direct demand shifts remain unconfirmed.  \nAdmissions teams should monitor UK visa refusal rates, agent sentiment, and competitor marketing shifts in key source regions, while reviewing their own compliance frameworks—not as an immediate crisis, but as part of ongoing risk-informed recruitment strategy refinement.",
-      "impact": "High",
-      "sources": [],
-      "dests": [
-        "UK"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 6,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 8,
-      "title": "UK student visa applications fall again, raising fresh fears for university finances",
-      "source": "VnExpress (EN)",
-      "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/education/uk-student-visa-applications-fall-again-raising-fresh-fears-for-university-finances-5110663.html",
-      "pubDate": "2026-08-20",
-      "summary": "UK student visa applications declined again in July. This drop has raised new concerns for universities as they enter a peak period of international recruitment.",
-      "insight": "The UK’s continued decline in student visa applications may reflect shifting preferences among international students, tighter visa rules, or broader geopolitical and economic factors—but it doesn’t necessarily indicate a global demand drop, as regional dynamics and destination-specific policies vary significantly.  \nAdmissions teams should monitor real-time application trends from key source markets, track competitor messaging on post-study work rights and cost-of-living, and assess whether their own visa support and financial aid offerings remain competitive amid evolving student priorities.",
-      "impact": "Low",
-      "sources": [],
-      "dests": [
-        "UK"
       ],
       "translated": false,
       "origLang": null,
