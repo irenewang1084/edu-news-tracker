@@ -1,59 +1,59 @@
 {
-  "updated": "2026-08-27T10:48:37Z",
-  "count": 10,
-  "totalFetched": 176,
+  "updated": "2026-08-28T12:26:22Z",
+  "count": 5,
+  "totalFetched": 173,
   "articles": [
     {
       "id": 1,
-      "title": "Up to 200,000 foreigners set to lose US visas in largest revocation in history",
-      "source": "VnExpress (EN)",
-      "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/up-to-200-000-foreigners-set-to-lose-us-visas-in-largest-revocation-in-history-5113321.html",
-      "pubDate": "2026-08-25",
-      "summary": "The Trump administration is preparing to revoke the B-1 and B-2 visas of up to 200,000 foreign nationals who have applied for or are currently seeking asylum in the United States. This action would constitute the largest single revocation of U.S. visas in history.",
-      "insight": "This news signals heightened U.S. immigration enforcement targeting asylum seekers, which may indirectly affect international student perceptions of visa stability—though B-1/B-2 tourist visas differ from F-1 student visas, broader concerns about U.S. immigration unpredictability could dampen demand from risk-averse source markets.  \nAdmissions teams should monitor application trends and sentiment shifts in key regions like India, Nigeria, and Latin America, while reviewing messaging around visa support and post-study pathways to proactively address emerging concerns about U.S. immigration reliability.",
-      "impact": "Low",
-      "sources": [],
-      "dests": [
-        "USA"
+      "title": "Record non-DSE admissions to Hong Kong’s universities spark calls for quotas",
+      "source": "SCMP (Education)",
+      "color": "#7b241c",
+      "url": "https://www.scmp.com/news/hong-kong/education/article/3364971/record-non-dse-admissions-hong-kongs-universities-spark-calls-quotas?utm_source=rss_feed",
+      "pubDate": "2026-08-24",
+      "summary": "Hong Kong’s public universities admitted a record number of students applying outside the local Diploma of Secondary Education (DSE) exam system, with non-DSE admissions rising by 63 per cent over seven years to nearly 30 per cent of the 15,000 government-funded undergraduate places. Concurrently, DSE student admissions declined by 7 per cent, reducing their share of those places from 82 per cent to 72 per cent.",
+      "insight": "Hong Kong’s sharp rise in non-DSE admissions—especially from mainland China—may reflect shifting preferences among high-achieving Chinese students toward alternative pathways, though it’s unclear whether this signals broader regional demand shifts or is specific to Hong Kong’s policy and capacity constraints.  \nAdmissions teams should monitor mainland Chinese student application trends to their institutions, particularly enrolment patterns of students with international qualifications (e.g., IB, A-levels, AP), and assess whether Hong Kong’s expanded non-DSE intake correlates with changes in outbound mobility intentions or credential recognition policies.",
+      "impact": "High",
+      "sources": [
+        "China"
       ],
+      "dests": [],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 9,
+      "relevanceScore": 8,
       "insightSource": "qwen"
     },
     {
       "id": 2,
-      "title": "US issues pause on visa appointments for applicants worldwide",
-      "source": "VnExpress (EN)",
-      "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/us-issues-pause-on-visa-appointments-for-applicants-worldwide-5113560.html",
+      "title": "Australia: Carolyn Evans warns of fallout from further international student cuts",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/australia-carolyn-evans-warns-of-fallout-from-further-international-student-cuts/",
       "pubDate": "2026-08-26",
-      "summary": "The U.S. government has paused visa appointments for applicants worldwide as part of an ongoing immigration enforcement effort. This action was taken during Donald Trump’s second term in office, under his administration’s direction.",
-      "insight": "This pause—though temporary and likely administrative—may heighten anxiety among prospective international students, particularly from high-application-volume regions, potentially delaying decisions or shifting preferences toward countries with perceived visa stability, though direct demand impacts remain uncertain pending duration and scope.  \nAdmissions teams should track official U.S. State Department updates, consult agents in key source markets for sentiment shifts, and proactively reinforce visa support messaging—while avoiding speculation, since similar pauses in past administrations have typically resolved within weeks without long-term enrollment effects.",
+      "summary": "Carolyn Evans, chair of Universities Australia, warned that universities have become overly reliant on income from international students due to years of public funding cuts. She stressed that any further reduction in international student numbers must be accompanied by a plan to address the resulting financial fallout.",
+      "insight": "Australia’s potential international student cuts—driven by fiscal reliance and policy review—may indirectly influence global perceptions of stability and value, though direct demand shifts in other English-speaking destinations remain uncertain without parallel policy changes.  \nAdmissions teams should monitor Australian visa policy updates, enrolment data trends, and source-market sentiment surveys, particularly among high-intent cohorts in Asia, to assess whether spillover effects emerge in application volumes or destination preferences.",
       "impact": "Low",
       "sources": [],
       "dests": [
-        "USA"
+        "Australia"
       ],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 9,
+      "relevanceScore": 8,
       "insightSource": "qwen"
     },
     {
       "id": 3,
-      "title": "Recruiting under Canada’s international student cap: Six strategic enrolment gaps that matter",
+      "title": "US Department of State issued 23% fewer study visas to international students in 2025",
       "source": "ICEF Monitor",
       "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/08/recruiting-under-canadas-international-student-cap-six-strategic-enrolment-gaps-that-matter/",
-      "pubDate": "2026-08-26",
-      "summary": "Recruitment teams across Canada are struggling to meet enrolment targets despite the international student cap, as new student arrivals fell by 61% last year—lower than even during the COVID-19 pandemic. The cap is no longer a binding constraint for most institutions, since very few have been using their full allocated quotas, and the primary challenges now lie in demand generation and application approvals.",
-      "insight": "Canada’s sharp 61% drop in new international student arrivals—exceeding pandemic-era lows—suggests weakening demand or systemic barriers in key source markets, though it remains unclear whether this reflects broader global sentiment shifts or Canada-specific policy fatigue and visa processing delays.  \nAdmissions teams should track application volumes, visa refusal rates, and enrolment yield trends across shared source countries—particularly India, Nigeria, and the Philippines—to assess whether Canada’s struggles signal emerging headwinds or unique operational challenges requiring nuanced regional response.",
-      "impact": "High",
+      "url": "https://monitor.icef.com/2026/08/us-department-of-state-issued-23-fewer-study-visas-to-international-students-in-2025/",
+      "pubDate": "2026-08-27",
+      "summary": "The US Department of State issued 23% fewer F-1, M-1, and J-1 student visas to international students in 2025 compared to 2024. Among these, F-1 visa issuances—used by degree-seeking students—declined by one-third during the same period.",
+      "insight": "The 23% drop in US student visas—especially the 33% decline in F-1 issuances—may reflect tighter visa adjudication, shifting geopolitical perceptions, or reduced application volumes, though it’s unclear whether this signals weaker underlying demand or procedural constraints.  \nAdmissions teams should track real-time application and enrolment data by origin country, monitor visa refusal rates and processing times, and assess how peer destinations’ policies and messaging are influencing student decision-making amid evolving global mobility trends.",
+      "impact": "Low",
       "sources": [],
       "dests": [
-        "Canada"
+        "USA"
       ],
       "translated": false,
       "origLang": null,
@@ -62,18 +62,18 @@
     },
     {
       "id": 4,
-      "title": "Vietnamese students flock to STEM and strategic tech as 2026 enrollment surges",
-      "source": "VnExpress (EN)",
-      "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/education/vietnamese-students-flock-to-stem-and-strategic-tech-as-2026-enrollment-surges-5113435.html",
-      "pubDate": "2026-08-26",
-      "summary": "Vietnamese students are increasingly choosing STEM fields, which accounted for 33.6% of all university enrollment choices in 2026. This trend reflects a broader shift toward science and technology education in Vietnam.",
-      "insight": "Vietnamese students’ growing preference for STEM—now 33.6% of domestic university choices—suggests rising demand for globally recognized technical degrees, though it remains uncertain whether this directly translates to increased outbound enrolment or shifts in destination preferences among high-achieving cohorts.  \nAdmissions teams should monitor Vietnamese provincial STEM scholarship data, national tech workforce policies, and uptake of dual-degree partnerships with local universities to gauge potential pipeline strength and inform targeted curriculum articulation or pathway development.",
-      "impact": "High",
-      "sources": [
-        "Southeast Asia"
+      "title": "12-month rolling student visa rejection rate hits 4.9% in the UK",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/12-month-rolling-student-visa-rejection-rate-hits-4-9-in-the-uk/",
+      "pubDate": "2026-08-28",
+      "summary": "The UK’s 12-month rolling student visa rejection rate reached 4.9% for the period ending June 2026, according to analysis by The PIE of new Home Office data. This figure represents the proportion of student visa applications refused over that 12-month period.",
+      "insight": "A modest 4.9% UK student visa refusal rate—within historical norms—suggests no immediate tightening of policy, but rising scrutiny on genuine student intent and financial evidence may subtly shift applicant confidence, particularly among risk-averse markets or lower-income cohorts.  \n\nAdmissions teams should track regional refusal trends, especially for high-volume countries, and reinforce pre-application visa readiness support—without overreacting—as Home Office guidance updates or seasonal processing delays could temporarily influence outcomes.",
+      "impact": "Low",
+      "sources": [],
+      "dests": [
+        "UK"
       ],
-      "dests": [],
       "translated": false,
       "origLang": null,
       "relevanceScore": 8,
@@ -81,118 +81,21 @@
     },
     {
       "id": 5,
-      "title": "IICT, Netflix announce scholarships for 100 students; applications open till September 30",
-      "source": "Times of India (Edu)",
-      "color": "#d4820a",
-      "url": "https://timesofindia.indiatimes.com/education/news/iict-netflix-announce-scholarships-for-100-students-applications-open-till-september-30/articleshow/133558934.cms",
-      "pubDate": "2026-08-27",
-      "summary": "The Indian Institute of Creative Technologies (IICT) and Netflix are jointly offering scholarships to 100 students for creative technology courses, covering 50% to 80% of program fees. Applications are open until September 30 and selection will be merit-based, evaluating skills, craft, and creative potential.",
-      "insight": "This collaboration signals growing domestic investment in creative tech education in India, potentially tempering outbound demand for similar programs abroad—though its actual impact on international enrolment remains uncertain without data on applicant overlap or perceived program prestige.  \nAdmissions teams should monitor whether Indian applicants increasingly highlight Netflix- or IICT-affiliated projects in portfolios, and assess if partnerships with global streamers or tech firms could strengthen their own value proposition for creative technology students.",
-      "impact": "Medium",
-      "sources": [
-        "India"
-      ],
-      "dests": [],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 7,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 6,
-      "title": "Mainland school operator leases Kowloon tower as talent influx drives city’s education boom",
-      "source": "SCMP (Education)",
-      "color": "#7b241c",
-      "url": "https://www.scmp.com/business/article/3365053/mainland-school-operator-leases-kowloon-tower-talent-influx-drives-citys-education-boom?utm_source=rss_feed",
-      "pubDate": "2026-08-24",
-      "summary": "A Hong Kong-listed educational group has leased the entire Tower B at the China Life Centre in Hung Hom, Kowloon, marking the largest commercial property leasing deal in the city so far this quarter. The 36,400-square-foot space will be transformed into a purpose-built education complex, driven by increased demand from immigrant and expatriate families settling in Hong Kong.",
-      "insight": "This leasing deal reflects growing demand for premium education infrastructure in Hong Kong, potentially indicating shifting preferences among mainland Chinese families—some of whom may previously have favoured Western study destinations—though it does not directly signal reduced interest in overseas degrees.  \nAdmissions teams should monitor Hong Kong’s evolving visa policies for dependants, tuition fee trends at new local institutions, and sentiment shifts in mainland Chinese education forums, as these could indirectly influence outbound student decision-making over the next 12–24 months.",
-      "impact": "Low",
-      "sources": [
-        "China"
-      ],
-      "dests": [],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 7,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 7,
-      "title": "International students contribute $5B annually as Malaysia climbs global education rankings",
-      "source": "VnExpress (EN)",
-      "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/education/international-students-contribute-5b-annually-as-malaysia-climbs-global-education-rankings-5113456.html",
-      "pubDate": "2026-08-27",
-      "summary": "International students contribute approximately 20 billion MYR (US$5 billion) annually to Malaysia's economy through tuition fees, living expenses, and other related spending. This contribution comes from around 167,000 international students currently studying in the country.",
-      "insight": "Malaysia’s growing appeal—evidenced by its rising global education rankings and $5B annual international student revenue—may reflect shifting preferences among Southeast Asian students toward more affordable, geographically proximate, and visa-friendly study destinations, though direct substitution for Western universities remains uncertain without stronger data on cross-market mobility.  \nAdmissions teams should monitor enrolment trends and scholarship investments in Malaysia’s top institutions, particularly among shared source markets like Indonesia and Vietnam, while assessing whether regional policy shifts (e.g., post-study work expansions) could indirectly influence application behaviour or agent partnerships.",
+      "title": "Mỹ siết đường thực tập của du học sinh",
+      "source": "VnExpress (Giáo dục)",
+      "color": "#b94500",
+      "url": "https://vnexpress.net/my-siet-duong-thuc-tap-cua-du-hoc-sinh-5114509.html",
+      "pubDate": "2026-08-28",
+      "summary": "The United States has implemented a new policy restricting international students from undertaking internships unless their academic program explicitly requires such practical training. This regulation narrows opportunities for foreign students to gain work experience in the U.S. labor market.",
+      "insight": "This policy shift may dampen U.S. appeal for Southeast Asian students prioritising post-study work exposure, though its broader impact on enrolment depends on how strictly it’s enforced and whether alternative pathways—like CPT-eligible programmes—remain accessible.  \nAdmissions teams should track application trends from Southeast Asia, assess the proportion of prospective students citing internship opportunities as a key decision factor, and clarify CPT eligibility early in recruitment communications.",
       "impact": "Low",
       "sources": [
         "Southeast Asia"
       ],
       "dests": [],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 7,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 8,
-      "title": "DOD Demands 30 American Universities Audit Foreign Partnerships",
-      "source": "Inside Higher Ed",
-      "color": "#285e61",
-      "url": "https://www.insidehighered.com/news/quick-takes/2026/08/27/dod-demands-30-american-colleges-audit-foreign-partnerships",
-      "pubDate": "2026-08-27",
-      "summary": "The U.S. Department of Defense has directed 30 American universities to conduct audits of their foreign partnerships. The directive, issued on August 27, 2026, requires institutions to review collaborations for compliance with national security and research integrity standards.",
-      "insight": "This DOD directive signals heightened U.S. scrutiny of academic internationalism, potentially amplifying perceptions of regulatory complexity among prospective students—though direct impacts on enrolment demand or visa rules remain unconfirmed and likely indirect.  \nAdmissions teams should monitor official guidance from U.S. immigration authorities and track sentiment shifts in key source markets, particularly regarding trust in research-intensive programs and institutional transparency around foreign collaborations.",
-      "impact": "Medium",
-      "sources": [],
-      "dests": [
-        "USA"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 6,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 9,
-      "title": "“The scale is shocking”: Inside the US’ 2025 F-1 visa decline",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/the-scale-is-shocking-inside-the-us-2025-f-1-visa-decline/",
-      "pubDate": "2026-08-25",
-      "summary": "New data shows a sharper-than-expected decline in F-1 visa issuances in 2025, attributed to the Trump administration’s freeze on visa interviews alongside broader restrictions and policy volatility. The article was published by The PIE News.",
-      "insight": "The reported 2025 F-1 visa decline—driven by administrative bottlenecks and policy uncertainty—may signal short-term dampening of US-bound student demand, though it’s unclear whether this reflects reduced interest or merely delayed applications amid procedural constraints.  \nAdmissions teams should monitor real-time application and deposit trends from key markets, track visa appointment wait times and policy updates closely, and assess whether competitors in the UK, Australia, and New Zealand are seeing corresponding shifts in inquiry volumes or conversion rates.",
-      "impact": "Low",
-      "sources": [],
-      "dests": [
-        "USA"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 6,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 10,
-      "title": "How resilient is Indian student interest in the US?",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/how-resilient-is-indian-student-interest-in-the-us/",
-      "pubDate": "2026-08-26",
-      "summary": "The article examines the decline in US visa issuance to Indian students and explores whether this reflects reduced demand from Indian students or ongoing visa-related barriers. It questions whether the current contraction in India-US student mobility represents a temporary trend or a long-term shift.",
-      "insight": "A dip in US visa issuance to Indian students may signal either persistent administrative hurdles or a subtle shift in preference toward alternative destinations, though it remains unclear whether this reflects structural demand erosion or cyclical friction in US immigration processing.  \nAdmissions teams should track Indian student application volumes and enrolment conversion rates across peer countries, while reviewing their own visa support services and messaging around post-study work pathways to ensure competitiveness amid evolving perceptions of US study value.",
-      "impact": "Low",
-      "sources": [
-        "India"
-      ],
-      "dests": [
-        "USA"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 6,
+      "translated": true,
+      "origLang": "vi",
+      "relevanceScore": 8,
       "insightSource": "qwen"
     }
   ]
