@@ -1,37 +1,18 @@
 {
-  "updated": "2026-08-31T06:26:39Z",
-  "count": 10,
-  "totalFetched": 172,
+  "updated": "2026-09-01T05:48:45Z",
+  "count": 7,
+  "totalFetched": 177,
   "articles": [
     {
       "id": 1,
-      "title": "Record non-DSE admissions to Hong Kong’s universities spark calls for quotas",
-      "source": "SCMP (Education)",
-      "color": "#7b241c",
-      "url": "https://www.scmp.com/news/hong-kong/education/article/3364971/record-non-dse-admissions-hong-kongs-universities-spark-calls-quotas?utm_source=rss_feed",
-      "pubDate": "2026-08-24",
-      "summary": "Hong Kong’s public universities admitted a record number of students applying outside the local Diploma of Secondary Education (DSE) exam system, with non-DSE admissions rising by 63 per cent over seven years to nearly 30 per cent of the 15,000 government-funded undergraduate places. Concurrently, DSE student admissions fell by 7 per cent, reducing their share from 82 per cent to 72 per cent of those places, prompting calls for quotas on non-DSE admissions.",
-      "insight": "Hong Kong’s rising non-DSE admissions—especially from mainland China—may reflect shifting preferences among high-achieving students seeking alternatives to local pathways, though it remains unclear whether this signals broader regional demand shifts or is specific to Hong Kong’s policy and capacity constraints.  \nAdmissions teams should monitor mainland Chinese student application trends to Hong Kong versus traditional destinations, as well as any policy adjustments in Hong Kong’s visa or quota frameworks that could indirectly influence outbound mobility decisions or competitive positioning.",
-      "impact": "High",
-      "sources": [
-        "China"
-      ],
-      "dests": [],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 2,
-      "title": "First-year international applications to US colleges drop 10% amid policy shifts",
-      "source": "VnExpress (EN)",
-      "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/education/first-year-international-applications-to-us-colleges-drop-10-amid-policy-shifts-5114232.html",
-      "pubDate": "2026-08-29",
-      "summary": "First-year international applications to U.S. colleges declined by approximately 10% during the 2025–26 admissions cycle. This marks the end of nearly a decade of growth and reflects weakening interest across major international student source regions.",
-      "insight": "The 10% drop in first-year international applications to US colleges may reflect broader shifts in global student demand, evolving visa perceptions, or regional sentiment—though it’s unclear how much stems from US-specific policy versus concurrent global economic or geopolitical factors.  \nAdmissions teams should monitor application trends by source country and cohort, assess competitor messaging and support offerings, and review their own visa guidance and pre-arrival services—not as an immediate crisis, but as signals for refining long-term recruitment strategy and responsiveness.",
-      "impact": "Medium",
+      "title": "US Department of State issued 23% fewer study visas to international students in 2025",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/08/us-department-of-state-issued-23-fewer-study-visas-to-international-students-in-2025/",
+      "pubDate": "2026-08-27",
+      "summary": "The US Department of State issued 23% fewer F-1, M-1, and J-1 student visas to international students in 2025 compared to 2024. Among these, F-1 visa issuances—used by degree-seeking students—declined by one-third during the same period.",
+      "insight": "The 23% drop in US student visas—especially the 33% decline in F-1 issuances—may reflect tighter visa adjudication, shifting geopolitical perceptions, or reduced application volumes, though it’s unclear whether this signals weaker underlying demand or procedural constraints.  \nAdmissions teams should track real-time application and deposit trends from key source markets, compare visa refusal rates across consulates, and assess whether peer institutions in the UK, Australia, and New Zealand are seeing corresponding shifts in inquiry or enrolment patterns.",
+      "impact": "Low",
       "sources": [],
       "dests": [
         "USA"
@@ -42,14 +23,33 @@
       "insightSource": "qwen"
     },
     {
+      "id": 2,
+      "title": "12-month rolling student visa rejection rate hits 4.9% in the UK",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/12-month-rolling-student-visa-rejection-rate-hits-4-9-in-the-uk/",
+      "pubDate": "2026-08-28",
+      "summary": "The UK’s 12-month rolling student visa rejection rate reached 4.9% for the period ending June 2026, according to analysis by The PIE of new Home Office data. This figure represents the proportion of student visa applications refused over that 12-month period.",
+      "insight": "A modest 4.9% UK student visa refusal rate—within historical norms—suggests no immediate tightening of policy, but rising scrutiny on genuine student intent and financial evidence may subtly shift applicant confidence, particularly among risk-averse markets or lower-income cohorts.  \n\nAdmissions teams should track regional refusal trends, especially for high-volume countries, and reinforce pre-application visa readiness support—without overreacting—as Home Office guidance updates or seasonal processing delays could temporarily influence outcomes.",
+      "impact": "Low",
+      "sources": [],
+      "dests": [
+        "UK"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
       "id": 3,
-      "title": "US coalition files lawsuit to challenge rule ending Duration of Status admissions for international students",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/08/us-coalition-files-lawsuit-to-challenge-rule-ending-duration-of-status-admissions-for-international-students/",
-      "pubDate": "2026-08-18",
-      "summary": "A consortium of prominent education organizations and unions has filed a lawsuit challenging the Department of Homeland Security’s final rule that eliminates the Duration of Status (D/S) framework for international students. The coalition has submitted a complaint contesting the rule’s legality and a motion for a preliminary injunction.",
-      "insight": "This rule change—though currently contested—introduces regulatory uncertainty for F-1 students in the US, potentially dampening demand from risk-averse applicants in key Asian and Latin American markets if perceived as increasing visa complexity or reducing post-study flexibility.  \nAdmissions teams should track litigation developments and DHS guidance closely, while reviewing messaging around US visa stability and preparing comparative talking points highlighting predictable frameworks in the UK, Australia, and New Zealand.",
+      "title": "Judge rules Trump policies deporting foreign students based on speech unconstitutional",
+      "source": "Higher Ed Dive",
+      "color": "#1e5631",
+      "url": "https://www.highereddive.com/news/judge-rules-trump-policies-deporting-foreign-students-based-on-speech-uncon/827959/",
+      "pubDate": "2026-08-31",
+      "summary": "U.S. District Judge Noël Wise ruled that certain Trump-era policies deporting foreign students based on their speech violate the U.S. Constitution. In her decision, she stated, “In the United States, freedom of speech belongs to the people. It is not the government’s to take.”",
+      "insight": "This ruling signals potential legal constraints on U.S. immigration enforcement targeting student speech, which may modestly improve perceived safety for international students—though broader visa policy stability and enforcement practices remain more influential drivers of demand than this single decision.  \nAdmissions teams should monitor subsequent DOJ appeals, ICE guidance updates, and student sentiment surveys from key source markets to assess whether this reinforces or undermines confidence in U.S. study environments relative to UK, Australian, and New Zealand alternatives.",
       "impact": "Low",
       "sources": [],
       "dests": [
@@ -62,70 +62,34 @@
     },
     {
       "id": 4,
-      "title": "Taiwan’s international enrolment up by 17% in 2025/26",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/08/taiwans-international-enrolment-up-by-17-in-2025-26/",
-      "pubDate": "2026-08-19",
-      "summary": "Taiwan’s international student enrolment reached 140,420 in the 2025/26 academic year, a 17% increase from the previous year and a new all-time high. Of these students, approximately 90,000 are enrolled in degree programmes, while the remainder consist of exchange students, Mandarin-language learners, and students from China and Hong Kong; the government’s target is 320,000 international students.",
-      "insight": "Taiwan’s 17% international enrolment surge—especially among students from China—may reflect shifting regional preferences or policy-driven incentives, though it’s unclear whether this signals broader demand diversification away from traditional Anglophone destinations or merely short-term tactical mobility.  \nAdmissions teams should monitor enrolment trends in Taiwan alongside visa policy updates from China and Hong Kong, as well as student survey data on destination choice drivers, to assess potential implications for recruitment strategy over the next 12–18 months.",
-      "impact": "Low",
+      "title": "Vietnam and US begin talks on roadmap for concrete partnership results, ambassador says",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/politics/vietnam-and-us-begin-talks-on-roadmap-for-concrete-partnership-results-ambassador-says-5115026.html",
+      "pubDate": "2026-08-29",
+      "summary": "Vietnam and the United States have initiated discussions on a roadmap to achieve concrete and measurable outcomes from their Comprehensive Strategic Partnership. U.S. Ambassador to Vietnam Jennifer Wicks announced this at a press roundtable in Hanoi on August 28.",
+      "insight": "This diplomatic development may gradually strengthen Vietnam’s higher education engagement with English-speaking countries, potentially increasing student interest in the US, UK, Australia, and New Zealand—though direct enrolment impacts remain uncertain and likely medium- to long-term.  \nAdmissions teams should track bilateral education agreements, scholarship expansions, and Vietnamese government messaging on study abroad; also assess whether US visa processing improvements or new pathway programs emerge from these talks over the next 12–18 months.",
+      "impact": "Medium",
       "sources": [
-        "China"
+        "Southeast Asia"
       ],
-      "dests": [],
+      "dests": [
+        "USA"
+      ],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 8,
+      "relevanceScore": 7,
       "insightSource": "qwen"
     },
     {
       "id": 5,
-      "title": "Mainland school operator leases Kowloon tower as talent influx drives city’s education boom",
-      "source": "SCMP (Education)",
-      "color": "#7b241c",
-      "url": "https://www.scmp.com/business/article/3365053/mainland-school-operator-leases-kowloon-tower-talent-influx-drives-citys-education-boom?utm_source=rss_feed",
-      "pubDate": "2026-08-24",
-      "summary": "A Hong Kong-listed educational group has leased the entire Tower B at the China Life Centre in Hung Hom, Kowloon, marking the largest commercial property leasing deal in the city so far this quarter. The 36,400-square-foot space will be transformed into a purpose-built education complex, driven by increased demand from immigrant and expatriate families settling in Hong Kong.",
-      "insight": "This leasing deal reflects growing demand for premium education infrastructure in Hong Kong, potentially indicating shifting preferences among mainland Chinese families—some of whom may previously have favoured Western study destinations—though it does not directly signal reduced interest in overseas degrees.  \nAdmissions teams should monitor Hong Kong’s evolving visa policies for dependants, tuition fee trends at new local institutions, and sentiment shifts in mainland Chinese education forums, as these could indirectly influence outbound student decision-making over the next 12–24 months.",
-      "impact": "Low",
-      "sources": [
-        "China"
-      ],
-      "dests": [],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 6,
-      "title": "Australia: Carolyn Evans warns of fallout from further international student cuts",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/australia-carolyn-evans-warns-of-fallout-from-further-international-student-cuts/",
-      "pubDate": "2026-08-26",
-      "summary": "Carolyn Evans, chair of Universities Australia, warned that universities have become overly reliant on income from international students due to years of public funding cuts. She stressed that any further reduction in international student numbers must be accompanied by a plan to address the resulting financial fallout.",
-      "insight": "Australia’s potential international student cuts—driven by fiscal reliance and policy review—may indirectly influence global perceptions of stability and value, though direct demand shifts in other English-speaking destinations remain uncertain without parallel policy changes.  \nAdmissions teams should monitor Australian visa policy updates, enrolment data trends, and source-market sentiment surveys, particularly among high-intent cohorts in Asia, to assess whether competitor market adjustments create recalibration opportunities.",
-      "impact": "Low",
-      "sources": [],
-      "dests": [
-        "Australia"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 7,
-      "title": "Rochester Institute of Technology concludes its first student innovation programme in India",
+      "title": "Education, talent harvest will shape the future of India-U.K. relations",
       "source": "The Hindu (Edu)",
       "color": "#145a32",
-      "url": "https://www.thehindu.com/education/rochester-institute-of-technology-brings-its-first-student-innovation-program-in-india/article71398026.ece",
+      "url": "https://www.thehindu.com/education/education-talent-harvest-will-shape-the-future-of-india-uk-relations/article71395189.ece",
       "pubDate": "2026-08-28",
-      "summary": "Rochester Institute of Technology concluded its first student innovation programme in India. The programme was designed to foster innovation among students and marked RIT’s initial such initiative in the country.",
-      "insight": "RIT’s inaugural India-based innovation programme signals growing institutional interest in cultivating local talent pipelines, potentially reflecting broader shifts toward experiential, skills-aligned offerings that may influence Indian students’ perceptions of U.S. higher education value—though direct impact on enrolment demand remains unproven and context-dependent.  \nAdmissions teams should track whether such programmes correlate with increased applications from participating Indian institutions or cohorts, and consider piloting similar short-term, credit-bearing innovation experiences as recruitment touchpoints—while avoiding assumptions about scalability or immediate yield impact.",
+      "summary": "The article highlights that education and talent exchange are central to strengthening future India-U.K. relations. It notes the U.K.’s commitment to expanding student mobility, research collaboration, and skills partnerships with India under initiatives like the Enhanced Trade Partnership and the India-U.K. Roadmap 2030.",
+      "insight": "This news signals growing institutional and governmental prioritisation of India–U.K. academic ties, potentially reinforcing U.K. appeal for Indian students—though it doesn’t directly diminish demand for U.S., Australian or New Zealand study, especially given differing visa pathways and regional preferences.  \n\nAdmissions teams should monitor U.K. policy implementation timelines, scholarship expansions, and Indian student application trends to U.K. institutions, while assessing whether complementary messaging around global mobility or dual-degree opportunities could strengthen their value proposition.",
       "impact": "Low",
       "sources": [
         "India"
@@ -133,64 +97,46 @@
       "dests": [],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 8,
+      "relevanceScore": 7,
       "insightSource": "qwen"
     },
     {
-      "id": 8,
-      "title": "BIS HCMC marks 20 years of IB with largest cohort and two perfect scorers",
+      "id": 6,
+      "title": "Vietnamese lecturer turns her Chinese mastery into fully funded PhD scholarship",
       "source": "VnExpress (EN)",
       "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/education/bis-hcmc-marks-20-years-of-ib-with-largest-cohort-and-two-perfect-scorers-5114762.html",
-      "pubDate": "2026-08-28",
-      "summary": "The British International School Ho Chi Minh City (BIS HCMC) celebrated its 20th anniversary of offering the International Baccalaureate Diploma Programme (IBDP) with its largest cohort to date and two students achieving perfect scores of 45. The Class of 2026 earned an average IBDP score of 36.7, surpassing the global average of 30.9.",
-      "insight": "BIS HCMC’s record IB cohort and two perfect scores reflect growing academic ambition and institutional capacity among Vietnamese international schools, potentially indicating stronger pipeline quality for selective universities—though it remains unclear whether this signals broader demand shifts or is an isolated high-performer outlier.  \nAdmissions teams should track longitudinal IBDP participation and score trends across Vietnam’s top international schools, while reviewing recruitment outreach to BIS HCMC and similar institutions to assess alignment with their academic profile and student support needs.",
+      "url": "https://e.vnexpress.net/news/news/education/vietnamese-lecturer-turns-her-chinese-mastery-into-fully-funded-phd-scholarship-5115181.html",
+      "pubDate": "2026-08-30",
+      "summary": "A Vietnamese lecturer has been awarded a fully funded PhD scholarship in China. She earned the scholarship by achieving advanced proficiency in Chinese and submitting a research proposal focused on how learners acquire thousands of Chinese characters.",
+      "insight": "This story reflects growing academic mobility within Asia, suggesting potential shifts in student demand as Southeast Asian professionals increasingly pursue advanced degrees in China—though it remains unclear whether this signals broader regional preference changes or simply individual achievement.  \nAdmissions teams should monitor Chinese scholarship initiatives targeting ASEAN educators and track whether similar language-acquisition research proposals gain traction in Western PhD applications, as this could inform recruitment messaging around interdisciplinary linguistics pathways.",
+      "impact": "Low",
+      "sources": [
+        "China",
+        "Southeast Asia"
+      ],
+      "dests": [],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 7,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 7,
+      "title": "From valedictorian specializing in Mathematics to associate professor of semiconductors at Australia's No. 1 university",
+      "source": "VnExpress (Giáo dục)",
+      "color": "#b94500",
+      "url": "https://vnexpress.net/tu-thu-khoa-chuyen-toan-den-pgs-ban-dan-o-dai-hoc-so-1-australia-5108077.html",
+      "pubDate": "2026-08-30",
+      "summary": "Phan Hoang Phuong, an associate professor at the University of New South Wales—the top-ranked university in Australia—was formerly a mathematics-specializing valedictorian from Nghe An Province, Vietnam. He and his colleagues have recently developed an ultra-light wearable patch designed for remote detection of heart disease.",
+      "insight": "This story highlights how high-achieving international students—particularly from Vietnam—can attain elite academic positions in Australia, potentially reinforcing perceptions of Australian universities as credible pathways to research careers, though direct causal links to shifting enrolment demand remain unproven.  \nAdmissions teams should monitor Vietnamese student applications for STEM postgraduate programs and track whether institutions like UNSW amplify such success narratives in recruitment materials, while assessing if similar alumni stories emerge from the UK, USA, and New Zealand.",
       "impact": "Low",
       "sources": [],
       "dests": [
-        "UK"
+        "Australia"
       ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 9,
-      "title": "Vietnam to offer preferential visas to foreign visitors who spend more, stay longer",
-      "source": "VnExpress (EN)",
-      "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/vietnam-to-offer-preferential-visas-to-foreign-visitors-who-spend-more-stay-longer-5114649.html",
-      "pubDate": "2026-08-28",
-      "summary": "Vietnam will introduce preferential visas for foreign visitors who spend more and stay longer, as approved by a Politburo resolution. The same resolution expands visa waivers and mandates that international travelers carry travel insurance.",
-      "insight": "Vietnam’s preferential visa policy for high-spending, long-stay foreign visitors reflects a broader national push to boost tourism and services exports, which may indirectly signal growing openness to international mobility—but its direct impact on student visa pathways remains unconfirmed and likely minimal in the near term.  \nAdmissions teams should monitor whether Vietnam follows through with complementary student-specific incentives—such as streamlined dependent visas or post-study work extensions—and track how peer destinations like Thailand or Malaysia adjust their own policies in response to regional competitiveness shifts.",
-      "impact": "Low",
-      "sources": [
-        "Southeast Asia"
-      ],
-      "dests": [],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 10,
-      "title": "Tamil Nadu govt. signs MoU with National University of Singapore to expand collaboration",
-      "source": "The Hindu (Edu)",
-      "color": "#145a32",
-      "url": "https://www.thehindu.com/education/tamil-nadu-govt-signs-mou-with-national-university-of-singapore-to-expand-collaboration/article71404752.ece",
-      "pubDate": "2026-08-29",
-      "summary": "The Tamil Nadu government has signed a Memorandum of Understanding (MoU) with the National University of Singapore (NUS) to expand collaboration. The partnership aims to strengthen cooperation in areas including research, innovation, education, and capacity building.",
-      "insight": "This MoU signals growing academic ties between India and Singapore, potentially reinforcing Southeast Asia’s preference for high-quality, geographically proximate education—though it doesn’t directly reduce demand for Western degrees, it may intensify competition for top-tier Indian students eyeing regional alternatives.  \nAdmissions teams should monitor enrolment trends among Tamil Nadu students, especially in STEM and innovation-focused programmes, and assess whether NUS’s expanded outreach influences application patterns or scholarship expectations in this high-potential feeder region.",
-      "impact": "Low",
-      "sources": [
-        "Southeast Asia"
-      ],
-      "dests": [],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 8,
+      "translated": true,
+      "origLang": "vi",
+      "relevanceScore": 7,
       "insightSource": "qwen"
     }
   ]
