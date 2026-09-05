@@ -1,22 +1,22 @@
 {
-  "updated": "2026-09-04T05:13:45Z",
-  "count": 9,
-  "totalFetched": 170,
+  "updated": "2026-09-05T05:01:34Z",
+  "count": 3,
+  "totalFetched": 181,
   "articles": [
     {
       "id": 1,
-      "title": "Record non-DSE admissions to Hong Kong’s universities spark calls for quotas",
-      "source": "SCMP (Education)",
-      "color": "#7b241c",
-      "url": "https://www.scmp.com/news/hong-kong/education/article/3364971/record-non-dse-admissions-hong-kongs-universities-spark-calls-quotas?utm_source=rss_feed",
-      "pubDate": "2026-08-24",
-      "summary": "Hong Kong’s public universities admitted a record number of students applying outside the local Diploma of Secondary Education (DSE) exam system, with non-DSE admissions rising by 63 per cent over seven years to nearly 30 per cent of the 15,000 government-funded undergraduate places. Concurrently, DSE student admissions declined by 7 per cent, reducing their share of those places from 82 per cent to 72 per cent.",
-      "insight": "Hong Kong’s sharp rise in non-DSE admissions—especially from mainland China—may reflect shifting preferences among high-achieving Chinese students toward alternative pathways, though it remains unclear whether this signals broader regional demand shifts or is specific to Hong Kong’s policy and capacity constraints.  \nAdmissions teams should monitor mainland Chinese student application trends to Hong Kong versus traditional Anglophone destinations, alongside any policy changes affecting Hong Kong’s visa rules or tuition subsidies, as early indicators of evolving strategic choices in the Greater China education market.",
+      "title": "Recruiting under Canada’s international student cap: Six strategic enrolment gaps that matter",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/08/recruiting-under-canadas-international-student-cap-six-strategic-enrolment-gaps-that-matter/",
+      "pubDate": "2026-08-26",
+      "summary": "Recruitment teams across Canada are struggling to meet enrolment targets despite the international student cap, as new student arrivals fell by 61% last year—lower than even during the COVID-19 pandemic. The cap is no longer a binding constraint for most institutions, since very few have been using their full allocated quotas, and the primary challenges now lie in demand generation and application approvals.",
+      "insight": "Canada’s sharp 61% drop in new international student arrivals—exceeding pandemic-era lows—suggests weakening demand or systemic barriers in key source markets, though it remains unclear whether this reflects broader global sentiment shifts or Canada-specific policy fatigue and visa processing delays.  \nAdmissions teams should track application volumes, visa refusal rates, and enrolment yield trends across shared source countries—particularly India, Nigeria, and China—to assess whether Canada’s struggles signal emerging competitive opportunities or shared systemic risks requiring proactive market intelligence.",
       "impact": "High",
-      "sources": [
-        "China"
+      "sources": [],
+      "dests": [
+        "Canada"
       ],
-      "dests": [],
       "translated": false,
       "origLang": null,
       "relevanceScore": 8,
@@ -24,14 +24,14 @@
     },
     {
       "id": 2,
-      "title": "First-year international applications to US colleges drop 10% amid policy shifts",
-      "source": "VnExpress (EN)",
-      "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/education/first-year-international-applications-to-us-colleges-drop-10-amid-policy-shifts-5114232.html",
-      "pubDate": "2026-08-29",
-      "summary": "First-year international applications to U.S. colleges declined by approximately 10% during the 2025–26 admissions cycle. This marks the end of nearly a decade of growth and reflects weakening interest across major international student source regions.",
-      "insight": "The 10% drop in first-year international applications to US colleges signals potential softening in global demand, possibly reflecting shifting perceptions of US visa policies, post-study work prospects, or geopolitical concerns—though causality remains unclear and regional variations likely dilute any single explanation.  \nAdmissions teams should track application trends by source country and program level, benchmark against peer institutions’ yield data, and assess whether recent policy adjustments or competitor messaging may be influencing student decision-making ahead of the next admissions cycle.",
-      "impact": "Medium",
+      "title": "US Department of State issued 23% fewer study visas to international students in 2025",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/08/us-department-of-state-issued-23-fewer-study-visas-to-international-students-in-2025/",
+      "pubDate": "2026-08-27",
+      "summary": "The US Department of State issued 23% fewer F-1, M-1, and J-1 student visas to international students in 2025 compared to 2024. Among these, F-1 visa issuances—used by degree-seeking students—declined by one-third during the same period.",
+      "insight": "The 23% drop in US student visas—especially the 33% decline in F-1 issuances—may reflect tighter visa adjudication, shifting geopolitical perceptions, or reduced application volumes, though it’s unclear whether this signals weaker underlying demand or procedural constraints.  \nAdmissions teams should track real-time application and enrolment data by origin country, monitor visa refusal rates and processing times, and assess how peer destinations’ policies and messaging are resonating with prospective students amid evolving global mobility trends.",
+      "impact": "Low",
       "sources": [],
       "dests": [
         "USA"
@@ -43,132 +43,18 @@
     },
     {
       "id": 3,
-      "title": "Canada raises financial proof requirement for international students again, one year after previous hike",
-      "source": "VnExpress (EN)",
-      "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/education/canada-raises-financial-proof-requirement-for-international-students-again-one-year-after-previous-hike-5116110.html",
-      "pubDate": "2026-09-03",
-      "summary": "Canada has increased the required proof of financial resources for international students to CA$23,448 per year for living expenses. This new requirement took effect on September 1, marking the second such increase within one year.",
-      "insight": "Canada’s latest financial proof hike—raising the threshold to CA$23,448—may dampen short-term application volumes from cost-sensitive markets, though its net impact on global demand remains uncertain given concurrent shifts in visa processing, exchange rates, and perceptions of post-study work value.  \nAdmissions teams should track real-time application trends from Canada’s top feeder countries (e.g., India, Nigeria, Philippines), monitor peer institutions’ scholarship adjustments, and assess whether prospective students are citing affordability or policy uncertainty as key decision factors in inquiry data.",
-      "impact": "Medium",
-      "sources": [],
-      "dests": [
-        "Canada"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 4,
-      "title": "Rubio’s student visa revocations ruled “retaliatory”",
+      "title": "BCA season: UKVI is checking its list, we’re checking ours twice",
       "source": "The PIE News",
       "color": "#7b341e",
-      "url": "https://thepienews.com/rubios-student-visa-revocations-ruled-retaliatory/",
-      "pubDate": "2026-09-02",
-      "summary": "Stanford University’s student newspaper won a legal challenge against the US State Department regarding the revocation of F-1 visas and deportation of students who expressed pro-Palestine views. A court ruled these visa revocations were retaliatory and therefore illegal.",
-      "insight": "This ruling highlights growing legal and reputational risks for US institutions if visa actions against international students appear politically motivated, potentially dampening demand from rights-conscious source markets—though broader enrolment trends remain influenced by many factors beyond this single case.  \nAdmissions teams should monitor State Department policy updates, litigation outcomes involving academic expression, and sentiment shifts in key recruitment regions, while reviewing how their institutions publicly uphold student rights and due process in communications with prospective applicants.",
+      "url": "https://thepienews.com/bca-season-ukvi-is-checking-its-list-were-checking-ours-twice/",
+      "pubDate": "2026-09-04",
+      "summary": "The article discusses the post-BCA (Border, Citizenship and Immigration) season period when UK Visas and Immigration (UKVI) reviews its list of licensed education sponsors while sponsors simultaneously review their own compliance records. Due to delays in data sharing, UKVI’s list and sponsors’ internal records may not align, creating potential discrepancies in sponsor status verification.",
+      "insight": "This news signals potential short-term administrative friction for UK-bound international students, as misaligned sponsor lists could delay visa processing or cause confusion—though it doesn’t directly indicate shifts in demand, sentiment, or policy, its timing may amplify existing anxieties in key source markets like India or Nigeria.  \nAdmissions teams should monitor UKVI’s updated sponsor list and liaise with UK partners to verify status continuity, while preparing clear, proactive communications for applicants about possible verification delays—not as an immediate crisis, but as a prudent operational checkpoint.",
       "impact": "Low",
       "sources": [],
       "dests": [
-        "USA"
+        "UK"
       ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 5,
-      "title": "Australia: Decline in international higher education commencements projected for 2026",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/09/australia-decline-in-international-higher-education-commencements-projected-for-2026/",
-      "pubDate": "2026-09-03",
-      "summary": "Australian universities are projected to experience a decline in international higher education commencements in 2026, according to Keri Ramirez, managing director of Studymove. This projection is based on the combined impact of recent government policy changes, including adjustments to post-study work rights, English-language requirements, and New Overseas Student Commencements (NOSC) allocations.",
-      "insight": "Australia’s projected 2026 decline in international commencements—driven by tightened post-study work rights, higher English requirements, and capped NOSC allocations—may modestly increase demand for alternative destinations like the USA, UK, and New Zealand, though student mobility decisions remain highly individualised and influenced by broader economic and geopolitical factors.  \nAdmissions teams should track real-time application trends from key Australian source markets (e.g., India, China, Nepal), monitor competitor messaging around work rights and pathway clarity, and assess whether their own visa policy stability or post-study opportunities can be positioned more proactively in recruitment outreach.",
-      "impact": "Low",
-      "sources": [],
-      "dests": [
-        "Australia"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 6,
-      "title": "US government warns universities to limit their authorisation of Curricular Practical Training work placements",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/09/us-government-warns-universities-to-limit-their-authorisation-of-curricular-practical-training-work-placements/",
-      "pubDate": "2026-09-03",
-      "summary": "The U.S. government, under the Trump administration, issued warnings to universities urging them to limit their authorisation of Curricular Practical Training (CPT) work placements for international students. Immigration and Customs Enforcement (ICE) stated in memos that the Student and Exchange Visitor Program (SEVP) has observed an increase in CPT authorisations that fail to meet regulatory requirements.",
-      "insight": "This development signals potential tightening of U.S. work-integrated learning pathways for international students, which may dampen U.S. appeal relative to countries with more stable or generous post-study work options—though demand shifts will depend on broader immigration policy consistency and source market perceptions.  \nAdmissions teams should monitor U.S. CPT compliance guidance updates, track application trends from key markets like India and China, and assess whether partner institutions are adjusting CPT-related advising or program structures in response to regulatory scrutiny.",
-      "impact": "Low",
-      "sources": [],
-      "dests": [
-        "USA"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 7,
-      "title": "Mainland school operator leases Kowloon tower as talent influx drives city’s education boom",
-      "source": "SCMP (Education)",
-      "color": "#7b241c",
-      "url": "https://www.scmp.com/business/article/3365053/mainland-school-operator-leases-kowloon-tower-talent-influx-drives-citys-education-boom?utm_source=rss_feed",
-      "pubDate": "2026-08-24",
-      "summary": "A Hong Kong-listed educational group has leased the entire Tower B at the China Life Centre in Hung Hom, Kowloon, marking the largest commercial property leasing deal in the city so far this quarter. The 36,400-square-foot space will be transformed into a purpose-built education complex, driven by increased demand from immigrant and expatriate families settling in Hong Kong.",
-      "insight": "This leasing deal reflects growing demand for premium education infrastructure in Hong Kong, potentially indicating shifting preferences among mainland Chinese families—some of whom may previously have favoured Western study destinations—though it does not directly signal reduced interest in overseas degrees.  \nAdmissions teams should monitor Hong Kong’s evolving visa policies for dependants, tuition fee trends at new local institutions, and sentiment shifts in mainland Chinese education forums, as these could indirectly influence outbound student decision-making over the next 12–24 months.",
-      "impact": "Low",
-      "sources": [
-        "China"
-      ],
-      "dests": [],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 7,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 8,
-      "title": "Tamil Nadu govt. signs MoU with National University of Singapore to expand collaboration",
-      "source": "The Hindu (Edu)",
-      "color": "#145a32",
-      "url": "https://www.thehindu.com/education/tamil-nadu-govt-signs-mou-with-national-university-of-singapore-to-expand-collaboration/article71404752.ece",
-      "pubDate": "2026-08-29",
-      "summary": "The Tamil Nadu government has signed a Memorandum of Understanding (MoU) with the National University of Singapore (NUS) to expand collaboration. The partnership aims to strengthen cooperation in areas including research, innovation, education, and capacity building.",
-      "insight": "This MoU signals growing academic ties between India and Singapore, potentially reinforcing Southeast Asia’s perception of high-quality, regionally accessible alternatives to Western study destinations—though direct impact on demand for US/UK/AU/NZ institutions remains uncertain without evidence of shifting enrolment patterns.  \nAdmissions teams should monitor whether such partnerships catalyse increased student mobility within Asia, particularly tracking if Tamil Nadu students begin prioritising Singaporean degrees—or dual-qualification pathways—as viable substitutes, and assess implications for scholarship positioning and regional outreach strategies.",
-      "impact": "Low",
-      "sources": [
-        "Southeast Asia"
-      ],
-      "dests": [],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 7,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 9,
-      "title": "HKU partners with tech giants to offer AI labs at expanded Shanghai campus",
-      "source": "SCMP (Education)",
-      "color": "#7b241c",
-      "url": "https://www.scmp.com/news/hong-kong/education/article/3366026/hku-partners-tech-giants-offer-ai-labs-expanded-shanghai-campus?utm_source=rss_feed",
-      "pubDate": "2026-09-02",
-      "summary": "The University of Hong Kong (HKU) has partnered with major technology companies to establish on-site artificial intelligence laboratories at its expanded Shanghai campus in Zhangjiang Science City, which recently welcomed over 300 students for the new term. The campus, where HKU’s School of Computing and Data Science opened a base in mid-January, will expand its student intake next year to include medicine and engineering programmes.",
-      "insight": "HKU’s Shanghai AI labs signal growing Chinese student preference for high-quality, locally accessible STEM education with industry ties—potentially dampening outbound demand for Western AI programmes, though direct impact remains uncertain given HKU’s unique cross-border status and China’s broader study-abroad trends.  \nAdmissions teams should monitor enrolment shifts in China-facing AI and computing programmes at peer institutions, track Zhangjiang Science City’s industry partnerships, and assess whether similar Sino-foreign campus models emerge as credible alternatives to traditional overseas study.",
-      "impact": "Low",
-      "sources": [
-        "China"
-      ],
-      "dests": [],
       "translated": false,
       "origLang": null,
       "relevanceScore": 7,
