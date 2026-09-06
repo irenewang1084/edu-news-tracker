@@ -1,18 +1,18 @@
 {
-  "updated": "2026-09-05T05:01:34Z",
-  "count": 3,
-  "totalFetched": 181,
+  "updated": "2026-09-06T05:14:53Z",
+  "count": 8,
+  "totalFetched": 168,
   "articles": [
     {
       "id": 1,
-      "title": "Recruiting under Canada’s international student cap: Six strategic enrolment gaps that matter",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/08/recruiting-under-canadas-international-student-cap-six-strategic-enrolment-gaps-that-matter/",
-      "pubDate": "2026-08-26",
-      "summary": "Recruitment teams across Canada are struggling to meet enrolment targets despite the international student cap, as new student arrivals fell by 61% last year—lower than even during the COVID-19 pandemic. The cap is no longer a binding constraint for most institutions, since very few have been using their full allocated quotas, and the primary challenges now lie in demand generation and application approvals.",
-      "insight": "Canada’s sharp 61% drop in new international student arrivals—exceeding pandemic-era lows—suggests weakening demand or systemic barriers in key source markets, though it remains unclear whether this reflects broader global sentiment shifts or Canada-specific policy fatigue and visa processing delays.  \nAdmissions teams should track application volumes, visa refusal rates, and enrolment yield trends across shared source countries—particularly India, Nigeria, and China—to assess whether Canada’s struggles signal emerging competitive opportunities or shared systemic risks requiring proactive market intelligence.",
-      "impact": "High",
+      "title": "Canada raises financial proof requirement for international students again, one year after previous hike",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/education/canada-raises-financial-proof-requirement-for-international-students-again-one-year-after-previous-hike-5116110.html",
+      "pubDate": "2026-09-03",
+      "summary": "Canada has increased the required proof of financial resources for international students to CA$23,448 per year for living expenses. This new requirement took effect on September 1, marking the second such increase within one year.",
+      "insight": "Canada’s latest financial proof hike—raising the threshold to CA$23,448—may dampen short-term application volumes from cost-sensitive markets, though its net impact on global demand remains uncertain given concurrent shifts in visa processing, exchange rates, and perceptions of post-study work value.  \nAdmissions teams should track real-time application trends from Canada’s top feeder countries (e.g., India, Nigeria, Philippines), monitor peer institutions’ scholarship adjustments, and assess whether prospective students are citing affordability or policy uncertainty as key decision factors in inquiry data.",
+      "impact": "Medium",
       "sources": [],
       "dests": [
         "Canada"
@@ -24,13 +24,51 @@
     },
     {
       "id": 2,
-      "title": "US Department of State issued 23% fewer study visas to international students in 2025",
+      "title": "Hong Kong to boost STEAM degrees as city targets two-way global education highway",
+      "source": "SCMP (Education)",
+      "color": "#7b241c",
+      "url": "https://www.scmp.com/news/hong-kong/education/article/3366475/inaugural-global-education-summit-explores-ai-future-talent-and-changing-pathways?utm_source=rss_feed",
+      "pubDate": "2026-09-05",
+      "summary": "The Hong Kong government plans to expand STEAM (science, technology, engineering, arts, and mathematics) education and allocate additional land for higher education institutions. Education Secretary Christine Choi Yuk-lin announced this initiative at the inaugural Global Education Summit, co-organized by the South China Morning Post and HSBC Premier, aiming to shift Hong Kong’s traditional study-abroad pattern from a “one-way street” to a “two-way global highway”.",
+      "insight": "Hong Kong’s push to expand STEAM degrees and attract more international students signals potential intensification of regional competition for high-achieving STEM/STEAM applicants, particularly from mainland China—though the actual enrolment impact remains uncertain pending implementation scale and global perceptions of academic quality and post-study opportunities.  \nAdmissions teams should monitor Hong Kong’s new degree offerings, scholarship rollouts, and visa policy adjustments for mainland Chinese students, while assessing whether its “two-way highway” framing translates into tangible incentives that could divert applications from traditional Anglophone destinations.",
+      "impact": "Medium",
+      "sources": [
+        "China"
+      ],
+      "dests": [],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 3,
+      "title": "Australia: Decline in international higher education commencements projected for 2026",
       "source": "ICEF Monitor",
       "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/08/us-department-of-state-issued-23-fewer-study-visas-to-international-students-in-2025/",
-      "pubDate": "2026-08-27",
-      "summary": "The US Department of State issued 23% fewer F-1, M-1, and J-1 student visas to international students in 2025 compared to 2024. Among these, F-1 visa issuances—used by degree-seeking students—declined by one-third during the same period.",
-      "insight": "The 23% drop in US student visas—especially the 33% decline in F-1 issuances—may reflect tighter visa adjudication, shifting geopolitical perceptions, or reduced application volumes, though it’s unclear whether this signals weaker underlying demand or procedural constraints.  \nAdmissions teams should track real-time application and enrolment data by origin country, monitor visa refusal rates and processing times, and assess how peer destinations’ policies and messaging are resonating with prospective students amid evolving global mobility trends.",
+      "url": "https://monitor.icef.com/2026/09/australia-decline-in-international-higher-education-commencements-projected-for-2026/",
+      "pubDate": "2026-09-03",
+      "summary": "Australian universities are projected to experience a decline in international higher education commencements in 2026, according to Keri Ramirez, managing director of Studymove. This projection is based on the combined impact of recent government policy changes, including adjustments to post-study work rights, English-language requirements, and New Overseas Student Commencements (NOSC) allocations.",
+      "insight": "Australia’s projected 2026 decline in international commencements—driven by tightened post-study work rights, higher English requirements, and capped NOSC allocations—may modestly increase demand for alternative destinations like the USA, UK, and New Zealand, though actual spillover depends on source market awareness, affordability, and comparative policy stability.  \nAdmissions teams should track real-time application trends from key Australian feeder markets (e.g., India, China, Nepal), assess whether their own visa pathways and graduate outcomes remain competitive, and review messaging around employability to preempt potential shifts in student consideration sets.",
+      "impact": "Low",
+      "sources": [],
+      "dests": [
+        "Australia"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 4,
+      "title": "US government warns universities to limit their authorisation of Curricular Practical Training work placements",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/09/us-government-warns-universities-to-limit-their-authorisation-of-curricular-practical-training-work-placements/",
+      "pubDate": "2026-09-03",
+      "summary": "The U.S. government, specifically Immigration and Customs Enforcement (ICE), has issued warnings to universities urging them to limit authorizations for Curricular Practical Training (CPT) work placements. ICE stated that the Student and Exchange Visitor Program (SEVP) has observed an increase in CPT authorizations that fail to meet regulatory requirements.",
+      "insight": "This ICE warning signals potential tightening of CPT eligibility, which may dampen U.S. appeal for international students prioritising post-study work opportunities—though direct impact on enrolment demand remains uncertain pending enforcement clarity and regional alternatives.  \nAdmissions teams should track CPT approval rates at peer institutions, consult legal counsel on programme compliance, and assess whether to proactively clarify work-integrated learning pathways in recruitment messaging to manage applicant expectations.",
       "impact": "Low",
       "sources": [],
       "dests": [
@@ -42,21 +80,79 @@
       "insightSource": "qwen"
     },
     {
-      "id": 3,
-      "title": "BCA season: UKVI is checking its list, we’re checking ours twice",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/bca-season-ukvi-is-checking-its-list-were-checking-ours-twice/",
-      "pubDate": "2026-09-04",
-      "summary": "The article discusses the post-BCA (Border, Citizenship and Immigration) season period when UK Visas and Immigration (UKVI) reviews its list of licensed education sponsors while sponsors simultaneously review their own compliance records. Due to delays in data sharing, UKVI’s list and sponsors’ internal records may not align, creating potential discrepancies in sponsor status verification.",
-      "insight": "This news signals potential short-term administrative friction for UK-bound international students, as misaligned sponsor lists could delay visa processing or cause confusion—though it doesn’t directly indicate shifts in demand, sentiment, or policy, its timing may amplify existing anxieties in key source markets like India or Nigeria.  \nAdmissions teams should monitor UKVI’s updated sponsor list and liaise with UK partners to verify status continuity, while preparing clear, proactive communications for applicants about possible verification delays—not as an immediate crisis, but as a prudent operational checkpoint.",
+      "id": 5,
+      "title": "Mainland school operator leases Kowloon tower as talent influx drives city’s education boom",
+      "source": "SCMP (Education)",
+      "color": "#7b241c",
+      "url": "https://www.scmp.com/business/article/3365053/mainland-school-operator-leases-kowloon-tower-talent-influx-drives-citys-education-boom?utm_source=rss_feed",
+      "pubDate": "2026-08-24",
+      "summary": "A Hong Kong-listed educational group has leased the entire Tower B at the China Life Centre in Hung Hom, Kowloon, marking the largest commercial property leasing deal in the city so far this quarter. The 36,400-square-foot space will be transformed into a purpose-built education complex, driven by increased demand from immigrant and expatriate families settling in Hong Kong.",
+      "insight": "This leasing deal reflects growing demand for premium education infrastructure in Hong Kong, potentially indicating shifting preferences among mainland Chinese families—some of whom may previously have favoured Western study destinations—though it does not directly signal reduced interest in overseas degrees.  \nAdmissions teams should monitor Hong Kong’s evolving visa policies for dependants, tuition fee trends at new local institutions, and sentiment shifts in mainland Chinese education forums, as these could indirectly influence outbound student decision-making over the next 12–24 months.",
+      "impact": "Low",
+      "sources": [
+        "China"
+      ],
+      "dests": [],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 7,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 6,
+      "title": "Vietnamese lecturer turns her Chinese mastery into fully funded PhD scholarship",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/education/vietnamese-lecturer-turns-her-chinese-mastery-into-fully-funded-phd-scholarship-5115181.html",
+      "pubDate": "2026-08-30",
+      "summary": "A Vietnamese lecturer has been awarded a fully funded PhD scholarship in China. She earned the scholarship by achieving advanced proficiency in Chinese and submitting a research proposal focused on how learners acquire thousands of Chinese words.",
+      "insight": "This news hints at growing academic mobility within Asia, where advanced language proficiency and regionally relevant research topics may increasingly drive scholarship success—though it’s unclear whether this reflects broader shifts in demand for Western PhD programs or simply niche excellence.  \nAdmissions teams should monitor rising Chinese-language competency among Southeast Asian applicants and assess whether integrating language-supported research pathways could strengthen appeal without diverting from core disciplinary strengths.",
+      "impact": "Low",
+      "sources": [
+        "China",
+        "Southeast Asia"
+      ],
+      "dests": [],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 7,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 7,
+      "title": "HKU partners with tech giants to offer AI labs at expanded Shanghai campus",
+      "source": "SCMP (Education)",
+      "color": "#7b241c",
+      "url": "https://www.scmp.com/news/hong-kong/education/article/3366026/hku-partners-tech-giants-offer-ai-labs-expanded-shanghai-campus?utm_source=rss_feed",
+      "pubDate": "2026-09-02",
+      "summary": "The University of Hong Kong (HKU) has partnered with major technology companies to establish on-site artificial intelligence laboratories at its expanded Shanghai campus located in Zhangjiang Science City, which recently welcomed over 300 students for the new term. The campus, which opened a computing and data science school base in mid-January, will expand its student intake next year to include HKU’s medicine and engineering programmes.",
+      "insight": "HKU’s Shanghai AI labs signal growing Chinese student preference for high-quality, locally accessible STEM education with industry ties—potentially dampening outbound demand for Western AI programmes, though direct impact remains uncertain given HKU’s unique cross-border status and China’s broader study-abroad trends.  \nAdmissions teams should monitor enrolment shifts in China-facing AI/computing cohorts, track partnerships between Chinese institutions and global tech firms, and assess whether similar hybrid campus models emerge elsewhere—using this as contextual input rather than a trigger for immediate strategy changes.",
+      "impact": "Low",
+      "sources": [
+        "China"
+      ],
+      "dests": [],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 7,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 8,
+      "title": "The cost of studying in the US exceeds 100,000 USD/year at 15 schools",
+      "source": "VnExpress (Giáo dục)",
+      "color": "#b94500",
+      "url": "https://vnexpress.net/chi-phi-du-hoc-my-vuot-100-000-usd-nam-o-15-truong-5114638.html",
+      "pubDate": "2026-09-06",
+      "summary": "Fifteen American universities have announced total annual costs exceeding $100,000 for new students, covering tuition, fees, accommodation, and other expenses. Harvey Mudd College is the most expensive among them.",
+      "insight": "This news may signal growing affordability concerns among international families, particularly in price-sensitive markets, though it’s unclear whether $100k+ pricing directly reduces demand or simply reinforces perceptions of US education as premium—and increasingly exclusive—amid rising global competition.  \n\nAdmissions teams should monitor application volume and yield trends from key source countries, especially China and India, alongside shifts in scholarship uptake and inquiries about financing options, while benchmarking their own value proposition against both high-cost US peers and more affordable UK/AU/NZ alternatives.",
       "impact": "Low",
       "sources": [],
       "dests": [
-        "UK"
+        "USA"
       ],
-      "translated": false,
-      "origLang": null,
+      "translated": true,
+      "origLang": "vi",
       "relevanceScore": 7,
       "insightSource": "qwen"
     }
