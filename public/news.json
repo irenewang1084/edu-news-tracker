@@ -1,17 +1,17 @@
 {
-  "updated": "2026-09-09T05:32:59Z",
-  "count": 4,
-  "totalFetched": 165,
+  "updated": "2026-09-10T05:25:32Z",
+  "count": 5,
+  "totalFetched": 168,
   "articles": [
     {
       "id": 1,
-      "title": "US Department of State issued 23% fewer study visas to international students in 2025",
+      "title": "US government warns universities to limit their authorisation of Curricular Practical Training work placements",
       "source": "ICEF Monitor",
       "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/08/us-department-of-state-issued-23-fewer-study-visas-to-international-students-in-2025/",
-      "pubDate": "2026-08-27",
-      "summary": "The US Department of State issued 23% fewer F-1, M-1, and J-1 student visas to international students in 2025 compared to 2024. Among these, F-1 visa issuances—used by degree-seeking students—declined by one-third during the same period.",
-      "insight": "The 23% drop in US student visas—especially the 33% decline in F-1 issuances—may reflect tighter visa adjudication, shifting geopolitical perceptions, or reduced application volumes, though it’s unclear whether this signals sustained demand erosion or temporary administrative constraints.  \nAdmissions teams should track real-time application and enrolment data from key source markets, monitor visa processing times and refusal rates, and assess how peer institutions in the UK, Australia, and New Zealand are adjusting messaging and support amid evolving global mobility sentiment.",
+      "url": "https://monitor.icef.com/2026/09/us-government-warns-universities-to-limit-their-authorisation-of-curricular-practical-training-work-placements/",
+      "pubDate": "2026-09-03",
+      "summary": "The U.S. government, specifically Immigration and Customs Enforcement (ICE), has issued warnings to universities urging them to limit authorizations for Curricular Practical Training (CPT) work placements. ICE stated that the Student and Exchange Visitor Program (SEVP) has observed an increase in CPT authorizations that fail to meet regulatory requirements.",
+      "insight": "This ICE warning signals potential tightening of CPT eligibility, which may dampen perceived post-study work value for prospective international students—especially from markets prioritising U.S. employment pathways—though broader demand trends remain influenced by multiple factors including competing destinations’ policies.  \nAdmissions teams should monitor U.S. institutional CPT compliance updates and student sentiment in key source markets, while reviewing how their own career support services align with evolving regulatory expectations—not as an immediate crisis, but as part of longer-term recruitment risk mitigation.",
       "impact": "Low",
       "sources": [],
       "dests": [
@@ -19,22 +19,22 @@
       ],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 8,
+      "relevanceScore": 9,
       "insightSource": "qwen"
     },
     {
       "id": 2,
-      "title": "New Zealand international education export earnings hit $4.98bn",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/new-zealand-international-education-export-earnings-hit-4-98bn/",
-      "pubDate": "2026-09-08",
-      "summary": "New Zealand’s international education sector generated NZ$4.98 billion in export earnings, exceeding its pre-pandemic value. This figure brings the government’s longer-term growth target closer to being achieved.",
-      "insight": "New Zealand’s $4.98bn international education export earnings—surpassing pre-pandemic levels—suggest sustained global demand and effective post-pandemic recovery, though it’s unclear whether this reflects broader sector-wide growth or NZ-specific policy, market positioning, or visa advantages.  \nAdmissions teams should monitor NZ’s visa processing times, scholarship offerings, and post-study work rights relative to their own countries, while tracking source-market sentiment shifts—especially among Asian and Pacific students—to assess potential competitive pressure or collaboration opportunities.",
+      "title": "Australia: Decline in international higher education commencements projected for 2026",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/09/australia-decline-in-international-higher-education-commencements-projected-for-2026/",
+      "pubDate": "2026-09-03",
+      "summary": "Australian universities are projected to experience a decline in international higher education commencements in 2026, according to Keri Ramirez, managing director of Studymove. This projection is based on the combined impact of recent government policy changes, including adjustments to post-study work rights, English-language requirements, and New Overseas Student Commencements (NOSC) allocations.",
+      "insight": "Australia’s projected 2026 decline in international commencements—driven by tightened post-study work rights, higher English requirements, and capped NOSC allocations—may modestly increase demand for alternative destinations like the USA, UK, and New Zealand, though student mobility decisions remain highly individualised and influenced by broader economic and geopolitical factors.  \nAdmissions teams should track real-time application trends from key Australian feeder markets (e.g., India, China, Nepal), monitor competitor messaging around visa stability and graduate outcomes, and assess whether their own policy clarity and support services offer a tangible differentiator amid growing global uncertainty about post-study pathways.",
       "impact": "Low",
       "sources": [],
       "dests": [
-        "New Zealand"
+        "Australia"
       ],
       "translated": false,
       "origLang": null,
@@ -43,13 +43,32 @@
     },
     {
       "id": 3,
-      "title": "Foreign, mainland students flock to Hong Kong, sparking property demand in education sector",
+      "title": "Hong Kong to boost STEAM degrees as city targets two-way global education highway",
       "source": "SCMP (Education)",
       "color": "#7b241c",
-      "url": "https://www.scmp.com/business/article/3366576/foreign-mainland-students-flock-hong-kong-sparking-property-demand-education-sector?utm_source=rss_feed",
-      "pubDate": "2026-09-08",
-      "summary": "Hong Kong is projected to host around 200,000 non-local students by 2035 as part of its effort to become a global education hub, according to CBRE. To accommodate an estimated 30,000 to 40,000 non-local students in international schools, the city will need to establish 40 to 50 new campuses, requiring up to an additional 1.11 million square metres of real estate.",
-      "insight": "Hong Kong’s push to host 200,000 non-local students by 2035—especially mainland Chinese learners—may intensify regional competition for high-income, English-proficient cohorts, though its direct impact on Western university demand remains uncertain amid differing academic offerings and visa frameworks.  \nAdmissions teams should monitor Hong Kong’s actual enrolment growth, scholarship uptake, and mainland student mobility patterns over the next 12–24 months, particularly shifts in preferences between Anglophone destinations and Asia-based alternatives with strong English instruction.",
+      "url": "https://www.scmp.com/news/hong-kong/education/article/3366475/inaugural-global-education-summit-explores-ai-future-talent-and-changing-pathways?utm_source=rss_feed",
+      "pubDate": "2026-09-05",
+      "summary": "The Hong Kong government plans to expand STEAM (science, technology, engineering, arts, and mathematics) education and allocate additional land for higher education institutions. Education Secretary Christine Choi Yuk-lin announced this initiative at the inaugural Global Education Summit, co-organized by the South China Morning Post and HSBC Premier, aiming to shift Hong Kong’s traditional study-abroad pattern from a “one-way street” to a “two-way global highway”.",
+      "insight": "Hong Kong’s push to expand STEAM degrees and attract more international students signals potential intensification of regional competition for high-achieving STEM/STEAM applicants, particularly from mainland China—though the actual enrolment impact remains uncertain pending implementation scale and global perceptions of academic quality and post-study opportunities.  \nAdmissions teams should monitor Hong Kong’s new degree offerings, scholarship rollouts, and visa policy adjustments for mainland Chinese students, while assessing whether its “two-way highway” framing translates into tangible incentives that could divert applications from traditional Anglophone destinations.",
+      "impact": "Medium",
+      "sources": [
+        "China"
+      ],
+      "dests": [],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 7,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 4,
+      "title": "HKU partners with tech giants to offer AI labs at expanded Shanghai campus",
+      "source": "SCMP (Education)",
+      "color": "#7b241c",
+      "url": "https://www.scmp.com/news/hong-kong/education/article/3366026/hku-partners-tech-giants-offer-ai-labs-expanded-shanghai-campus?utm_source=rss_feed",
+      "pubDate": "2026-09-02",
+      "summary": "The University of Hong Kong (HKU) has partnered with major technology companies to establish on-site artificial intelligence laboratories at its expanded Shanghai campus located in Zhangjiang Science City, which recently welcomed over 300 students for the new term. The campus, which opened a computing and data science school base in mid-January, will expand its student intake next year to include HKU’s medicine and engineering programmes.",
+      "insight": "HKU’s Shanghai AI labs signal growing Chinese student preference for high-quality, locally accessible STEM education with industry ties—potentially dampening outbound demand for Western AI programmes, though direct impact on US/UK/AU/NZ enrolments remains uncertain amid broader geopolitical and cost factors.  \nAdmissions teams should track Shanghai campus enrolment growth by programme and nationality, assess whether HKU’s industry partnerships attract students who might otherwise choose Western universities, and review their own corporate engagement strategies in key Asian markets.",
       "impact": "Low",
       "sources": [
         "China"
@@ -57,11 +76,11 @@
       "dests": [],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 8,
+      "relevanceScore": 7,
       "insightSource": "qwen"
     },
     {
-      "id": 4,
+      "id": 5,
       "title": "US student visa issuances plunge 23% amid tighter immigration scrutiny",
       "source": "VnExpress (EN)",
       "color": "#d35400",
@@ -79,7 +98,7 @@
       ],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 8,
+      "relevanceScore": 6,
       "insightSource": "qwen"
     }
   ]
