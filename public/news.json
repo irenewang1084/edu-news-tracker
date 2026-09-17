@@ -1,17 +1,36 @@
 {
-  "updated": "2026-09-16T05:25:56Z",
-  "count": 10,
-  "totalFetched": 167,
+  "updated": "2026-09-17T05:34:03Z",
+  "count": 5,
+  "totalFetched": 173,
   "articles": [
     {
       "id": 1,
-      "title": "US court grants preliminary injunction to block rule that would have ended Duration of Status admissions for international students",
+      "title": "For the first time, the Australian government has exercised its powers to cancel an entire course",
       "source": "ICEF Monitor",
       "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/09/us-court-grants-preliminary-injunction-to-block-rule-that-would-have-ended-duration-of-status-admissions-for-international-students/",
+      "url": "https://monitor.icef.com/2026/09/for-the-first-time-the-australian-government-has-exercised-its-powers-to-cancel-an-entire-course/",
+      "pubDate": "2026-09-10",
+      "summary": "In late 2025, the Australian Parliament passed legislative amendments expanding government oversight and regulatory powers over the international education sector, including through updates to the National Code of Practice for Providers of Education and Training to Overseas Students. This marked the first time the Australian government used its newly granted authority to cancel an entire course.",
+      "insight": "This development signals growing regulatory scrutiny of course quality and compliance in Australia’s international education sector, potentially influencing student perceptions of institutional stability—though direct impacts on global demand remain uncertain without evidence of broader enforcement trends or spillover to other English-speaking destinations.  \nAdmissions teams should monitor Australian government announcements on course cancellations, student visa refusal rates, and source-market sentiment surveys—particularly in key regions like India and China—to assess whether regulatory tightening begins affecting application volumes or institutional reputation relative to peer destinations.",
+      "impact": "High",
+      "sources": [],
+      "dests": [
+        "Australia"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 2,
+      "title": "4-year visa cap for international students halted by federal judge",
+      "source": "Higher Ed Dive",
+      "color": "#1e5631",
+      "url": "https://www.highereddive.com/news/4-year-visa-cap-for-international-students-halted-by-federal-judge/830447/",
       "pubDate": "2026-09-15",
-      "summary": "A US court has granted a preliminary injunction blocking the Department of Homeland Security’s final rule that would have ended Duration of Status (D/S) admissions for international students. The injunction follows a legal challenge filed last month by a consortium of prominent education organizations and unions, which argued the rule’s legality and sought to halt its implementation.",
-      "insight": "This ruling temporarily preserves the existing Duration of Status framework for US-bound international students, potentially sustaining current application patterns—but its long-term impact on demand remains uncertain pending final litigation or revised policy.  \nAdmissions teams should track developments in the case and DHS’s next steps, while reviewing messaging to ensure clarity about current US visa rules without speculating on future regulatory changes.",
+      "summary": "U.S. District Judge F. Dennis Saylor issued a pause on a new federal rule that would have imposed a four-year visa cap on international students. The injunction was granted one day before the rule was scheduled to take effect.",
+      "insight": "The pause on the U.S. four-year student visa cap temporarily preserves current visa flexibility, potentially sustaining demand from students prioritizing longer-term study pathways—though broader immigration policy uncertainty and regional alternatives (e.g., UK/Australia post-study work extensions) still shape comparative appeal.  \nAdmissions teams should track subsequent legal developments, DHS guidance, and source-market sentiment shifts—particularly in India, China, and Nigeria—while reviewing messaging around U.S. visa stability versus competing destinations’ regulatory consistency.",
       "impact": "High",
       "sources": [],
       "dests": [
@@ -19,113 +38,37 @@
       ],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 9,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 2,
-      "title": "US government warns universities to limit their authorisation of Curricular Practical Training work placements",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/09/us-government-warns-universities-to-limit-their-authorisation-of-curricular-practical-training-work-placements/",
-      "pubDate": "2026-09-03",
-      "summary": "The U.S. government, specifically Immigration and Customs Enforcement (ICE), has issued warnings to universities urging them to limit authorizations for Curricular Practical Training (CPT) work placements. ICE stated that the Student and Exchange Visitor Program (SEVP) has observed an increase in CPT authorizations that fail to meet regulatory requirements.",
-      "insight": "This ICE warning signals potential tightening of CPT eligibility, which may dampen perceived post-study work value for prospective international students—especially from markets prioritising U.S. employment pathways—though broader demand trends remain influenced by multiple factors including competing destinations’ policies.  \nAdmissions teams should track how U.S. agents and counsellors interpret this guidance, monitor application volume shifts from CPT-reliant cohorts (e.g., STEM master’s), and assess whether partner institutions adjust CPT advising or program structures in response.",
-      "impact": "Low",
-      "sources": [],
-      "dests": [
-        "USA"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 9,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 3,
-      "title": "Australia: Decline in international higher education commencements projected for 2026",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/09/australia-decline-in-international-higher-education-commencements-projected-for-2026/",
-      "pubDate": "2026-09-03",
-      "summary": "Australian universities are projected to experience a decline in international higher education commencements in 2026, according to Keri Ramirez, managing director of Studymove. This projection is based on the combined impact of recent government policy changes, including adjustments to post-study work rights, English-language requirements, and New Overseas Student Commencements (NOSC) allocations.",
-      "insight": "Australia’s projected 2026 decline in international commencements—driven by tightened post-study work rights, higher English requirements, and capped NOSC allocations—may modestly increase demand for alternative destinations like the USA, UK, and New Zealand, though student mobility decisions remain highly individualised and influenced by broader economic and geopolitical factors.  \nAdmissions teams should track real-time application trends from key Australian source markets (e.g., India, China, Nepal), monitor competitor messaging around work rights and pathway clarity, and assess whether their own visa policy stability or post-study opportunities can be positioned more proactively in recruitment outreach.",
-      "impact": "Low",
-      "sources": [],
-      "dests": [
-        "Australia"
-      ],
-      "translated": false,
-      "origLang": null,
       "relevanceScore": 8,
       "insightSource": "qwen"
     },
     {
-      "id": 4,
-      "title": "Foreign, mainland students flock to Hong Kong, sparking property demand in education sector",
+      "id": 3,
+      "title": "Hong Kong to boost STEAM degrees as city targets two-way global education highway",
       "source": "SCMP (Education)",
       "color": "#7b241c",
-      "url": "https://www.scmp.com/business/article/3366576/foreign-mainland-students-flock-hong-kong-sparking-property-demand-education-sector?utm_source=rss_feed",
-      "pubDate": "2026-09-08",
-      "summary": "Hong Kong is projected to host around 200,000 non-local students by 2035 as part of its effort to become a global education hub, according to CBRE. To accommodate an estimated 30,000 to 40,000 non-local students in international schools, the city will need to establish 40 to 50 new campuses, requiring up to an additional 1.11 million square metres of real estate.",
-      "insight": "Hong Kong’s push to host 200,000 non-local students by 2035—especially mainland Chinese learners—may intensify regional competition for high-income, English-proficient cohorts, though its direct impact on Western university enrolments remains uncertain amid differing academic offerings and visa frameworks.  \nAdmissions teams should monitor Hong Kong’s international school expansion pace and mainland student mobility trends, as shifts in perceived educational quality, cost, or geopolitical comfort could gradually influence application patterns across Asia-Pacific destinations.",
-      "impact": "Low",
+      "url": "https://www.scmp.com/news/hong-kong/education/article/3366475/inaugural-global-education-summit-explores-ai-future-talent-and-changing-pathways?utm_source=rss_feed",
+      "pubDate": "2026-09-05",
+      "summary": "The Hong Kong government plans to expand STEAM (science, technology, engineering, arts, and mathematics) education and allocate additional land for higher education institutions. Education Secretary Christine Choi Yuk-lin announced this initiative at the inaugural Global Education Summit, co-organized by the South China Morning Post and HSBC Premier, aiming to shift Hong Kong’s traditional study-abroad pattern from a “one-way street” to a “two-way global highway”.",
+      "insight": "Hong Kong’s push to expand STEAM degrees and attract more international students signals potential intensification of regional competition for high-achieving STEM/STEAM applicants, particularly from mainland China—though the actual enrolment impact remains uncertain pending implementation scale and global perceptions of academic quality and post-study opportunities.  \nAdmissions teams should monitor Hong Kong’s new degree offerings, scholarship rollouts, and visa policy adjustments for mainland Chinese students, while assessing whether its “two-way highway” framing translates into tangible recruitment partnerships or shifts in applicant preferences over the next 12–24 months.",
+      "impact": "Medium",
       "sources": [
         "China"
       ],
       "dests": [],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 8,
+      "relevanceScore": 7,
       "insightSource": "qwen"
     },
     {
-      "id": 5,
-      "title": "Rochester Institute of Technology addresses U.S. visa challenges through campuses abroad",
+      "id": 4,
+      "title": "Indian students are looking east as study-abroad choices diversify",
       "source": "The Hindu (Edu)",
       "color": "#145a32",
-      "url": "https://www.thehindu.com/education/rochester-institute-of-technology-addresses-us-visa-challenges-through-campuses-abroad/article71455337.ece",
-      "pubDate": "2026-09-12",
-      "summary": "Rochester Institute of Technology (RIT) has established campuses abroad in Dubai, Kosovo, and Croatia to help international students overcome U.S. visa challenges. These international campuses allow students to earn RIT degrees without needing a U.S. student visa.",
-      "insight": "RIT’s overseas campuses reflect growing institutional adaptation to tightening U.S. visa policies and student concerns about immigration uncertainty, potentially signalling heightened sensitivity among international applicants—especially from regions with lower visa approval rates—though direct causal links to broader demand shifts remain unproven.  \nAdmissions teams should monitor enrolment trends at similar transnational education models, track visa refusal data by source country and institution type, and assess whether their own articulation pathways or regional partnerships could mitigate perceived visa risk without diluting brand equity.",
-      "impact": "Low",
-      "sources": [],
-      "dests": [
-        "USA"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 6,
-      "title": "Nearly one in four Australian student visa applications rejected",
-      "source": "VnExpress (EN)",
-      "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/education/nearly-one-in-four-australian-student-visa-applications-rejected-5120536.html",
+      "url": "https://www.thehindu.com/education/indian-students-are-looking-east-as-study-abroad-choices-diversify/article71471792.ece",
       "pubDate": "2026-09-16",
-      "summary": "Australia's student visa refusal rate has reached its highest level in ten years. Nearly one in four Australian student visa applications are now being rejected as the government increases scrutiny of international students.",
-      "insight": "Australia’s rising student visa refusal rate—now near 25%—may dampen applicant confidence in its education pathway, potentially shifting demand toward alternative destinations like the UK, USA, or New Zealand, though actual enrolment impacts depend on how applicants perceive risk versus opportunity across markets.  \nAdmissions teams should track application volume and conversion trends from key Australian feeder countries (e.g., India, China, Philippines), review partner agent feedback on student sentiment, and assess whether enhanced pre-application compliance support could strengthen offer acceptance in competitive markets.",
-      "impact": "Low",
-      "sources": [],
-      "dests": [
-        "Australia"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 7,
-      "title": "The outlook for Indian student mobility through 2030",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/09/the-outlook-for-indian-student-mobility-through-2030/",
-      "pubDate": "2026-09-03",
-      "summary": "A new QS report forecasts a gradual reshaping of Indian student mobility through 2030, highlighting ongoing shifts in demand for study abroad. The report identifies the Big Four destination countries as central to this evolving landscape, complementing recent analyses of changing trends in Indian student recruitment.",
-      "insight": "This forecast signals potential long-term shifts in Indian student preferences across the Big Four destinations, though it doesn’t confirm immediate demand changes—factors like domestic higher education expansion, global economic conditions, and geopolitical perceptions may moderate actual enrolment trends through 2030.  \nAdmissions teams should track real-time application data, visa approval rates, and sentiment indicators (e.g., social media discourse, agent feedback) from key Indian regions, while reviewing recruitment messaging to ensure alignment with evolving priorities around affordability, post-study work pathways, and course relevance.",
+      "summary": "The growth of international education in East Asian countries is expanding the ecosystem of universities, scholarships, and academic programs available to foreign students. As a result, Indian students are increasingly considering East Asia as a destination for studying abroad.",
+      "insight": "Indian students’ growing interest in East Asia signals potential softening of traditional Western destination preferences, though it remains unclear whether this reflects substitution or portfolio diversification amid rising costs and visa scrutiny elsewhere.  \nAdmissions teams should track application volume and yield trends from India alongside scholarship uptake and regional sentiment shifts, while assessing whether enhanced employer partnerships or hybrid program models could reinforce competitive positioning.",
       "impact": "Low",
       "sources": [
         "India"
@@ -137,53 +80,15 @@
       "insightSource": "qwen"
     },
     {
-      "id": 8,
-      "title": "Kazakhstan aims to become education hub, but experts say jobs must match skills",
-      "source": "SCMP (Education)",
-      "color": "#7b241c",
-      "url": "https://www.scmp.com/news/hong-kong/education/article/3366687/kazakhstan-aims-become-education-hub-experts-say-jobs-must-match-skills?utm_source=rss_feed",
-      "pubDate": "2026-09-07",
-      "summary": "Kazakhstan aims to become an education hub in Central Asia amid its rapid economic transformation. Experts emphasize that job opportunities must align with graduates’ skills, and collaboration with Hong Kong and mainland Chinese universities is planned to meet growing demand for specialists familiar with both Kazakhstan’s and China’s business environments.",
-      "insight": "Kazakhstan’s push to become an education hub—especially through partnerships with Chinese universities—may gradually divert some Central Asian and Chinese students toward regional study options, though direct impact on Western enrolments remains uncertain given differing program strengths and global mobility preferences.  \nAdmissions teams should monitor Kazakh government scholarship expansions, bilateral education agreements with China, and student survey data from source markets to assess whether shifting regional opportunities influence application patterns or perceptions of Western degrees’ ROI.",
-      "impact": "Low",
-      "sources": [
-        "China"
-      ],
-      "dests": [],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 7,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 9,
-      "title": "New Zealand’s rebound signals shift in student demand",
+      "id": 5,
+      "title": "From refusals to looming restrictions: Five things we learned about Australia at EAIE",
       "source": "The PIE News",
       "color": "#7b341e",
-      "url": "https://thepienews.com/new-zealands-rebound-signals-shift-in-student-demand/",
-      "pubDate": "2026-09-15",
-      "summary": "New Zealand’s international education recovery is driven by a shift in how students perceive the country as a study destination, not merely by a post-pandemic rebound. Education New Zealand chief executive David Downs stated this insight, which was reported by The PIE News.",
-      "insight": "New Zealand’s recovery reflects evolving student perceptions—prioritising safety, affordability, and post-study outcomes—suggesting demand may be shifting toward holistic destination appeal rather than just academic reputation, though it remains unclear how directly this reshapes preferences in the US, UK, or Australia.  \nAdmissions teams should track source-market sentiment shifts via social listening and agent feedback, particularly around value perception and immigration pathways, while reviewing messaging that emphasises lived experience, community integration, and career support beyond rankings or tuition costs.",
-      "impact": "Low",
-      "sources": [],
-      "dests": [
-        "New Zealand"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 7,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 10,
-      "title": "One Nation pledges net-negative migration and 750,000 cut to temporary visas",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/one-nation-pledges-net-negative-migration-and-750000-cut-to-temporary-visas/",
-      "pubDate": "2026-09-14",
-      "summary": "Australia’s opposition One Nation party has pledged to achieve net-negative migration within the first three years of its government. This plan includes cutting more than 750,000 temporary visas.",
-      "insight": "This news signals potential tightening of Australia’s temporary visa regime, which could dampen student demand from key Asian markets if perceived as reducing post-study work opportunities or increasing application uncertainty—though actual policy impact depends on electoral outcomes and implementation details.  \nAdmissions teams should track Australian election developments, visa policy consultations, and real-time student sentiment shifts in feeder countries, while reviewing contingency messaging around study destinations and post-study pathways to maintain application confidence.",
-      "impact": "Low",
+      "url": "https://thepienews.com/from-refusals-to-looming-restrictions-five-things-we-learned-about-australia-at-eaie/",
+      "pubDate": "2026-09-16",
+      "summary": "Phil Honeywood, CEO of the International Education Association of Australia (IEAA), delivered a candid assessment of Australia’s international education system at the EAIE conference, highlighting how visa policy is reshaping it. He also provided insight into Australia’s newly rebranded national “vision” for international education.",
+      "insight": "Australia’s candid policy review at EAIE signals potential tightening of student visa conditions and rebranding efforts, which may indirectly influence global student perceptions—though direct demand shifts remain uncertain pending implementation and regional competitor responses.  \nAdmissions teams should monitor Australia’s upcoming visa rule changes, source-market sentiment surveys, and comparative policy announcements from the UK/USA/New Zealand to assess relative attractiveness and adjust messaging or pathway offerings accordingly.",
+      "impact": "High",
       "sources": [],
       "dests": [
         "Australia"
