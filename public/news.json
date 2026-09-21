@@ -1,36 +1,17 @@
 {
-  "updated": "2026-09-20T05:32:44Z",
-  "count": 10,
-  "totalFetched": 162,
+  "updated": "2026-09-21T05:37:03Z",
+  "count": 4,
+  "totalFetched": 160,
   "articles": [
     {
       "id": 1,
-      "title": "US court grants preliminary injunction to block rule that would have ended Duration of Status admissions for international students",
+      "title": "For the first time, the Australian government has exercised its powers to cancel an entire course",
       "source": "ICEF Monitor",
       "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/09/us-court-grants-preliminary-injunction-to-block-rule-that-would-have-ended-duration-of-status-admissions-for-international-students/",
-      "pubDate": "2026-09-15",
-      "summary": "A US court has granted a preliminary injunction blocking the Department of Homeland Security’s final rule that would have ended Duration of Status (D/S) admissions for international students. The injunction follows a legal challenge filed last month by a consortium of prominent education organizations and unions, which argued the rule’s legality and sought to halt its implementation.",
-      "insight": "This ruling temporarily preserves the existing Duration of Status framework for US-bound international students, potentially sustaining current application patterns—but its long-term impact on demand remains uncertain pending final litigation or revised policy.  \nAdmissions teams should track developments in the case and DHS’s next steps, while reviewing messaging to ensure clarity about current US visa rules without speculating on future regulatory changes.",
-      "impact": "High",
-      "sources": [],
-      "dests": [
-        "USA"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 2,
-      "title": "Australia moves to reduce net migration with new restrictions on student family members and “visa hopping”",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/09/australia-moves-to-reduce-net-migration-with-new-restrictions-on-student-family-members-and-visa-hopping/",
-      "pubDate": "2026-09-17",
-      "summary": "On 17 September, Australian Home Affairs and Immigration Minister Tony Burke announced new immigration reforms aimed at reducing net migration, including restrictions on student family members and measures to curb “visa hopping”. The reforms affect both incoming and current international students, with specific changes targeting secondary visa applicants.",
-      "insight": "Australia’s new restrictions on student dependants and visa-hopping may dampen appeal for families from regions where bringing spouses/children is culturally or practically essential, potentially shifting demand toward destinations with more flexible post-study and family visa pathways—though actual enrolment impacts depend on implementation and regional response.  \nAdmissions teams should track Australian competitor universities’ enrolment trends by origin country and visa type over the next 1–2 intakes, while reviewing their own family-support services and messaging to address prospective students’ evolving concerns about dependant eligibility and pathway clarity.",
+      "url": "https://monitor.icef.com/2026/09/for-the-first-time-the-australian-government-has-exercised-its-powers-to-cancel-an-entire-course/",
+      "pubDate": "2026-09-10",
+      "summary": "In late 2025, the Australian Parliament passed legislative amendments expanding government oversight and regulatory powers over the international education sector, including through updates to the National Code of Practice for Providers of Education and Training to Overseas Students. This marked the first time the Australian government used its newly granted authority to cancel an entire course.",
+      "insight": "This development signals growing regulatory scrutiny of course quality and compliance in Australia’s international education sector, potentially influencing student perceptions of institutional stability—though direct impacts on global demand remain uncertain without evidence of broader enforcement trends or spillover to other English-speaking destinations.  \nAdmissions teams should monitor Australian government announcements on course cancellations, student visa refusal rates, and source-market sentiment surveys—particularly in key regions like India and China—to assess whether regulatory tightening begins affecting application volumes or institutional reputation relative to peer destinations.",
       "impact": "High",
       "sources": [],
       "dests": [
@@ -42,18 +23,37 @@
       "insightSource": "qwen"
     },
     {
-      "id": 3,
-      "title": "UK: August’s sponsored study visa applications drop to lowest level since 2022",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/09/uk-augusts-sponsored-study-visa-applications-drop-to-lowest-level-since-2022/",
-      "pubDate": "2026-09-17",
-      "summary": "Newly released UK Home Office data shows that sponsored student visa application volumes declined significantly in August 2023. This marked the lowest August level since 2022, and August is especially significant as it accounts for at least a quarter of all annual sponsored student visa applications.",
-      "insight": "The dip in UK sponsored student visa applications for August 2023 may reflect tightening visa policies, rising costs, or shifting preferences—but it’s too early to confirm whether this signals a structural decline or short-term volatility amid broader global mobility trends.  \nAdmissions teams should track quarterly visa issuance data by source country, monitor UK competitor messaging on affordability and post-study work rights, and assess whether their own application pipelines from key markets show similar softening before adjusting recruitment tactics.",
-      "impact": "Low",
+      "id": 2,
+      "title": "4-year visa cap for international students halted by federal judge",
+      "source": "Higher Ed Dive",
+      "color": "#1e5631",
+      "url": "https://www.highereddive.com/news/4-year-visa-cap-for-international-students-halted-by-federal-judge/830447/",
+      "pubDate": "2026-09-15",
+      "summary": "U.S. District Judge F. Dennis Saylor issued a pause on a new federal rule that would have imposed a four-year visa cap on international students. The injunction was granted one day before the rule was scheduled to take effect.",
+      "insight": "The pause on the U.S. four-year student visa cap temporarily preserves current visa flexibility, potentially sustaining demand from students prioritizing longer-term study pathways—though broader immigration policy uncertainty and regional alternatives (e.g., UK/Australia post-study work extensions) still shape comparative appeal.  \nAdmissions teams should track subsequent legal developments, DHS guidance, and source-market sentiment shifts—particularly in India, China, and Nigeria—while reviewing messaging around U.S. visa stability versus competing destinations’ regulatory consistency.",
+      "impact": "High",
       "sources": [],
       "dests": [
-        "UK"
+        "USA"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 3,
+      "title": "Australia to restrict student dependants amid warnings of talent loss",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/australia-to-restrict-student-dependants-amid-warnings-of-talent-loss/",
+      "pubDate": "2026-09-17",
+      "summary": "Australia has introduced new rules restricting student dependants, tightening course transfers, and imposing stricter study progression requirements. Education leaders warn these measures may cause genuine international students to choose alternative study destinations, risking a loss of talent.",
+      "insight": "Australia’s new restrictions on student dependants and study progression may dampen its appeal for international students—particularly those from family-oriented source markets—potentially shifting demand toward alternative English-speaking destinations, though the scale and speed of any reallocation remain uncertain.  \nAdmissions teams should track application trends from key Australian feeder countries (e.g., India, China, Nigeria), monitor visa refusal and dependent approval rates, and assess whether messaging around family support and pathway flexibility resonates more strongly in current outreach.",
+      "impact": "High",
+      "sources": [],
+      "dests": [
+        "Australia"
       ],
       "translated": false,
       "origLang": null,
@@ -62,138 +62,18 @@
     },
     {
       "id": 4,
-      "title": "OPT fee proposal clears White House review",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/opt-fee-proposal-clears-white-house-review/",
-      "pubDate": "2026-09-17",
-      "summary": "A proposed fee for the Optional Practical Training (OPT) program, which allows international students to work in the U.S. after graduation, has cleared White House review. Reports indicate the administration is considering a $100,000 charge for the post-graduation work stream.",
-      "insight": "A $100,000 OPT fee—still unconfirmed and pending final rulemaking—could dampen U.S. appeal for cost-sensitive international students, especially from emerging markets, though its actual impact depends on implementation timing, exemptions, and whether parallel visa pathways (e.g., H-1B) also tighten.  \nAdmissions teams should track official USCIS guidance, model net-cost scenarios for key source countries, and assess how peer institutions in the UK, Australia, and New Zealand position their post-study work offerings relative to evolving U.S. policy uncertainty.",
-      "impact": "Low",
-      "sources": [],
-      "dests": [
-        "USA"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 5,
-      "title": "What Indian students need to know about the new American visa rules",
+      "title": "Indian students are looking east as study-abroad choices diversify",
       "source": "The Hindu (Edu)",
       "color": "#145a32",
-      "url": "https://www.thehindu.com/education/what-indian-students-need-to-know-about-the-new-american-visa-rules/article71468440.ece",
-      "pubDate": "2026-09-19",
-      "summary": "The article explains recent changes to U.S. visa rules specifically affecting Indian students, including updated requirements for F-1 visa applicants such as stricter documentation for financial proof and academic intent. It also outlines new procedures for visa interviews, processing timelines, and post-completion Optional Practical Training (OPT) eligibility under the revised guidelines.",
-      "insight": "This news signals potential shifts in Indian student demand for U.S. study, as tighter F-1 documentation and OPT rules may increase perceived risk or complexity—though actual enrolment impact remains uncertain pending data on application volumes and visa approval rates.  \n\nAdmissions teams should monitor Indian application trends, visa refusal rates, and peer institutions’ outreach responses, while reviewing pre-application support resources to ensure clarity on evolving U.S. financial and intent requirements.",
-      "impact": "Low",
-      "sources": [
-        "India"
-      ],
-      "dests": [
-        "USA"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 6,
-      "title": "Foreign, mainland students flock to Hong Kong, sparking property demand in education sector",
-      "source": "SCMP (Education)",
-      "color": "#7b241c",
-      "url": "https://www.scmp.com/business/article/3366576/foreign-mainland-students-flock-hong-kong-sparking-property-demand-education-sector?utm_source=rss_feed",
-      "pubDate": "2026-09-08",
-      "summary": "Hong Kong is projected to host around 200,000 non-local students by 2035 as part of its effort to become a global education hub, according to CBRE. To accommodate an estimated 30,000 to 40,000 non-local students in international schools, the city will need to establish 40 to 50 new campuses, requiring up to an additional 1.11 million square metres of real estate.",
-      "insight": "Hong Kong’s push to host 200,000 non-local students by 2035—especially mainland Chinese learners seeking English-medium education—may intensify regional competition for high-performing students, though direct impact on Western university demand remains uncertain given differing academic pathways and visa frameworks.  \nAdmissions teams should monitor Hong Kong’s international school expansion pace and mainland student enrolment trends, as shifts in perceived quality, cost, or proximity could subtly influence application behaviour—particularly among families prioritising bilingual credentials and regional mobility.",
-      "impact": "Low",
-      "sources": [
-        "China"
-      ],
-      "dests": [],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 7,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 7,
-      "title": "'Following' his sister's footsteps, the male student won a scholarship to Tsinghua University",
-      "source": "VnExpress (Giáo dục)",
-      "color": "#b94500",
-      "url": "https://vnexpress.net/theo-chan-chi-gai-nam-sinh-gianh-hoc-bong-dai-hoc-thanh-hoa-5120559.html",
+      "url": "https://www.thehindu.com/education/indian-students-are-looking-east-as-study-abroad-choices-diversify/article71471792.ece",
       "pubDate": "2026-09-16",
-      "summary": "Khoa Vu, a male student, won a scholarship to Tsinghua University after being inspired by his sister’s study experience in China. Prior to this, he had only considered studying in England, America, or staying in Vietnam, and he did not attend Thanh Hoa—the article incorrectly states “Thanh Hoa” as a school, but Thanh Hoa is a province in Vietnam and not a university; Tsinghua University is in Beijing, China.",
-      "insight": "This anecdote hints at shifting aspirational preferences among Southeast Asian students, possibly reflecting growing perceptions of China’s elite universities as credible alternatives to traditional Anglophone destinations—though isolated cases don’t yet confirm systemic demand shifts.  \nAdmissions teams should track enrollment trends from Vietnam and broader ASEAN markets for signs of declining applications to Western institutions, while reviewing messaging that emphasizes unique academic, cultural, or cost advantages relative to emerging competitors like Tsinghua.",
-      "impact": "Low",
-      "sources": [
-        "China"
-      ],
-      "dests": [],
-      "translated": true,
-      "origLang": "vi",
-      "relevanceScore": 7,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 8,
-      "title": "Vietnam plans to scrap IELTS bonus points in university admissions",
-      "source": "VnExpress (EN)",
-      "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/education/vietnam-plans-to-scrap-ielts-bonus-points-in-university-admissions-5121804.html",
-      "pubDate": "2026-09-18",
-      "summary": "Vietnam’s Ministry of Education and Training has proposed removing bonus points for IELTS certificates and excellent student awards in university admissions starting next year. The plan aims to revise the current admission policy by eliminating these specific incentives.",
-      "insight": "Vietnam’s proposed removal of IELTS bonus points signals a potential shift toward more standardized, exam-based admissions, which may modestly increase demand for internationally recognized English proficiency tests and degree pathways among academically strong students seeking alternatives to domestic competition.  \nAdmissions teams should monitor Vietnamese university entrance exam reforms and enrolment trends over the next 12–18 months, while reviewing how their English entry requirements and pathway partnerships align with evolving local academic preparation expectations.",
-      "impact": "Low",
-      "sources": [
-        "Southeast Asia"
-      ],
-      "dests": [],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 7,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 9,
-      "title": "UWA opens Mumbai Campus; MBA course to commence from November",
-      "source": "The Hindu (Edu)",
-      "color": "#145a32",
-      "url": "https://www.thehindu.com/education/uwa-opens-mumbai-campus-mba-course-to-commence-from-november/article71480282.ece",
-      "pubDate": "2026-09-19",
-      "summary": "UWA has opened a campus in Mumbai, with its MBA course set to commence in November. The university will also open a campus in Chennai in October 2026.",
-      "insight": "UWA’s Mumbai campus signals growing Indian demand for globally aligned, locally delivered postgraduate education—potentially reflecting shifting preferences toward hybrid pathways, though it remains unclear whether this directly reduces outbound mobility or merely complements it.  \nAdmissions teams should track enrolment patterns at UWA’s new campuses and monitor whether Indian students increasingly opt for dual-degree models or articulation pathways with Australian institutions, adjusting outreach to highlight complementary value rather than assuming competition.",
+      "summary": "The growth of international education in East Asian countries is expanding the ecosystem of universities, scholarships, and academic programs available to foreign students. As a result, Indian students are increasingly considering East Asia as a destination for studying abroad.",
+      "insight": "Indian students’ growing interest in East Asia signals potential softening of traditional Western destination preferences, though it remains unclear whether this reflects substitution or portfolio diversification amid rising costs and visa uncertainties elsewhere.  \nAdmissions teams should track application volume trends from India by destination region, scholarship uptake, and student sentiment around post-study work rights—particularly as East Asian governments enhance English-taught programs and bilateral academic partnerships.",
       "impact": "Low",
       "sources": [
         "India"
       ],
       "dests": [],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 7,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 10,
-      "title": "Vietnamese student gives up Western plans to follow his sister to 'China's MIT'",
-      "source": "VnExpress (EN)",
-      "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/education/vietnamese-student-gives-up-western-plans-to-follow-his-sister-to-china-s-mit-5121134.html",
-      "pubDate": "2026-09-19",
-      "summary": "A Vietnamese student initially planned to study in the U.K. or the U.S. but instead chose to apply to Tsinghua University in China. He was accepted into Tsinghua, widely regarded as one of China’s most prestigious universities and often referred to as “China’s MIT.”",
-      "insight": "This anecdote may reflect a broader, albeit still emerging, shift in Southeast Asian student preferences toward high-prestige Asian institutions—potentially driven by perceived value, regional proximity, or evolving perceptions of academic quality—though isolated cases alone don’t confirm systemic demand erosion for Western destinations.  \nAdmissions teams should monitor application trends from Vietnam and neighboring markets for subtle declines in early-decision uptake or increased deferral requests, while also benchmarking how peer universities in China and Singapore are framing ROI, career pathways, and post-study opportunities in their outreach.",
-      "impact": "Low",
-      "sources": [
-        "China",
-        "Southeast Asia"
-      ],
-      "dests": [
-        "USA",
-        "UK"
-      ],
       "translated": false,
       "origLang": null,
       "relevanceScore": 7,
