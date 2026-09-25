@@ -1,95 +1,36 @@
 {
-  "updated": "2026-09-24T05:35:23Z",
-  "count": 8,
-  "totalFetched": 164,
+  "updated": "2026-09-25T05:33:49Z",
+  "count": 5,
+  "totalFetched": 162,
   "articles": [
     {
       "id": 1,
-      "title": "US court grants preliminary injunction to block rule that would have ended Duration of Status admissions for international students",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/09/us-court-grants-preliminary-injunction-to-block-rule-that-would-have-ended-duration-of-status-admissions-for-international-students/",
-      "pubDate": "2026-09-15",
-      "summary": "A US court granted a preliminary injunction to block a Department of Homeland Security final rule that would have ended Duration of Status (D/S) admissions for international students. The injunction followed a legal challenge filed by a consortium of prominent education organizations and unions, which argued the rule’s legality and sought immediate relief through a motion for a preliminary injunction.",
-      "insight": "This ruling temporarily preserves the existing Duration of Status framework for US-bound international students, potentially sustaining current application patterns—but its long-term impact on demand remains uncertain pending final litigation or regulatory revision.  \nAdmissions teams should monitor developments in the case and DHS’s next steps, while reviewing messaging to ensure clarity about current US visa rules without speculating on future policy shifts.",
-      "impact": "High",
-      "sources": [],
-      "dests": [
-        "USA"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 9,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 2,
-      "title": "Australia moves to reduce net migration with new restrictions on student family members and “visa hopping”",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/09/australia-moves-to-reduce-net-migration-with-new-restrictions-on-student-family-members-and-visa-hopping/",
-      "pubDate": "2026-09-17",
-      "summary": "On 17 September, Australian Home Affairs and Immigration Minister Tony Burke announced new immigration reforms aimed at reducing net migration, including restrictions on student family members and measures to curb “visa hopping”. The reforms affect both incoming and current international students, with specific changes targeting secondary visa applicants.",
-      "insight": "Australia’s new restrictions on student dependants and visa-hopping may dampen appeal for families from regions where bringing spouses/children is culturally or practically essential, potentially shifting demand toward destinations with more flexible post-study and family visa pathways—though actual enrolment impacts depend on implementation and regional response.  \nAdmissions teams should track Australian competitor universities’ enrolment trends by origin country and visa type over the next 1–2 intakes, while reviewing their own family-support services and messaging to address prospective students’ evolving concerns about dependant eligibility and pathway clarity.",
-      "impact": "High",
+      "title": "Australia squeezes dependants as wider student migration questions emerge",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/australia-squeezes-dependants-as-wider-student-migration-questions-emerge/",
+      "pubDate": "2026-09-23",
+      "summary": "Australia is restricting access to dependent visas as part of its effort to reduce net overseas migration. This policy shift coincides with broader scrutiny of the country’s student migration framework and its target of admitting 295,000 international students.",
+      "insight": "Australia’s dependent visa restrictions may indirectly dampen appeal for family-oriented students from regions like South Asia and the Middle East, though demand resilience remains uncertain given strong academic reputation and post-study work pathways.  \nAdmissions teams should track enrolment trends among students with dependants, monitor competitor messaging on family support, and assess whether source market agents report shifting preferences toward destinations with more flexible visa policies.",
+      "impact": "Low",
       "sources": [],
       "dests": [
         "Australia"
       ],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 9,
+      "relevanceScore": 10,
       "insightSource": "qwen"
     },
     {
-      "id": 3,
-      "title": "What Indian students need to know about the new American visa rules",
-      "source": "The Hindu (Edu)",
-      "color": "#145a32",
-      "url": "https://www.thehindu.com/education/what-indian-students-need-to-know-about-the-new-american-visa-rules/article71468440.ece",
-      "pubDate": "2026-09-19",
-      "summary": "The article explains recent changes to U.S. visa rules specifically affecting Indian students, including updated requirements for F-1 visa applicants such as stricter documentation for financial proof and academic intent. It also outlines new procedures for visa interviews, processing timelines, and post-completion Optional Practical Training (OPT) eligibility under the revised policies.",
-      "insight": "This news signals potential shifts in Indian student demand for U.S. study, as tighter F-1 documentation and OPT rules may increase perceived risk or complexity—though actual enrollment impact remains uncertain pending data on application volumes and visa approval rates.  \nAdmissions teams should monitor Indian application trends, visa refusal rates, and peer institutions’ messaging around U.S. alternatives, while reviewing pre-enrollment support resources to address evolving financial and intent verification expectations.",
-      "impact": "Low",
-      "sources": [
-        "India"
-      ],
-      "dests": [
-        "USA"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 4,
-      "title": "New Zealand’s education exports surpass pre-COVID levels as sustainable growth strategy takes hold",
+      "id": 2,
+      "title": "UK eases entry rules for Erasmus+ participants",
       "source": "ICEF Monitor",
       "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/09/new-zealands-education-exports-surpass-pre-covid-levels-as-sustainable-growth-strategy-takes-hold/",
+      "url": "https://monitor.icef.com/2026/09/uk-eases-entry-rules-for-erasmus-participants/",
       "pubDate": "2026-09-23",
-      "summary": "New Zealand’s international education export earnings reached nearly NZ$5 billion for the fiscal year ending June 2026, surpassing pre-COVID levels and marking three consecutive years of growth from NZ$3.5 billion in 2024 and NZ$4.3 billion in 2025. The announcement was made by New Zealand Education Minister Erica Stanford, highlighting the success of the country’s sustainable growth strategy in the sector.",
-      "insight": "New Zealand’s education export recovery suggests growing confidence in its post-pandemic student experience and policy stability, potentially reflecting improved source-market perceptions—though it doesn’t directly indicate shifting demand away from the US, UK, or Australia without parallel data on enrolment flows or visa outcomes.  \nAdmissions teams should monitor New Zealand’s visa processing times, scholarship uptake by key source markets (e.g., India, China, Vietnam), and any policy refinements to its sustainable growth framework, as these may signal evolving competitive positioning or early indicators of regional preference shifts.",
-      "impact": "Low",
-      "sources": [],
-      "dests": [
-        "New Zealand"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 5,
-      "title": "UK: August’s sponsored study visa applications drop to lowest level since 2022",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/09/uk-augusts-sponsored-study-visa-applications-drop-to-lowest-level-since-2022/",
-      "pubDate": "2026-09-17",
-      "summary": "Newly released UK Home Office data shows that sponsored student visa application volumes declined significantly in August 2023. This marked the lowest August level since 2022, and August is especially significant as it accounts for at least a quarter of all annual sponsored student visa applications.",
-      "insight": "The dip in UK sponsored student visa applications for August 2023 may reflect tightening visa policies, rising costs, or shifting preferences—but it’s too early to confirm whether this signals a structural decline or short-term volatility amid broader global mobility trends.  \nAdmissions teams should track quarterly visa issuance data by source country, monitor UK competitor messaging on affordability and post-study work rights, and assess whether their own application pipelines from key markets show similar softening before adjusting recruitment tactics.",
+      "summary": "The UK government announced in April 2026 that it would rejoin the Erasmus+ programme in 2027. Following lobbying by English UK, the government will ease entry rules for most EU and EEA Erasmus+ participants traveling to the UK for the mobility programme.",
+      "insight": "This development signals potential softening in UK visa policy for short-term EU/EEA learners, which may indirectly boost perceptions of the UK as a more accessible destination—though its direct impact on full-degree international student demand from non-EU markets remains uncertain and likely marginal.  \nAdmissions teams should monitor UK Border Force guidance updates and Erasmus+ partnership announcements later this year, particularly for opportunities to co-brand mobility pathways or leverage improved entry conditions in outreach to European institutions and students.",
       "impact": "Low",
       "sources": [],
       "dests": [
@@ -97,64 +38,66 @@
       ],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 7,
+      "relevanceScore": 8,
       "insightSource": "qwen"
     },
     {
-      "id": 6,
-      "title": "China saw English learning as key to progress. Not anymore",
-      "source": "The Hindu (Edu)",
-      "color": "#145a32",
-      "url": "https://www.thehindu.com/education/china-saw-english-learning-as-key-to-progress-not-anymore/article71495223.ece",
-      "pubDate": "2026-09-23",
-      "summary": "China has reduced the allocated instructional time for English in its education system. English now receives less scheduled teaching time than physical education, mathematics, and the Chinese language.",
-      "insight": "This policy shift may gradually reduce English proficiency and perceived necessity among younger Chinese students, potentially dampening long-term demand for Anglophone undergraduate degrees—though immediate effects on graduate or high-demand STEM applications remain uncertain.  \nAdmissions teams should track provincial curriculum implementation timelines, national English test score trends (e.g., Gaokao averages), and shifts in agent counselling priorities—noting that parental aspirations and prestige perceptions still strongly support study abroad, especially at selective institutions.",
-      "impact": "Low",
-      "sources": [
-        "China"
+      "id": 3,
+      "title": "US court grants preliminary injunction to block rule that would have ended Duration of Status admissions for international students",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/09/us-court-grants-preliminary-injunction-to-block-rule-that-would-have-ended-duration-of-status-admissions-for-international-students/",
+      "pubDate": "2026-09-15",
+      "summary": "A US court has granted a preliminary injunction blocking the Department of Homeland Security’s final rule that would have ended Duration of Status (D/S) admissions for international students. The injunction follows a legal challenge filed last month by a consortium of prominent education organizations and unions, which argued the rule’s legality and sought to halt its implementation.",
+      "insight": "This ruling temporarily preserves the existing Duration of Status framework for US-bound international students, potentially sustaining current application patterns—but its long-term impact on demand remains uncertain pending final litigation or revised policy.  \nAdmissions teams should track developments in the case and DHS’s next steps, while reviewing messaging to ensure clarity about current US visa rules without speculating on future regulatory changes.",
+      "impact": "High",
+      "sources": [],
+      "dests": [
+        "USA"
       ],
-      "dests": [],
       "translated": false,
       "origLang": null,
       "relevanceScore": 7,
       "insightSource": "qwen"
     },
     {
-      "id": 7,
-      "title": "Vietnam top leader highlights Vietnam-US relations in policy speech at Foreign Policy Association",
+      "id": 4,
+      "title": "Students dread losing edge after slog as Vietnam mulls over scrapping IELTS bonus points for university entry",
       "source": "VnExpress (EN)",
       "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/politics/vietnam-top-leader-highlights-vietnam-us-relations-in-policy-speech-at-foreign-policy-association-5123572.html",
-      "pubDate": "2026-09-23",
-      "summary": "Vietnam’s Party General Secretary and President To Lam delivered a policy speech at the Foreign Policy Association in New York on Tuesday morning local time. In the speech, he highlighted Vietnam–United States relations.",
-      "insight": "This high-level diplomatic engagement signals strengthening Vietnam–US ties, which could gradually boost Vietnamese student confidence in US study opportunities—but direct impacts on enrolment demand or visa policy remain uncertain without follow-up bilateral agreements.  \nAdmissions teams should monitor Vietnamese government announcements on education cooperation and track visa processing times and approval rates for Vietnamese applicants, as these may reflect evolving bilateral priorities affecting student mobility.",
-      "impact": "Medium",
+      "url": "https://e.vnexpress.net/news/news/education/students-dread-losing-edge-after-slog-as-vietnam-mulls-over-scrapping-ielts-bonus-points-for-university-entry-5124305.html",
+      "pubDate": "2026-09-24",
+      "summary": "Vietnam’s Ministry of Education has proposed scrapping bonus points for IELTS and other language certificates in university admissions starting next year. Students who have spent years preparing for IELTS now fear losing a competitive advantage in the university admission process.",
+      "insight": "This policy shift may modestly increase outbound student demand from Vietnam as high-achieving IELTS candidates seek alternative pathways to maintain academic advantage, though actual enrolment impact depends on implementation timing, university alternatives, and broader economic factors.  \nAdmissions teams should track Vietnamese student application volumes and IELTS score distributions over the next 6–12 months, while reviewing whether targeted outreach to IELTS-prepped students—emphasising direct entry or pathway flexibility—could align with emerging sentiment.",
+      "impact": "Low",
       "sources": [
         "Southeast Asia"
       ],
       "dests": [],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 6,
+      "relevanceScore": 7,
       "insightSource": "qwen"
     },
     {
-      "id": 8,
-      "title": "UWA eyes up to 200 students as India campus expansion faces first test",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/uwa-eyes-up-to-200-students-as-india-campus-expansion-faces-first-test/",
-      "pubDate": "2026-09-22",
-      "summary": "The University of Western Australia (UWA) plans to enroll up to 200 students at its new campuses in Mumbai and Chennai, with affordability, student mobility, and industry connections cited as distinguishing features. However, actual demand for these programs and the employment outcomes of graduates remain untested as the expansion undergoes its initial evaluation.",
-      "insight": "UWA’s India campus launch signals growing institutional experimentation with offshore delivery to address affordability and mobility constraints, though it remains unclear whether this model will materially divert demand from traditional onshore study or reflect broader shifts in Indian student preferences.  \nAdmissions teams should track early enrollment figures, graduate employment data from UWA’s Indian campuses, and any policy responses from Indian regulators or Australian visa authorities—using these as leading indicators rather than immediate triggers for strategy shifts.",
+      "id": 5,
+      "title": "Sudden closure of language schools in Canada frustrates Brazilian exchange students",
+      "source": "Folha de S.Paulo",
+      "color": "#154360",
+      "url": "https://redir.folha.com.br/redir/online/educacao/rss091/*https://www1.folha.uol.com.br/educacao/2026/09/fechamento-repentino-de-escolas-de-idiomas-no-canada-frustra-intercambistas-brasileiros.shtml",
+      "pubDate": "2026-09-24",
+      "summary": "Brazilian exchange student Amanda Grecco, 33, arrived in Toronto to begin an intensive English course at the International Language Academy of Canada (ILAC) but found the school had suddenly closed before her first class. The closure occurred on or before September 24, 2026, leaving affected students frustrated and without instruction.",
+      "insight": "This incident may reflect growing regulatory or financial instability in Canada’s private language education sector, potentially influencing Latin American students’ perceptions of destination safety and value—though it remains unclear whether this signals broader demand shifts or is an isolated operational failure.  \nAdmissions teams should monitor social media sentiment and agent feedback from Brazil and neighbouring countries for early signs of reputational spillover, while reviewing their own compliance transparency and student support protocols to reinforce trust amid rising scrutiny of non-degree pathways.",
       "impact": "Low",
       "sources": [
-        "India"
+        "Latin America"
       ],
-      "dests": [],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 6,
+      "dests": [
+        "Canada"
+      ],
+      "translated": true,
+      "origLang": "pt",
+      "relevanceScore": 7,
       "insightSource": "qwen"
     }
   ]
