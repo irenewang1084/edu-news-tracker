@@ -1,36 +1,17 @@
 {
-  "updated": "2026-09-28T06:02:34Z",
-  "count": 5,
-  "totalFetched": 158,
+  "updated": "2026-09-29T06:20:34Z",
+  "count": 4,
+  "totalFetched": 155,
   "articles": [
     {
       "id": 1,
-      "title": "Australia moves to reduce net migration with new restrictions on student family members and “visa hopping”",
+      "title": "UK eases entry rules for Erasmus+ participants",
       "source": "ICEF Monitor",
       "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/09/australia-moves-to-reduce-net-migration-with-new-restrictions-on-student-family-members-and-visa-hopping/",
-      "pubDate": "2026-09-17",
-      "summary": "On 17 September, Australian Home Affairs and Immigration Minister Tony Burke announced new immigration reforms aimed at reducing net migration, including restrictions on student family members and measures to curb “visa hopping”. The reforms affect both incoming and current international students, with specific changes targeting secondary visa applicants.",
-      "insight": "Australia’s new restrictions on student dependants and visa-hopping may dampen appeal for families from regions where bringing spouses/children is culturally or practically essential, potentially shifting demand toward destinations with more flexible post-study and family visa pathways—though actual enrolment impacts depend on implementation and regional response.  \nAdmissions teams should track Australian competitor universities’ enrolment trends by origin country and visa type over the next 1–2 intakes, while reviewing their own family-support services and messaging to address prospective students’ evolving concerns about dependant eligibility and pathway clarity.",
-      "impact": "High",
-      "sources": [],
-      "dests": [
-        "Australia"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 10,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 2,
-      "title": "UK: August’s sponsored study visa applications drop to lowest level since 2022",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/09/uk-augusts-sponsored-study-visa-applications-drop-to-lowest-level-since-2022/",
-      "pubDate": "2026-09-17",
-      "summary": "Newly released UK Home Office data shows that sponsored student visa application volumes declined significantly in August 2023. This marked the lowest August level since 2022, and August is especially significant as it accounts for at least a quarter of all annual sponsored student visa applications.",
-      "insight": "The dip in UK sponsored student visa applications for August 2023 may reflect tightening visa policies, rising costs, or shifting preferences—but it’s too early to confirm whether this signals a structural decline or short-term volatility amid broader global mobility trends.  \nAdmissions teams should track quarterly visa issuance data by source country, monitor UK competitor messaging on affordability and post-study work rights, and assess whether their own application pipelines from key markets show similar softening before adjusting recruitment tactics.",
+      "url": "https://monitor.icef.com/2026/09/uk-eases-entry-rules-for-erasmus-participants/",
+      "pubDate": "2026-09-23",
+      "summary": "The UK government announced in April 2026 that it would rejoin the Erasmus+ programme in 2027. Following lobbying by English UK, the government will ease entry rules for most EU and EEA Erasmus+ participants traveling to the UK for the mobility programme.",
+      "insight": "This development signals potential softening in UK visa policy for short-term EU/EEA learners, which may indirectly boost perceptions of the UK as a more accessible destination—though its direct impact on full-degree international student demand from non-EU markets remains uncertain and likely modest.  \nAdmissions teams should monitor UK Border Force guidance updates and Erasmus+ partner institution announcements later this year, while assessing whether UK universities begin leveraging this change in outreach to EU pathway or exchange partners.",
       "impact": "Low",
       "sources": [],
       "dests": [
@@ -42,18 +23,39 @@
       "insightSource": "qwen"
     },
     {
+      "id": 2,
+      "title": "Sudden closure of language schools in Canada frustrates Brazilian exchange students",
+      "source": "Folha de S.Paulo",
+      "color": "#154360",
+      "url": "https://redir.folha.com.br/redir/online/educacao/rss091/*https://www1.folha.uol.com.br/educacao/2026/09/fechamento-repentino-de-escolas-de-idiomas-no-canada-frustra-intercambistas-brasileiros.shtml",
+      "pubDate": "2026-09-24",
+      "summary": "Brazilian exchange student Amanda Grecco, 33, arrived in Toronto to begin an intensive English course at the International Language Academy of Canada (ILAC) but found the school had suddenly closed before her first class. The closure occurred on or before September 24, 2026, leaving affected students frustrated.",
+      "insight": "This incident may signal growing vulnerability in Canada’s private language school sector, potentially influencing Latin American students’ perceptions of destination reliability—though it remains unclear whether this reflects broader systemic risks or isolated operational failures.  \nAdmissions teams should monitor social media sentiment and agent feedback from Brazil and neighbouring countries for shifts in trust toward Canadian institutions, while reinforcing their own visa support, academic quality assurances, and post-arrival student services in marketing materials.",
+      "impact": "Low",
+      "sources": [
+        "Latin America"
+      ],
+      "dests": [
+        "Canada"
+      ],
+      "translated": true,
+      "origLang": "pt",
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
       "id": 3,
-      "title": "New Zealand’s education exports surpass pre-COVID levels as sustainable growth strategy takes hold",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/09/new-zealands-education-exports-surpass-pre-covid-levels-as-sustainable-growth-strategy-takes-hold/",
-      "pubDate": "2026-09-23",
-      "summary": "New Zealand’s international education export earnings reached nearly NZ$5 billion for the fiscal year ending June 2026, surpassing pre-COVID levels and marking three consecutive years of growth from NZ$3.5 billion in 2024 and NZ$4.3 billion in 2025. The announcement was made by New Zealand Education Minister Erica Stanford, highlighting the success of the country’s sustainable growth strategy for education exports.",
-      "insight": "New Zealand’s education export recovery signals strengthening global demand for high-quality, post-pandemic study destinations, though it’s unclear whether this reflects broader shifts in student preferences or NZ-specific policy and marketing success.  \nAdmissions teams should monitor NZ’s visa processing times, scholarship offerings, and post-study work rights—particularly in key Asian and Pacific markets—as potential indicators of competitive pressure or emerging student mobility trends.",
+      "title": "ESAG publishes sector action plans for UK international education strategy",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/esag-publishes-sector-action-plans-for-uk-international-education-strategy/",
+      "pubDate": "2026-09-25",
+      "summary": "The UK’s Education Sector Advisory Group (ESAG) has published a series of sector action plans to support the delivery of the UK’s international education strategy through to 2030. These plans outline proposed activities across the education sector to advance the strategy’s objectives.",
+      "insight": "The UK’s publication of sector action plans signals a coordinated, long-term commitment to growing international education—potentially reinforcing the UK’s competitiveness in key source markets, though direct impacts on global student demand or visa policy remain uncertain without further implementation details.  \nAdmissions teams should monitor how these plans translate into tangible initiatives—such as streamlined visa pathways, enhanced scholarships, or targeted marketing—in priority regions, and assess whether UK institutions’ strengthened positioning warrants adjustments to their own market differentiation or partnership strategies.",
       "impact": "Low",
       "sources": [],
       "dests": [
-        "New Zealand"
+        "UK"
       ],
       "translated": false,
       "origLang": null,
@@ -62,40 +64,21 @@
     },
     {
       "id": 4,
-      "title": "IELTS will offer the Paper-based test from October",
-      "source": "VnExpress (Giáo dục)",
-      "color": "#b94500",
-      "url": "https://vnexpress.net/thi-writing-ielts-tren-giay-tu-thang-10-nhu-the-nao-5100093.html",
-      "pubDate": "2026-09-25",
-      "summary": "Starting in October, IELTS candidates in Vietnam will be able to take the paper-based version of the test. This includes the Writing section, which will be completed on paper rather than on a computer.",
-      "insight": "The reintroduction of paper-based IELTS in Vietnam may reflect ongoing demand for familiar, low-tech testing options among Southeast Asian students, potentially influencing application confidence—though it’s unclear whether this shift meaningfully affects overall test-taker volume or university application trends.  \nAdmissions teams should monitor uptake rates and regional score distributions over the next 6–12 months, and consider whether to adjust guidance on acceptable test formats for Vietnamese applicants, particularly for those with limited digital access or test anxiety.",
+      "title": "Australia just changed its visa rules. So what about its bespoke Hong Kong pathway?",
+      "source": "SCMP (Education)",
+      "color": "#7b241c",
+      "url": "https://www.scmp.com/news/hong-kong/education/article/3368902/australia-just-changed-its-visa-rules-so-what-about-its-bespoke-hong-kong-pathway?utm_source=rss_feed",
+      "pubDate": "2026-09-27",
+      "summary": "Australia has introduced new visa rules that remove family sponsorship exemptions for Hong Kong residents using the bespoke study-to-migrate pathway. As confirmed by Australia’s home affairs authorities, applicants under this pathway are now subject to the same restrictions as other temporary visa holders and cannot bring their families while studying in Australia.",
+      "insight": "Australia’s tightening of family sponsorship for Hong Kong students on its bespoke pathway may dampen appeal for this cohort, though broader demand trends remain uncertain given Hong Kong’s relatively small share of Australia’s international student intake and potential offsetting factors like post-study work rights.  \nAdmissions teams should track application volumes and enrolment patterns from Hong Kong over the next 6–12 months, while reviewing messaging around family provisions in marketing materials to ensure accuracy and sensitivity to evolving visa conditions.",
       "impact": "Low",
-      "sources": [
-        "Southeast Asia"
-      ],
-      "dests": [],
-      "translated": true,
-      "origLang": "vi",
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 5,
-      "title": "US court grants preliminary injunction to block rule that would have ended Duration of Status admissions for international students",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/09/us-court-grants-preliminary-injunction-to-block-rule-that-would-have-ended-duration-of-status-admissions-for-international-students/",
-      "pubDate": "2026-09-15",
-      "summary": "A US court has granted a preliminary injunction blocking the Department of Homeland Security’s final rule that would have ended Duration of Status (D/S) admissions for international students. The injunction follows a legal challenge filed last month by a consortium of prominent education organizations and unions, which argued the rule’s legality and sought to halt its implementation.",
-      "insight": "This ruling temporarily preserves the existing Duration of Status framework for US-bound international students, potentially sustaining current application patterns—but its long-term impact on demand remains uncertain pending final litigation or revised policy.  \nAdmissions teams should track developments in the case and DHS’s next steps, while reviewing messaging to ensure clarity about current US visa rules without speculating on future regulatory changes.",
-      "impact": "High",
       "sources": [],
       "dests": [
-        "USA"
+        "Australia"
       ],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 7,
+      "relevanceScore": 8,
       "insightSource": "qwen"
     }
   ]
