@@ -1,21 +1,21 @@
 {
-  "updated": "2026-10-01T06:40:36Z",
+  "updated": "2026-10-02T06:23:02Z",
   "count": 7,
-  "totalFetched": 157,
+  "totalFetched": 148,
   "articles": [
     {
       "id": 1,
-      "title": "Breaking: UK Home Office suspends Buckinghamshire New University’s student sponsor licence",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/uk-home-office-suspends-buckinghamshire-new-universitys-student-sponsor-licence/",
-      "pubDate": "2026-09-30",
-      "summary": "The UK Home Office has suspended Buckinghamshire New University’s student sponsor licence, effective 30 September. This suspension prevents the university from issuing new Confirmation of Acceptance for Studies (CAS) to international students.",
-      "insight": "This suspension signals heightened UK Home Office scrutiny of student sponsor compliance, potentially amplifying perceptions among international applicants—especially from high-risk or visa-sensitive markets—that UK study pathways are becoming more complex or less reliable, though direct demand shifts remain unconfirmed.  \nAdmissions teams should monitor regional agent feedback and application trends from key source countries for early signs of sentiment shifts, while reviewing their own compliance frameworks and contingency messaging around visa assurance and alternative study destinations.",
+      "title": "DHS appeals decision blocking 4-year cap on student visas",
+      "source": "Higher Ed Dive",
+      "color": "#1e5631",
+      "url": "https://www.highereddive.com/news/dhs-appeals-decision-blocking-four-year-cap/831927/",
+      "pubDate": "2026-10-01",
+      "summary": "The U.S. Department of Homeland Security is appealing a court decision that blocked its new regulation imposing a four-year cap on student visas. The regulation was halted just one day before it was scheduled to take effect.",
+      "insight": "This DHS appeal signals potential tightening of U.S. student visa duration, which may heighten perceived immigration risk for prospective students—especially from high-demand markets like India and China—though actual policy impact remains uncertain pending judicial outcome and implementation details.  \nAdmissions teams should track the litigation timeline and DHS communications closely, while reviewing messaging around post-study options and visa stability, particularly when advising students from countries where U.S. degree pathways compete directly with UK, Australian, or New Zealand alternatives.",
       "impact": "High",
       "sources": [],
       "dests": [
-        "UK"
+        "USA"
       ],
       "translated": false,
       "origLang": null,
@@ -24,36 +24,36 @@
     },
     {
       "id": 2,
-      "title": "Australia just changed its visa rules. So what about its bespoke Hong Kong pathway?",
-      "source": "SCMP (Education)",
-      "color": "#7b241c",
-      "url": "https://www.scmp.com/news/hong-kong/education/article/3368902/australia-just-changed-its-visa-rules-so-what-about-its-bespoke-hong-kong-pathway?utm_source=rss_feed",
-      "pubDate": "2026-09-27",
-      "summary": "Australia has introduced new visa rules that remove family sponsorship exemptions for Hong Kong residents using the bespoke study-to-migrate pathway. As confirmed by Australia’s home affairs authorities, applicants under this pathway are now subject to the same restrictions as other temporary visa holders and cannot bring their families while studying in Australia.",
-      "insight": "Australia’s tightening of family sponsorship for Hong Kong students on its bespoke pathway may dampen appeal for this cohort, though broader demand trends remain uncertain given Hong Kong’s relatively small share of Australia’s international student intake and potential offsetting factors like post-study work rights.  \nAdmissions teams should track application volumes and enrolment patterns from Hong Kong over the next 6–12 months, while reviewing messaging around family provisions in marketing materials to ensure accuracy and sensitivity to evolving visa conditions.",
-      "impact": "Low",
+      "title": "Trump targets $70M for international scholars in $810M funding clawback",
+      "source": "Higher Ed Dive",
+      "color": "#1e5631",
+      "url": "https://www.highereddive.com/news/trump-targets-70m-for-international-scholars-in-810m-funding-clawback/831673/",
+      "pubDate": "2026-09-29",
+      "summary": "The U.S. Government Accountability Office determined that the process used to claw back $70 million designated for international scholars from an $810 million funding pool is illegal. The GAO reaffirmed this conclusion on Tuesday.",
+      "insight": "This news signals potential regulatory scrutiny of U.S. federal funding mechanisms for international scholars, which may indirectly affect perceptions of U.S. academic hospitality—though direct impacts on undergraduate or master’s enrolment remain uncertain and likely minimal in the near term.  \nAdmissions teams should monitor U.S. State Department visa issuance trends and source-market sentiment surveys for early signs of shifting preferences, while continuing to highlight institutional support structures that buffer against policy volatility.",
+      "impact": "Medium",
       "sources": [],
       "dests": [
-        "Australia"
+        "USA"
       ],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 10,
+      "relevanceScore": 8,
       "insightSource": "qwen"
     },
     {
       "id": 3,
-      "title": "UK eases entry rules for Erasmus+ participants",
+      "title": "New Zealand’s education exports surpass pre-COVID levels as sustainable growth strategy takes hold",
       "source": "ICEF Monitor",
       "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/09/uk-eases-entry-rules-for-erasmus-participants/",
+      "url": "https://monitor.icef.com/2026/09/new-zealands-education-exports-surpass-pre-covid-levels-as-sustainable-growth-strategy-takes-hold/",
       "pubDate": "2026-09-23",
-      "summary": "The UK government announced in April 2026 that it would rejoin the Erasmus+ programme in 2027. Following lobbying by English UK, the government will ease entry rules for most EU and EEA Erasmus+ participants traveling to the UK for the mobility programme.",
-      "insight": "This development signals potential softening in UK visa policy for short-term EU/EEA learners, which may indirectly boost perceptions of the UK as a more accessible destination—though its direct impact on full-degree international student demand from non-EU markets remains uncertain and likely modest.  \nAdmissions teams should monitor UK Border Force guidance updates and Erasmus+ partner institution announcements later this year, while assessing whether UK universities begin leveraging this change in outreach to EU pathway or exchange partners.",
+      "summary": "New Zealand’s international education export earnings reached nearly NZ$5 billion for the fiscal year ending June 2026, surpassing pre-COVID levels and marking three consecutive years of growth from NZ$3.5 billion in 2024 and NZ$4.3 billion in 2025. The announcement was made by New Zealand Education Minister Erica Stanford, highlighting the success of the country’s sustainable growth strategy in the sector.",
+      "insight": "New Zealand’s education export recovery suggests growing confidence in its post-pandemic student experience and policy stability, though it doesn’t directly indicate shifting demand away from the US, UK, or Australia—student mobility remains highly context-dependent on visa rules, costs, and labour market outcomes.  \nAdmissions teams should track New Zealand’s enrolment patterns by level and origin region, alongside any tightening of its student visa settings or scholarship expansions, as these may signal evolving competitive pressures or early shifts in regional student sentiment.",
       "impact": "Low",
       "sources": [],
       "dests": [
-        "UK"
+        "New Zealand"
       ],
       "translated": false,
       "origLang": null,
@@ -62,38 +62,17 @@
     },
     {
       "id": 4,
-      "title": "Sudden closure of language schools in Canada frustrates Brazilian exchange students",
-      "source": "Folha de S.Paulo",
-      "color": "#154360",
-      "url": "https://redir.folha.com.br/redir/online/educacao/rss091/*https://www1.folha.uol.com.br/educacao/2026/09/fechamento-repentino-de-escolas-de-idiomas-no-canada-frustra-intercambistas-brasileiros.shtml",
-      "pubDate": "2026-09-24",
-      "summary": "Brazilian exchange student Amanda Grecco, 33, arrived in Toronto to begin an intensive English course at the International Language Academy of Canada (ILAC) but found the school had suddenly closed before her first class. The closure occurred on or before September 24, 2026, leaving affected students frustrated.",
-      "insight": "This incident may signal growing vulnerability in Canada’s private language school sector, potentially influencing Latin American students’ perceptions of destination reliability—though it remains unclear whether this reflects broader systemic risks or isolated operational failures.  \nAdmissions teams should monitor social media sentiment and agent feedback from Brazil and neighbouring countries for shifts in trust toward Canadian institutions, while reviewing their own pre-arrival support protocols to reinforce confidence in student journey integrity.",
-      "impact": "Low",
-      "sources": [
-        "Latin America"
-      ],
-      "dests": [
-        "Canada"
-      ],
-      "translated": true,
-      "origLang": "pt",
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 5,
-      "title": "UK TNE students near 700k as overseas provision overtakes onshore international enrolment",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/uk-tne-students-near-700k-as-overseas-provision-overtakes-onshore-international-enrolment/",
-      "pubDate": "2026-09-30",
-      "summary": "UK universities are now educating nearly 700,000 students overseas through transnational education (TNE) programmes. This figure exceeds the number of international students enrolled onshore in the UK.",
-      "insight": "UK TNE growth signals rising global demand for Western qualifications delivered locally, potentially reflecting shifting preferences toward lower-cost, visa-free pathways—though it’s unclear whether this directly reduces onshore demand or simply expands the overall market for Anglophone education.  \nAdmissions teams should track enrolment trends in key source markets for both onshore and TNE programmes, assess how partner institutions position hybrid pathways, and review messaging around value propositions like employability, mobility options, and post-study outcomes.",
+      "title": "Has Australia’s genuine student test gone too far?",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/10/has-australias-genuine-student-test-gone-too-far/",
+      "pubDate": "2026-10-01",
+      "summary": "Updated data from the Department of Home Affairs shows that student visa grant rates in Australia continue to decline, with the August 2026 approval rate for primary applicants falling to 75.5%. This represents the lowest student visa grant rate recorded in over 20 years of available data.",
+      "insight": "Australia’s declining student visa grant rate—now at a 20-year low—may signal tightening immigration scrutiny, potentially dampening demand from risk-averse applicants in key Asian and African markets, though it remains unclear whether this reflects stricter enforcement, application quality shifts, or broader geopolitical sentiment.  \nAdmissions teams should track real-time visa refusal trends by country and course type, review partner agent feedback on application confidence, and assess whether complementary support—like pre-submission compliance checks—could mitigate perceived risk without assuming immediate policy escalation.",
       "impact": "Low",
       "sources": [],
       "dests": [
-        "UK"
+        "Australia"
       ],
       "translated": false,
       "origLang": null,
@@ -101,20 +80,39 @@
       "insightSource": "qwen"
     },
     {
-      "id": 6,
-      "title": "President Xi Jinping calls on China, US youth to advance bilateral cooperation",
-      "source": "SCMP (Education)",
-      "color": "#7b241c",
-      "url": "https://www.scmp.com/news/hong-kong/education/article/3368300/president-xi-jinping-calls-china-us-youth-advance-bilateral-cooperation?utm_source=rss_feed",
-      "pubDate": "2026-09-21",
-      "summary": "President Xi Jinping expressed hope that young people from China and the United States will advance bilateral cooperation, foster mutual understanding, and ensure the steady, long-term development of Sino-U.S. relations. His remarks were made in a reply to a letter from students at 10 U.S. universities who shared their thoughts and experiences following a youth exchange program in China earlier this month, as reported by Xinhua on Monday.",
-      "insight": "This news reflects high-level diplomatic emphasis on youth exchange as a pillar of bilateral relations, which may indirectly support sustained or growing Chinese student interest in the U.S., though demand remains subject to broader factors like economic conditions, safety perceptions, and visa processing efficiency.  \nAdmissions teams should monitor official U.S.–China education dialogue outcomes, State Department visa policy updates, and longitudinal enrollment data from peer institutions—particularly regarding retention and post-study engagement—to assess whether such diplomatic signals translate into tangible recruitment trends.",
+      "id": 5,
+      "title": "China lures overseas talent with 15-year grants that only ask scientists to stay in the lab",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/china-lures-overseas-talent-with-15-year-grants-that-only-ask-scientists-to-stay-in-the-lab-5126414.html",
+      "pubDate": "2026-10-01",
+      "summary": "China’s National Natural Science Foundation is providing 15-year research grants to 44 scientists under the age of 35. The funding comes with no short-term performance reviews and requires only that recipients remain actively engaged in laboratory work.",
+      "insight": "This initiative signals China’s intensified focus on retaining top young scientific talent domestically, potentially dampening long-term outbound mobility for high-achieving STEM undergraduates—though immediate shifts in application volumes remain uncertain given broader educational, economic, and geopolitical factors.  \nAdmissions teams should monitor Chinese university research funding trends, graduate placement data, and student surveys on career aspirations—particularly among physics, chemistry, and life sciences applicants—to assess whether domestic opportunity perceptions are evolving meaningfully.",
       "impact": "Low",
       "sources": [
         "China"
       ],
+      "dests": [],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 6,
+      "title": "5 universities in Hong Kong rank in top 100 in ‘historic’ shift from West to East",
+      "source": "SCMP (Education)",
+      "color": "#7b241c",
+      "url": "https://www.scmp.com/news/hong-kong/education/article/3369243/5-universities-hong-kong-rank-top-100-historic-shift-west-east?utm_source=rss_feed",
+      "pubDate": "2026-09-29",
+      "summary": "Five public universities in Hong Kong are ranked within the top 100 of the Times Higher Education (THE) World University Rankings, described as part of a “historic realignment” of academic strength from West to East. The University of Hong Kong is ranked 33rd, maintaining its position from the previous year, and the Chinese University of Hong Kong is ranked 42nd.",
+      "insight": "This ranking shift signals growing perceived academic prestige in East Asia, which may gradually influence student preferences—particularly among Chinese applicants weighing proximity, cost, and global recognition—though direct impact on Western enrolment remains uncertain without evidence of shifting application patterns.  \nAdmissions teams should monitor application volumes and yield rates from mainland China and Hong Kong, while assessing whether their value proposition—such as post-study work rights or research opportunities—still clearly differentiates them amid rising regional alternatives.",
+      "impact": "High",
+      "sources": [
+        "China"
+      ],
       "dests": [
-        "USA"
+        "UK"
       ],
       "translated": false,
       "origLang": null,
@@ -123,18 +121,18 @@
     },
     {
       "id": 7,
-      "title": "Vietnam: A strong economy at home is powering surging demand for study abroad",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/09/vietnam-a-strong-economy-at-home-is-powering-surging-demand-for-study-abroad/",
-      "pubDate": "2026-09-24",
-      "summary": "Vietnam is projected to achieve 7–7.5% real GDP growth in 2026, according to the IMF and ASEAN, outperforming most major economies globally. This strong domestic economic performance is driving a surge in demand for study abroad opportunities among Vietnamese students.",
-      "insight": "Vietnam’s projected 7–7.5% GDP growth in 2026 signals rising household incomes and educational aspirations, likely increasing demand for high-quality overseas study—though actual enrolment growth will depend on sustained economic momentum, exchange rate stability, and geopolitical confidence.  \n\nAdmissions teams should track Vietnam-specific visa processing times, scholarship uptake trends, and regional agent partnerships, while reviewing recruitment messaging to emphasise value, post-study work pathways, and financial planning support aligned with evolving middle-class priorities.",
+      "title": "Keystone reports 10% drop in Q2 revenue amid UK, US recruitment pressures",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/keystone-reports-10-drop-in-q2-revenue-amid-uk-us-recruitment-pressures/",
+      "pubDate": "2026-09-30",
+      "summary": "Keystone Education Group reported a 10% year-on-year decline in second-quarter revenue. The company attributed this drop to ongoing pressures on international student recruitment in the UK and US.",
+      "insight": "Keystone’s 10% Q2 revenue drop reflects broader challenges in UK and US international recruitment, potentially indicating softening demand, tightening visa policies, or shifting source-market confidence—though it may also stem from Keystone-specific operational factors rather than systemic trends.  \nAdmissions teams should monitor application volume and yield trends by region, especially from key markets like India and Nigeria, while reviewing partner agency performance and recent visa refusal data to assess whether this signals emerging headwinds requiring proactive outreach or pathway adjustments.",
       "impact": "Low",
-      "sources": [
-        "Southeast Asia"
+      "sources": [],
+      "dests": [
+        "UK"
       ],
-      "dests": [],
       "translated": false,
       "origLang": null,
       "relevanceScore": 6,
