@@ -1,55 +1,17 @@
 {
-  "updated": "2026-10-05T06:23:18Z",
-  "count": 7,
-  "totalFetched": 160,
+  "updated": "2026-10-06T06:58:41Z",
+  "count": 4,
+  "totalFetched": 154,
   "articles": [
     {
       "id": 1,
-      "title": "Breaking: UK Home Office suspends Buckinghamshire New University’s student sponsor licence",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/uk-home-office-suspends-buckinghamshire-new-universitys-student-sponsor-licence/",
-      "pubDate": "2026-09-30",
-      "summary": "The UK Home Office has suspended Buckinghamshire New University’s student sponsor licence, effective 30 September. This suspension prevents the university from issuing new Confirmation of Acceptance for Studies (CAS) to international students.",
-      "insight": "This suspension signals heightened UK Home Office scrutiny of student sponsor compliance, potentially dampening short-term demand from risk-averse international applicants—though broader market sentiment and regional visa policy shifts remain more decisive drivers than isolated licence actions.  \nAdmissions teams should monitor UKVI enforcement trends, competitor responses in key source markets (e.g., India, Nigeria), and any ripple effects on agent confidence or student inquiries—noting that licence reinstatement is possible and outcomes vary by institution profile and geography.",
-      "impact": "High",
-      "sources": [],
-      "dests": [
-        "UK"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 10,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 2,
-      "title": "DHS appeals decision blocking 4-year cap on student visas",
-      "source": "Higher Ed Dive",
-      "color": "#1e5631",
-      "url": "https://www.highereddive.com/news/dhs-appeals-decision-blocking-four-year-cap/831927/",
-      "pubDate": "2026-10-01",
-      "summary": "The U.S. Department of Homeland Security is appealing a court decision that blocked its new regulation imposing a four-year cap on student visas. The regulation was halted just one day before it was scheduled to take effect.",
-      "insight": "This DHS appeal signals potential tightening of U.S. student visa duration, which may heighten perceived immigration risk for prospective students—especially from high-demand markets like India and China—though actual policy impact remains uncertain pending judicial outcome and implementation timing.  \nAdmissions teams should track the litigation’s progress, assess how peer institutions in the U.S. and competing destinations (UK/AU/NZ) frame visa stability in marketing, and prepare nuanced talking points addressing student concerns about long-term study and post-study options.",
-      "impact": "High",
-      "sources": [],
-      "dests": [
-        "USA"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 10,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 3,
-      "title": "Australia’s student visa restrictions take effect, curbing dependants and onshore applications",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/australias-student-visa-restrictions-take-effect-curbing-dependants-and-onshore-applications/",
-      "pubDate": "2026-10-02",
-      "summary": "Australia has implemented new student visa restrictions that limit when international students can bring dependants into the country. Assistant Minister for International Education Julian Hill confirmed the timing and details of these measures, which are part of broader migration reforms and also affect onshore student visa applications.",
-      "insight": "Australia’s new student visa restrictions—limiting dependants and onshore applications—may dampen appeal for family-oriented students from key markets like India and China, though demand resilience depends on concurrent factors like course quality, post-study work rights, and regional migration policy shifts elsewhere.  \nAdmissions teams should track real-time application trends from Australia-bound cohorts, monitor competitor messaging around family inclusivity and pathway flexibility, and assess whether counsellor feedback signals shifting preferences toward destinations with more predictable dependent visa policies.",
+      "title": "Australia restricts student visa applications from within country",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/education/australia-restricts-student-visa-applications-from-within-country-5128758.html",
+      "pubDate": "2026-10-06",
+      "summary": "Australia has implemented new rules effective October 2 that prohibit most foreigners and international students already in the country from applying for a student visa while inside Australia. The policy change restricts onshore student visa applications for the majority of non-citizens and non-permanent residents.",
+      "insight": "Australia’s onshore student visa restriction may indirectly influence global student mobility patterns, potentially increasing demand for alternative destinations like the US, UK, or New Zealand—though actual shifts depend on source-market perceptions, policy reciprocity, and institutional outreach effectiveness.  \nAdmissions teams should monitor application trends from key Australian feeder markets (e.g., India, China, Philippines), track competitor messaging around visa stability, and assess whether prospective students are proactively seeking clearer post-study work pathways elsewhere.",
       "impact": "High",
       "sources": [],
       "dests": [
@@ -61,18 +23,37 @@
       "insightSource": "qwen"
     },
     {
-      "id": 4,
-      "title": "UK eases entry rules for Erasmus+ participants",
+      "id": 2,
+      "title": "DHS Appeals Block on International Student Time Limits",
+      "source": "Inside Higher Ed",
+      "color": "#285e61",
+      "url": "https://www.insidehighered.com/news/quick-takes/2026/10/05/dhs-appeals-block-international-student-time-limits",
+      "pubDate": "2026-10-05",
+      "summary": "The U.S. Department of Homeland Security (DHS) has filed an appeal challenging a federal court order that blocked its new rule imposing stricter time limits on international students’ stays in the United States. The rule, announced earlier in 2026, sought to limit F-1 visa holders to a maximum period of stay tied to their academic program length plus a fixed grace period, but was halted by a judge in response to a lawsuit alleging procedural violations and harm to students and institutions.",
+      "insight": "This DHS appeal signals potential future tightening of U.S. F-1 visa duration rules, which could dampen U.S. appeal for students from regions prioritizing long-term study-to-work pathways—though outcome uncertainty means immediate demand shifts remain unclear.  \nAdmissions teams should track the appellate court’s timeline and any interim guidance, while reviewing messaging around post-study options and preparing contingency talking points for counsellors engaging students concerned about U.S. visa stability.",
+      "impact": "High",
+      "sources": [],
+      "dests": [
+        "USA"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 3,
+      "title": "New Zealand’s education exports surpass pre-COVID levels as sustainable growth strategy takes hold",
       "source": "ICEF Monitor",
       "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/09/uk-eases-entry-rules-for-erasmus-participants/",
+      "url": "https://monitor.icef.com/2026/09/new-zealands-education-exports-surpass-pre-covid-levels-as-sustainable-growth-strategy-takes-hold/",
       "pubDate": "2026-09-23",
-      "summary": "The UK government announced in April 2026 that it would rejoin the Erasmus+ programme in 2027. Following lobbying by English UK, the government will ease entry rules for most EU and EEA Erasmus+ participants traveling to the UK for the mobility programme.",
-      "insight": "This development signals potential softening in UK visa policy for short-term EU/EEA learners, which may indirectly boost perceptions of the UK as a more accessible destination—though its direct impact on full-degree international student demand from non-EU markets remains uncertain and likely modest.  \nAdmissions teams should monitor UK Border Force guidance updates and Erasmus+ partner institution announcements later this year, while assessing whether UK universities begin leveraging this change in outreach to EU pathway or exchange partners.",
+      "summary": "New Zealand’s international education export earnings reached nearly NZ$5 billion for the fiscal year ending June 2026, surpassing pre-COVID levels and marking three years of steady growth from NZ$3.5 billion in 2024 and NZ$4.3 billion in 2025. The announcement was made by New Zealand Education Minister Erica Stanford, highlighting the success of the country’s sustainable growth strategy in the sector.",
+      "insight": "New Zealand’s education export recovery signals strengthening global demand for its study destinations, potentially reflecting improved visa processing, post-study work appeal, or shifting source-market preferences—though causality remains unclear and may not directly translate to comparable trends in the US, UK, or Australia.  \nAdmissions teams should monitor New Zealand’s visa policy updates, student satisfaction metrics, and regional enrolment shifts—particularly in Asia-Pacific markets—as potential leading indicators of evolving student mobility patterns and competitive positioning.",
       "impact": "Low",
       "sources": [],
       "dests": [
-        "UK"
+        "New Zealand"
       ],
       "translated": false,
       "origLang": null,
@@ -80,35 +61,14 @@
       "insightSource": "qwen"
     },
     {
-      "id": 5,
-      "title": "Sudden closure of language schools in Canada frustrates Brazilian exchange students",
-      "source": "Folha de S.Paulo",
-      "color": "#154360",
-      "url": "https://redir.folha.com.br/redir/online/educacao/rss091/*https://www1.folha.uol.com.br/educacao/2026/09/fechamento-repentino-de-escolas-de-idiomas-no-canada-frustra-intercambistas-brasileiros.shtml",
-      "pubDate": "2026-09-24",
-      "summary": "Brazilian exchange student Amanda Grecco, 33, arrived in Toronto to begin an intensive English course at the International Language Academy of Canada (ILAC) but found the school had suddenly closed before her first class. The closure occurred on or before September 24, 2026, leaving affected students frustrated.",
-      "insight": "This incident may signal growing vulnerability in Canada’s private language school sector, potentially influencing Latin American students’ perceptions of destination reliability—though it remains unclear whether this reflects broader systemic risks or isolated operational failures.  \nAdmissions teams should monitor social media sentiment and agent feedback from Brazil and neighbouring countries for shifts in trust toward Canadian institutions, while reinforcing their own visa support and academic integrity messaging in outreach materials.",
-      "impact": "Low",
-      "sources": [
-        "Latin America"
-      ],
-      "dests": [
-        "Canada"
-      ],
-      "translated": true,
-      "origLang": "pt",
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 6,
-      "title": "UK TNE students near 700k as overseas provision overtakes onshore international enrolment",
+      "id": 4,
+      "title": "In focus: How UK unis are staying under the 5% BCA threshold",
       "source": "The PIE News",
       "color": "#7b341e",
-      "url": "https://thepienews.com/uk-tne-students-near-700k-as-overseas-provision-overtakes-onshore-international-enrolment/",
-      "pubDate": "2026-09-30",
-      "summary": "UK universities are now educating nearly 700,000 students overseas through transnational education (TNE) programmes. This figure exceeds the number of international students enrolled onshore in the UK.",
-      "insight": "UK TNE growth signals rising global demand for Western qualifications delivered locally, potentially reflecting shifting preferences toward lower-cost, visa-free pathways—though it’s unclear whether this directly reduces onshore demand or simply expands the overall market for Anglophone education.  \nAdmissions teams should track enrolment trends in key source markets for both onshore and TNE programmes, assess how partner institutions position hybrid pathways, and review messaging around value propositions like employability, mobility options, and post-study outcomes.",
+      "url": "https://thepienews.com/in-focus-how-uk-unis-are-staying-under-the-5-bca-threshold/",
+      "pubDate": "2026-10-05",
+      "summary": "The article discusses how UK universities are taking measures to remain below the new 5% Border Control Assessment (BCA) visa refusal threshold. It highlights that these compliance efforts are having a tangible impact on students, though specific strategies and consequences are not detailed in the provided excerpt.",
+      "insight": "UK universities’ efforts to stay under the 5% BCA visa refusal threshold may indirectly signal tightening UK visa scrutiny, potentially dampening student confidence in UK applications—though demand shifts depend on broader geopolitical and economic factors across key source markets.  \nAdmissions teams should monitor UK visa refusal trends by country and institution, assess how competitor universities frame compliance in marketing, and review their own pre-application screening and support processes for international applicants.",
       "impact": "Low",
       "sources": [],
       "dests": [
@@ -116,25 +76,6 @@
       ],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 7,
-      "title": "Vietnam and France jointly build the 'excellent university' model at USTH",
-      "source": "VnExpress (Giáo dục)",
-      "color": "#b94500",
-      "url": "https://vnexpress.net/viet-phap-cung-xay-dung-mo-hinh-truong-dai-hoc-xuat-sac-tai-usth-5128500.html",
-      "pubDate": "2026-10-05",
-      "summary": "Vietnam and France are jointly developing the University of Science and Technology Hanoi (USTH) as an “excellent university” model. USTH is research-oriented, focuses on science, engineering, and technology, and has achieved a high level of internationalization.",
-      "insight": "This collaboration signals growing regional capacity in high-quality, English-taught STEM education—potentially moderating outbound demand from Southeast Asia, though its impact on Western enrolments remains uncertain given varying program scope, brand recognition, and scholarship accessibility.  \nAdmissions teams should track USTH’s graduate outcomes, industry partnerships, and student mobility data over the next 2–3 years, while assessing whether its rise correlates with subtle shifts in application patterns or enrolment timing from key Southeast Asian markets.",
-      "impact": "Low",
-      "sources": [
-        "Southeast Asia"
-      ],
-      "dests": [],
-      "translated": true,
-      "origLang": "vi",
       "relevanceScore": 8,
       "insightSource": "qwen"
     }
