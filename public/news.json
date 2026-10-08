@@ -1,17 +1,36 @@
 {
-  "updated": "2026-10-07T06:39:50Z",
-  "count": 1,
-  "totalFetched": 147,
+  "updated": "2026-10-08T06:44:46Z",
+  "count": 3,
+  "totalFetched": 148,
   "articles": [
     {
       "id": 1,
-      "title": "Australia’s Coalition pledges to scrap Temporary Graduate visas, cut student numbers",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/australias-coalition-pledges-to-scrap-temporary-graduate-visas-cut-student-numbers/",
-      "pubDate": "2026-10-06",
-      "summary": "The Coalition has pledged to abolish Temporary Graduate visas if elected as part of a broader migration plan. It also plans to reduce annual international student commencements to 240,000.",
-      "insight": "Australia’s proposed Temporary Graduate visa abolition and student cap may indirectly influence global student decision-making, as prospective applicants from overlapping source markets reassess study destinations amid perceived reduced post-study work opportunities—though actual demand shifts will depend on policy implementation and competing countries’ responses.  \nAdmissions teams should monitor Australian enrolment data, visa refusal trends, and sentiment shifts in key feeder countries like India and China, while reviewing their own post-study work offerings and articulation pathways to strengthen value propositions amid growing destination competition.",
+      "title": "DHS sued over guidance restricting training program for international students",
+      "source": "Higher Ed Dive",
+      "color": "#1e5631",
+      "url": "https://www.highereddive.com/news/dhs-sued-over-guidance-restricting-training-program-for-international-stude/832314/",
+      "pubDate": "2026-10-07",
+      "summary": "The Association of American Universities and other organizations have filed a lawsuit against the U.S. Department of Homeland Security over its revised guidance restricting the Curricular Practical Training (CPT) program for international students. The plaintiffs allege that DHS unlawfully narrowed the CPT program, which allows international students to engage in off-campus work related to their field of study.",
+      "insight": "This news signals potential tightening of U.S. work-integrated learning pathways for international students, which may dampen U.S. appeal—especially for students prioritising post-study employment—though broader demand impacts remain uncertain pending litigation outcomes and enforcement patterns.  \nAdmissions teams should monitor CPT policy developments closely, assess how peer institutions are communicating U.S. work opportunities, and consider reinforcing alternative experiential learning pathways in recruitment messaging to mitigate perceived risk.",
+      "impact": "High",
+      "sources": [],
+      "dests": [
+        "USA"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 2,
+      "title": "Australia: New rules now in force for accompanying dependants and onshore student visa applications",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/10/australia-new-rules-now-in-force-for-accompanying-dependants-and-onshore-student-visa-applications/",
+      "pubDate": "2026-10-07",
+      "summary": "The Australian government has implemented new restrictions on Subclass 500 student visas, effective from 2 October 2026, applying to all applications lodged on or after that date. These changes include tighter rules for accompanying dependants and onshore student visa applications, as first announced on 17 September 2026.",
+      "insight": "Australia’s tightened Subclass 500 visa rules—especially for dependants and onshore applications—may dampen appeal for family-oriented students from regions like South Asia and the Middle East, though demand resilience will depend on how competing destinations adjust their own policies and messaging.  \nAdmissions teams should track application volume shifts by origin country and student profile (e.g., postgraduate vs. undergraduate, dependant inclusion), while reviewing partner agent feedback and comparing Australia’s revised conditions against UK/Canada/NZ visa trends over the next 6–12 months.",
       "impact": "Low",
       "sources": [],
       "dests": [
@@ -19,7 +38,26 @@
       ],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 10,
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 3,
+      "title": "Trump administration proposes $70,000 OPT fee",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/trump-administration-proposes-70000-opt-fee/",
+      "pubDate": "2026-10-07",
+      "summary": "The Trump administration proposed a $70,000 fee for U.S. universities to recommend each international student for Optional Practical Training (OPT). Institutions would also face additional annual fees for OPT extensions.",
+      "insight": "This proposed $70,000 OPT recommendation fee—though unlikely to pass unchanged—signals heightened U.S. regulatory scrutiny of international student pathways and could dampen institutional willingness to sponsor OPT, indirectly affecting U.S. appeal versus competitor destinations with more stable post-study work policies.  \nAdmissions teams should track the proposal’s legislative progress and concurrent shifts in U.S. visa approval rates, while benchmarking how peer institutions in the UK, Australia, and New Zealand are positioning their graduate employment support to reassure students amid growing policy uncertainty.",
+      "impact": "Low",
+      "sources": [],
+      "dests": [
+        "USA"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 8,
       "insightSource": "qwen"
     }
   ]
