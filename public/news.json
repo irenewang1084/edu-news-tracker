@@ -1,36 +1,55 @@
 {
-  "updated": "2026-10-09T06:53:15Z",
-  "count": 5,
-  "totalFetched": 155,
+  "updated": "2026-10-10T06:30:55Z",
+  "count": 4,
+  "totalFetched": 145,
   "articles": [
     {
       "id": 1,
-      "title": "Australia tightens student visas, prohibiting applications from within the country",
-      "source": "VnExpress (Giáo dục)",
-      "color": "#b94500",
-      "url": "https://vnexpress.net/australia-siet-chat-visa-du-hoc-cam-nop-don-tu-trong-nuoc-5127584.html",
-      "pubDate": "2026-10-05",
-      "summary": "Australia has introduced new regulations effective from October 2 that prohibit most foreigners and international students from applying for student visas while inside the country. This policy change means such visa applications must now be made from outside Australia.",
-      "insight": "This policy shift signals tightening Australian visa controls, potentially dampening student demand from markets where in-country applications were common—though its broader impact on global enrolment flows remains uncertain without data on affected applicant volumes or substitution effects.  \nAdmissions teams should monitor shifts in inquiry patterns from Australia-bound students, especially in key feeder countries, and assess whether streamlined visa processes elsewhere could position their institutions as more attractive alternatives for affected applicants.",
-      "impact": "Low",
+      "title": "DHS sued over guidance restricting training program for international students",
+      "source": "Higher Ed Dive",
+      "color": "#1e5631",
+      "url": "https://www.highereddive.com/news/dhs-sued-over-guidance-restricting-training-program-for-international-stude/832314/",
+      "pubDate": "2026-10-07",
+      "summary": "The Association of American Universities and other organizations have filed a lawsuit against the U.S. Department of Homeland Security over its revised guidance restricting the Curricular Practical Training (CPT) program for international students. The plaintiffs allege that DHS unlawfully narrowed the CPT program, which allows international students to engage in off-campus work related to their field of study.",
+      "insight": "This news signals potential tightening of U.S. work-integrated learning pathways for international students, which may dampen U.S. appeal—especially among career-focused applicants from Asia and Latin America—though broader demand trends remain influenced by multiple factors including tuition, post-study work rights, and geopolitical perceptions.  \nAdmissions teams should track CPT litigation outcomes and DHS policy updates closely, while benchmarking how peer institutions in the UK, Australia, and New Zealand are positioning their own internship and placement support to highlight comparative advantages in employability.",
+      "impact": "High",
       "sources": [],
       "dests": [
-        "Australia"
+        "USA"
       ],
-      "translated": true,
-      "origLang": "vi",
+      "translated": false,
+      "origLang": null,
       "relevanceScore": 8,
       "insightSource": "qwen"
     },
     {
       "id": 2,
-      "title": "DHS proposes $70K fee for initial OPT participation and $30K for extensions",
-      "source": "Higher Ed Dive",
-      "color": "#1e5631",
-      "url": "https://www.highereddive.com/news/dhs-proposes-70k-fee-for-initial-opt-participation-and-30k-for-extensions/832436/",
+      "title": "Australia: New rules now in force for accompanying dependants and onshore student visa applications",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/10/australia-new-rules-now-in-force-for-accompanying-dependants-and-onshore-student-visa-applications/",
       "pubDate": "2026-10-07",
-      "summary": "The U.S. Department of Homeland Security (DHS) has proposed a $70,000 fee for initial Optional Practical Training (OPT) participation and a $30,000 fee for OPT extensions. Under this proposal, colleges would bear the full cost—up to $100,000 per international student—for OPT-related fees.",
-      "insight": "This proposed DHS fee structure—though still in draft form—could significantly dampen U.S. appeal for international students, especially from cost-sensitive markets, potentially shifting demand toward the UK, Australia, and New Zealand where post-study work pathways remain comparatively affordable and stable.  \nAdmissions teams should track the proposal’s regulatory progress, model its potential impact on yield from key source countries, and proactively assess how their institution’s value proposition—including career support and alternative work-integrated learning—compares across destination countries.",
+      "summary": "The Australian government has implemented new restrictions on Subclass 500 student visas, effective from 2 October 2026, applying to all applications lodged on or after that date. These changes include tightened rules for accompanying dependants and onshore student visa applications, as first announced on 17 September 2026.",
+      "insight": "Australia’s tightened student visa rules for dependants and onshore applications may dampen appeal for family-sponsored or pathway-focused applicants from key markets like India and China, though broader demand shifts will depend on implementation clarity and concurrent policy adjustments elsewhere.  \nAdmissions teams should track real-time application and enrolment data from Australian institutions, monitor competitor messaging around visa stability, and assess whether their own support services—especially for dependent visas and onshore transitions—need refinement in light of evolving regional policy trends.",
+      "impact": "Low",
+      "sources": [],
+      "dests": [
+        "Australia"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 3,
+      "title": "Trump administration proposes $70,000 OPT fee",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/trump-administration-proposes-70000-opt-fee/",
+      "pubDate": "2026-10-07",
+      "summary": "The Trump administration proposed a $70,000 fee for U.S. universities to recommend each international student for Optional Practical Training (OPT). Institutions would also face additional annual fees for OPT extensions.",
+      "insight": "This proposed $70,000 OPT recommendation fee—though unlikely to pass unchanged—signals heightened U.S. regulatory scrutiny of international student pathways and could dampen institutional willingness to sponsor OPT, indirectly affecting U.S. appeal versus competitor destinations with more stable post-study work policies.  \nAdmissions teams should track the proposal’s legislative progress and concurrent shifts in U.S. visa approval rates, while benchmarking how peer institutions in the UK, Australia, and New Zealand are positioning their post-study work offerings to reassure students amid growing policy uncertainty.",
       "impact": "Low",
       "sources": [],
       "dests": [
@@ -42,62 +61,22 @@
       "insightSource": "qwen"
     },
     {
-      "id": 3,
-      "title": "The US proposes to collect 70,000 USD for international students who stay after graduation",
-      "source": "VnExpress (Giáo dục)",
-      "color": "#b94500",
-      "url": "https://vnexpress.net/my-de-xuat-thu-70-000-usd-neu-du-hoc-sinh-o-lai-thuc-tap-dien-opt-5129735.html",
-      "pubDate": "2026-10-08",
-      "summary": "The U.S. government has proposed a new immigration policy that would require universities to pay $70,000 per international student for Optional Practical Training (OPT) internships after graduation. An additional $30,000 fee would apply for OPT extensions under the same proposal.",
-      "insight": "This proposal—though not yet law—signals potential tightening of post-study work pathways in the U.S., which could dampen appeal for students prioritising career transition, especially from markets where OPT has been a key recruitment differentiator. Its impact on demand remains uncertain pending legislative outcome and parallel policy developments globally.  \nAdmissions teams should track the bill’s progress, assess how peer institutions in the U.S. and competing destinations (UK, Australia, NZ) are framing post-study work value, and begin scenario-planning for possible shifts in student decision criteria around immigration flexibility and cost-benefit calculations.",
+      "id": 4,
+      "title": "Harvard, Stanford among 9 US universities in fraud probe over visas for foreign researchers",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/education/harvard-stanford-among-9-us-universities-in-fraud-probe-over-visas-for-foreign-researchers-5130457.html",
+      "pubDate": "2026-10-10",
+      "summary": "The Trump administration has launched an investigation into nine U.S. universities—including Harvard, Yale, Stanford, and MIT—for alleged fraud related to the J-1 visa program used by foreign researchers and scholars. The probe focuses on potential misuse or misrepresentation in the administration of these visas.",
+      "insight": "This probe into J-1 visa administration at elite U.S. institutions may indirectly affect international student perceptions of U.S. visa reliability and institutional trustworthiness, though its direct impact on F-1 student visas remains unclear and likely limited in the near term.  \nAdmissions teams should monitor official guidance from U.S. immigration authorities and track sentiment shifts in key source markets—especially among STEM researchers and their advisors—while ensuring transparent, compliant visa support processes remain a recruitment differentiator.",
       "impact": "Low",
       "sources": [],
       "dests": [
         "USA"
       ],
-      "translated": true,
-      "origLang": "vi",
+      "translated": false,
+      "origLang": null,
       "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 4,
-      "title": "Summit discusses integration of higher education between Europe and Latin America",
-      "source": "Folha de S.Paulo",
-      "color": "#154360",
-      "url": "https://redir.folha.com.br/redir/online/educacao/rss091/*https://www1.folha.uol.com.br/educacao/2026/10/cupula-discute-integracao-do-ensino-superior-entre-europa-e-america-latina.shtml",
-      "pubDate": "2026-10-06",
-      "summary": "A summit is addressing barriers to higher education integration between Europe and Latin America, including difficulties Brazilian students face in validating foreign degrees and coursework upon returning home. Institutions from Europe, Latin America, and the Caribbean are discussing the creation of a common space for higher education and research to reduce such obstacles.",
-      "insight": "This summit signals growing regional efforts to streamline academic recognition and mobility between Europe and Latin America, which could gradually reduce the appeal of third-country destinations like the US, UK, Australia, and NZ for some Latin American students—though direct impact remains uncertain given differing program strengths and existing migration pathways.  \nAdmissions teams should monitor bilateral degree validation agreements emerging from this initiative, especially in Brazil, and assess whether enhanced Europe–Latin America research partnerships or joint degrees begin shifting student preferences or influencing institutional reputation perceptions in key source markets.",
-      "impact": "Low",
-      "sources": [
-        "Latin America"
-      ],
-      "dests": [],
-      "translated": true,
-      "origLang": "pt",
-      "relevanceScore": 6,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 5,
-      "title": "Vietnam is in the UK's top 5 educational cooperation priorities",
-      "source": "VnExpress (Giáo dục)",
-      "color": "#b94500",
-      "url": "https://vnexpress.net/viet-nam-trong-top-5-uu-tien-hop-tac-giao-duc-cua-anh-5129371.html",
-      "pubDate": "2026-10-07",
-      "summary": "The UK’s Secretary of State for Education, Jacqui Smith, stated that Vietnam is among the top five countries prioritized for educational cooperation. This priority status creates opportunities for collaboration in skills training, English language education, and higher education.",
-      "insight": "This UK-Vietnam education priority signals growing institutional and governmental momentum behind Vietnam as a strategic source market, potentially boosting student confidence in UK study—but direct effects on enrolment volumes or demand for non-UK destinations remain uncertain without parallel policy shifts elsewhere.  \nAdmissions teams should track Vietnamese student application trends to the UK over the next 12–18 months, while reviewing partnerships with Vietnamese agencies and English language providers to assess whether UK-led initiatives create spillover interest in other Anglophone destinations.",
-      "impact": "Low",
-      "sources": [
-        "Southeast Asia"
-      ],
-      "dests": [
-        "UK"
-      ],
-      "translated": true,
-      "origLang": "vi",
-      "relevanceScore": 6,
       "insightSource": "qwen"
     }
   ]
