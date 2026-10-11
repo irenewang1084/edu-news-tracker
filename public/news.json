@@ -1,36 +1,114 @@
 {
-  "updated": "2026-10-10T06:30:55Z",
-  "count": 4,
-  "totalFetched": 145,
+  "updated": "2026-10-11T06:42:24Z",
+  "count": 10,
+  "totalFetched": 138,
   "articles": [
     {
       "id": 1,
-      "title": "DHS sued over guidance restricting training program for international students",
+      "title": "DHS proposes $70K fee for initial OPT participation and $30K for extensions",
       "source": "Higher Ed Dive",
       "color": "#1e5631",
-      "url": "https://www.highereddive.com/news/dhs-sued-over-guidance-restricting-training-program-for-international-stude/832314/",
+      "url": "https://www.highereddive.com/news/dhs-proposes-70k-fee-for-initial-opt-participation-and-30k-for-extensions/832436/",
       "pubDate": "2026-10-07",
-      "summary": "The Association of American Universities and other organizations have filed a lawsuit against the U.S. Department of Homeland Security over its revised guidance restricting the Curricular Practical Training (CPT) program for international students. The plaintiffs allege that DHS unlawfully narrowed the CPT program, which allows international students to engage in off-campus work related to their field of study.",
-      "insight": "This news signals potential tightening of U.S. work-integrated learning pathways for international students, which may dampen U.S. appeal—especially among career-focused applicants from Asia and Latin America—though broader demand trends remain influenced by multiple factors including tuition, post-study work rights, and geopolitical perceptions.  \nAdmissions teams should track CPT litigation outcomes and DHS policy updates closely, while benchmarking how peer institutions in the UK, Australia, and New Zealand are positioning their own internship and placement support to highlight comparative advantages in employability.",
-      "impact": "High",
+      "summary": "The U.S. Department of Homeland Security (DHS) has proposed a $70,000 fee for initial Optional Practical Training (OPT) participation and a $30,000 fee for OPT extensions. Under this proposal, colleges would bear the full cost—up to $100,000 per international student—for OPT-related fees.",
+      "insight": "This proposed DHS fee structure—though still in the regulatory proposal stage—could significantly dampen U.S. appeal for international students, especially from cost-sensitive markets, potentially shifting demand toward the UK, Australia, and New Zealand where post-study work pathways remain comparatively affordable and stable.  \nAdmissions teams should track the final rule’s publication timeline, stakeholder feedback, and early enrollment data from U.S. peers, while quietly stress-testing recruitment projections against plausible fee implementation scenarios and alternative destination uptake trends.",
+      "impact": "Low",
       "sources": [],
       "dests": [
         "USA"
       ],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 8,
+      "relevanceScore": 9,
       "insightSource": "qwen"
     },
     {
       "id": 2,
-      "title": "Australia: New rules now in force for accompanying dependants and onshore student visa applications",
+      "title": "UK student visa applications hit five-year low as September numbers plunge",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/education/uk-student-visa-applications-hit-five-year-low-as-september-numbers-plunge-5130720.html",
+      "pubDate": "2026-10-11",
+      "summary": "UK sponsored study visa applications declined by 10.3% year on year in September, marking the lowest September figure in five years. This drop reflects weakening international student recruitment, which is contributing to financial pressures on UK universities.",
+      "insight": "The UK’s 10.3% year-on-year drop in sponsored study visa applications—its lowest September level in five years—may signal softening demand or shifting preferences among international students, though it could also reflect tighter UK visa policies or temporary macroeconomic pressures rather than a broad regional trend.  \nAdmissions teams should monitor application trends from key source markets (e.g., India, Nigeria, China) and track policy updates in the UK alongside competitor nations’ visa flexibility, scholarship offerings, and post-study work rights to assess potential spillover effects on their own recruitment pipelines.",
+      "impact": "Low",
+      "sources": [],
+      "dests": [
+        "UK"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 9,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 3,
+      "title": "Bolsistas da Capes dizem que mudança de regra de visto atrasa início de estágio na Espanha",
+      "source": "Folha de S.Paulo",
+      "color": "#154360",
+      "url": "https://redir.folha.com.br/redir/online/educacao/rss091/*https://www1.folha.uol.com.br/ciencia/2026/10/bolsistas-da-capes-dizem-que-mudanca-de-regra-de-visto-atrasa-inicio-de-estagio-na-espanha.shtml",
+      "pubDate": "2026-10-09",
+      "summary": "Dozens of Brazilian scholarship recipients funded by Capes reported being affected by a recent change in Spain’s visa issuance rules. The policy change delayed the start of their research internships in Spain, leading to financial losses from cancelled insurance policies and rescheduled flights.",
+      "insight": "This incident highlights growing sensitivity among Latin American students to visa processing reliability, potentially amplifying demand for destinations perceived as more predictable—though direct shifts in application volumes remain unconfirmed and likely depend on broader diplomatic and economic trends.  \nAdmissions teams should track visa processing times and policy changes in key competitor countries, particularly for scholarship-funded cohorts, and consider reinforcing support services around documentation and contingency planning for affected student segments.",
+      "impact": "High",
+      "sources": [
+        "Latin America"
+      ],
+      "dests": [],
+      "translated": true,
+      "origLang": "pt",
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 4,
+      "title": "Mỹ đề xuất thu 70.000 USD với du học sinh ở lại sau tốt nghiệp",
+      "source": "VnExpress (Giáo dục)",
+      "color": "#b94500",
+      "url": "https://vnexpress.net/my-de-xuat-thu-70-000-usd-neu-du-hoc-sinh-o-lai-thuc-tap-dien-opt-5129735.html",
+      "pubDate": "2026-10-08",
+      "summary": "The U.S. government has proposed a new fee of $70,000 for universities to sponsor international students for Optional Practical Training (OPT) after graduation. An additional $30,000 fee would apply if the OPT period is extended.",
+      "insight": "This proposal signals potential tightening of U.S. post-study work pathways, which may dampen Southeast Asian student interest in U.S. degrees—especially for those prioritising OPT as a migration or career bridge—though its implementation remains uncertain and subject to regulatory review.  \nAdmissions teams should track the proposal’s progress through federal rulemaking, assess regional agent and student sentiment shifts via surveys or focus groups, and begin scenario-planning for alternative post-study support offerings if similar fees emerge elsewhere or U.S. competitiveness declines.",
+      "impact": "Low",
+      "sources": [
+        "Southeast Asia"
+      ],
+      "dests": [
+        "USA"
+      ],
+      "translated": true,
+      "origLang": "vi",
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 5,
+      "title": "Hai học sinh Việt giành học bổng gần 1 tỷ đồng của New Zealand",
+      "source": "VnExpress (Giáo dục)",
+      "color": "#b94500",
+      "url": "https://vnexpress.net/hai-hoc-sinh-viet-gianh-hoc-bong-gan-1-ty-dong-cua-new-zealand-5130789.html",
+      "pubDate": "2026-10-10",
+      "summary": "Two Vietnamese students have been awarded scholarships totaling nearly 1 billion VND from the New Zealand government and universities. This marks the first time such scholarships have been granted to students from Vietnam.",
+      "insight": "This news signals growing recognition of Vietnamese academic talent by New Zealand institutions, potentially reflecting broader shifts in Southeast Asian student preferences toward diversified destinations—but it does not yet indicate a systemic decline in demand for US/UK/Australian study, as scholarship scale and scope remain limited and country-specific.  \nAdmissions teams should monitor Vietnamese application trends, scholarship uptake rates, and government-to-government education agreements over the next 12–18 months, particularly any policy changes in New Zealand’s post-study work rights or visa processing timelines that could influence regional competitiveness.",
+      "impact": "Low",
+      "sources": [],
+      "dests": [
+        "New Zealand"
+      ],
+      "translated": true,
+      "origLang": "vi",
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 6,
+      "title": "Has Australia’s genuine student test gone too far?",
       "source": "ICEF Monitor",
       "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/10/australia-new-rules-now-in-force-for-accompanying-dependants-and-onshore-student-visa-applications/",
-      "pubDate": "2026-10-07",
-      "summary": "The Australian government has implemented new restrictions on Subclass 500 student visas, effective from 2 October 2026, applying to all applications lodged on or after that date. These changes include tightened rules for accompanying dependants and onshore student visa applications, as first announced on 17 September 2026.",
-      "insight": "Australia’s tightened student visa rules for dependants and onshore applications may dampen appeal for family-sponsored or pathway-focused applicants from key markets like India and China, though broader demand shifts will depend on implementation clarity and concurrent policy adjustments elsewhere.  \nAdmissions teams should track real-time application and enrolment data from Australian institutions, monitor competitor messaging around visa stability, and assess whether their own support services—especially for dependent visas and onshore transitions—need refinement in light of evolving regional policy trends.",
+      "url": "https://monitor.icef.com/2026/10/has-australias-genuine-student-test-gone-too-far/",
+      "pubDate": "2026-10-01",
+      "summary": "Updated data from the Department of Home Affairs shows that student visa grant rates in Australia continue to decline, with the August 2026 approval rate for primary applicants falling to 75.5%. This represents the lowest student visa grant rate recorded in over 20 years of available data.",
+      "insight": "Australia’s declining student visa grant rate—now at a 20-year low—may signal tightening immigration scrutiny, potentially dampening demand from risk-averse applicants in key Asian and African markets, though it remains unclear whether this reflects stricter enforcement, application quality shifts, or broader geopolitical sentiment.  \nAdmissions teams should track real-time visa refusal trends by country and course type, review partner agent feedback on application confidence, and assess whether complementary support—like pre-submission compliance checks—could mitigate perceived risk without assuming immediate policy escalation.",
       "impact": "Low",
       "sources": [],
       "dests": [
@@ -38,45 +116,88 @@
       ],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 8,
+      "relevanceScore": 7,
       "insightSource": "qwen"
     },
     {
-      "id": 3,
-      "title": "Trump administration proposes $70,000 OPT fee",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/trump-administration-proposes-70000-opt-fee/",
-      "pubDate": "2026-10-07",
-      "summary": "The Trump administration proposed a $70,000 fee for U.S. universities to recommend each international student for Optional Practical Training (OPT). Institutions would also face additional annual fees for OPT extensions.",
-      "insight": "This proposed $70,000 OPT recommendation fee—though unlikely to pass unchanged—signals heightened U.S. regulatory scrutiny of international student pathways and could dampen institutional willingness to sponsor OPT, indirectly affecting U.S. appeal versus competitor destinations with more stable post-study work policies.  \nAdmissions teams should track the proposal’s legislative progress and concurrent shifts in U.S. visa approval rates, while benchmarking how peer institutions in the UK, Australia, and New Zealand are positioning their post-study work offerings to reassure students amid growing policy uncertainty.",
-      "impact": "Low",
-      "sources": [],
-      "dests": [
-        "USA"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 4,
-      "title": "Harvard, Stanford among 9 US universities in fraud probe over visas for foreign researchers",
+      "id": 7,
+      "title": "BUV, Manchester Metropolitan expand partnership on work-integrated education",
       "source": "VnExpress (EN)",
       "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/education/harvard-stanford-among-9-us-universities-in-fraud-probe-over-visas-for-foreign-researchers-5130457.html",
-      "pubDate": "2026-10-10",
-      "summary": "The Trump administration has launched an investigation into nine U.S. universities—including Harvard, Yale, Stanford, and MIT—for alleged fraud related to the J-1 visa program used by foreign researchers and scholars. The probe focuses on potential misuse or misrepresentation in the administration of these visas.",
-      "insight": "This probe into J-1 visa administration at elite U.S. institutions may indirectly affect international student perceptions of U.S. visa reliability and institutional trustworthiness, though its direct impact on F-1 student visas remains unclear and likely limited in the near term.  \nAdmissions teams should monitor official guidance from U.S. immigration authorities and track sentiment shifts in key source markets—especially among STEM researchers and their advisors—while ensuring transparent, compliant visa support processes remain a recruitment differentiator.",
-      "impact": "Low",
-      "sources": [],
+      "url": "https://e.vnexpress.net/news/news/education/buv-manchester-metropolitan-expand-partnership-on-work-integrated-education-5129940.html",
+      "pubDate": "2026-10-08",
+      "summary": "British University Vietnam (BUV) and Manchester Metropolitan University have expanded their partnership to incorporate workplace experience into academic programs. The collaboration aims to strengthen graduate employability in Vietnam.",
+      "insight": "This partnership signals growing regional emphasis on work-integrated learning as a key employability differentiator, potentially influencing Southeast Asian students’ institution choice—though direct impact on Western university demand remains uncertain without evidence of shifting enrolment preferences or policy spillovers.  \nAdmissions teams should monitor whether Vietnamese and broader Southeast Asian agents increasingly highlight graduate outcomes and local industry links in counselling, and assess if their own WIL offerings (e.g., internships, co-ops) are clearly articulated to align with this rising market expectation.",
+      "impact": "Medium",
+      "sources": [
+        "Southeast Asia"
+      ],
       "dests": [
-        "USA"
+        "UK"
       ],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 8,
+      "relevanceScore": 6,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 8,
+      "title": "Seven predictions for international student recruitment in Latin America",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/10/seven-predictions-for-international-student-recruitment-in-latin-america/",
+      "pubDate": "2026-10-02",
+      "summary": "EdCo LATAM directors Simon Terrington and Jamie Ash have made seven predictions about international student recruitment from Latin America for 2027. The article, published on ICEF Monitor, summarises these forecasts, including a prediction about agent consolidation in the region.",
+      "insight": "This news signals potential shifts in Latin American student recruitment pathways, particularly through anticipated agent consolidation—which may streamline outreach but also concentrate influence among fewer partners, though direct impacts on demand or visa policy remain uncertain.  \nAdmissions teams should track evolving agent partnerships in key markets like Brazil and Mexico, assess service quality amid consolidation, and review commission structures to ensure alignment with institutional recruitment goals and student support standards.",
+      "impact": "Low",
+      "sources": [
+        "Latin America"
+      ],
+      "dests": [],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 6,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 9,
+      "title": "Cúpula discute integração do ensino superior entre Europa e América Latina",
+      "source": "Folha de S.Paulo",
+      "color": "#154360",
+      "url": "https://redir.folha.com.br/redir/online/educacao/rss091/*https://www1.folha.uol.com.br/educacao/2026/10/cupula-discute-integracao-do-ensino-superior-entre-europa-e-america-latina.shtml",
+      "pubDate": "2026-10-06",
+      "summary": "A article reports that European, Latin American, and Caribbean institutions are discussing the creation of a common higher education and research space to reduce barriers to academic recognition across regions. A key challenge highlighted is the difficulty Brazilian students face in validating foreign coursework and diplomas upon returning home due to differing national validation rules.",
+      "insight": "This initiative signals potential long-term shifts in Latin American student mobility, as enhanced regional academic integration could reduce incentives for studying outside the Americas—though its impact on demand for Anglophone destinations remains uncertain amid competing factors like language, cost, and career outcomes.  \nAdmissions teams should monitor bilateral validation agreements emerging from this dialogue, especially Brazil’s evolving diploma recognition policies, and assess whether streamlined credit transfer with European institutions might indirectly influence Latin American students’ perceptions of alternative study destinations.",
+      "impact": "Low",
+      "sources": [
+        "China",
+        "Latin America"
+      ],
+      "dests": [],
+      "translated": true,
+      "origLang": "pt",
+      "relevanceScore": 6,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 10,
+      "title": "Russell Group universities to showcase UK higher ed at China open days",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/russell-group-universities-to-showcase-uk-higher-ed-at-china-open-days/",
+      "pubDate": "2026-10-07",
+      "summary": "Fifteen Russell Group universities will participate in collaborative open days in Shanghai and Beijing to promote UK higher education. The events aim to highlight future skills, academic excellence, and the long-term value of a UK degree.",
+      "insight": "The coordinated UK effort signals intensified competition for high-achieving Chinese students, potentially reflecting sustained demand for Western degrees despite geopolitical headwinds—but it doesn’t confirm shifting preferences, as China’s domestic university upgrades and post-pandemic mobility patterns remain fluid.  \nAdmissions teams should track attendance figures and student feedback from these events, while reviewing their own outreach timing, messaging on skills alignment and post-study outcomes, and partnerships with Chinese agencies to ensure differentiation amid rising UK visibility.",
+      "impact": "Low",
+      "sources": [
+        "China"
+      ],
+      "dests": [
+        "UK"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 6,
       "insightSource": "qwen"
     }
   ]
