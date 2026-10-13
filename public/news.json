@@ -1,40 +1,40 @@
 {
-  "updated": "2026-10-12T06:47:00Z",
+  "updated": "2026-10-13T07:12:22Z",
   "count": 6,
-  "totalFetched": 141,
+  "totalFetched": 150,
   "articles": [
     {
       "id": 1,
-      "title": "Australia: New rules now in force for accompanying dependants and onshore student visa applications",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/10/australia-new-rules-now-in-force-for-accompanying-dependants-and-onshore-student-visa-applications/",
-      "pubDate": "2026-10-07",
-      "summary": "The Australian government has implemented new restrictions on Subclass 500 student visas, effective from 2 October 2026, applying to all applications lodged on or after that date. These changes include tightened rules for accompanying dependants and onshore student visa applications, as first announced on 17 September 2026.",
-      "insight": "Australia’s tightened student visa rules for dependants and onshore applications may dampen appeal for family-sponsored or pathway-focused applicants from key markets like India and China, though broader demand shifts will depend on implementation clarity and concurrent policy adjustments elsewhere.  \nAdmissions teams should track real-time application and enrolment data from Australian institutions, monitor competitor messaging around visa stability, and assess whether their own support services—especially for dependent visas and onshore transitions—need refinement in light of evolving regional policy trends.",
-      "impact": "Low",
-      "sources": [],
-      "dests": [
-        "Australia"
+      "title": "Capes scholarship holders say that change in visa rules delays the start of internships in Spain",
+      "source": "Folha de S.Paulo",
+      "color": "#154360",
+      "url": "https://redir.folha.com.br/redir/online/educacao/rss091/*https://www1.folha.uol.com.br/ciencia/2026/10/bolsistas-da-capes-dizem-que-mudanca-de-regra-de-visto-atrasa-inicio-de-estagio-na-espanha.shtml",
+      "pubDate": "2026-10-09",
+      "summary": "Dozens of Brazilian scholarship holders supported by Capes report being affected by a recent change in Spain’s visa rules, which delayed the start of their research internships in the country. The delays led to financial losses, including expenses for insurance and rebooking of travel tickets.",
+      "insight": "This incident highlights growing sensitivity among Latin American students to visa-processing reliability and administrative friction, potentially amplifying demand for destinations perceived as more predictable—though direct shifts in enrolment intent remain unconfirmed without further data.  \nAdmissions teams should monitor sentiment shifts in Brazilian and broader Latin American social media and agent networks, and assess whether enhanced pre-departure visa support or partnerships with local legal advisors could strengthen trust and mitigate similar risks.",
+      "impact": "High",
+      "sources": [
+        "Latin America"
       ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 9,
+      "dests": [],
+      "translated": true,
+      "origLang": "pt",
+      "relevanceScore": 8,
       "insightSource": "qwen"
     },
     {
       "id": 2,
-      "title": "DHS sued over guidance restricting training program for international students",
-      "source": "Higher Ed Dive",
-      "color": "#1e5631",
-      "url": "https://www.highereddive.com/news/dhs-sued-over-guidance-restricting-training-program-for-international-stude/832314/",
-      "pubDate": "2026-10-07",
-      "summary": "The Association of American Universities and other organizations have filed a lawsuit against the U.S. Department of Homeland Security over its revised guidance restricting the Curricular Practical Training (CPT) program for international students. The plaintiffs allege that DHS unlawfully narrowed the CPT program, which allows international students to engage in off-campus work related to their field of study.",
-      "insight": "This news signals potential tightening of U.S. work-integrated learning pathways for international students, which may dampen U.S. appeal—especially among career-focused applicants from Asia and Latin America—though broader demand trends remain influenced by multiple factors including tuition, post-study work rights, and geopolitical perceptions.  \nAdmissions teams should track CPT litigation outcomes and DHS policy updates closely, while benchmarking how peer institutions in the UK, Australia, and New Zealand are positioning their own internship and placement support to highlight comparative advantages in employability.",
-      "impact": "High",
+      "title": "Has Australia’s genuine student test gone too far?",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/10/has-australias-genuine-student-test-gone-too-far/",
+      "pubDate": "2026-10-01",
+      "summary": "Updated data from the Department of Home Affairs shows that student visa grant rates in Australia continue to decline, with the August 2026 approval rate for primary applicants falling to 75.5%. This represents the lowest student visa grant rate recorded in over 20 years of available data.",
+      "insight": "Australia’s declining student visa grant rate—now at a 20-year low—may signal tightening immigration scrutiny and growing perceived risk among prospective applicants, potentially dampening demand from key Asian and African markets, though causality remains unclear amid concurrent global economic and geopolitical shifts.  \nAdmissions teams should track real-time application volumes and conversion rates from Australia-bound students in shared source markets, while reviewing messaging around visa support and post-study pathways to ensure clarity and confidence without overpromising outcomes.",
+      "impact": "Low",
       "sources": [],
       "dests": [
-        "USA"
+        "Australia"
       ],
       "translated": false,
       "origLang": null,
@@ -43,80 +43,80 @@
     },
     {
       "id": 3,
-      "title": "Trump administration proposes $70,000 OPT fee",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/trump-administration-proposes-70000-opt-fee/",
-      "pubDate": "2026-10-07",
-      "summary": "The Trump administration proposed a $70,000 fee for U.S. universities to recommend each international student for Optional Practical Training (OPT). Institutions would also face additional annual fees for OPT extensions.",
-      "insight": "This proposed $70,000 OPT recommendation fee—though unlikely to be enacted in this form—signals heightened U.S. regulatory scrutiny of international student pathways and may amplify perceptions among prospective students that post-study work access is becoming costlier and less certain, potentially dampening U.S. appeal relative to alternatives.  \nAdmissions teams should monitor official USCIS updates and consult legal counsel on potential OPT processing delays or fee structures, while benchmarking how peer institutions in the UK, Australia, and New Zealand are positioning their graduate work rights to reassure students about post-study opportunities.",
-      "impact": "Low",
-      "sources": [],
-      "dests": [
-        "USA"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 4,
-      "title": "Harvard, Stanford among 9 US universities in fraud probe over visas for foreign researchers",
-      "source": "VnExpress (EN)",
-      "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/education/harvard-stanford-among-9-us-universities-in-fraud-probe-over-visas-for-foreign-researchers-5130457.html",
-      "pubDate": "2026-10-10",
-      "summary": "The Trump administration has launched an investigation into nine U.S. universities—including Harvard, Yale, Stanford, and MIT—for alleged fraud related to the J-1 visa program used by foreign researchers and scholars. The probe focuses on potential misuse or misrepresentation in the administration of these visas.",
-      "insight": "This news signals heightened U.S. regulatory scrutiny of academic visa programs, potentially affecting international students’ perceptions of U.S. study pathways—though J-1 researcher visas differ from F-1 student visas, broader visa policy uncertainty could dampen demand or shift preferences toward perceived more stable destinations like the UK, Australia, or New Zealand.  \nAdmissions teams should monitor U.S. State Department and DHS updates on J-1 and F-1 policies, track source-market sentiment via agent surveys and social listening, and assess whether peer institutions adjust messaging around visa support—while avoiding premature changes until clearer guidance emerges.",
-      "impact": "Low",
-      "sources": [],
-      "dests": [
-        "USA"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 5,
-      "title": "Teachers' low proficiency challenges Vietnam's ambition to make English second language: US testing giant",
-      "source": "VnExpress (EN)",
-      "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/education/teachers-low-proficiency-challenges-vietnam-s-ambition-to-make-english-second-language-us-testing-giant-5130631.html",
-      "pubDate": "2026-10-10",
-      "summary": "The U.S.-based Educational Testing Service (ETS) identified Vietnamese teachers’ low English proficiency as the biggest challenge to making English a second language in schools. This conclusion follows a survey of 35,000 teachers across six provinces and cities in Vietnam.",
-      "insight": "Vietnam’s English-teaching capacity gap may gradually increase demand for overseas undergraduate and foundation programmes, especially among students seeking stronger language preparation—though direct enrolment impacts remain uncertain without evidence of shifting parental priorities or policy-driven study-abroad incentives.  \nAdmissions teams should track Vietnamese MOET announcements on English curriculum reforms and monitor uptake of pathway programmes with integrated language support, particularly in cities where ETS identified the steepest proficiency deficits.",
-      "impact": "Low",
-      "sources": [
-        "Southeast Asia"
-      ],
-      "dests": [
-        "USA"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 6,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 6,
-      "title": "Vietnamese eclipse Koreans as second largest foreign group in Japan's census after 59% jump in 5 years",
-      "source": "VnExpress (EN)",
-      "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/vietnamese-eclipse-koreans-as-second-largest-foreign-group-in-japan-s-census-after-59-jump-in-5-years-5130494.html",
-      "pubDate": "2026-10-12",
-      "summary": "Vietnamese nationals have become the second largest foreign resident group in Japan, surpassing Koreans for the first time according to the latest census. Between 2020 and the most recent census, the Vietnamese population in Japan increased by 59%, shifting from a deficit of over 51,000 compared to Koreans to a surplus of more than 210,000.",
-      "insight": "This census shift signals growing Vietnamese mobility and institutional capacity in Japan, potentially reflecting broader regional trends in education-seeking behavior—but direct implications for Western student recruitment remain uncertain without evidence of declining interest in Anglophone destinations.  \nAdmissions teams should monitor Vietnamese outbound student surveys, scholarship uptake patterns, and bilateral education agreements, while reviewing current marketing resonance and support services tailored to this rapidly expanding demographic cohort.",
+      "title": "Building a 50-hectare Laos-Vietnam Friendship University",
+      "source": "VnExpress (Giáo dục)",
+      "color": "#b94500",
+      "url": "https://vnexpress.net/xay-dung-dai-hoc-huu-nghi-lao-viet-nam-rong-50-ha-5130127.html",
+      "pubDate": "2026-10-08",
+      "summary": "The Laos-Vietnam Friendship University is planned to be a 50-hectare public university located in Vientiane, the capital of Laos. It will be a modern, smart facility designed to train 4,000 students.",
+      "insight": "The Laos-Vietnam Friendship University signals growing regional investment in higher education infrastructure, potentially reinforcing Southeast Asia’s gradual shift toward domestic and intra-regional study options—though its direct impact on outbound demand to Anglophone countries remains uncertain and likely medium- to long-term.  \nAdmissions teams should monitor enrolment patterns from Laos and neighboring countries over the next 2–3 years, particularly in STEM and education fields, while assessing whether bilateral scholarship programs or university partnerships with this new institution influence student mobility decisions.",
       "impact": "Low",
       "sources": [
         "Southeast Asia"
       ],
       "dests": [],
+      "translated": true,
+      "origLang": "vi",
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 4,
+      "title": "Two Vietnamese students won nearly 1 billion VND scholarships from New Zealand",
+      "source": "VnExpress (Giáo dục)",
+      "color": "#b94500",
+      "url": "https://vnexpress.net/hai-hoc-sinh-viet-gianh-hoc-bong-gan-1-ty-dong-cua-new-zealand-5130789.html",
+      "pubDate": "2026-10-10",
+      "summary": "Two Vietnamese students have been awarded a scholarship package worth nearly 1 billion VND from the New Zealand Government and New Zealand universities. This marks the first time such a scholarship package has been awarded to students from Vietnam.",
+      "insight": "This news signals growing Vietnamese student interest in high-value, government-backed scholarships in English-speaking destinations, potentially reflecting shifting preferences toward countries offering strong financial support and post-study pathways—though it’s unclear whether this reflects broader demand shifts or isolated elite achievement.  \nAdmissions teams should monitor Vietnamese application volumes, scholarship uptake rates, and sentiment around affordability and visa stability, while reviewing their own scholarship packaging and outreach to high-achieving Southeast Asian students to remain competitive.",
+      "impact": "Low",
+      "sources": [
+        "Southeast Asia"
+      ],
+      "dests": [
+        "New Zealand"
+      ],
+      "translated": true,
+      "origLang": "vi",
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 5,
+      "title": "UK student visa applications hit five-year low as September numbers plunge",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/education/uk-student-visa-applications-hit-five-year-low-as-september-numbers-plunge-5130720.html",
+      "pubDate": "2026-10-11",
+      "summary": "UK sponsored study visa applications declined by 10.3% year on year in September, marking the lowest September figure in five years. This drop reflects weakening international student recruitment and contributes to financial pressures on UK universities.",
+      "insight": "The UK’s 10.3% year-on-year drop in sponsored study visa applications—its lowest September level in five years—may signal softening demand or shifting preferences among international students, though it could also reflect temporary policy adjustments, economic headwinds, or application timing shifts rather than a structural decline.  \nAdmissions teams should monitor real-time application trends from key source markets, track competitor messaging around post-study work rights and cost-of-living, and assess whether UK’s dip correlates with increased inquiries or deposits for their own institutions—particularly from overlapping student cohorts.",
+      "impact": "Low",
+      "sources": [],
+      "dests": [
+        "UK"
+      ],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 6,
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 6,
+      "title": "Seven predictions for international student recruitment in Latin America",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/10/seven-predictions-for-international-student-recruitment-in-latin-america/",
+      "pubDate": "2026-10-02",
+      "summary": "EdCo LATAM directors Simon Terrington and Jamie Ash have made seven predictions about international student recruitment from Latin America for 2027. The article, published on ICEF Monitor, summarises these forecasts, including a prediction about agent consolidation in the region.",
+      "insight": "This news signals potential shifts in Latin American student recruitment pathways, particularly through anticipated agent consolidation—which may streamline outreach but also concentrate influence among fewer partners, though direct impacts on demand or visa policy remain uncertain.  \nAdmissions teams should track evolving agent partnerships in key markets like Brazil and Mexico, assess service quality amid consolidation, and review commission structures to ensure alignment with institutional recruitment goals and student support standards.",
+      "impact": "Low",
+      "sources": [
+        "Latin America"
+      ],
+      "dests": [],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 7,
       "insightSource": "qwen"
     }
   ]
