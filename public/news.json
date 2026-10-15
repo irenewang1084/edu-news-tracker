@@ -1,60 +1,62 @@
 {
-  "updated": "2026-10-14T05:35:07Z",
-  "count": 7,
-  "totalFetched": 155,
+  "updated": "2026-10-15T05:22:04Z",
+  "count": 4,
+  "totalFetched": 146,
   "articles": [
     {
       "id": 1,
-      "title": "ITECA warns Australian policy is “choking” international education and skills pipeline",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/iteca-warns-australian-policy-is-choking-international-education-and-skills-pipeline/",
-      "pubDate": "2026-10-13",
-      "summary": "ITECA, representing Australia’s independent tertiary education sector, has warned that current government policies are “choking” international education and threatening the nation’s long-term skills pipeline. Providers are facing rising costs and increasingly restrictive policy settings, according to the statement reported by The PIE News.",
-      "insight": "Australia’s tightening international education policies may dampen its appeal to students from key Asian and Pacific markets, potentially shifting demand toward alternative destinations like the US, UK, and New Zealand—though actual enrolment impacts depend on implementation speed and regional sentiment shifts.  \nAdmissions teams should track Australian visa refusal rates, student survey data from source markets, and competitor marketing shifts in countries like India and Vietnam, while reviewing their own value propositions around post-study work rights and cost-of-living transparency.",
-      "impact": "Medium",
-      "sources": [],
-      "dests": [
-        "Australia"
+      "title": "Two Vietnamese students won nearly 1 billion VND scholarships from New Zealand",
+      "source": "VnExpress (Giáo dục)",
+      "color": "#b94500",
+      "url": "https://vnexpress.net/hai-hoc-sinh-viet-gianh-hoc-bong-gan-1-ty-dong-cua-new-zealand-5130789.html",
+      "pubDate": "2026-10-10",
+      "summary": "Two Vietnamese students have been awarded a scholarship package worth nearly 1 billion VND from the New Zealand Government and New Zealand universities. This marks the first time such a scholarship package has been awarded to students from Vietnam.",
+      "insight": "This news signals growing Vietnamese student interest in high-value, government-backed scholarships in English-speaking destinations, potentially reflecting shifting preferences toward affordability and prestige—though it remains unclear whether this reflects broader demand shifts or isolated high-achiever outcomes.  \nAdmissions teams should monitor Vietnamese application volumes, scholarship uptake rates, and social media sentiment around New Zealand’s recent outreach, while reviewing their own merit-based funding visibility and regional partnership strategies to remain competitive.",
+      "impact": "Low",
+      "sources": [
+        "Southeast Asia"
       ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 8,
+      "dests": [
+        "New Zealand"
+      ],
+      "translated": true,
+      "origLang": "vi",
+      "relevanceScore": 9,
       "insightSource": "qwen"
     },
     {
       "id": 2,
-      "title": "Australia: New rules now in force for accompanying dependants and onshore student visa applications",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/10/australia-new-rules-now-in-force-for-accompanying-dependants-and-onshore-student-visa-applications/",
-      "pubDate": "2026-10-07",
-      "summary": "The Australian government has implemented new restrictions on Subclass 500 student visas, effective from 2 October 2026, applying to all applications lodged on or after that date. These changes include tighter rules for accompanying dependants and onshore student visa applications, as first announced on 17 September 2026.",
-      "insight": "This policy shift signals potential downward pressure on Australia’s appeal to international students from regions where family accompaniment is highly valued, though actual demand impacts depend on how strictly the rules are enforced and whether alternative destinations respond with more flexible visa frameworks.  \nAdmissions teams should track application volume and conversion rates from high-dependant-source markets (e.g., India, Nigeria, Philippines) over the next 6–12 months, while reviewing messaging around visa support and post-study pathways to ensure clarity amid evolving regulatory expectations.",
-      "impact": "Low",
-      "sources": [],
-      "dests": [
-        "Australia"
+      "title": "Capes scholarship holders say that change in visa rules delays the start of internships in Spain",
+      "source": "Folha de S.Paulo",
+      "color": "#154360",
+      "url": "https://redir.folha.com.br/redir/online/educacao/rss091/*https://www1.folha.uol.com.br/ciencia/2026/10/bolsistas-da-capes-dizem-que-mudanca-de-regra-de-visto-atrasa-inicio-de-estagio-na-espanha.shtml",
+      "pubDate": "2026-10-09",
+      "summary": "Dozens of Brazilian scholarship holders supported by Capes report that a recent change in Spain’s visa rules has delayed the start of their research internships in the country. The delays have led to financial losses, including expenses for insurance and rebooking of travel tickets.",
+      "insight": "This incident highlights growing visa policy volatility in key study destinations, potentially amplifying perceptions among Latin American students that bureaucratic hurdles and financial unpredictability are rising—though it remains unclear whether this will materially shift demand toward English-speaking countries or merely heighten pre-application anxiety.  \nAdmissions teams should track sentiment shifts in Brazilian and broader Latin American social media and agent networks, and consider refreshing visa-preparation resources to proactively address concerns about timeline reliability and cost contingencies for prospective applicants.",
+      "impact": "High",
+      "sources": [
+        "Latin America"
       ],
-      "translated": false,
-      "origLang": null,
+      "dests": [],
+      "translated": true,
+      "origLang": "pt",
       "relevanceScore": 8,
       "insightSource": "qwen"
     },
     {
       "id": 3,
-      "title": "Vietnamese eclipse Koreans as second largest foreign group in Japan's census after 59% jump in 5 years",
-      "source": "VnExpress (EN)",
-      "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/vietnamese-eclipse-koreans-as-second-largest-foreign-group-in-japan-s-census-after-59-jump-in-5-years-5130494.html",
-      "pubDate": "2026-10-12",
-      "summary": "Vietnamese nationals have become the second largest foreign resident group in Japan, surpassing Koreans for the first time according to the latest census. Between 2020 and the most recent census, the Vietnamese population in Japan increased by 59%, shifting from a deficit of over 51,000 compared to Koreans to a surplus of more than 210,000.",
-      "insight": "This census shift signals growing Vietnamese mobility and institutional capacity in Japan, potentially reflecting broader regional trends in education-seeking behavior—but direct implications for Western student recruitment remain uncertain without evidence of declining interest in Anglophone destinations.  \nAdmissions teams should monitor Vietnamese outbound student surveys, scholarship uptake patterns, and bilateral education agreements, while reviewing current marketing resonance and support services tailored to this rapidly expanding demographic cohort.",
+      "title": "US: Climate of uncertainty continues for international students amid legal action on internships and a proposed $70,000 OPT fee",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/10/us-climate-of-uncertainty-continues-for-international-students-amid-legal-action-on-internships-and-a-proposed-70000-opt-fee/",
+      "pubDate": "2026-10-07",
+      "summary": "In August 2026, U.S. Immigration and Customs Enforcement (ICE) issued two broadcast memos indicating increased scrutiny of Curricular Practical Training (CPT) placements for international students. The article also notes ongoing uncertainty due to legal action concerning internships and a proposed $70,000 fee for Optional Practical Training (OPT).",
+      "insight": "This news signals growing regulatory scrutiny of U.S. work-integrated learning pathways, potentially dampening student interest in U.S. degrees—especially among those prioritising post-study employment—though direct demand impacts remain uncertain pending litigation outcomes and policy finalisation.  \nAdmissions teams should track ICE guidance updates, OPT fee developments, and comparative policy shifts in the UK, Australia, and New Zealand to assess relative attractiveness and refine messaging around career pathways and visa stability.",
       "impact": "Low",
-      "sources": [
-        "Southeast Asia"
+      "sources": [],
+      "dests": [
+        "USA"
       ],
-      "dests": [],
       "translated": false,
       "origLang": null,
       "relevanceScore": 8,
@@ -62,32 +64,13 @@
     },
     {
       "id": 4,
-      "title": "Cooking to Drones: Shanghai Hosts Record WorldSkills Competition",
-      "source": "Sixth Tone",
-      "color": "#922b21",
-      "url": "https://www.sixthtone.com/news/1019055/Cooking to Drones: Shanghai Hosts Record WorldSkills Competition",
-      "pubDate": "2026-10-14",
-      "summary": "Shanghai is hosting the WorldSkills Competition, which features a record 1,385 young competitors from 68 countries and regions. They will compete across 64 vocational disciplines.",
-      "insight": "This high-profile vocational skills event in Shanghai may reflect growing domestic and regional emphasis on applied, industry-aligned education—potentially influencing Chinese students’ preferences toward practical degrees abroad, though direct impact on traditional academic enrolment remains uncertain.  \nAdmissions teams should monitor whether Chinese vocational institutions deepen overseas articulation pathways or if national scholarship programs begin prioritising STEM-adjacent technical fields, as early indicators of shifting enrolment patterns beyond conventional university routes.",
-      "impact": "High",
-      "sources": [
-        "China"
-      ],
-      "dests": [],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 7,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 5,
-      "title": "Beyond board exams: India’s quiet international Olympiad revolution",
+      "title": "Slow start: foreign university campuses in India yet to see full intake",
       "source": "The Hindu (Edu)",
       "color": "#145a32",
-      "url": "https://www.thehindu.com/education/beyond-board-exams-indias-quiet-international-olympiad-revolution/article71551185.ece",
-      "pubDate": "2026-10-09",
-      "summary": "Many Indian Institutes of Technology (IITs) offer direct admission to their BTech programs for top performers in national and international Olympiads without requiring the Joint Entrance Examination (JEE). Additionally, Indian Institutes of Information Technology (IIITs), Indian Institutes of Science Education and Research (IISERs), and the Indian Statistical Institute (ISI) provide preferential treatment and dedicated seat allocations to students who qualify for stage-2 and stage-3 of the Olympiad program.",
-      "insight": "India’s growing Olympiad success signals rising academic confidence and selective pathways for elite STEM students, potentially reducing reliance on traditional overseas study routes—though it remains unclear how many top performers will still seek international degrees for research exposure or global credentials.  \nAdmissions teams should track participation and medal trends in Indian Olympiads alongside JEE/NEET outcomes, and assess whether elite Indian institutions’ direct-admission policies correlate with shifts in application volumes or profile strength from high-achieving Indian applicants.",
+      "url": "https://www.thehindu.com/education/slow-start-foreign-university-campuses-in-india-yet-to-see-full-intake/article71582977.ece",
+      "pubDate": "2026-10-14",
+      "summary": "Foreign university campuses in India are experiencing a slow start and have yet to achieve full student intake. Annual fees for undergraduate or postgraduate programmes at these institutions range from ₹10 lakh to ₹20 lakh.",
+      "insight": "This news suggests potential softening in domestic demand for premium international education within India, possibly reflecting affordability concerns, regulatory uncertainty, or shifting preferences—though it’s too early to confirm whether this signals broader declines in outbound student mobility to traditional destinations.  \nAdmissions teams should monitor Indian student application and enrolment trends closely over the next 12–18 months, particularly for high-fee programmes, while assessing whether local campus initiatives are diverting aspirational students or merely capturing a niche segment.",
       "impact": "Low",
       "sources": [
         "India"
@@ -95,45 +78,7 @@
       "dests": [],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 7,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 6,
-      "title": "Prime Minister: Ho Chi Minh City National University needs to master some strategic technologies",
-      "source": "VnExpress (Giáo dục)",
-      "color": "#b94500",
-      "url": "https://vnexpress.net/thu-tuong-dai-hoc-quoc-gia-tp-hcm-can-lam-chu-mot-so-cong-nghe-chien-luoc-5131719.html",
-      "pubDate": "2026-10-13",
-      "summary": "Prime Minister Le Minh Hung stated that Ho Chi Minh City National University should focus on mastering strategic technologies rather than conducting extensive research. His aim is to enable the university to contribute to the development of Vietnamese-branded products.",
-      "insight": "This news signals potential long-term shifts in Vietnam’s higher education priorities toward applied, industry-aligned STEM training—possibly influencing outbound student preferences toward programs with strong tech commercialization or innovation pathways, though direct impact on current recruitment remains uncertain.  \nAdmissions teams should monitor Vietnamese government scholarship priorities, industry-university partnerships, and enrolment trends in engineering/tech fields at home versus abroad to gauge whether domestic capacity-building efforts begin reshaping demand for overseas postgraduate specialisations.",
-      "impact": "Low",
-      "sources": [
-        "Southeast Asia"
-      ],
-      "dests": [],
-      "translated": true,
-      "origLang": "vi",
-      "relevanceScore": 7,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 7,
-      "title": "UEH discusses directions for developing digital talents in higher education",
-      "source": "VnExpress (Giáo dục)",
-      "color": "#b94500",
-      "url": "https://vnexpress.net/ueh-ban-huong-phat-trien-nhan-tai-so-trong-giao-duc-dai-hoc-5131465.html",
-      "pubDate": "2026-10-13",
-      "summary": "Ho Chi Minh City University of Economics (UEH) partnered with SAP Vietnam to host a conference focused on teaching and learning in the context of AI, data, and digital platforms. The event drew over 200 delegates and addressed directions for developing digital talent in higher education.",
-      "insight": "This news signals growing regional emphasis on AI and digital skills in Southeast Asian higher education, potentially influencing student preferences toward institutions with strong industry-aligned tech curricula—though direct impact on outbound demand remains uncertain without evidence of shifting enrolment patterns.  \nAdmissions teams should monitor whether Vietnamese and broader ASEAN universities’ partnerships with global tech firms like SAP correlate with changes in local graduate employability perceptions or outbound mobility trends over the next 12–18 months.",
-      "impact": "Low",
-      "sources": [
-        "Southeast Asia"
-      ],
-      "dests": [],
-      "translated": true,
-      "origLang": "vi",
-      "relevanceScore": 7,
+      "relevanceScore": 6,
       "insightSource": "qwen"
     }
   ]
