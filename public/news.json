@@ -1,140 +1,25 @@
 {
-  "updated": "2026-10-16T05:19:36Z",
-  "count": 7,
-  "totalFetched": 135,
+  "updated": "2026-10-17T05:08:08Z",
+  "count": 1,
+  "totalFetched": 145,
   "articles": [
     {
       "id": 1,
-      "title": "UK: Study visa application withdrawals surge amidst new BCA compliance requirements",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/10/uk-study-visa-application-withdrawals-surge-amidst-new-bca-compliance-requirements/",
-      "pubDate": "2026-10-15",
-      "summary": "Since 1 June 2026, UK universities have been required by the Home Office to comply with stricter standards for recruiting and hosting international students under the UK Visas and Immigration’s (UKVI) updated Basic Compliance Assessment (BCA). The BCA uses a Red-Amber-Green categorisation system, and universities failing to meet the “green” standard face penalties, contributing to a surge in study visa application withdrawals.",
-      "insight": "This UK policy shift may indirectly influence global student decision-making, as heightened visa scrutiny and institutional compliance pressures could amplify perceptions of risk or complexity—though actual demand shifts depend on how widely this is interpreted across source markets and whether peer destinations respond similarly.  \nAdmissions teams should track withdrawal trends among applicants from key UK-sending countries, review messaging around visa support and institutional credibility, and assess whether their own compliance frameworks align with evolving global expectations for transparency and student welfare.",
+      "title": "Capes scholarship holders say that change in visa rules delays the start of internships in Spain",
+      "source": "Folha de S.Paulo",
+      "color": "#154360",
+      "url": "https://redir.folha.com.br/redir/online/educacao/rss091/*https://www1.folha.uol.com.br/ciencia/2026/10/bolsistas-da-capes-dizem-que-mudanca-de-regra-de-visto-atrasa-inicio-de-estagio-na-espanha.shtml",
+      "pubDate": "2026-10-09",
+      "summary": "Dozens of Brazilian scholarship holders supported by Capes report that a recent change in Spain’s visa rules has delayed the start of their research internships in the country. The delays have led to financial losses, including expenses for insurance and rebooking of travel tickets.",
+      "insight": "This incident highlights growing visa policy volatility in key study destinations, potentially amplifying perceptions among Latin American students that bureaucratic hurdles and financial risks are rising—though direct shifts in demand toward Anglophone countries remain unproven and context-dependent.  \nAdmissions teams should monitor regional sentiment shifts via student surveys and agent feedback, particularly regarding Spain’s reputation for research mobility, while reviewing pre-departure support offerings to address emerging concerns about visa-related disruptions and cost unpredictability.",
       "impact": "High",
-      "sources": [],
-      "dests": [
-        "UK"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 2,
-      "title": "Australia: New rules now in force for accompanying dependants and onshore student visa applications",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/10/australia-new-rules-now-in-force-for-accompanying-dependants-and-onshore-student-visa-applications/",
-      "pubDate": "2026-10-07",
-      "summary": "The Australian government has implemented new restrictions on Subclass 500 student visas, effective from 2 October 2026, applying to all applications lodged on or after that date. These changes include tighter rules for accompanying dependants and onshore student visa applications, as first announced on 17 September 2026.",
-      "insight": "Australia’s new student visa restrictions—tighter dependant rules and onshore application limits—may dampen appeal for family-sponsored or pathway-dependent applicants from high-demand regions like India and China, though actual demand shifts will depend on implementation clarity and competing destination policies.  \nAdmissions teams should track real-time application and enrolment data from Australian institutions, monitor policy interpretations by education agents, and assess whether prospective students are increasingly inquiring about alternative study destinations or pre-enrolment support services.",
-      "impact": "Low",
-      "sources": [],
-      "dests": [
-        "Australia"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 3,
-      "title": "Overseas student commencements fall 5% in Australian higher education",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/overseas-student-commencements-fall-5-in-australian-higher-education/",
-      "pubDate": "2026-10-15",
-      "summary": "International student commencements at Australian higher education providers declined by nearly 5% year-on-year in the first part of 2026, according to preliminary government data. This information was reported by The PIE News.",
-      "insight": "This 5% dip in Australian international student commencements may reflect shifting preferences, tighter visa scrutiny, or post-pandemic recalibration in key source markets—but causality remains unclear without granular data on visa outcomes, regional trends, or concurrent policy changes.  \n\nAdmissions teams should track parallel indicators—such as Australian visa refusal rates, competitor marketing shifts in India/China/SE Asia, and enrolment patterns in comparable destinations—to assess whether this signals broader demand softening or a temporary, context-specific adjustment.",
-      "impact": "Low",
-      "sources": [],
-      "dests": [
-        "Australia"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 4,
-      "title": "Nhiều ưu đãi thu hút sinh viên Việt Nam du học Đức",
-      "source": "VnExpress (Giáo dục)",
-      "color": "#b94500",
-      "url": "https://vnexpress.net/nhieu-uu-dai-thu-hut-sinh-vien-viet-nam-du-hoc-duc-5131265.html",
-      "pubDate": "2026-10-13",
-      "summary": "German universities and organizations are offering numerous scholarship packages to attract Vietnamese students to study in Germany. Experts assess Germany’s current policies for international students as the most flexible in Europe.",
-      "insight": "Germany’s intensified scholarship outreach to Vietnamese students signals growing competition for high-potential Southeast Asian talent, though direct impact on US/UK/AU/NZ enrolments remains uncertain without evidence of shifting application or enrolment patterns.  \nAdmissions teams should monitor Vietnamese student visa approval rates, scholarship uptake trends, and agent sentiment in Vietnam—particularly regarding perceptions of post-study work opportunities—to assess whether Germany’s policy flexibility is reshaping regional preference hierarchies.",
-      "impact": "Low",
       "sources": [
-        "Southeast Asia"
+        "Latin America"
       ],
       "dests": [],
       "translated": true,
-      "origLang": "vi",
-      "relevanceScore": 7,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 5,
-      "title": "Đại học Mỹ 'đại hạ giá' để hút sinh viên",
-      "source": "VnExpress (Giáo dục)",
-      "color": "#b94500",
-      "url": "https://vnexpress.net/dai-hoc-my-dai-ha-gia-de-hut-sinh-vien-5131038.html",
-      "pubDate": "2026-10-15",
-      "summary": "Many private universities in the United States have reduced tuition by up to 50 percent to attract new students amid declining enrollment. This tuition reduction began as the new admissions cycle commenced.",
-      "insight": "US private universities’ steep tuition cuts signal intensified domestic competition for shrinking applicant pools, potentially reshaping international recruitment strategies—but it remains unclear whether this reflects broader demand erosion or targeted institutional adjustments amid demographic shifts.  \nAdmissions teams should track whether these discounts extend to international students, monitor enrollment yield data by region, and assess if Southeast Asian applicants perceive US institutions as more affordable or less prestigious amid such pricing shifts.",
-      "impact": "Low",
-      "sources": [
-        "Southeast Asia"
-      ],
-      "dests": [],
-      "translated": true,
-      "origLang": "vi",
-      "relevanceScore": 7,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 6,
-      "title": "Vietnam's university admissions policies fuel costly IELTS race among high school students",
-      "source": "VnExpress (EN)",
-      "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/education/vietnam-s-university-admissions-policies-fuel-costly-ielts-race-among-high-school-students-5132825.html",
-      "pubDate": "2026-10-16",
-      "summary": "Vietnam’s university admissions policies, which convert IELTS scores into English exam marks or award bonus points, have driven a sharp increase in demand for the IELTS test among high school students. This trend has made IELTS performance a critical factor for tens of thousands of university applicants.",
-      "insight": "Vietnam’s IELTS-driven admissions policies signal growing English proficiency awareness among high school students, potentially increasing demand for English-taught degrees abroad—but direct correlation to outbound mobility remains uncertain amid domestic policy shifts and economic factors.  \nAdmissions teams should monitor Vietnamese IELTS score distributions, scholarship uptake patterns, and whether top-performing students increasingly bypass local universities for overseas options, especially in STEM and business fields where English advantage is most valued.",
-      "impact": "Low",
-      "sources": [
-        "Southeast Asia"
-      ],
-      "dests": [],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 7,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 7,
-      "title": "Bi kịch của nữ thủ khoa phơi bày đường dây lừa đảo du học Mỹ",
-      "source": "VnExpress (Giáo dục)",
-      "color": "#b94500",
-      "url": "https://vnexpress.net/bi-kich-cua-nu-thu-khoa-phoi-bay-duong-day-lua-dao-du-hoc-my-5132678.html",
-      "pubDate": "2026-10-16",
-      "summary": "A female valedictorian from Pakistan had her dream of studying in the United States—and specifically at Harvard University—shattered when she became a victim of a sophisticated international student visa fraud scheme. The case exposed an organized scam targeting low-income families seeking U.S. education opportunities.",
-      "insight": "This case highlights growing vulnerability among high-achieving, low-income students from South and Southeast Asia to predatory agents, potentially dampening trust in U.S. pathways—but broader demand shifts remain unconfirmed without longitudinal enrollment or application data.  \nAdmissions teams should monitor regional agent accreditation trends, student-reported application barriers, and embassy visa refusal narratives—particularly around financial documentation—to assess whether misinformation or fraud is affecting genuine applicant confidence or conversion rates.",
-      "impact": "Low",
-      "sources": [
-        "Southeast Asia",
-        "South Asia"
-      ],
-      "dests": [],
-      "translated": true,
-      "origLang": "vi",
-      "relevanceScore": 7,
+      "origLang": "pt",
+      "relevanceScore": 8,
       "insightSource": "qwen"
     }
   ]
