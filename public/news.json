@@ -1,97 +1,18 @@
 {
-  "updated": "2026-10-18T05:15:15Z",
-  "count": 8,
-  "totalFetched": 150,
+  "updated": "2026-10-19T05:32:34Z",
+  "count": 4,
+  "totalFetched": 147,
   "articles": [
     {
       "id": 1,
-      "title": "UK: Study visa application withdrawals surge amidst new BCA compliance requirements",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/10/uk-study-visa-application-withdrawals-surge-amidst-new-bca-compliance-requirements/",
-      "pubDate": "2026-10-15",
-      "summary": "Since 1 June 2026, UK universities have been required by the Home Office to comply with stricter standards for recruiting and hosting international students under the UK Visas and Immigration’s (UKVI) revised Basic Compliance Assessment (BCA). The BCA now uses a Red-Amber-Green categorisation system, and universities failing to meet the “green” standard face penalties, contributing to a surge in study visa application withdrawals.",
-      "insight": "This UK policy shift may indirectly influence global student demand, as heightened visa scrutiny and institutional compliance pressures could amplify perceptions of the UK as a less predictable destination—though direct spillover to other countries’ enrolment remains uncertain without evidence of shifting applicant behaviour.  \nAdmissions teams should monitor application trends from key UK-sourced markets (e.g., India, Nigeria) and track whether students increasingly list alternative destinations as backups, while reviewing their own compliance readiness in case similar regulatory frameworks emerge abroad.",
-      "impact": "High",
-      "sources": [],
-      "dests": [
-        "UK"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 2,
-      "title": "How the changes in visa policy in the U.K. and Canada affect Indian students",
-      "source": "The Hindu (Edu)",
-      "color": "#145a32",
-      "url": "https://www.thehindu.com/education/how-the-changes-in-visa-policy-in-the-uk-and-canada-affect-indian-students/article71582083.ece",
-      "pubDate": "2026-10-17",
-      "summary": "The article details recent changes to visa policies in the United Kingdom and Canada specifically affecting Indian students pursuing higher education. It outlines the latest rules—including eligibility criteria, application requirements, post-study work rights, and restrictions—applicable to Indian nationals applying for student visas to either country.",
-      "insight": "Recent UK and Canada visa policy changes for Indian students may subtly shift demand toward alternative destinations like the US, Australia, or New Zealand—though actual enrollment impacts depend on how Indian students perceive relative value, costs, and post-study opportunities across markets.  \nAdmissions teams should track Indian application volumes, scholarship uptake, and agent feedback over the next 6–12 months to assess whether policy adjustments are influencing choice behavior or merely reinforcing existing preferences.",
-      "impact": "Medium",
-      "sources": [
-        "India"
-      ],
-      "dests": [
-        "UK",
-        "Canada"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 3,
-      "title": "Australia: New rules now in force for accompanying dependants and onshore student visa applications",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/10/australia-new-rules-now-in-force-for-accompanying-dependants-and-onshore-student-visa-applications/",
-      "pubDate": "2026-10-07",
-      "summary": "The Australian government has implemented new restrictions on Subclass 500 student visas, effective from 2 October 2026, applying to all applications lodged on or after that date. These changes include tightened rules for accompanying dependants and onshore student visa applications, as first announced on 17 September 2026.",
-      "insight": "Australia’s tightened student visa rules for dependants and onshore applications may dampen appeal for family-sponsored or pathway-focused applicants from key markets like India and China, though broader demand shifts will depend on implementation clarity and concurrent policy adjustments elsewhere.  \nAdmissions teams should track real-time application and enrolment data from Australian institutions, monitor competitor messaging around visa stability, and assess whether their own support services—especially for dependent visas and onshore transitions—need refinement in light of evolving regional policy trends.",
-      "impact": "Low",
-      "sources": [],
-      "dests": [
-        "Australia"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 4,
-      "title": "Overseas student commencements fall 5% in Australian higher education",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/overseas-student-commencements-fall-5-in-australian-higher-education/",
-      "pubDate": "2026-10-15",
-      "summary": "International student commencements at Australian higher education providers declined by nearly 5% year-on-year in the first part of 2026, according to preliminary government data. This information was reported by The PIE News.",
-      "insight": "This 5% dip in Australian international student commencements may reflect shifting preferences, tighter visa scrutiny, or post-pandemic recalibration in key source markets—but causality remains unclear without granular data on visa outcomes, regional trends, or concurrent policy changes.  \n\nAdmissions teams should track parallel indicators—such as Australian visa refusal rates, competitor marketing shifts in India/China/SE Asia, and enrolment patterns in comparable destinations—to assess whether this signals broader demand softening or a temporary, context-specific adjustment.",
-      "impact": "Low",
-      "sources": [],
-      "dests": [
-        "Australia"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 5,
-      "title": "Vietnam's university admissions policies fuel costly IELTS race among high school students",
+      "title": "SEA country with most universities in QS ranking targets 250,000 international students by 2030",
       "source": "VnExpress (EN)",
       "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/education/vietnam-s-university-admissions-policies-fuel-costly-ielts-race-among-high-school-students-5132825.html",
-      "pubDate": "2026-10-16",
-      "summary": "Vietnam’s university admissions policies, which convert IELTS scores into English exam marks or award bonus points, have driven a sharp increase in demand for the IELTS test among high school students. This trend has made IELTS performance a critical factor for tens of thousands of university applicants.",
-      "insight": "Vietnam’s IELTS-driven admissions policies signal growing English proficiency awareness among high school students, potentially increasing demand for English-taught degrees abroad—but direct correlation to outbound mobility remains uncertain amid domestic policy shifts and economic factors.  \nAdmissions teams should monitor Vietnamese IELTS score distributions, scholarship uptake patterns, and whether top-performing students increasingly bypass local universities for overseas options, especially in STEM and business fields where English advantage is most valued.",
-      "impact": "Low",
+      "url": "https://e.vnexpress.net/news/news/education/sea-country-with-most-universities-in-qs-ranking-targets-250-000-international-students-by-2030-5133509.html",
+      "pubDate": "2026-10-19",
+      "summary": "Malaysia, the Southeast Asian country with the most universities in the QS World University Rankings, aims to attract approximately 250,000 international students by 2030. It also seeks to diversify the countries of origin of these students to reinforce its status as a preferred destination for higher education.",
+      "insight": "Malaysia’s ambitious 250,000-international-student target by 2030 signals intensifying regional competition for students from Southeast Asia, potentially reshaping demand patterns—though direct impact on Western enrolments remains uncertain without evidence of student substitution or shifting preferences.  \nAdmissions teams should monitor Malaysia’s scholarship offerings, visa processing times, and post-study work policies, particularly among Southeast Asian applicants, to assess whether it emerges as a credible alternative pathway rather than just a feeder market.",
+      "impact": "Medium",
       "sources": [
         "Southeast Asia"
       ],
@@ -102,14 +23,14 @@
       "insightSource": "qwen"
     },
     {
-      "id": 6,
-      "title": "The Ministry of Education and Training requires universities to expand teaching in English",
+      "id": 2,
+      "title": "Đại học Mỹ 'đại hạ giá' để hút sinh viên",
       "source": "VnExpress (Giáo dục)",
       "color": "#b94500",
-      "url": "https://vnexpress.net/bo-gd-va-dt-yeu-cau-dai-hoc-mo-rong-day-bang-tieng-anh-5133758.html",
-      "pubDate": "2026-10-18",
-      "summary": "The Ministry of Education and Training has directed universities to expand teaching and learning in foreign languages, particularly English. This requirement applies alongside existing programs that are currently conducted in Vietnamese.",
-      "insight": "This policy signals a growing domestic emphasis on English-medium instruction in Vietnam, which may gradually increase student familiarity with and preference for English-language study—though its direct impact on outbound demand remains uncertain amid broader economic and visa factors.  \nAdmissions teams should monitor Vietnamese student application trends, especially for English-taught programs, and assess whether rising local English capacity correlates with shifts in enrolment timing, program choice, or perceptions of value versus overseas study.",
+      "url": "https://vnexpress.net/dai-hoc-my-dai-ha-gia-de-hut-sinh-vien-5131038.html",
+      "pubDate": "2026-10-15",
+      "summary": "Many private universities in the United States have reduced tuition by up to 50 percent to attract new students amid declining enrollment. This tuition reduction began as the new admissions cycle commenced.",
+      "insight": "US private universities’ steep tuition cuts signal intensified domestic competition for shrinking applicant pools, potentially reshaping international recruitment strategies—but it remains unclear whether this reflects broader demand erosion or targeted institutional adjustments amid demographic shifts.  \nAdmissions teams should track whether these discounts extend to international students, monitor enrollment yield data by region, and assess if Southeast Asian applicants perceive US institutions as more affordable or less prestigious amid such pricing shifts.",
       "impact": "Low",
       "sources": [
         "Southeast Asia"
@@ -121,43 +42,43 @@
       "insightSource": "qwen"
     },
     {
-      "id": 7,
-      "title": "University of Manchester plans Bengaluru centre in India push",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/university-of-manchester-plans-bengaluru-centre-in-india-push/",
+      "id": 3,
+      "title": "Bi kịch của nữ thủ khoa phơi bày đường dây lừa đảo du học Mỹ",
+      "source": "VnExpress (Giáo dục)",
+      "color": "#b94500",
+      "url": "https://vnexpress.net/bi-kich-cua-nu-thu-khoa-phoi-bay-duong-day-lua-dao-du-hoc-my-5132678.html",
       "pubDate": "2026-10-16",
-      "summary": "The University of Manchester plans to establish a new centre in Bengaluru, India, focused on industry-linked learning and research collaboration. This initiative expands the university’s UK presence, which already includes campuses and partnership hubs.",
-      "insight": "The University of Manchester’s Bengaluru centre signals growing institutional commitment to India as a strategic recruitment and research hub, potentially reinforcing India’s position as a high-potential source market—though direct impact on student demand or visa policy remains uncertain without broader sectoral trends.  \nAdmissions teams should monitor whether this move catalyses increased Indian student applications to Manchester, track partner institution referrals from Bengaluru, and assess if similar UK universities follow suit—informing regional outreach and agent engagement strategies over the next 12–18 months.",
+      "summary": "A female valedictorian from Pakistan had her dream of studying in the United States—and specifically at Harvard University—shattered when she became a victim of a sophisticated international student visa fraud scheme. The case exposed an organized scam targeting low-income families seeking U.S. education opportunities.",
+      "insight": "This incident highlights growing vulnerability among high-achieving, low-income students from South and Southeast Asia to predatory education agents, potentially dampening trust in U.S. pathways—but broader demand shifts remain uncertain without data on application trends or regional sentiment surveys.  \nAdmissions teams should monitor agent accreditation complaints and student-reported visa refusal reasons in these regions, while reviewing pre-enrolment verification protocols to ensure transparency without assuming systemic risk across all recruitment channels.",
       "impact": "Low",
       "sources": [
-        "India"
+        "Southeast Asia",
+        "South Asia"
       ],
-      "dests": [
-        "UK"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 6,
+      "dests": [],
+      "translated": true,
+      "origLang": "vi",
+      "relevanceScore": 7,
       "insightSource": "qwen"
     },
     {
-      "id": 8,
-      "title": "Fields Medalist Ngo Bao Chau grants scholarships to 9 Vietnamese math students in quest to develop Asian talents",
-      "source": "VnExpress (EN)",
-      "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/education/fields-medalist-ngo-bao-chau-grants-scholarships-to-9-vietnamese-math-students-in-quest-to-develop-asian-talents-5133652.html",
-      "pubDate": "2026-10-18",
-      "summary": "Fields Medalist Ngô Bảo Châu, Vietnam’s only recipient of the award, has personally selected nine Vietnamese mathematics students for full-tuition scholarships. The scholarships also provide monthly living allowances of VND15 million (US$579).",
-      "insight": "Ngô Bảo Châu’s initiative signals growing regional investment in elite math talent, potentially reinforcing Southeast Asia’s aspiration for high-calibre STEM education—though it doesn’t directly indicate declining demand for Western degrees, it may reflect intensified competition for top students already weighing domestic or regional alternatives.  \nAdmissions teams should monitor scholarship uptake rates among Vietnamese and broader Southeast Asian applicants, as well as track whether similar high-profile local funding models expand—informing targeted outreach, partnership opportunities with regional academic leaders, and scholarship positioning relative to emerging home-market incentives.",
+      "id": 4,
+      "title": "Estudantes planejam estudar fora mais cedo e olham além de EUA e Canadá",
+      "source": "Folha de S.Paulo",
+      "color": "#154360",
+      "url": "https://redir.folha.com.br/redir/online/educacao/rss091/*https://www1.folha.uol.com.br/educacao/2026/10/estudantes-planejam-estudar-fora-mais-cedo-e-olham-alem-de-eua-e-canada.shtml",
+      "pubDate": "2026-10-16",
+      "summary": "A busca por estudar no exterior está começando mais cedo entre estudantes, com 46,2% dos visitantes do Salão do Estudante no primeiro semestre sendo do ensino médio, quase empatado com os 47,9% de nível superior. Em 2024, os estudantes de nível superior representavam 54,6% do público do evento.",
+      "insight": "A growing share of high school students attending education fairs suggests earlier international study planning, potentially reflecting shifting aspirations or perceived uncertainties in domestic higher education—though it remains unclear whether this translates directly into increased applications to Anglophone destinations or signals broader market diversification.  \nAdmissions teams should track cohort-specific application timelines and source-region survey data to assess whether early engagement correlates with actual enrolment intent, while reviewing outreach materials for relevance to younger, pre-university audiences without assuming immediate conversion.",
       "impact": "Low",
       "sources": [
-        "Southeast Asia"
+        "China",
+        "Latin America"
       ],
       "dests": [],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 6,
+      "translated": true,
+      "origLang": "pt",
+      "relevanceScore": 7,
       "insightSource": "qwen"
     }
   ]
