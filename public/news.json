@@ -1,18 +1,116 @@
 {
-  "updated": "2026-10-19T05:32:34Z",
-  "count": 4,
-  "totalFetched": 147,
+  "updated": "2026-10-20T05:35:08Z",
+  "count": 9,
+  "totalFetched": 155,
   "articles": [
     {
       "id": 1,
-      "title": "SEA country with most universities in QS ranking targets 250,000 international students by 2030",
+      "title": "UK: Study visa application withdrawals surge amidst new BCA compliance requirements",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/10/uk-study-visa-application-withdrawals-surge-amidst-new-bca-compliance-requirements/",
+      "pubDate": "2026-10-15",
+      "summary": "Since 1 June 2026, UK universities have been required by the Home Office to comply with stricter standards for recruiting and hosting international students under the UK Visas and Immigration’s (UKVI) revised Basic Compliance Assessment (BCA). The BCA now uses a Red-Amber-Green categorisation system, and universities failing to meet the “green” standard face penalties, contributing to a surge in study visa application withdrawals.",
+      "insight": "This UK policy shift may indirectly influence global student demand, as heightened visa scrutiny and institutional compliance pressures could amplify perceptions of the UK as a less predictable destination—though direct spillover to other countries’ enrolment remains uncertain without evidence of shifting applicant behaviour.  \nAdmissions teams should monitor application trends from key UK-sourced markets (e.g., India, Nigeria) and track whether students increasingly list alternative destinations as backups, while reviewing their own compliance frameworks to ensure robust support for visa documentation and academic progression.",
+      "impact": "High",
+      "sources": [],
+      "dests": [
+        "UK"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 9,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 2,
+      "title": "How the changes in visa policy in the U.K. and Canada affect Indian students",
+      "source": "The Hindu (Edu)",
+      "color": "#145a32",
+      "url": "https://www.thehindu.com/education/how-the-changes-in-visa-policy-in-the-uk-and-canada-affect-indian-students/article71582083.ece",
+      "pubDate": "2026-10-19",
+      "summary": "The article details recent changes to visa policies in the United Kingdom and Canada specifically affecting Indian students pursuing higher education. It outlines the latest rules—including eligibility criteria, application requirements, post-study work permissions, and restrictions—applicable to Indian nationals applying for student visas to either country.",
+      "insight": "These policy shifts in the UK and Canada may subtly redirect Indian student applications toward alternative destinations like the US, Australia, or New Zealand—though demand elasticity remains uncertain given India’s strong cultural and institutional ties to Anglophone countries.  \nAdmissions teams should track application volume trends from India over the next 6–12 months, especially for STEM and business programs, while reviewing messaging around post-study work rights and visa transparency to address emerging concerns.",
+      "impact": "Medium",
+      "sources": [
+        "India"
+      ],
+      "dests": [
+        "UK",
+        "Canada"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 9,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 3,
+      "title": "RMIT Việt Nam trao hơn 51,6 tỷ đồng học bổng năm 2026",
+      "source": "VnExpress (Giáo dục)",
+      "color": "#b94500",
+      "url": "https://vnexpress.net/rmit-viet-nam-trao-hon-51-6-ty-dong-hoc-bong-nam-2026-5134460.html",
+      "pubDate": "2026-10-20",
+      "summary": "RMIT Vietnam awarded 111 scholarships in 2026, totaling over VND 51.6 billion. Among these, six were full scholarships designated for students from disadvantaged backgrounds or with disabilities.",
+      "insight": "RMIT Vietnam’s significant 2026 scholarship investment—especially targeted at disadvantaged and disabled students from Southeast Asia—may reflect growing regional emphasis on equity-driven recruitment, though it’s unclear whether this signals broader shifts in student demand or merely institutional strategy.  \nAdmissions teams should monitor whether similar equity-focused funding models emerge among peer institutions in ASEAN, and assess if rising local scholarship competitiveness affects application volumes or enrolment timing from key feeder markets like Vietnam and Indonesia.",
+      "impact": "Low",
+      "sources": [
+        "Southeast Asia"
+      ],
+      "dests": [],
+      "translated": true,
+      "origLang": "vi",
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 4,
+      "title": "US: Climate of uncertainty continues for international students amid legal action on internships and a proposed $70,000 OPT fee",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/10/us-climate-of-uncertainty-continues-for-international-students-amid-legal-action-on-internships-and-a-proposed-70000-opt-fee/",
+      "pubDate": "2026-10-07",
+      "summary": "In August 2026, U.S. Immigration and Customs Enforcement (ICE) issued two broadcast memos indicating increased scrutiny of Curricular Practical Training (CPT) placements for international students. The article also notes ongoing uncertainty due to legal action concerning internships and a proposed $70,000 fee for Optional Practical Training (OPT).",
+      "insight": "This news signals growing regulatory scrutiny of U.S. work-integrated learning pathways, potentially dampening student interest in U.S. degrees—especially among those prioritising post-study employment—though direct demand impacts remain uncertain pending litigation outcomes and policy finalisation.  \nAdmissions teams should track ICE guidance updates, OPT fee developments, and comparative policy shifts in the UK, Australia, and New Zealand to assess evolving destination competitiveness and refine pre-application messaging around work eligibility and risk mitigation.",
+      "impact": "Low",
+      "sources": [],
+      "dests": [
+        "USA"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 7,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 5,
+      "title": "9 sinh viên Toán đầu tiên nhận học bổng 15 triệu đồng/tháng",
+      "source": "VnExpress (Giáo dục)",
+      "color": "#b94500",
+      "url": "https://vnexpress.net/9-sinh-vien-toan-dau-tien-nhan-hoc-bong-15-trieu-dong-thang-5132911.html",
+      "pubDate": "2026-10-16",
+      "summary": "Professor Ngô Bảo Châu personally interviewed and selected nine mathematics students to receive a scholarship covering 100% of tuition fees plus 15 million VND per month. This scholarship amount is the highest offered to date.",
+      "insight": "This scholarship signals growing domestic investment in high-achieving STEM talent in Southeast Asia, potentially moderating outbound student demand—if sustained and scaled—though its immediate impact on Western enrolments remains uncertain given limited cohort size and regional specificity.  \nAdmissions teams should track whether similar elite, high-value scholarships proliferate across Vietnam and neighboring markets, and assess if local universities begin leveraging such initiatives to strengthen brand perception and retention of top mathematics applicants.",
+      "impact": "Low",
+      "sources": [
+        "Southeast Asia"
+      ],
+      "dests": [],
+      "translated": true,
+      "origLang": "vi",
+      "relevanceScore": 7,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 6,
+      "title": "Fields Medalist Ngo Bao Chau grants scholarships to 9 Vietnamese math students in quest to develop Asian talents",
       "source": "VnExpress (EN)",
       "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/education/sea-country-with-most-universities-in-qs-ranking-targets-250-000-international-students-by-2030-5133509.html",
-      "pubDate": "2026-10-19",
-      "summary": "Malaysia, the Southeast Asian country with the most universities in the QS World University Rankings, aims to attract approximately 250,000 international students by 2030. It also seeks to diversify the countries of origin of these students to reinforce its status as a preferred destination for higher education.",
-      "insight": "Malaysia’s ambitious 250,000-international-student target by 2030 signals intensifying regional competition for students from Southeast Asia, potentially reshaping demand patterns—though direct impact on Western enrolments remains uncertain without evidence of student substitution or shifting preferences.  \nAdmissions teams should monitor Malaysia’s scholarship offerings, visa processing times, and post-study work policies, particularly among Southeast Asian applicants, to assess whether it emerges as a credible alternative pathway rather than just a feeder market.",
-      "impact": "Medium",
+      "url": "https://e.vnexpress.net/news/news/education/fields-medalist-ngo-bao-chau-grants-scholarships-to-9-vietnamese-math-students-in-quest-to-develop-asian-talents-5133652.html",
+      "pubDate": "2026-10-18",
+      "summary": "Fields Medalist Ngô Bảo Châu, Vietnam’s only recipient of the award, has personally selected nine Vietnamese mathematics students for full-tuition scholarships. The scholarships also provide monthly living allowances of VND15 million (US$579).",
+      "insight": "This initiative signals growing regional investment in homegrown STEM talent, potentially tempering outbound demand from Vietnam and Southeast Asia—though its impact on Western enrolments remains uncertain without data on scholarship recipients’ prior study-abroad intentions.  \nAdmissions teams should track whether similar high-profile local scholarships expand across ASEAN, and assess if their outreach to Vietnamese schools and math olympiad networks needs recalibration to remain competitive amid rising domestic opportunity.",
+      "impact": "Low",
       "sources": [
         "Southeast Asia"
       ],
@@ -23,62 +121,65 @@
       "insightSource": "qwen"
     },
     {
-      "id": 2,
-      "title": "Đại học Mỹ 'đại hạ giá' để hút sinh viên",
-      "source": "VnExpress (Giáo dục)",
-      "color": "#b94500",
-      "url": "https://vnexpress.net/dai-hoc-my-dai-ha-gia-de-hut-sinh-vien-5131038.html",
-      "pubDate": "2026-10-15",
-      "summary": "Many private universities in the United States have reduced tuition by up to 50 percent to attract new students amid declining enrollment. This tuition reduction began as the new admissions cycle commenced.",
-      "insight": "US private universities’ steep tuition cuts signal intensified domestic competition for shrinking applicant pools, potentially reshaping international recruitment strategies—but it remains unclear whether this reflects broader demand erosion or targeted institutional adjustments amid demographic shifts.  \nAdmissions teams should track whether these discounts extend to international students, monitor enrollment yield data by region, and assess if Southeast Asian applicants perceive US institutions as more affordable or less prestigious amid such pricing shifts.",
+      "id": 7,
+      "title": "University of Manchester plans Bengaluru centre in India push",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/university-of-manchester-plans-bengaluru-centre-in-india-push/",
+      "pubDate": "2026-10-16",
+      "summary": "The University of Manchester plans to establish a new centre in Bengaluru, India, focused on industry-linked learning and research collaboration. This initiative expands the university’s UK presence, which already includes campuses and partnership hubs.",
+      "insight": "The University of Manchester’s Bengaluru centre signals growing institutional commitment to India as a strategic recruitment and research hub, potentially reinforcing India’s position as a high-potential source market—though direct impact on student demand or visa policy remains uncertain without broader sectoral trends.  \nAdmissions teams should monitor whether this move catalyses increased Indian student applications to Manchester, track partner institution referrals from Bengaluru, and assess if similar UK universities follow suit—informing regional outreach and agent engagement strategies over the next 12–18 months.",
       "impact": "Low",
       "sources": [
-        "Southeast Asia"
+        "India"
       ],
-      "dests": [],
-      "translated": true,
-      "origLang": "vi",
-      "relevanceScore": 7,
+      "dests": [
+        "UK"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 6,
       "insightSource": "qwen"
     },
     {
-      "id": 3,
-      "title": "Bi kịch của nữ thủ khoa phơi bày đường dây lừa đảo du học Mỹ",
-      "source": "VnExpress (Giáo dục)",
-      "color": "#b94500",
-      "url": "https://vnexpress.net/bi-kich-cua-nu-thu-khoa-phoi-bay-duong-day-lua-dao-du-hoc-my-5132678.html",
-      "pubDate": "2026-10-16",
-      "summary": "A female valedictorian from Pakistan had her dream of studying in the United States—and specifically at Harvard University—shattered when she became a victim of a sophisticated international student visa fraud scheme. The case exposed an organized scam targeting low-income families seeking U.S. education opportunities.",
-      "insight": "This incident highlights growing vulnerability among high-achieving, low-income students from South and Southeast Asia to predatory education agents, potentially dampening trust in U.S. pathways—but broader demand shifts remain uncertain without data on application trends or regional sentiment surveys.  \nAdmissions teams should monitor agent accreditation complaints and student-reported visa refusal reasons in these regions, while reviewing pre-enrolment verification protocols to ensure transparency without assuming systemic risk across all recruitment channels.",
-      "impact": "Low",
-      "sources": [
-        "Southeast Asia",
-        "South Asia"
-      ],
-      "dests": [],
-      "translated": true,
-      "origLang": "vi",
-      "relevanceScore": 7,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 4,
-      "title": "Estudantes planejam estudar fora mais cedo e olham além de EUA e Canadá",
-      "source": "Folha de S.Paulo",
-      "color": "#154360",
-      "url": "https://redir.folha.com.br/redir/online/educacao/rss091/*https://www1.folha.uol.com.br/educacao/2026/10/estudantes-planejam-estudar-fora-mais-cedo-e-olham-alem-de-eua-e-canada.shtml",
-      "pubDate": "2026-10-16",
-      "summary": "A busca por estudar no exterior está começando mais cedo entre estudantes, com 46,2% dos visitantes do Salão do Estudante no primeiro semestre sendo do ensino médio, quase empatado com os 47,9% de nível superior. Em 2024, os estudantes de nível superior representavam 54,6% do público do evento.",
-      "insight": "A growing share of high school students attending education fairs suggests earlier international study planning, potentially reflecting shifting aspirations or perceived uncertainties in domestic higher education—though it remains unclear whether this translates directly into increased applications to Anglophone destinations or signals broader market diversification.  \nAdmissions teams should track cohort-specific application timelines and source-region survey data to assess whether early engagement correlates with actual enrolment intent, while reviewing outreach materials for relevance to younger, pre-university audiences without assuming immediate conversion.",
+      "id": 8,
+      "title": "This university beats China and Singapore's top schools to represent Asia in global top 20 for mathematics",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/education/this-university-beats-china-and-singapore-s-top-schools-to-represent-asia-in-global-top-20-for-mathematics-5131694.html",
+      "pubDate": "2026-10-17",
+      "summary": "Kyoto University in Japan is the only Asian institution ranked among the world’s top 20 universities for mathematics in the 2026 Global Ranking of Academic Subjects. The ranking is dominated by universities from the United States and Europe.",
+      "insight": "Kyoto University’s top-20 mathematics ranking may subtly shift perceptions of Asian academic excellence among high-achieving STEM applicants from China and Southeast Asia, though direct impact on enrolment decisions remains uncertain amid stronger brand recognition for US/UK institutions in graduate mathematics.  \nAdmissions teams should monitor regional sentiment shifts via agent feedback and application data for mathematics programmes, particularly among students citing academic reputation over cost or location—while maintaining focus on proven recruitment levers like scholarships and research opportunities.",
       "impact": "Low",
       "sources": [
         "China",
-        "Latin America"
+        "Southeast Asia"
       ],
-      "dests": [],
-      "translated": true,
-      "origLang": "pt",
-      "relevanceScore": 7,
+      "dests": [
+        "USA"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 6,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 9,
+      "title": "AbhinaV Tiwari reflects on the lessons he learnt as a KLYES exchange programme student",
+      "source": "The Hindu (Edu)",
+      "color": "#145a32",
+      "url": "https://www.thehindu.com/education/abhinav-tiwari-reflects-on-the-lessons-he-learnt-as-a-klyes-exchange-programme-student/article71579842.ece",
+      "pubDate": "2026-10-19",
+      "summary": "AbhinaV Tiwari, a student from Bulandshahr in Uttar Pradesh, India, participated in the KLYES exchange programme. As part of the programme, he travelled to Sitka, Alaska, in the United States.",
+      "insight": "This news signals growing interest from Indian students—particularly from Tier 2/3 cities like Bulandshahr—in short-term, experiential exchange programmes in the US, possibly reflecting shifting preferences toward accessible, culturally immersive opportunities amid evolving visa and cost concerns.  \nAdmissions teams should monitor uptake of similar exchange pathways among Indian applicants, assess partnerships with regional Indian institutions, and consider how such experiences influence longer-term degree enrolment decisions—without assuming direct conversion to full-degree applications.",
+      "impact": "Low",
+      "sources": [],
+      "dests": [
+        "USA"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 6,
       "insightSource": "qwen"
     }
   ]
