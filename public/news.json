@@ -1,61 +1,61 @@
 {
-  "updated": "2026-10-24T05:10:57Z",
-  "count": 7,
-  "totalFetched": 167,
+  "updated": "2026-10-25T05:26:00Z",
+  "count": 5,
+  "totalFetched": 157,
   "articles": [
     {
       "id": 1,
-      "title": "One test, five markets: What do Australia’s student visa changes mean for South Asian recruitment?",
+      "title": "What is happening with international student numbers in Canada so far this year?",
       "source": "ICEF Monitor",
       "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/10/one-test-five-markets-what-do-australias-student-visa-changes-mean-for-south-asian-recruitment/",
-      "pubDate": "2026-10-21",
-      "summary": "The article discusses recent Australian student visa changes and their implications for international student recruitment from South Asia. It notes that these policy shifts range from causing minor administrative burdens to potentially altering families’ decisions about choosing Australia as a study destination.",
-      "insight": "Australia’s tightened student visa rules for South Asia may dampen short-term enrolment growth there, though the extent depends on how families weigh stricter conditions against Australia’s academic reputation and post-study work prospects—direct demand shifts remain uncertain amid broader regional mobility trends.  \nAdmissions teams should track South Asian application volumes and agent sentiment over the next 6–12 months, while reviewing messaging around visa support, financial transparency, and alternative pathways to ensure competitiveness against UK, Canada, and NZ offers.",
+      "url": "https://monitor.icef.com/2026/10/what-is-happening-with-international-student-numbers-in-canada-so-far-this-year/",
+      "pubDate": "2026-10-15",
+      "summary": "Canada’s international student cap sets a 2026 target of 408,000 study permits, comprising 253,000 extensions and 155,000 new arrivals. However, current arrivals data indicates the total for 2026 is likely to fall significantly below that target.",
+      "insight": "Canada’s capped study permit targets and likely shortfall suggest potential softening in demand or administrative constraints, which may indirectly increase interest in alternative destinations—but direct shifts in student preferences remain unconfirmed without source-market survey data.  \nAdmissions teams should monitor application trends from Canada’s key feeder markets (e.g., India, Nigeria, Philippines) and track any uptick in inquiries referencing Canadian policy changes, while maintaining balanced recruitment strategies across diverse regions.",
       "impact": "Low",
-      "sources": [
-        "South Asia"
-      ],
+      "sources": [],
       "dests": [
-        "Australia"
+        "Canada"
       ],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 9,
+      "relevanceScore": 8,
       "insightSource": "qwen"
     },
     {
       "id": 2,
-      "title": "Enroly: UK CAS issuance falls 24% as visa refusals jump 44%",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/enroly-uk-cas-issuance-falls-24-as-visa-refusals-jump-44/",
-      "pubDate": "2026-10-23",
-      "summary": "UK universities issued 24% fewer Confirmation of Acceptance for Studies (CAS) documents to international students year-on-year, according to new data from Enroly. Visa refusals for international students rose by 44% over the same period.",
-      "insight": "A 24% drop in UK CAS issuances alongside a 44% rise in visa refusals suggests tightening UK visa scrutiny or shifting applicant behaviour—but it’s unclear whether this reflects reduced demand, stricter compliance, or temporary administrative factors affecting international student flows globally.  \nAdmissions teams should monitor UK refusal trends by nationality and course level, assess whether applicants are diversifying applications across destinations, and review pre-application support to ensure documentation rigor aligns with evolving visa expectations.",
+      "title": "Hong Kong semi-private schools admit 20 more non-local students under expansion scheme",
+      "source": "SCMP (Education)",
+      "color": "#7b241c",
+      "url": "https://www.scmp.com/news/hong-kong/education/article/3371675/hong-kong-semi-private-schools-admit-20-more-non-local-students-under-expansion-scheme",
+      "pubDate": "2026-10-21",
+      "summary": "Approximately 20 additional non-local students have been admitted to Hong Kong’s semi-private schools under a government expansion scheme aimed at enhancing the city’s position as an international education hub. These students, holding student visas, are from Thailand, South Korea, Singapore, the United States, and several European countries.",
+      "insight": "Hong Kong’s expansion of non-local student places in semi-private schools may reflect growing regional demand for English-medium, internationally oriented K–12 education—but it does not directly indicate shifting preferences for undergraduate or postgraduate study in traditional Anglophone destinations.  \nAdmissions teams should monitor whether this policy correlates with increased outbound mobility from Southeast Asia and Northeast Asia, particularly tracking visa issuance trends and secondary school leaver pathways to tertiary institutions abroad over the next 12–24 months.",
       "impact": "Low",
-      "sources": [],
+      "sources": [
+        "Southeast Asia"
+      ],
       "dests": [
-        "UK"
+        "USA"
       ],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 9,
+      "relevanceScore": 8,
       "insightSource": "qwen"
     },
     {
       "id": 3,
-      "title": "New Zealand to help more schools recruit international students",
+      "title": "Refugee student route aims to bring 40 students to UK universities in 2027",
       "source": "The PIE News",
       "color": "#7b341e",
-      "url": "https://thepienews.com/new-zealand-to-help-more-schools-recruit-international-students/",
-      "pubDate": "2026-10-21",
-      "summary": "New Zealand is investing up to NZ$2.5 million in a new support service to assist more schools in recruiting, enrolling, and retaining international students starting from 2027. This initiative aligns with the government’s ambitious international education growth targets.",
-      "insight": "New Zealand’s NZ$2.5 million investment signals growing national prioritisation of international school enrolments, potentially intensifying competition for students from key Asian and Pacific source markets—though direct implications for tertiary recruitment remain uncertain given differing regulatory frameworks and student pathways.  \nAdmissions teams should monitor New Zealand’s 2027 implementation timeline, any resulting shifts in regional agent partnerships or student awareness of NZ as a study destination, and whether similar support mechanisms emerge in competing countries’ K–12 or pathway education strategies.",
+      "url": "https://thepienews.com/refugee-student-route-aims-to-bring-40-students-to-uk-universities-in-2027/",
+      "pubDate": "2026-10-22",
+      "summary": "A new safe and legal route for refugee students aims to bring 40 refugees to UK universities in September 2027. Around 15 UK institutions are expected to participate in the first cohort of this initiative.",
+      "insight": "This UK initiative signals growing policy emphasis on refugee inclusion in higher education, potentially influencing global perceptions of safety and accessibility—but its direct impact on mainstream international student demand remains uncertain given its highly targeted scope and small cohort size.  \nAdmissions teams should monitor whether similar pathways emerge in their own countries or if partner institutions in conflict-affected regions begin prioritising refugee student support, as this could gradually reshape recruitment partnerships and scholarship frameworks.",
       "impact": "Low",
       "sources": [],
       "dests": [
-        "New Zealand"
+        "UK"
       ],
       "translated": false,
       "origLang": null,
@@ -64,25 +64,6 @@
     },
     {
       "id": 4,
-      "title": "Myanmar students flock to Germany, Thailand, Malaysia for visa, finance reasons",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/myanmar-students-flock-to-germany-malaysia-as-market-diversifies/",
-      "pubDate": "2026-10-21",
-      "summary": "Myanmar students are increasingly choosing Germany, Thailand, and Malaysia for international study due to political instability in Myanmar complicating their overseas education plans. This shift is driven primarily by visa accessibility and financial considerations.",
-      "insight": "Myanmar students’ growing preference for Germany, Thailand, and Malaysia may reflect broader recalibrations in destination choice driven by visa pragmatism and affordability—though direct implications for Anglophone destinations remain uncertain without evidence of parallel declines in applications to the US, UK, Australia, or NZ.  \nAdmissions teams should monitor Myanmar application volumes, visa refusal trends, and scholarship uptake closely over the next 12–18 months, while reviewing messaging around financial support and visa guidance to ensure competitiveness amid shifting regional sentiment.",
-      "impact": "Low",
-      "sources": [
-        "Southeast Asia"
-      ],
-      "dests": [],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 7,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 5,
       "title": "UK: Study visa application withdrawals surge amidst new BCA compliance requirements",
       "source": "ICEF Monitor",
       "color": "#1a3a5c",
@@ -101,37 +82,18 @@
       "insightSource": "qwen"
     },
     {
-      "id": 6,
-      "title": "ICEF Podcast: How is the sector responding to ELT school closures and what happens next?",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/10/icef-podcast-how-is-the-sector-responding-to-elt-school-closures-and-what-happens-next/",
-      "pubDate": "2026-10-21",
-      "summary": "In September, two major English language schools closed abruptly: EC English Language Centres ceased trading on 14 September, affecting approximately 1,500 students across 24 schools in seven destinations, and ILAC filed for bankruptcy on 18 September, disrupting the studies of nearly 1,400 students in Toronto and Vancouver. The ICEF Podcast discusses the sector’s response to these closures and explores what comes next for affected students and institutions.",
-      "insight": "These sudden ELT school closures may signal heightened financial and regulatory vulnerability in the private language training sector, potentially shifting some student demand toward degree-awarding institutions—but direct impacts on university recruitment remain uncertain amid broader macroeconomic and policy trends.  \nAdmissions teams should monitor source market sentiment shifts, especially in key regions like Latin America and Asia, and assess whether affected students seek pathway or credit-transfer options, while reviewing partnerships with at-risk language providers for early risk signals.",
-      "impact": "Low",
-      "sources": [],
-      "dests": [
-        "Canada"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 6,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 7,
-      "title": "Three signals shaping Australian international education ahead of AIEC 2026",
+      "id": 5,
+      "title": "Enroly: UK CAS issuance falls 24% as visa refusals jump 44%",
       "source": "The PIE News",
       "color": "#7b341e",
-      "url": "https://thepienews.com/three-signals-shaping-australian-international-education-ahead-of-aiec-2026/",
+      "url": "https://thepienews.com/enroly-uk-cas-issuance-falls-24-as-visa-refusals-jump-44/",
       "pubDate": "2026-10-23",
-      "summary": "Australia's international education sector is entering a new phase characterized by slowing student growth, tighter visa settings, and the rise of transnational education. Ahead of the AIEC 2026 conference, The PIE identifies five shifts expected to shape discussions at the event.",
-      "insight": "Australia’s slowing student growth, tighter visa rules, and growing transnational education offerings signal potential recalibration in global student mobility patterns—though direct spillover to US/UK/NZ demand remains uncertain amid distinct policy and market drivers.  \nAdmissions teams should track Australian enrolment trends by origin region and visa refusal rates, while assessing whether shifts in transnational partnerships or regional sentiment could influence prospective students’ comparative destination choices over the next 12–24 months.",
+      "summary": "UK universities issued 24% fewer Confirmation of Acceptance for Studies (CAS) documents to international students year-on-year, according to new data from Enroly. Visa refusals for international students rose by 44% over the same period.",
+      "insight": "A 24% drop in UK CAS issuances alongside a 44% rise in visa refusals suggests tightening UK visa scrutiny or shifting applicant behaviour—but it’s unclear whether this reflects reduced demand, stricter compliance, or temporary administrative factors affecting international student flows globally.  \nAdmissions teams should monitor UK refusal trends by nationality and course level, assess whether applicants are diversifying applications across destinations, and review pre-application support to ensure documentation rigor aligns with evolving visa expectations.",
       "impact": "Low",
       "sources": [],
       "dests": [
-        "Australia"
+        "UK"
       ],
       "translated": false,
       "origLang": null,
