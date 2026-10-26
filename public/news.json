@@ -1,21 +1,23 @@
 {
-  "updated": "2026-10-25T05:26:00Z",
-  "count": 5,
-  "totalFetched": 157,
+  "updated": "2026-10-26T05:31:21Z",
+  "count": 4,
+  "totalFetched": 158,
   "articles": [
     {
       "id": 1,
-      "title": "What is happening with international student numbers in Canada so far this year?",
+      "title": "One test, five markets: What do Australia’s student visa changes mean for South Asian recruitment?",
       "source": "ICEF Monitor",
       "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/10/what-is-happening-with-international-student-numbers-in-canada-so-far-this-year/",
-      "pubDate": "2026-10-15",
-      "summary": "Canada’s international student cap sets a 2026 target of 408,000 study permits, comprising 253,000 extensions and 155,000 new arrivals. However, current arrivals data indicates the total for 2026 is likely to fall significantly below that target.",
-      "insight": "Canada’s capped study permit targets and likely shortfall suggest potential softening in demand or administrative constraints, which may indirectly increase interest in alternative destinations—but direct shifts in student preferences remain unconfirmed without source-market survey data.  \nAdmissions teams should monitor application trends from Canada’s key feeder markets (e.g., India, Nigeria, Philippines) and track any uptick in inquiries referencing Canadian policy changes, while maintaining balanced recruitment strategies across diverse regions.",
+      "url": "https://monitor.icef.com/2026/10/one-test-five-markets-what-do-australias-student-visa-changes-mean-for-south-asian-recruitment/",
+      "pubDate": "2026-10-21",
+      "summary": "The article discusses recent Australian student visa changes and their implications for international student recruitment from South Asia. It notes that these policy shifts range from causing minor administrative burdens to potentially altering families’ decisions about choosing Australia as a study destination.",
+      "insight": "Australia’s tightened student visa rules for South Asia may dampen short-term enrolment growth there, though the extent depends on how families weigh stricter conditions against Australia’s academic reputation and post-study work prospects—direct demand shifts remain uncertain amid broader regional mobility trends.  \nAdmissions teams should track South Asian application volumes and agent sentiment over the next 6–12 months, while reviewing messaging around visa support, financial transparency, and alternative pathways to ensure competitiveness against UK, Canada, and NZ offers.",
       "impact": "Low",
-      "sources": [],
+      "sources": [
+        "South Asia"
+      ],
       "dests": [
-        "Canada"
+        "Australia"
       ],
       "translated": false,
       "origLang": null,
@@ -24,19 +26,17 @@
     },
     {
       "id": 2,
-      "title": "Hong Kong semi-private schools admit 20 more non-local students under expansion scheme",
-      "source": "SCMP (Education)",
-      "color": "#7b241c",
-      "url": "https://www.scmp.com/news/hong-kong/education/article/3371675/hong-kong-semi-private-schools-admit-20-more-non-local-students-under-expansion-scheme",
+      "title": "New Zealand to help more schools recruit international students",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/new-zealand-to-help-more-schools-recruit-international-students/",
       "pubDate": "2026-10-21",
-      "summary": "Approximately 20 additional non-local students have been admitted to Hong Kong’s semi-private schools under a government expansion scheme aimed at enhancing the city’s position as an international education hub. These students, holding student visas, are from Thailand, South Korea, Singapore, the United States, and several European countries.",
-      "insight": "Hong Kong’s expansion of non-local student places in semi-private schools may reflect growing regional demand for English-medium, internationally oriented K–12 education—but it does not directly indicate shifting preferences for undergraduate or postgraduate study in traditional Anglophone destinations.  \nAdmissions teams should monitor whether this policy correlates with increased outbound mobility from Southeast Asia and Northeast Asia, particularly tracking visa issuance trends and secondary school leaver pathways to tertiary institutions abroad over the next 12–24 months.",
+      "summary": "New Zealand is investing up to NZ$2.5 million in a new support service to assist more schools in recruiting, enrolling, and retaining international students starting from 2027. This initiative aligns with the government’s ambitious international education growth targets.",
+      "insight": "New Zealand’s NZ$2.5 million investment signals growing national prioritisation of international school enrolments, potentially intensifying competition for students from key Asian and Pacific source markets—though direct impact on tertiary demand remains uncertain without evidence of spillover effects or shifting student preferences.  \nAdmissions teams should monitor New Zealand’s 2027 implementation timeline, its targeted source regions, and any subsequent policy shifts in visa pathways or post-study work rights that could influence comparative destination appeal among high-school leavers and their families.",
       "impact": "Low",
-      "sources": [
-        "Southeast Asia"
-      ],
+      "sources": [],
       "dests": [
-        "USA"
+        "New Zealand"
       ],
       "translated": false,
       "origLang": null,
@@ -45,32 +45,13 @@
     },
     {
       "id": 3,
-      "title": "Refugee student route aims to bring 40 students to UK universities in 2027",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/refugee-student-route-aims-to-bring-40-students-to-uk-universities-in-2027/",
-      "pubDate": "2026-10-22",
-      "summary": "A new safe and legal route for refugee students aims to bring 40 refugees to UK universities in September 2027. Around 15 UK institutions are expected to participate in the first cohort of this initiative.",
-      "insight": "This UK initiative signals growing policy emphasis on refugee inclusion in higher education, potentially influencing global perceptions of safety and accessibility—but its direct impact on mainstream international student demand remains uncertain given its highly targeted scope and small cohort size.  \nAdmissions teams should monitor whether similar pathways emerge in their own countries or if partner institutions in conflict-affected regions begin prioritising refugee student support, as this could gradually reshape recruitment partnerships and scholarship frameworks.",
-      "impact": "Low",
-      "sources": [],
-      "dests": [
-        "UK"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 4,
       "title": "UK: Study visa application withdrawals surge amidst new BCA compliance requirements",
       "source": "ICEF Monitor",
       "color": "#1a3a5c",
       "url": "https://monitor.icef.com/2026/10/uk-study-visa-application-withdrawals-surge-amidst-new-bca-compliance-requirements/",
       "pubDate": "2026-10-15",
       "summary": "Since 1 June 2026, UK universities have been required by the Home Office to comply with stricter standards for recruiting and hosting international students under the UK Visas and Immigration’s (UKVI) revised Basic Compliance Assessment (BCA). The BCA now uses a Red-Amber-Green categorisation system, and universities failing to meet the “green” standard face penalties, contributing to a surge in study visa application withdrawals.",
-      "insight": "This UK policy shift may indirectly influence global student demand, as heightened visa scrutiny and institutional compliance pressures could amplify perceptions of the UK as a less accessible destination—though actual enrolment impacts depend on how strictly penalties are enforced and whether alternative study destinations capitalise on resulting sentiment shifts.  \nAdmissions teams should monitor application trends from key UK-sending markets (e.g., India, Nigeria, Pakistan) for early signs of diversion, while reviewing their own compliance frameworks and student support messaging to reinforce stability and transparency in visa guidance.",
+      "insight": "This UK policy shift may indirectly influence global student demand, as heightened visa scrutiny and institutional compliance pressures could amplify perceptions of the UK as a less predictable destination—though direct spillover to other countries’ enrolment remains uncertain without evidence of shifting applicant behaviour.  \nAdmissions teams should monitor application trends from key UK-sourced markets (e.g., India, Nigeria) and track whether students increasingly list alternative destinations as backups, while reviewing their own compliance readiness in case similar regulatory frameworks emerge abroad.",
       "impact": "High",
       "sources": [],
       "dests": [
@@ -82,7 +63,7 @@
       "insightSource": "qwen"
     },
     {
-      "id": 5,
+      "id": 4,
       "title": "Enroly: UK CAS issuance falls 24% as visa refusals jump 44%",
       "source": "The PIE News",
       "color": "#7b341e",
