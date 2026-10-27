@@ -1,42 +1,42 @@
 {
-  "updated": "2026-10-26T05:31:21Z",
-  "count": 4,
-  "totalFetched": 158,
+  "updated": "2026-10-27T05:46:54Z",
+  "count": 10,
+  "totalFetched": 160,
   "articles": [
     {
       "id": 1,
-      "title": "One test, five markets: What do Australia’s student visa changes mean for South Asian recruitment?",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/10/one-test-five-markets-what-do-australias-student-visa-changes-mean-for-south-asian-recruitment/",
-      "pubDate": "2026-10-21",
-      "summary": "The article discusses recent Australian student visa changes and their implications for international student recruitment from South Asia. It notes that these policy shifts range from causing minor administrative burdens to potentially altering families’ decisions about choosing Australia as a study destination.",
-      "insight": "Australia’s tightened student visa rules for South Asia may dampen short-term enrolment growth there, though the extent depends on how families weigh stricter conditions against Australia’s academic reputation and post-study work prospects—direct demand shifts remain uncertain amid broader regional mobility trends.  \nAdmissions teams should track South Asian application volumes and agent sentiment over the next 6–12 months, while reviewing messaging around visa support, financial transparency, and alternative pathways to ensure competitiveness against UK, Canada, and NZ offers.",
+      "title": "Proposed new OPT fee would decimate the international talent pipeline",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/the-trump-administrations-proposed-new-opt-fee-would-decimate-the-international-talent-pipeline/",
+      "pubDate": "2026-10-26",
+      "summary": "Zuzana Čeplá Wootson, deputy director of federal policy at the Presidents’ Alliance on Higher Education and Immigration, argues that the proposed new Optional Practical Training (OPT) fee would harm international students, U.S. employers, and American competitiveness. The article was published by The PIE News.",
+      "insight": "The proposed OPT fee increase may dampen U.S. appeal for international students—especially in STEM—by raising post-study work costs, potentially shifting demand toward countries with more predictable or affordable graduate employment pathways, though actual enrolment impact depends on final policy and student risk tolerance.  \nAdmissions teams should track U.S. regulatory developments closely, benchmark competitor messaging on post-study work support, and prepare clear, updated guidance for applicants—particularly from high-volume markets like India and China—on evolving U.S. work-authorization realities.",
       "impact": "Low",
-      "sources": [
-        "South Asia"
-      ],
+      "sources": [],
       "dests": [
-        "Australia"
+        "USA"
       ],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 8,
+      "relevanceScore": 9,
       "insightSource": "qwen"
     },
     {
       "id": 2,
-      "title": "New Zealand to help more schools recruit international students",
+      "title": "Too big to brake: why Bangladesh and Pakistan escaped the visa brake, and what comes next",
       "source": "The PIE News",
       "color": "#7b341e",
-      "url": "https://thepienews.com/new-zealand-to-help-more-schools-recruit-international-students/",
-      "pubDate": "2026-10-21",
-      "summary": "New Zealand is investing up to NZ$2.5 million in a new support service to assist more schools in recruiting, enrolling, and retaining international students starting from 2027. This initiative aligns with the government’s ambitious international education growth targets.",
-      "insight": "New Zealand’s NZ$2.5 million investment signals growing national prioritisation of international school enrolments, potentially intensifying competition for students from key Asian and Pacific source markets—though direct impact on tertiary demand remains uncertain without evidence of spillover effects or shifting student preferences.  \nAdmissions teams should monitor New Zealand’s 2027 implementation timeline, its targeted source regions, and any subsequent policy shifts in visa pathways or post-study work rights that could influence comparative destination appeal among high-school leavers and their families.",
-      "impact": "Low",
-      "sources": [],
+      "url": "https://thepienews.com/too-big-to-brake-why-bangladesh-and-pakistan-escaped-the-visa-brake-and-what-comes-next/",
+      "pubDate": "2026-10-26",
+      "summary": "A UK High Court judgment revealed that Bangladesh and Pakistan narrowly avoided being included in the UK Home Office’s study visa restrictions targeting certain international student sending countries. Universities now face new compliance requirements and must manage these two large student markets independently, while potential further policy changes are anticipated.",
+      "insight": "This UK policy development signals potential volatility in South Asian student flows, as Bangladesh and Pakistan—two major source markets—escaped visa restrictions but now face heightened compliance scrutiny, possibly influencing student preferences toward alternative destinations like the US, Australia, or New Zealand amid perceived regulatory risk.  \nAdmissions teams should monitor UK visa refusal rates, Home Office guidance updates, and shifts in agent sentiment from Bangladesh and Pakistan, while reviewing their regional marketing narratives to reinforce stability and post-study value—without assuming immediate demand disruption.",
+      "impact": "High",
+      "sources": [
+        "South Asia"
+      ],
       "dests": [
-        "New Zealand"
+        "UK"
       ],
       "translated": false,
       "origLang": null,
@@ -45,6 +45,103 @@
     },
     {
       "id": 3,
+      "title": "What is happening with international student numbers in Canada so far this year?",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/10/what-is-happening-with-international-student-numbers-in-canada-so-far-this-year/",
+      "pubDate": "2026-10-15",
+      "summary": "Canada’s international student cap sets a 2026 target of 408,000 study permits, comprising 253,000 extensions and 155,000 new arrivals. However, current arrivals data indicates the total for 2026 is likely to fall significantly below that target.",
+      "insight": "Canada’s capped study permit targets and likely shortfall suggest potential softening in demand or administrative constraints, which may indirectly increase interest in alternative destinations—but direct shifts in student preferences remain unconfirmed without source-market survey data.  \nAdmissions teams should monitor application trends from Canada’s key feeder markets (e.g., India, Nigeria, Philippines) and track any uptick in inquiries referencing Canadian policy changes, while maintaining balanced recruitment strategies across diverse regions.",
+      "impact": "Low",
+      "sources": [],
+      "dests": [
+        "Canada"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 4,
+      "title": "Hong Kong semi-private schools admit 20 more non-local students under expansion scheme",
+      "source": "SCMP (Education)",
+      "color": "#7b241c",
+      "url": "https://www.scmp.com/news/hong-kong/education/article/3371675/hong-kong-semi-private-schools-admit-20-more-non-local-students-under-expansion-scheme",
+      "pubDate": "2026-10-21",
+      "summary": "Approximately 20 additional non-local students have been admitted to Hong Kong’s semi-private schools under a government expansion scheme aimed at enhancing the city’s position as an international education hub. These students, holding student visas, are from Thailand, South Korea, Singapore, the United States, and several European countries.",
+      "insight": "Hong Kong’s expansion of non-local student places in semi-private schools may reflect growing regional demand for English-medium, internationally oriented K–12 education—but it does not directly indicate shifting preferences for undergraduate or postgraduate study in traditional Anglophone destinations.  \nAdmissions teams should monitor whether this policy correlates with increased outbound mobility from Southeast Asia and Northeast Asia, particularly tracking visa issuance trends and enrolment patterns among students who later pursue higher education abroad.",
+      "impact": "Low",
+      "sources": [
+        "Southeast Asia"
+      ],
+      "dests": [
+        "USA"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 5,
+      "title": "Refugee student route aims to bring 40 students to UK universities in 2027",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/refugee-student-route-aims-to-bring-40-students-to-uk-universities-in-2027/",
+      "pubDate": "2026-10-22",
+      "summary": "A new safe and legal route for refugee students aims to bring 40 refugees to UK universities in September 2027. Around 15 UK institutions are expected to participate in the first cohort of this initiative.",
+      "insight": "This UK initiative signals growing policy emphasis on refugee inclusion in higher education, potentially influencing global perceptions of safety and accessibility—but its direct impact on mainstream international student demand remains uncertain given its small scale and targeted eligibility.  \nAdmissions teams should monitor whether similar pathways emerge in their own countries or if partner institutions in conflict-affected regions begin prioritising refugee support services, as this could shape future recruitment partnerships and scholarship frameworks.",
+      "impact": "Low",
+      "sources": [],
+      "dests": [
+        "UK"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 6,
+      "title": "Vietnamese students top South Korea's visa overstayers with over 26,200 cases",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/education/vietnamese-students-top-south-korea-s-visa-overstayers-with-over-26-200-cases-5136384.html",
+      "pubDate": "2026-10-26",
+      "summary": "More than 26,200 Vietnamese students have overstayed their visas in South Korea. This figure represents the highest number of visa overstayers among all nationalities in the country.",
+      "insight": "This news highlights potential shifts in Southeast Asian student mobility patterns, possibly reflecting tightening visa enforcement or changing perceptions of South Korea as a study destination—though it remains unclear whether this directly signals reduced demand for English-speaking countries or simply regional policy divergence.  \nAdmissions teams should monitor Vietnamese and broader Southeast Asian application trends, consult local agents on evolving student preferences, and review pre-departure compliance messaging—noting that overstay data from one country doesn’t predict behaviour elsewhere but may inform risk-aware recruitment strategies.",
+      "impact": "Low",
+      "sources": [
+        "Southeast Asia"
+      ],
+      "dests": [],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 7,
+      "title": "Australian universities back new benchmark for education agents",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/australian-universities-back-new-benchmark-for-education-agents/",
+      "pubDate": "2026-10-26",
+      "summary": "Six major Australian universities have joined a new initiative to establish a benchmark for evaluating education agents based on student feedback. The initiative aims to strengthen evidence of education agents’ contribution to international education in Australia.",
+      "insight": "This development signals growing institutional emphasis on agent accountability and student experience in Australia, potentially influencing peer markets’ expectations around ethical recruitment—though direct impacts on US/UK/NZ demand or visa rules remain unproven and likely indirect.  \nAdmissions teams should track whether similar agent-evaluation frameworks emerge in their own jurisdictions, and assess whether current agent partnerships proactively gather and act on student feedback to align with evolving global best practices.",
+      "impact": "Low",
+      "sources": [],
+      "dests": [
+        "Australia"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 7,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 8,
       "title": "UK: Study visa application withdrawals surge amidst new BCA compliance requirements",
       "source": "ICEF Monitor",
       "color": "#1a3a5c",
@@ -63,14 +160,33 @@
       "insightSource": "qwen"
     },
     {
-      "id": 4,
+      "id": 9,
+      "title": "Is the lower tuition offered by branch campuses enough to attract Indian students?",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/10/is-the-lower-tuition-offered-by-branch-campuses-enough-to-attract-indian-students/",
+      "pubDate": "2026-10-20",
+      "summary": "Since 2020, the Indian government has permitted top-ranked foreign universities to establish branch campuses in India, leading to over 20 such institutions either planning or already operating there. A report by Dr. Rahul Choudaha of DrEducation examines whether the lower tuition fees offered by these branch campuses are sufficient to attract Indian students.",
+      "insight": "The emergence of foreign university branch campuses in India—offering lower tuition and local delivery—may gradually erode demand for full-degree study abroad, particularly among cost-sensitive or risk-averse students, though current enrolment data and long-term brand loyalty to overseas institutions introduce significant uncertainty.  \nAdmissions teams should track enrolment trends at these branches, especially in high-demand fields like engineering and business, while reviewing value propositions—such as post-study work rights, global alumni networks, and experiential learning—to reinforce differentiation beyond tuition alone.",
+      "impact": "Low",
+      "sources": [
+        "India"
+      ],
+      "dests": [],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 6,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 10,
       "title": "Enroly: UK CAS issuance falls 24% as visa refusals jump 44%",
       "source": "The PIE News",
       "color": "#7b341e",
       "url": "https://thepienews.com/enroly-uk-cas-issuance-falls-24-as-visa-refusals-jump-44/",
       "pubDate": "2026-10-23",
       "summary": "UK universities issued 24% fewer Confirmation of Acceptance for Studies (CAS) documents to international students year-on-year, according to new data from Enroly. Visa refusals for international students rose by 44% over the same period.",
-      "insight": "A 24% drop in UK CAS issuances alongside a 44% rise in visa refusals suggests tightening UK visa scrutiny or shifting applicant behaviour—but it’s unclear whether this reflects reduced demand, stricter compliance, or temporary administrative factors affecting international student flows globally.  \nAdmissions teams should monitor UK refusal trends by nationality and course level, assess whether applicants are diversifying applications across destinations, and review pre-application support to ensure documentation rigor aligns with evolving visa expectations.",
+      "insight": "A 24% drop in UK CAS issuances alongside a 44% rise in visa refusals suggests tightening UK visa scrutiny or shifting applicant behaviour—but it’s unclear whether this reflects reduced demand, stricter compliance, or temporary administrative factors affecting student choice across destination countries.  \nAdmissions teams should monitor UK refusal reasons, regional application trends, and competitor messaging to assess potential spillover effects on their own markets, while reviewing pre-application support and documentation guidance for international applicants.",
       "impact": "Low",
       "sources": [],
       "dests": [
