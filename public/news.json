@@ -1,23 +1,21 @@
 {
-  "updated": "2026-10-28T06:26:28Z",
-  "count": 8,
-  "totalFetched": 165,
+  "updated": "2026-10-29T06:37:03Z",
+  "count": 9,
+  "totalFetched": 141,
   "articles": [
     {
       "id": 1,
-      "title": "One test, five markets: What do Australia’s student visa changes mean for South Asian recruitment?",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/10/one-test-five-markets-what-do-australias-student-visa-changes-mean-for-south-asian-recruitment/",
-      "pubDate": "2026-10-21",
-      "summary": "The article discusses recent Australian student visa changes and their implications for international student recruitment from South Asia. It notes that these policy shifts range from causing minor administrative burdens to potentially altering families’ decisions about choosing Australia as a study destination.",
-      "insight": "Australia’s tightened student visa rules for South Asia may dampen short-term enrolment growth there, though the extent depends on how families weigh stricter conditions against Australia’s academic reputation and post-study work prospects—direct demand shifts remain uncertain amid broader regional mobility trends.  \nAdmissions teams should track South Asian application volumes and sentiment indicators (e.g., agent feedback, forum discussions) over the next 6–12 months, while reviewing messaging around visa support, financial transparency, and alternative pathways to ensure clarity without amplifying perceived risk.",
+      "title": "Breaking: UK to extend graduate visa to two years for graduates of “high-compliance universities”",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/breaking-uk-to-extend-graduate-visa-to-two-years-for-graduates-of-high-compliance-universities/",
+      "pubDate": "2026-10-28",
+      "summary": "The UK government announced in its 2026 Budget that the graduate visa will be extended to two years for international students who graduate from universities designated as “high-compliance” and that demonstrate strong labour market outcomes. This policy change applies specifically to graduates of those institutions and is part of the government’s broader immigration and higher education strategy.",
+      "insight": "This policy signals a UK immigration tightening that may modestly dampen demand from risk-averse students in key markets like India and Nigeria, though its impact depends on how many universities gain “high-compliance” status and whether perceived post-study work benefits outweigh stricter eligibility.  \nAdmissions teams should track the official list of designated institutions, monitor competitor UK universities’ compliance efforts, and assess whether this development reinforces or weakens the UK’s appeal relative to Australia’s and Canada’s more predictable graduate work rights.",
       "impact": "Low",
-      "sources": [
-        "South Asia"
-      ],
+      "sources": [],
       "dests": [
-        "Australia"
+        "UK"
       ],
       "translated": false,
       "origLang": null,
@@ -26,18 +24,18 @@
     },
     {
       "id": 2,
-      "title": "Ho Chi Minh City plans public schools with higher English bar than most Vietnamese universities",
+      "title": "US rejects record 1 in 4 South Korean visitor visa applicants, over four times Japan's rate",
       "source": "VnExpress (EN)",
       "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/education/ho-chi-minh-city-plans-public-schools-with-higher-english-bar-than-most-vietnamese-universities-5136147.html",
-      "pubDate": "2026-10-24",
-      "summary": "Ho Chi Minh City plans to establish high-quality public schools requiring students to achieve B1 and B2 English proficiency levels. These requirements match or exceed the English competency standards typically mandated for graduates of most Vietnamese universities.",
-      "insight": "This development signals a potential long-term shift in English proficiency expectations among high-achieving Vietnamese students, possibly increasing demand for rigorous English preparation pathways and raising baseline readiness for Anglophone university study—though direct impact on near-term enrolment remains uncertain.  \nAdmissions teams should monitor local implementation timelines, track whether these schools’ graduates show higher application rates or improved IELTS/TOEFL scores, and assess opportunities to partner with them on pre-university English support or articulation pathways.",
-      "impact": "Low",
-      "sources": [
-        "Southeast Asia"
+      "url": "https://e.vnexpress.net/news/news/us-rejects-record-1-in-4-south-korean-visitor-visa-applicants-over-four-times-japan-s-rate-5137145.html",
+      "pubDate": "2026-10-27",
+      "summary": "The U.S. rejected approximately 25% of South Korean applicants for business and tourist visas in the fiscal year ending September 2025, marking a record high rejection rate. This rate is more than four times the rejection rate for Japanese visa applicants during the same period.",
+      "insight": "While this visa rejection surge reflects tightened U.S. nonimmigrant screening—especially for short-term B1/B2 visas—it doesn’t directly apply to F-1 student visas, though it may indirectly dampen South Korean students’ confidence in U.S. entry reliability or amplify perceptions of broader immigration friction.  \nAdmissions teams should track South Korean application and yield trends closely over the next 1–2 cycles, while also monitoring whether Korean agencies or families begin expressing heightened concerns about U.S. visa predictability versus alternatives like Canada or Australia.",
+      "impact": "High",
+      "sources": [],
+      "dests": [
+        "USA"
       ],
-      "dests": [],
       "translated": false,
       "origLang": null,
       "relevanceScore": 8,
@@ -45,17 +43,19 @@
     },
     {
       "id": 3,
-      "title": "Can the UK achieve its international education strategy ambitions under the current BCA framework?",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/can-the-uk-achieve-its-international-education-strategy-ambitions-under-the-current-bca-framework/",
-      "pubDate": "2026-10-27",
-      "summary": "The article discusses whether the UK can meet its international education strategy goals under the current Border Control Agency (BCA) framework. Stuart Easter, chair of BUILA, examines the recruitment impacts of BCA reform and identifies necessary changes to ensure effective compliance and support for the UK’s broader international education objectives.",
-      "insight": "The UK’s potential recalibration of border controls under the BCA framework could indirectly affect international student recruitment by influencing perceptions of visa reliability, processing speed, and post-study work access—though concrete policy shifts remain unconfirmed and market-specific reactions may vary.  \nAdmissions teams should monitor UK Home Office announcements on student visa reforms, track application and enrolment trends from key source markets like India and Nigeria, and assess whether peer institutions are adjusting outreach or support services in response to emerging compliance concerns.",
+      "title": "Hong Kong semi-private schools admit 20 more non-local students under expansion scheme",
+      "source": "SCMP (Education)",
+      "color": "#7b241c",
+      "url": "https://www.scmp.com/news/hong-kong/education/article/3371675/hong-kong-semi-private-schools-admit-20-more-non-local-students-under-expansion-scheme",
+      "pubDate": "2026-10-21",
+      "summary": "Approximately 20 additional non-local students have been admitted to Hong Kong’s semi-private schools under a government expansion scheme aimed at enhancing the city’s position as an international education hub. These students, holding student visas, are from Thailand, South Korea, Singapore, the United States, and several European countries.",
+      "insight": "Hong Kong’s expansion of non-local student places in semi-private schools may reflect growing regional demand for English-medium, internationally oriented K–12 education—but it does not directly indicate shifting preferences for undergraduate or postgraduate study in traditional Anglophone destinations.  \nAdmissions teams should monitor whether this policy correlates with increased outbound mobility from Southeast Asia and Northeast Asia, particularly tracking visa issuance trends and enrolment patterns among students who later pursue higher education abroad.",
       "impact": "Low",
-      "sources": [],
+      "sources": [
+        "Southeast Asia"
+      ],
       "dests": [
-        "UK"
+        "USA"
       ],
       "translated": false,
       "origLang": null,
@@ -64,18 +64,18 @@
     },
     {
       "id": 4,
-      "title": "China lures global academic talent with high salaries, research funds and exclusive perks",
-      "source": "VnExpress (EN)",
-      "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/china-lures-global-academic-talent-with-high-salaries-research-funds-and-exclusive-perks-5137066.html",
-      "pubDate": "2026-10-27",
-      "summary": "China has established nearly 200 national and provincial talent programs to attract overseas scientists. These programs offer cash bonuses, research grants, tax breaks, and other incentives.",
-      "insight": "China’s aggressive talent recruitment may subtly shift long-term demand for Western postgraduate degrees, as some high-achieving Chinese students weigh domestic opportunities against overseas study—though current undergraduate and master’s applications remain robust and direct impact is still uncertain.  \nAdmissions teams should track enrolment trends among top-tier Chinese STEM graduates, monitor policy updates on China’s talent program eligibility (e.g., degree origin requirements), and assess whether alumni return rates or PhD pipeline decisions show early signs of recalibration.",
+      "title": "UK unis to take £1,010m hit over international student levy",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/uk-unis-to-take-1010m-hit-over-international-student-levy/",
+      "pubDate": "2026-10-28",
+      "summary": "The UK government’s new levy on international student fees is projected to cost universities £1,010 million in total. A revised government impact assessment shows this figure is £110 million higher than previously anticipated.",
+      "insight": "This levy signals potential financial pressure on UK universities, possibly leading to reduced marketing budgets, fewer scholarships, or tighter admission criteria for international students—though its direct impact on enrolment demand remains uncertain amid broader geopolitical and economic factors.  \nAdmissions teams should monitor UK competitor institutions’ fee structures, scholarship offerings, and recruitment messaging, while assessing whether source markets perceive the levy as a signal of diminished value or increased barriers relative to peer destinations.",
       "impact": "Low",
-      "sources": [
-        "China"
+      "sources": [],
+      "dests": [
+        "UK"
       ],
-      "dests": [],
       "translated": false,
       "origLang": null,
       "relevanceScore": 8,
@@ -83,17 +83,17 @@
     },
     {
       "id": 5,
-      "title": "ICEF Podcast: How is the sector responding to ELT school closures and what happens next?",
+      "title": "Analysis predicts only moderate university fee increases for international students in Australia for 2027",
       "source": "ICEF Monitor",
       "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/10/icef-podcast-how-is-the-sector-responding-to-elt-school-closures-and-what-happens-next/",
-      "pubDate": "2026-10-21",
-      "summary": "In September, two major English language schools closed abruptly: EC English Language Centres ceased trading on 14 September, affecting approximately 1,500 students across 24 schools in seven destinations, and ILAC filed for bankruptcy on 18 September, disrupting the studies of nearly 1,400 students in Toronto and Vancouver. The ICEF Podcast discusses the sector’s response to these closures and explores what comes next for affected students and institutions.",
-      "insight": "These sudden ELT school closures may signal heightened financial and regulatory vulnerability in the private language training sector, potentially shifting some student demand toward degree pathways—but it remains unclear whether this will meaningfully increase applications to universities or simply accelerate existing trends toward integrated foundation programs.  \nAdmissions teams should monitor regional sentiment shifts among agents and students in key markets like China, Brazil, and Vietnam, and assess whether their foundation or pathway partners have strengthened financial safeguards or student protection mechanisms in response to recent instability.",
-      "impact": "Low",
+      "url": "https://monitor.icef.com/2026/10/analysis-predicts-only-moderate-university-fee-increases-for-international-students-in-australia-for-2027/",
+      "pubDate": "2026-10-28",
+      "summary": "An analysis predicts only moderate tuition fee increases for international students at Australian universities in 2027. This comes amid policy instability, including the Australian government’s July 2026 decision to raise the non-refundable study visa application fee to over AU$2,000 and high visa refusal rates for some countries.",
+      "insight": "Moderate 2027 tuition increases in Australia may ease cost-related concerns for some international students, though their impact on demand remains uncertain amid concurrent visa tightening—such as the July 2026 application fee hike and elevated refusal rates—which could dampen overall appeal relative to more stable destinations.  \nAdmissions teams should track Australian enrolment data by origin country and visa outcomes over 2024–2025, while benchmarking their own fee policies and support services against Australia’s evolving value proposition—noting that sentiment shifts may lag policy changes by 12–18 months.",
+      "impact": "Medium",
       "sources": [],
       "dests": [
-        "Canada"
+        "Australia"
       ],
       "translated": false,
       "origLang": null,
@@ -102,39 +102,37 @@
     },
     {
       "id": 6,
-      "title": "RMIT, partners convene over 550 experts to discuss youth wellbeing",
-      "source": "VnExpress (EN)",
-      "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/education/rmit-partners-convene-over-550-experts-to-discuss-youth-wellbeing-5135461.html",
-      "pubDate": "2026-10-26",
-      "summary": "Over 550 educators, mental health professionals, social workers, and medical practitioners from Vietnam and abroad attended the Vietnam Wellbeing & Safeguarding Summit 2026. The summit was convened by RMIT University and its partners to discuss support for children and young people.",
-      "insight": "This summit signals growing regional prioritisation of youth mental health and safeguarding, potentially influencing Southeast Asian families’ university choices as they weigh institutional support systems alongside academic reputation—though direct impacts on enrolment demand remain unproven.  \nAdmissions teams should track whether Vietnamese and broader Southeast Asian governments link student visa approvals or scholarship eligibility to verified wellbeing frameworks, and assess if peer institutions begin highlighting pastoral care infrastructure in recruitment messaging.",
+      "title": "The attraction of studying abroad in China",
+      "source": "VnExpress (Giáo dục)",
+      "color": "#b94500",
+      "url": "https://vnexpress.net/suc-hut-cua-du-hoc-trung-quoc-5102847.html",
+      "pubDate": "2026-10-25",
+      "summary": "China attracts international students due to low tuition fees, numerous scholarship opportunities, and the strong rise of its universities in global rankings. These factors collectively position China as a magnet for study abroad.",
+      "insight": "China’s growing appeal—driven by affordability, scholarships, and rising university rankings—may modestly pressure Western institutions in price-sensitive markets, though direct substitution remains limited by language, discipline fit, and long-standing brand equity.  \nAdmissions teams should track application trends from Southeast Asia and Africa for shifts toward China, while reviewing their own scholarship competitiveness and articulating distinct academic/career advantages beyond cost alone.",
       "impact": "Low",
       "sources": [
-        "Southeast Asia"
+        "China"
       ],
       "dests": [],
-      "translated": false,
-      "origLang": null,
+      "translated": true,
+      "origLang": "vi",
       "relevanceScore": 7,
       "insightSource": "qwen"
     },
     {
       "id": 7,
-      "title": "Too big to brake: why Bangladesh and Pakistan escaped the visa brake, and what comes next",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/too-big-to-brake-why-bangladesh-and-pakistan-escaped-the-visa-brake-and-what-comes-next/",
-      "pubDate": "2026-10-26",
-      "summary": "A UK High Court judgment revealed that Bangladesh and Pakistan narrowly avoided being included in the UK Home Office’s study visa restrictions targeting certain international student sending countries. Universities now face new compliance requirements and must manage these two large student markets independently, while potential further policy changes remain possible.",
-      "insight": "This UK policy development signals potential volatility in South Asian student mobility, as near-inclusion of Bangladesh and Pakistan in visa restrictions may heighten regional perceptions of UK study barriers—though actual demand shifts remain uncertain without broader data on application trends or alternative destination choices.  \nAdmissions teams should track UK visa refusal rates, student survey sentiment from these countries, and any Home Office announcements on compliance audits or future restrictions—while maintaining proactive outreach to reassure prospective students about institutional support and visa guidance.",
-      "impact": "High",
+      "title": "Is the lower tuition offered by branch campuses enough to attract Indian students?",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/10/is-the-lower-tuition-offered-by-branch-campuses-enough-to-attract-indian-students/",
+      "pubDate": "2026-10-20",
+      "summary": "Since 2020, the Indian government has permitted top-ranked foreign universities to establish branch campuses in India, leading to over 20 such institutions either planning or already operating there. A report by Dr. Rahul Choudaha of DrEducation examines whether the lower tuition fees offered by these branch campuses are sufficient to attract Indian students.",
+      "insight": "The emergence of foreign university branch campuses in India—offering lower tuition and local delivery—may gradually erode demand for full-degree study abroad, particularly among cost-sensitive or risk-averse students, though current enrolment data and long-term brand loyalty to overseas institutions introduce significant uncertainty.  \nAdmissions teams should track enrolment trends at these branches, especially in high-demand fields like engineering and business, while reviewing value propositions—such as post-study work rights, global alumni networks, and research opportunities—to reinforce differentiation beyond tuition alone.",
+      "impact": "Low",
       "sources": [
-        "South Asia"
+        "India"
       ],
-      "dests": [
-        "UK"
-      ],
+      "dests": [],
       "translated": false,
       "origLang": null,
       "relevanceScore": 6,
@@ -142,17 +140,38 @@
     },
     {
       "id": 8,
-      "title": "Proposed new OPT fee would decimate the international talent pipeline",
+      "title": "AIEC at 40: Australian international education looks to its next chapter",
       "source": "The PIE News",
       "color": "#7b341e",
-      "url": "https://thepienews.com/the-trump-administrations-proposed-new-opt-fee-would-decimate-the-international-talent-pipeline/",
-      "pubDate": "2026-10-26",
-      "summary": "Zuzana Čeplá Wootson, deputy director of federal policy at the Presidents’ Alliance on Higher Education and Immigration, argues that the proposed new Optional Practical Training (OPT) fee would harm international students, U.S. employers, and American competitiveness. The article was published by The PIE News.",
-      "insight": "The proposed OPT fee increase may dampen U.S. appeal for international students—especially in STEM—by raising post-study work costs, potentially shifting demand toward countries with more predictable or affordable graduate employment pathways, though actual enrolment impact depends on final policy and student risk tolerance.  \nAdmissions teams should track U.S. regulatory developments closely, benchmark competitor messaging on post-study work support, and prepare clear, updated guidance for applicants—particularly from high-volume markets like India and China—on evolving U.S. work-authorization realities.",
+      "url": "https://thepienews.com/aiec-at-40-australian-international-education-looks-to-its-next-chapter/",
+      "pubDate": "2026-10-27",
+      "summary": "International education leaders convened in Sydney for the 40th Australian International Education Conference (AIEC). The conference addressed policy uncertainty, evolving student mobility patterns, and the impact of artificial intelligence on the sector.",
+      "insight": "The AIEC’s focus on policy uncertainty and shifting mobility patterns signals potential recalibration in Australia’s international education strategy, which could indirectly influence student demand for Anglophone destinations as applicants reassess destination preferences amid global geopolitical and economic volatility.  \nAdmissions teams should monitor Australian visa processing timelines, scholarship adjustments, and messaging around AI-integrated learning—these may foreshadow broader sectoral shifts in value proposition, compliance expectations, or competitive positioning across the US, UK, NZ, and Australia.",
       "impact": "Low",
       "sources": [],
       "dests": [
-        "USA"
+        "Australia"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 6,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 9,
+      "title": "Over 40 studies explore digital and green transformation at BUV international conference",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/education/over-40-studies-explore-digital-and-green-transformation-at-buv-international-conference-5137452.html",
+      "pubDate": "2026-10-28",
+      "summary": "British University Vietnam hosted an international conference featuring 43 research presentations on topics including AI, ESG reporting, and sustainable business. The event attracted more than 120 delegates from eight countries.",
+      "insight": "This news signals growing academic and institutional focus on digital and green transitions across Southeast Asia, potentially shaping student interest in sustainability- and tech-integrated programmes—though direct evidence of shifting enrolment demand remains emergent and geographically uneven.  \nAdmissions teams should monitor whether regional universities’ increased research activity in AI and ESG correlates with rising undergraduate/postgraduate applications in related fields, and assess if partnerships or curriculum articulation with institutions like BUV could strengthen credibility in sustainability-focused recruitment.",
+      "impact": "Low",
+      "sources": [
+        "Southeast Asia"
+      ],
+      "dests": [
+        "UK"
       ],
       "translated": false,
       "origLang": null,
