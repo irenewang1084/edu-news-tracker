@@ -1,19 +1,40 @@
 {
-  "updated": "2026-11-02T06:58:18Z",
-  "count": 6,
+  "updated": "2026-11-03T07:21:31Z",
+  "count": 8,
   "totalFetched": 159,
   "articles": [
     {
       "id": 1,
-      "title": "Australia consults on student visa overhaul as refusals hit key markets",
+      "title": "UK to raise HPI visa cap as eligibility expands to top 150 universities",
       "source": "The PIE News",
       "color": "#7b341e",
-      "url": "https://thepienews.com/australia-consults-on-student-visa-overhaul-as-refusals-hit-key-markets/",
-      "pubDate": "2026-10-30",
-      "summary": "Australia is consulting on an overhaul of its student visa system, proposing revisions to the Genuine Student requirement and financial-capacity rules. These changes include the potential introduction of mandatory Australian bank accounts and stricter evidence requirements for certain international student applicants, following a rise in visa refusals in key markets.",
-      "insight": "Australia’s proposed student visa reforms—tightening financial proof and Genuine Student criteria—may dampen short-term demand from risk-averse applicants in high-refusal markets, though broader global demand trends and competing destinations’ policies remain stronger determinants of enrolment shifts.  \nAdmissions teams should track Australia’s final policy details, refusal rate trends by country, and real-time sentiment in key source markets—particularly if peers report increased student inquiries about alternative destinations or visa complexity concerns.",
-      "impact": "Low",
+      "url": "https://thepienews.com/uk-to-raise-hpi-visa-cap-as-eligibility-expands-to-top-150-universities/",
+      "pubDate": "2026-11-02",
+      "summary": "The UK government has announced a proportional increase in the annual cap on High Potential Individual (HPI) visa applications. Eligibility for the HPI visa is expanding to include graduates from the world’s top 150 universities.",
+      "insight": "This policy shift signals potential upward pressure on UK demand from high-achieving students in key source markets, though actual enrolment impact depends on factors like competing destinations’ visa policies and perceived post-study work value—making direct causal links to application volume uncertain.  \nAdmissions teams should monitor UK HPI application trends by region and university tier, assess how their institution’s global rankings align with the expanded list, and review messaging around UK post-study pathways in light of evolving comparative advantages.",
+      "impact": "High",
       "sources": [],
+      "dests": [
+        "UK"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 9,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 2,
+      "title": "One test, five markets: What do Australia’s student visa changes mean for South Asian recruitment?",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/10/one-test-five-markets-what-do-australias-student-visa-changes-mean-for-south-asian-recruitment/",
+      "pubDate": "2026-10-21",
+      "summary": "The article discusses recent Australian student visa changes and their implications for international student recruitment from South Asia. It notes that these policy shifts range from minor administrative adjustments to major decisions that could influence families’ choices about studying in Australia.",
+      "insight": "Australia’s tightened student visa rules for South Asia may indirectly affect global recruitment by reshaping perceptions of English-speaking destinations, though direct spillover to US/UK/NZ demand remains uncertain amid differing policy contexts and student priorities.  \nAdmissions teams should track South Asian application trends and sentiment shifts in key feeder countries, while reviewing messaging around visa reliability and post-study outcomes—not as an immediate crisis, but as part of ongoing market responsiveness.",
+      "impact": "Low",
+      "sources": [
+        "South Asia"
+      ],
       "dests": [
         "Australia"
       ],
@@ -23,78 +44,57 @@
       "insightSource": "qwen"
     },
     {
-      "id": 2,
-      "title": "Hong Kong semi-private schools admit 20 more non-local students under expansion scheme",
-      "source": "SCMP (Education)",
-      "color": "#7b241c",
-      "url": "https://www.scmp.com/news/hong-kong/education/article/3371675/hong-kong-semi-private-schools-admit-20-more-non-local-students-under-expansion-scheme",
-      "pubDate": "2026-10-21",
-      "summary": "Approximately 20 additional non-local students have been admitted to Hong Kong’s semi-private schools under a government expansion scheme aimed at enhancing the city’s position as an international education hub. These students, holding student visas, are from Thailand, South Korea, Singapore, the United States, and several European countries.",
-      "insight": "Hong Kong’s expansion of non-local student places in semi-private schools may reflect growing regional demand for English-medium, internationally aligned K–12 education—but it does not directly indicate shifting preferences for undergraduate or postgraduate study in Anglophone destinations.  \nAdmissions teams should monitor whether this policy correlates with increased outbound mobility from Southeast Asia and East Asia over the next 2–3 years, particularly among families previously considering Hong Kong as a stepping stone to Western universities.",
-      "impact": "Low",
-      "sources": [
-        "Southeast Asia"
-      ],
-      "dests": [
-        "USA"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
       "id": 3,
-      "title": "52-year-old Korean executive learns Vietnamese to earn master's degree",
+      "title": "UK to hike proof-of-funds requirement for international students from Nov 30",
       "source": "VnExpress (EN)",
       "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/education/52-year-old-korean-executive-learns-vietnamese-to-earn-master-s-degree-5138244.html",
-      "pubDate": "2026-10-29",
-      "summary": "Choi Chang Young, a 52-year-old Korean executive with two bachelor's degrees from South Korea, is learning Vietnamese. He is doing so to pursue a master's degree in business administration in Vietnam.",
-      "insight": "This story reflects growing interest in non-traditional study destinations among mature, highly qualified professionals from East Asia—potentially indicating shifting preferences away from Western countries, though it remains unclear whether this signals broader regional demand or isolated academic ambition.  \nAdmissions teams should monitor enrolment trends among mid-career Asian professionals, especially those with multiple prior degrees, and assess whether enhanced flexible pathways (e.g., credit recognition, part-time options) could better compete with emerging ASEAN graduate offerings.",
+      "url": "https://e.vnexpress.net/news/news/education/uk-to-hike-proof-of-funds-requirement-for-international-students-from-nov-30-5139725.html",
+      "pubDate": "2026-11-03",
+      "summary": "The UK will raise the minimum proof-of-funds requirement for international student visa applications starting 30 November. The maximum required maintenance amount will increase by £369 (US$493).",
+      "insight": "This policy shift signals tightening UK visa affordability, potentially dampening demand from cost-sensitive markets—though actual enrolment impact depends on concurrent factors like exchange rates, scholarship availability, and competing destinations’ pricing.  \nAdmissions teams should track application volume trends from key UK feeder countries post-November, while reviewing their own financial support messaging and comparing net cost competitiveness against peer institutions in the US, Australia, and New Zealand.",
       "impact": "Low",
-      "sources": [
-        "Southeast Asia"
+      "sources": [],
+      "dests": [
+        "UK"
       ],
-      "dests": [],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 7,
+      "relevanceScore": 9,
       "insightSource": "qwen"
     },
     {
       "id": 4,
-      "title": "Duolingo Launches Shanghainese Lessons, Its 2nd Chinese Dialect",
-      "source": "Sixth Tone",
-      "color": "#922b21",
-      "url": "https://www.sixthtone.com/news/1019133/Duolingo Launches Shanghainese Lessons, Its 2nd Chinese Dialect",
-      "pubDate": "2026-11-02",
-      "summary": "Duolingo has launched Shanghainese lessons, marking its second Chinese dialect offering after Cantonese. The creators stated their goal is to make dialects “cool” and help preserve local language and culture.",
-      "insight": "Duolingo’s Shanghainese launch reflects growing global interest in regional Chinese linguistic and cultural identities, potentially signalling heightened diaspora engagement and nuanced language pride among prospective students from China—though direct impact on enrolment decisions remains uncertain and likely indirect.  \nAdmissions teams should monitor whether this cultural momentum correlates with increased student interest in heritage-focused programming or community-building initiatives, and consider how campus support for multilingual identities might strengthen appeal to Shanghai- and Cantonese-speaking applicants.",
+      "title": "Increase exchange of lecturers and students between Hanoi National University and Thanh Hoa",
+      "source": "VnExpress (Giáo dục)",
+      "color": "#b94500",
+      "url": "https://vnexpress.net/tang-trao-doi-giang-vien-sinh-vien-giua-dai-hoc-quoc-gia-ha-noi-va-thanh-hoa-5140135.html",
+      "pubDate": "2026-11-03",
+      "summary": "Hanoi National University and Thanh Hoa Province in Vietnam—not China—have been directed by Vietnam’s Deputy Prime Minister to strengthen academic collaboration. The directive specifically calls for establishing joint research groups and increasing the exchange of lecturers and students between the two entities.",
+      "insight": "This news reflects Vietnam’s domestic higher education policy prioritisation, which may indirectly influence outbound student demand if enhanced local opportunities reduce the perceived necessity of studying abroad—though current data does not confirm a shift in Vietnamese student mobility trends toward Western destinations.  \nAdmissions teams should monitor Vietnamese government scholarship announcements, enrolment patterns at Hanoi National University and provincial universities, and agent-reported sentiment on study-abroad preferences—particularly among high-achieving students from Thanh Hoa and similar regions—over the next 12–18 months.",
       "impact": "Medium",
       "sources": [
         "China"
       ],
       "dests": [],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 6,
+      "translated": true,
+      "origLang": "vi",
+      "relevanceScore": 7,
       "insightSource": "qwen"
     },
     {
       "id": 5,
-      "title": "Is the lower tuition offered by branch campuses enough to attract Indian students?",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/10/is-the-lower-tuition-offered-by-branch-campuses-enough-to-attract-indian-students/",
-      "pubDate": "2026-10-20",
-      "summary": "Since 2020, the Indian government has permitted top-ranked foreign universities to establish branch campuses in India, leading to over 20 such institutions either planning or already operating there. A report by Dr. Rahul Choudaha of DrEducation examines whether the lower tuition fees offered by these branch campuses are sufficient to attract Indian students.",
-      "insight": "The emergence of foreign university branch campuses in India—offering lower tuition and local delivery—may gradually erode demand for full-degree study abroad, particularly among cost-sensitive or risk-averse students, though current enrolment data and long-term brand loyalty to overseas institutions remain uncertain.  \nAdmissions teams should track enrolment trends at these branches, especially in high-demand fields like engineering and business, while reviewing value propositions—such as post-study work rights, global alumni networks, and research opportunities—that still differentiate full overseas degrees.",
-      "impact": "Low",
-      "sources": [
-        "India"
+      "title": "New Zealand student experience hits record high, but work opportunities lag",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/new-zealand-student-experience-hits-record-high-but-work-opportunities-lag/",
+      "pubDate": "2026-11-02",
+      "summary": "International student satisfaction in New Zealand has reached its highest level since national surveying began. However, students continue to report difficulties finding work while studying.",
+      "insight": "New Zealand’s record-high student satisfaction signals growing appeal as a study destination, potentially intensifying competition for students from key Asian and Pacific markets—though it remains unclear whether this reflects broader regional sentiment shifts or NZ-specific policy improvements.  \nAdmissions teams should track NZ’s post-study work visa reforms and employer engagement initiatives, while benchmarking their own career support offerings, since work-integrated learning is increasingly decisive in student destination choice.",
+      "impact": "High",
+      "sources": [],
+      "dests": [
+        "New Zealand"
       ],
-      "dests": [],
       "translated": false,
       "origLang": null,
       "relevanceScore": 6,
@@ -102,20 +102,59 @@
     },
     {
       "id": 6,
-      "title": "New Zealand's former PM, Jacinda Ardern, to teach leadership at Sydney university",
-      "source": "VnExpress (EN)",
-      "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/education/new-zealand-s-former-pm-jacinda-ardern-to-teach-leadership-at-sydney-university-5138278.html",
+      "title": "Brazil’s study abroad ambitions widen, but information gap holds back demand",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/brazils-study-abroad-ambitions-widen-but-information-gap-holds-back-demand/",
       "pubDate": "2026-10-29",
-      "summary": "Jacinda Ardern, former Prime Minister of New Zealand, has been appointed to teach at the University of Sydney. She will instruct students on empathetic leadership as part of her new role.",
-      "insight": "This appointment signals growing global interest in leadership education rooted in empathy and social responsibility, potentially resonating with international students seeking purpose-driven programmes—though direct impact on enrolment demand remains unproven and likely varies by source market and discipline.  \nAdmissions teams should monitor student inquiries and application trends for leadership, public policy, and social sciences programmes at Australian institutions, while assessing whether high-profile academic appointments like Ardern’s are cited in recruitment conversations or agent feedback.",
+      "summary": "Brazil’s outbound student market is being reshaped by growing interest in studying in Europe, expanding bilingual schooling options, and increasing demand for shorter overseas study experiences. However, an information gap is hindering broader demand for study abroad opportunities.",
+      "insight": "Brazil’s growing interest in European study destinations and shorter overseas programs may signal softening demand for traditional Anglophone destinations, though it remains unclear whether this reflects substitution or portfolio diversification among Brazilian students.  \nAdmissions teams should monitor shifts in Brazilian student application volumes by destination and program length, while assessing whether enhanced digital outreach and partnerships with bilingual schools could help bridge local information gaps.",
       "impact": "Low",
-      "sources": [],
-      "dests": [
-        "New Zealand"
+      "sources": [
+        "Latin America"
       ],
+      "dests": [],
       "translated": false,
       "origLang": null,
+      "relevanceScore": 6,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 7,
+      "title": "Moroccan student's journey from knowing only the local words for 'hello' to becoming Vietnam's top maritime navigation graduate",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/education/moroccan-student-s-journey-from-knowing-only-the-local-words-for-hello-to-becoming-vietnam-s-top-maritime-navigation-graduate-5138307.html",
+      "pubDate": "2026-10-31",
+      "summary": "A Moroccan woman dropped out of medical school in France and experienced seven months of isolation due to depression before deciding to study in Vietnam. She subsequently graduated as the top student in maritime navigation.",
+      "insight": "This story hints at evolving student mobility patterns, where non-traditional pathways—like shifting from medicine to maritime studies across continents—may reflect growing openness to niche, skills-aligned programs in emerging education hubs, though it remains unclear if this signals broad regional demand shifts or isolated resilience narratives.  \nAdmissions teams should monitor enrolment trends in technical and vocational disciplines among MENA students, particularly those with prior STEM exposure, while assessing how mental health support and pathway flexibility feature in decision-making for high-potential but academically disrupted applicants.",
+      "impact": "Low",
+      "sources": [
+        "Southeast Asia",
+        "MENA"
+      ],
+      "dests": [],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 6,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 8,
+      "title": "The Dak Lak boy is an associate professor of mathematics at the 'cradle' of space science in China",
+      "source": "VnExpress (Giáo dục)",
+      "color": "#b94500",
+      "url": "https://vnexpress.net/doan-an-khuong-lam-toan-nhu-dong-nuoc-chay-5131047.html",
+      "pubDate": "2026-11-03",
+      "summary": "Doan An Khuong, a man from Dak Lak Province in Vietnam, became an associate professor of mathematics at the University of Science and Technology of China—the institution often referred to as the “cradle” of space science in China. He achieved this position despite initially considering abandoning his research path to return home to teach mathematics, succeeding through work conducted during his spare time.",
+      "insight": "This story highlights growing academic mobility from Vietnam to elite Chinese STEM institutions, potentially reflecting shifting perceptions of China as a competitive alternative to Western destinations—though it remains unclear whether this signals broader demand shifts or isolated high-achiever pathways.  \nAdmissions teams should monitor Vietnamese student application trends to China versus traditional Anglophone countries, and assess whether local partnerships or alumni narratives could help contextualise evolving destination preferences without assuming immediate market displacement.",
+      "impact": "Low",
+      "sources": [
+        "China"
+      ],
+      "dests": [],
+      "translated": true,
+      "origLang": "vi",
       "relevanceScore": 6,
       "insightSource": "qwen"
     }
