@@ -1,23 +1,21 @@
 {
-  "updated": "2026-11-04T07:03:56Z",
-  "count": 7,
-  "totalFetched": 160,
+  "updated": "2026-11-05T07:30:51Z",
+  "count": 9,
+  "totalFetched": 167,
   "articles": [
     {
       "id": 1,
-      "title": "English UK spearheads effort to strengthen protections for language students affected by school closures",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/11/english-uk-spearheads-effort-to-strengthen-protections-for-language-students-affected-by-school-closures/",
-      "pubDate": "2026-11-03",
-      "summary": "English UK is leading an initiative to enhance protections for language students impacted by school closures. Recent closures have occurred across Ireland, the UK, Canada, the US, Australia, and Malta, straining partnerships between language schools and education agents.",
-      "insight": "This news signals potential volatility in the language pathway sector, which may indirectly affect demand for foundation and undergraduate programmes—particularly among students from regions reliant on private language schools as entry points, though direct impacts on university recruitment remain uncertain pending further closures or policy shifts.  \nAdmissions teams should monitor agent partnerships and student origin countries where language school closures are concentrated, while reviewing how their foundation programme messaging addresses pathway security and visa compliance to reassure prospective applicants amid growing sectoral uncertainty.",
-      "impact": "Low",
+      "title": "New HEPI paper says the Home Office must share responsibility for international students with other Departments if the Government is to hit its own target for educational exports",
+      "source": "HEPI",
+      "color": "#4a235a",
+      "url": "https://www.hepi.ac.uk/2026/11/05/new-policy-note-one-sector-two-regulators/",
+      "pubDate": "2026-11-05",
+      "summary": "A new HEPI Policy Note argues that the Home Office must share responsibility for international students with other government departments to achieve the UK Government’s target for educational exports. The paper highlights growing political scrutiny of international students within broader immigration debates.",
+      "insight": "This news signals potential policy recalibration in the UK, where heightened Home Office involvement in international student oversight could lead to tighter visa scrutiny or administrative delays—though actual changes remain uncertain and dependent on interdepartmental coordination and political priorities.  \nAdmissions teams should monitor UKVI processing times, appeals data, and official guidance updates, while reviewing messaging to source markets to proactively address perceptions of visa complexity or unwelcoming policy signals.",
+      "impact": "Medium",
       "sources": [],
       "dests": [
-        "UK",
-        "Canada",
-        "Australia"
+        "UK"
       ],
       "translated": false,
       "origLang": null,
@@ -26,42 +24,40 @@
     },
     {
       "id": 2,
-      "title": "Canada-EU alliance to expand opportunities for students",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/canada-eu-alliance-to-expand-opportunities-for-students/",
+      "title": "‘Treated differently’: foreign students in India confront everyday discrimination",
+      "source": "The Hindu (Edu)",
+      "color": "#145a32",
+      "url": "https://www.thehindu.com/education/treated-differently-foreign-students-in-india-confront-everyday-discrimination/article71660298.ece",
       "pubDate": "2026-11-03",
-      "summary": "Canada and the European Union have announced a new alliance aimed at expanding opportunities for students in both regions. The initiative is intended to strengthen academic ties between Canada and EU member states.",
-      "insight": "This Canada-EU student alliance may indirectly influence global student mobility by reinforcing perceptions of North America and Europe as collaborative, high-quality academic blocs—though its direct impact on demand for US, UK, AU, or NZ study remains uncertain without evidence of spillover effects or policy alignment.  \nAdmissions teams should monitor whether participating Canadian and EU institutions report increased application volumes from shared source markets, and assess if their own bilateral partnerships or scholarship offerings need refreshing to maintain competitive appeal amid evolving transregional academic cooperation.",
-      "impact": "Low",
-      "sources": [],
-      "dests": [
-        "Canada"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 7,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 3,
-      "title": "Four UK universities to hold joint placement drive for 250-plus postgraduate students in India, recruitment to begin in November",
-      "source": "Times of India (Edu)",
-      "color": "#d4820a",
-      "url": "https://timesofindia.indiatimes.com/education/news/four-uk-universities-to-hold-joint-placement-drive-for-250-plus-postgraduate-students-in-india-recruitment-to-begin-in-november/articleshow/135495328.cms",
-      "pubDate": "2026-11-03",
-      "summary": "Four UK universities with campuses in India will jointly hold a placement drive for more than 250 postgraduate students graduating in 2027. The event, convened by Emeritus in November 2026, will connect employers with candidates in finance, technology, AI, management, and creative industries to conduct interviews and extend job offers before graduation.",
-      "insight": "This joint UK university placement drive signals growing employer demand for pre-graduation hiring of Indian postgraduates, potentially reflecting stronger industry–academia alignment in India and modestly reinforcing perceptions of UK degrees as career-accelerating—though it doesn’t directly indicate shifting enrolment preferences across all markets or visa policy changes.  \nAdmissions teams should monitor whether similar early-placement initiatives emerge for students from India targeting US, Australian, or NZ institutions, and assess if their own industry partnerships and on-campus recruitment infrastructure support comparable pre-graduation employer engagement—particularly in high-demand sectors like AI and finance.",
+      "summary": "International students in India report experiencing everyday discrimination, including being stereotyped as drug users based on their skin colour. They also face unequal treatment at university gates and other settings outside the classroom.",
+      "insight": "This news may indirectly influence student demand from regions where India is a key competitor for outbound students—such as Nigeria, Bangladesh, or Nepal—as prospective applicants weigh perceptions of racial safety and inclusion across destination countries. While not yet evidence of a broad trend, it adds context to growing global scrutiny of campus climate and everyday equity.  \nAdmissions teams should monitor social media sentiment and agent feedback from priority source markets for shifts in concerns about racial microaggressions or gate-level discrimination, particularly among students from Africa and South Asia, and consider how their own institutional inclusion metrics compare.",
       "impact": "Low",
       "sources": [
         "India"
       ],
+      "dests": [],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 3,
+      "title": "The graduate visa U-turn: are we rewarding outcomes or reinforcing old hierarchies?",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/the-graduate-visa-u-turn-are-we-rewarding-outcomes-or-reinforcing-old-hierarchies/",
+      "pubDate": "2026-11-04",
+      "summary": "The article discusses the UK government’s reversal on the Graduate Route visa policy and questions whether the change risks reinforcing existing university hierarchies. Diana Beech argues that graduate outcomes should be assessed using metrics beyond institutional prestige and geographic location.",
+      "insight": "The UK’s Graduate Route U-turn may dampen appeal for international students weighing post-study work options, particularly those from regions prioritising employability and visa certainty—though demand shifts will depend on how consistently the policy is applied and whether alternatives like skilled worker routes expand.  \nAdmissions teams should track application trends from key source markets (e.g., India, Nigeria, China) alongside Home Office guidance updates, and assess whether their institution’s graduate employment support and regional partnerships can offset perceived visa instability.",
+      "impact": "Low",
+      "sources": [],
       "dests": [
         "UK"
       ],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 7,
+      "relevanceScore": 8,
       "insightSource": "qwen"
     },
     {
@@ -72,7 +68,7 @@
       "url": "https://thepienews.com/uk-to-raise-hpi-visa-cap-as-eligibility-expands-to-top-150-universities/",
       "pubDate": "2026-11-02",
       "summary": "The UK government has announced a proportional increase in the annual cap on High Potential Individual (HPI) visa applications. Eligibility for the HPI visa is expanding to include graduates from the world’s top 150 universities.",
-      "insight": "The UK’s expansion of HPI visa eligibility to top 150 global universities—coupled with a proportional cap increase—may modestly boost demand for UK study among high-achieving students from competitive source markets, though actual enrolment impact depends on broader factors like cost, post-study work appeal, and regional perceptions of stability.  \nAdmissions teams should track application trends from HPI-eligible institutions, assess how their own university rankings align with the updated list, and review messaging around UK post-study pathways—particularly if they recruit students who might now view the UK as a more viable alternative to other English-speaking destinations.",
+      "insight": "The UK’s expansion of HPI visa eligibility to top 150 global universities—alongside a proportional cap increase—may modestly boost demand for UK study among high-achieving students from competitive source markets, though actual enrolment impact depends on broader factors like cost, post-study work appeal, and regional perceptions of stability.  \nAdmissions teams should track application trends from HPI-eligible institutions, assess how their own university rankings align with the updated list, and review messaging around graduate outcomes—particularly in light of evolving visa pathways across destination countries.",
       "impact": "High",
       "sources": [],
       "dests": [
@@ -80,21 +76,78 @@
       ],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 6,
+      "relevanceScore": 7,
       "insightSource": "qwen"
     },
     {
       "id": 5,
-      "title": "Vietnam has record 33 universities in 2027 QS Asian rankings, despite widespread declines",
-      "source": "VnExpress (EN)",
-      "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/education/vietnam-has-record-33-universities-in-2027-qs-asian-rankings-despite-widespread-declines-5140426.html",
-      "pubDate": "2026-11-04",
-      "summary": "Vietnam has a record 33 universities featured in the 2027 QS Asian University Rankings, an increase of eight from the previous year. However, most of the Vietnamese universities that were ranked in the prior edition experienced declines in their positions.",
-      "insight": "Vietnam’s record number of universities in the 2027 QS Asian Rankings—despite widespread positional declines—may reflect growing domestic capacity and ambition in higher education, potentially tempering outbound student growth if local options gain perceived quality traction, though demand for Western degrees remains strong among high-achievers and affluent families.  \nAdmissions teams should monitor Vietnamese enrolment trends by institution tier and discipline, track scholarship uptake versus regional competitors, and assess whether rising domestic rankings correlate with shifts in application volumes or agent sentiment—particularly for STEM and business programmes where competition is fiercest.",
-      "impact": "High",
+      "title": "33 Vietnamese universities entered the 2027 Asian rankings",
+      "source": "VnExpress (Giáo dục)",
+      "color": "#b94500",
+      "url": "https://vnexpress.net/33-dai-hoc-viet-nam-vao-bang-xep-hang-chau-a-2027-5140159.html",
+      "pubDate": "2026-11-03",
+      "summary": "Vietnam has 33 universities featured in the QS Asian University Rankings for 2027, marking the highest number of Vietnamese institutions included in the ranking to date. However, the majority of these 33 universities experienced a decline in their individual rankings compared to previous editions.",
+      "insight": "This news suggests growing institutional capacity and visibility in Vietnam’s higher education sector, which may gradually influence student perceptions of domestic alternatives—though direct impacts on outbound demand to English-speaking countries remain uncertain without concurrent data on application trends or visa outcomes.  \nAdmissions teams should monitor Vietnamese student application volumes, scholarship uptake, and post-study work policy changes in both Vietnam and destination countries, while assessing whether rising domestic rankings correlate with shifts in enrolment preferences for specific disciplines or degree levels.",
+      "impact": "Low",
       "sources": [
         "Southeast Asia"
+      ],
+      "dests": [],
+      "translated": true,
+      "origLang": "vi",
+      "relevanceScore": 7,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 6,
+      "title": "10 best universities in Asia in 2027",
+      "source": "VnExpress (Giáo dục)",
+      "color": "#b94500",
+      "url": "https://vnexpress.net/10-dai-hoc-tot-nhat-chau-a-nam-2027-5140438.html",
+      "pubDate": "2026-11-04",
+      "summary": "The article states that Hong Kong Special Administrative Region (China) has five universities ranked in the top 10 of QS’s 2027 Asian university rankings. This makes Hong Kong SAR the most represented jurisdiction in the top 10 of that ranking.",
+      "insight": "Hong Kong’s strong showing in the 2027 QS Asia rankings—five universities in the top 10—may reflect growing regional confidence in high-quality, English-taught education close to home, potentially influencing Chinese students’ preferences amid ongoing geopolitical and travel considerations, though direct impact on Western enrolment remains uncertain without corroborating application data.  \nAdmissions teams should monitor shifts in inquiry volumes and application patterns from mainland China and Hong Kong, particularly for STEM and business programmes, while reviewing messaging that highlights distinct advantages—such as post-study work rights, research infrastructure, or alumni networks—relative to increasingly competitive Asian alternatives.",
+      "impact": "Low",
+      "sources": [
+        "China"
+      ],
+      "dests": [],
+      "translated": true,
+      "origLang": "vi",
+      "relevanceScore": 7,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 7,
+      "title": "Increase exchange of lecturers and students between Hanoi National University and Thanh Hoa",
+      "source": "VnExpress (Giáo dục)",
+      "color": "#b94500",
+      "url": "https://vnexpress.net/tang-trao-doi-giang-vien-sinh-vien-giua-dai-hoc-quoc-gia-ha-noi-va-thanh-hoa-5140135.html",
+      "pubDate": "2026-11-03",
+      "summary": "Hanoi National University and Thanh Hoa University in China are urged to establish joint research groups and increase the exchange of lecturers and students. This recommendation was made by Vietnam’s Deputy Prime Minister.",
+      "insight": "This news reflects Vietnam’s growing emphasis on regional academic collaboration, potentially reinforcing Southeast Asia’s appeal as a study destination—but it doesn’t directly indicate shifting demand toward Western universities, as the cited partnership is intra-Asian and involves institutions misidentified (Thanh Hoa University is in Vietnam, not China).  \nAdmissions teams should monitor Vietnamese student mobility data for subtle shifts in preference or confidence in domestic/regional higher education, and assess whether enhanced local partnerships correlate with changes in outbound application volumes or scholarship-seeking behaviour over the next 12–18 months.",
+      "impact": "Medium",
+      "sources": [
+        "China"
+      ],
+      "dests": [],
+      "translated": true,
+      "origLang": "vi",
+      "relevanceScore": 6,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 8,
+      "title": "What can Cambridge teach Hong Kong about building university towns?",
+      "source": "SCMP (Education)",
+      "color": "#7b241c",
+      "url": "https://www.scmp.com/news/hong-kong/education/article/3372890/what-can-cambridge-teach-hong-kong-about-building-university-towns",
+      "pubDate": "2026-11-02",
+      "summary": "Professor Girish Menon, president of Lucy Cavendish College at the University of Cambridge, stated that strong government-industry partnerships and interdisciplinary education are essential for making university towns financially viable and successful. Speaking to the South China Morning Post, he highlighted Hong Kong’s cosmopolitan character as an advantage in placing young people at the heart of its Northern Metropolis development plan.",
+      "insight": "This news indirectly signals growing interest in integrated, innovation-driven campus ecosystems—potentially influencing student preferences toward universities with strong industry ties and interdisciplinary offerings, though direct impact on demand remains uncertain amid shifting geopolitical and economic conditions.  \nAdmissions teams should monitor Hong Kong’s Northern Metropolis implementation progress and policy incentives for talent retention, as successful university-town models there could reshape regional competition for STEM and urban planning students from mainland China.",
+      "impact": "Low",
+      "sources": [
+        "China"
       ],
       "dests": [],
       "translated": false,
@@ -103,39 +156,18 @@
       "insightSource": "qwen"
     },
     {
-      "id": 6,
-      "title": "5 Hong Kong universities in Asia’s top 10, with 3 in top 5 after more than a decade",
-      "source": "SCMP (Education)",
-      "color": "#7b241c",
-      "url": "https://www.scmp.com/news/hong-kong/education/article/3373069/5-hong-kong-universities-asias-top-10-3-top-5-after-more-decade",
+      "id": 9,
+      "title": "Five things we learned about Australian TNE at AIEC 2026",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/five-things-we-learned-about-australian-tne-at-aiec-2026/",
       "pubDate": "2026-11-03",
-      "summary": "Five Hong Kong universities are ranked among Asia’s top 10, with three—HKU, HKUST, and CUHK—in the top five for the first time in over a decade, and HKU retaining the No. 1 position. In mainland China, Peking University remained at No. 2, Tsinghua University rose from No. 9 to No. 3, and Fudan University fell from No. 5 to No. 6, resulting in two mainland universities in the top 10.",
-      "insight": "This ranking surge signals growing regional confidence in Hong Kong’s higher education quality, potentially reinforcing perceptions of Asia as a competitive alternative destination—though direct impact on Western enrolment remains uncertain without correlating application or yield data from key source markets like China.  \nAdmissions teams should track whether Chinese students increasingly apply to top Hong Kong universities as safety or primary choices, and assess if this shifts referral patterns, scholarship expectations, or concerns about geopolitical stability in their outreach messaging and agent training.",
-      "impact": "Low",
-      "sources": [
-        "China"
-      ],
-      "dests": [
-        "UK"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 6,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 7,
-      "title": "UK to hike proof-of-funds requirement for international students from Nov 30",
-      "source": "VnExpress (EN)",
-      "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/education/uk-to-hike-proof-of-funds-requirement-for-international-students-from-nov-30-5139725.html",
-      "pubDate": "2026-11-03",
-      "summary": "The UK will raise the minimum proof-of-funds requirement for international student visa applications starting 30 November. The maximum required maintenance amount will increase by £369 (US$493).",
-      "insight": "This policy shift signals tightening UK visa affordability, potentially dampening demand from cost-sensitive markets—though its net impact on overall international enrolment remains uncertain amid countervailing factors like post-study work rights and exchange rate fluctuations.  \nAdmissions teams should track application volume and yield trends from key UK feeder countries over the next 3–6 months, while reviewing financial counselling resources and scholarship eligibility criteria to support students navigating higher funding thresholds.",
+      "summary": "The article reports on key insights from the AIEC 2026 conference regarding Australian transnational education (TNE). It highlights five lessons delegates identified as critical for strengthening offshore partnerships, including addressing commercial challenges and clarifying the government’s role in TNE development.",
+      "insight": "This news signals growing institutional focus on offshore education models, which may indirectly influence international student demand as universities diversify delivery—though direct impacts on onshore enrolments remain uncertain and likely market-specific.  \nAdmissions teams should monitor how Australian TNE expansion affects student perceptions of degree portability and credential recognition, particularly in key Asian markets where blended pathways are gaining traction.",
       "impact": "Low",
       "sources": [],
       "dests": [
-        "UK"
+        "Australia"
       ],
       "translated": false,
       "origLang": null,
