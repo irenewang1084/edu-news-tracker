@@ -1,58 +1,18 @@
 {
-  "updated": "2026-11-06T07:30:16Z",
+  "updated": "2026-11-07T06:41:44Z",
   "count": 4,
-  "totalFetched": 171,
+  "totalFetched": 152,
   "articles": [
     {
       "id": 1,
-      "title": "Amidst high visa refusal rates and falling commencements, Australian government opens consultation on reforms to Genuine Student test and financial requirements",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/11/amidst-high-visa-refusal-rates-and-falling-commencements-australian-government-opens-consultation-on-reforms-to-genuine-student-test-and-financial-requirements/",
-      "pubDate": "2026-11-05",
-      "summary": "The Australian government has opened a consultation on reforms to the Genuine Student test and financial requirements for international student visa applications. This follows concerns about high visa refusal rates and declining student commencements, with Assistant Minister for International Education Julian Hill announcing the initiative at the Australian International Education Conference in late October.",
-      "insight": "Australia’s consultation on Genuine Student and financial requirement reforms signals potential easing of visa barriers, which could modestly improve its competitiveness amid global recruitment challenges—but direct impacts on demand or sentiment remain uncertain pending final policy details.  \nAdmissions teams should track the consultation’s timeline and outcomes, particularly any adjustments to evidence thresholds or assessment criteria, while continuing to benchmark Australia’s evolving visa environment against peer destinations’ policies and processing trends.",
-      "impact": "Medium",
-      "sources": [],
-      "dests": [
-        "Australia"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 2,
-      "title": "English UK spearheads effort to strengthen protections for language students affected by school closures",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/11/english-uk-spearheads-effort-to-strengthen-protections-for-language-students-affected-by-school-closures/",
-      "pubDate": "2026-11-03",
-      "summary": "English UK is leading an initiative to enhance protections for language students impacted by school closures. Recent closures have occurred across Ireland, the UK, Canada, the US, Australia, and Malta, straining partnerships between language schools and education agents.",
-      "insight": "This news signals potential volatility in the language pathway sector, which may indirectly affect demand for foundation and undergraduate programmes—particularly among students from regions reliant on private language schools as entry points, though direct impacts on university recruitment remain uncertain pending further closures or policy shifts.  \nAdmissions teams should monitor agent partnerships and student origin countries where language school closures are concentrated, while reviewing how their foundation programme messaging addresses pathway security and visa compliance to reassure prospective applicants amid growing sectoral uncertainty.",
-      "impact": "Low",
-      "sources": [],
-      "dests": [
-        "UK",
-        "Canada",
-        "Australia"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 3,
-      "title": "Canada-EU alliance to expand opportunities for students",
+      "title": "Canada extends 150,000 international student arrivals target to 2029",
       "source": "The PIE News",
       "color": "#7b341e",
-      "url": "https://thepienews.com/canada-eu-alliance-to-expand-opportunities-for-students/",
-      "pubDate": "2026-11-03",
-      "summary": "Canada and the European Union have announced a new alliance aimed at expanding opportunities for students in both regions. The initiative is intended to strengthen academic ties between Canada and EU member states.",
-      "insight": "This Canada-EU student alliance may indirectly influence global student mobility by reinforcing perceptions of North America and Europe as collaborative, high-quality academic blocs—though its direct impact on demand for US, UK, AU, or NZ study remains uncertain without evidence of spillover effects or shifting preferences.  \nAdmissions teams should monitor whether this initiative correlates with increased interest in transatlantic pathways, changes in visa processing trends for dual-degree applicants, or evolving sentiment among key source markets like India or Nigeria regarding comparative destination appeal.",
-      "impact": "Low",
+      "url": "https://thepienews.com/canada-extends-150000-international-student-arrivals-target-to-2029/",
+      "pubDate": "2026-11-06",
+      "summary": "Canada has extended its annual target of 150,000 new international student arrivals through 2029. This target was originally established in last year’s immigration plan and will remain unchanged for the extended period.",
+      "insight": "Canada’s extension of its 150,000 annual international student intake target to 2029 signals sustained policy-level commitment to international education, potentially reinforcing perceptions of Canada as a stable, accessible destination—though actual demand shifts depend on concurrent factors like visa processing times, post-study work rights, and global economic conditions.  \nAdmissions teams should monitor Canadian visa approval rates, provincial study permit restrictions, and comparative affordability data across key source markets, while reviewing their own value propositions around career outcomes and immigration pathways to ensure competitive differentiation remains clear and credible.",
+      "impact": "Medium",
       "sources": [],
       "dests": [
         "Canada"
@@ -63,22 +23,60 @@
       "insightSource": "qwen"
     },
     {
-      "id": 4,
-      "title": "Philippines to fast-track student visas as TNE strategy takes off",
+      "id": 2,
+      "title": "RMIT spends 183 billion VND in scholarships for 2027",
+      "source": "VnExpress (Giáo dục)",
+      "color": "#b94500",
+      "url": "https://vnexpress.net/rmit-danh-183-ty-dong-hoc-bong-cho-nam-2027-5141246.html",
+      "pubDate": "2026-11-06",
+      "summary": "RMIT Vietnam University has allocated 183 billion VND for scholarships in 2027. The funding supports 156 scholarships across undergraduate, master’s, and doctoral programs.",
+      "insight": "RMIT Vietnam’s significant 2027 scholarship investment signals growing regional capacity to retain high-achieving Southeast Asian students, potentially moderating outbound demand for Western degrees—though direct impact on US/UK/AU/NZ enrolments remains uncertain without data on overlap in target demographics or program competitiveness.  \nAdmissions teams should monitor Vietnamese and broader ASEAN application trends, scholarship uptake rates, and graduate outcomes from RMIT’s expanded offerings, while assessing whether their own financial aid strategies remain competitive for academically strong candidates from these markets.",
+      "impact": "Low",
+      "sources": [
+        "Southeast Asia"
+      ],
+      "dests": [],
+      "translated": true,
+      "origLang": "vi",
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 3,
+      "title": "Why the Philippines’ new TNE strategy could make it South East Asia’s partnership hotspot",
       "source": "The PIE News",
       "color": "#7b341e",
-      "url": "https://thepienews.com/philippines-to-fast-track-student-visas-as-tne-strategy-takes-off/",
-      "pubDate": "2026-11-05",
-      "summary": "The Philippines is introducing a “green lane” to expedite visa applications for international students and academics as part of its new transnational education (TNE) strategy. This initiative aims to reduce bureaucratic delays and facilitate entry for those involved in cross-border educational activities.",
-      "insight": "The Philippines’ green lane for student visas signals growing regional competition in Southeast Asia, potentially influencing student mobility patterns if its TNE partnerships scale meaningfully—though current impact on Western universities remains uncertain without evidence of significant enrolment diversion.  \nAdmissions teams should monitor Philippine TNE programme growth, partner university announcements, and longitudinal visa issuance data from key SEA countries to assess whether this initiative begins shifting student preferences or application behaviour over the next 12–24 months.",
-      "impact": "Low",
+      "url": "https://thepienews.com/why-the-philippines-new-tne-strategy-could-make-it-south-east-asias-partnership-hotspot/",
+      "pubDate": "2026-11-06",
+      "summary": "The Philippines’ new transnational education (TNE) strategy is positioned to make it a partnership hotspot in Southeast Asia due to its large youth population, extensive higher education system, and strong government support. Higher education leaders cited these factors as key enablers for expanding TNE partnerships, according to The PIE News.",
+      "insight": "The Philippines’ new TNE strategy may gradually shift regional student mobility patterns, as strengthened local partnerships could delay or divert some Southeast Asian students from traditional Anglophone destinations—though direct impact on enrolment volumes remains uncertain and likely medium-term.  \nAdmissions teams should monitor Philippine TNE programme launches, bilateral MOUs, and enrolment data from key feeder countries like Vietnam and Indonesia to assess whether rising domestic capacity begins influencing application trends or scholarship preferences.",
+      "impact": "Medium",
       "sources": [
         "Southeast Asia"
       ],
       "dests": [],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 8,
+      "relevanceScore": 7,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 4,
+      "title": "‘Treated differently’: foreign students in India confront everyday discrimination",
+      "source": "The Hindu (Edu)",
+      "color": "#145a32",
+      "url": "https://www.thehindu.com/education/treated-differently-foreign-students-in-india-confront-everyday-discrimination/article71660298.ece",
+      "pubDate": "2026-11-03",
+      "summary": "International students in India report experiencing everyday discrimination, including being stereotyped as drug users based on their skin colour. They also face unequal treatment at university gates and other settings outside the classroom.",
+      "insight": "This news may indirectly influence student demand from regions where India is a key competitor for outbound students—such as Nigeria, Bangladesh, or Nepal—as prospective applicants weigh perceptions of safety, inclusion, and everyday equity in alternative destinations. While not yet evidence of shifting enrolment trends, it adds context to growing global scrutiny of host-country social climates.  \nAdmissions teams should monitor sentiment shifts in priority source markets via social listening and agent feedback, particularly around narratives linking destination countries with racial equity, campus safety, and lived student experience—not just academic or visa policy factors.",
+      "impact": "Low",
+      "sources": [
+        "India"
+      ],
+      "dests": [],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 7,
       "insightSource": "qwen"
     }
   ]
