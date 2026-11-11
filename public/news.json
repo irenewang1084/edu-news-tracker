@@ -1,116 +1,17 @@
 {
-  "updated": "2026-11-10T07:57:12Z",
-  "count": 9,
-  "totalFetched": 159,
+  "updated": "2026-11-11T07:22:06Z",
+  "count": 7,
+  "totalFetched": 156,
   "articles": [
     {
       "id": 1,
-      "title": "Amidst high visa refusal rates and falling commencements, Australian government opens consultation on reforms to Genuine Student test and financial requirements",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/11/amidst-high-visa-refusal-rates-and-falling-commencements-australian-government-opens-consultation-on-reforms-to-genuine-student-test-and-financial-requirements/",
-      "pubDate": "2026-11-05",
-      "summary": "The Australian government has opened a consultation on potential reforms to the Genuine Student test and financial requirements for international student visa applications. This follows concerns about high visa refusal rates and declining student commencements, with Assistant Minister for International Education Julian Hill announcing the initiative at the Australian International Education Conference in late October.",
-      "insight": "Australia’s consultation on Genuine Student and financial requirement reforms signals possible easing of visa barriers, which could modestly improve its competitiveness—though actual policy changes, timing, and impact on enrolment demand remain uncertain amid broader global mobility trends.  \nAdmissions teams should track the consultation outcomes and any revised guidance from Home Affairs, while reviewing how their current messaging around Australian study pathways aligns with evolving perceptions of visa accessibility and post-study work prospects.",
-      "impact": "Medium",
-      "sources": [],
-      "dests": [
-        "Australia"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 2,
-      "title": "New HEPI paper says the Home Office must share responsibility for international students with other Departments if the Government is to hit its own target for educational exports",
-      "source": "HEPI",
-      "color": "#4a235a",
-      "url": "https://www.hepi.ac.uk/2026/11/05/new-policy-note-one-sector-two-regulators/",
-      "pubDate": "2026-11-05",
-      "summary": "A new HEPI Policy Note argues that the Home Office must share responsibility for international students with other government departments to achieve the UK Government’s target for educational exports. The paper highlights growing political scrutiny of international students within broader immigration debates.",
-      "insight": "This news signals potential policy recalibration in the UK, where heightened Home Office involvement in international student oversight could lead to tighter visa scrutiny or administrative friction—though actual changes remain uncertain and dependent on interdepartmental coordination and political priorities.  \nAdmissions teams should monitor UKVI guidance updates, Home Office statements, and shifts in agent sentiment from key markets like India and Nigeria, while reviewing contingency plans for possible delays or increased documentation requirements in UK applications.",
-      "impact": "Medium",
-      "sources": [],
-      "dests": [
-        "UK"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 3,
-      "title": "English UK spearheads effort to strengthen protections for language students affected by school closures",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/11/english-uk-spearheads-effort-to-strengthen-protections-for-language-students-affected-by-school-closures/",
-      "pubDate": "2026-11-03",
-      "summary": "English UK is leading an initiative to enhance protections for language students impacted by school closures. Recent closures have occurred across Ireland, the UK, Canada, the US, Australia, and Malta, straining partnerships between language schools and education agents.",
-      "insight": "This news signals potential volatility in the language pathway sector, which may indirectly affect demand for foundation and undergraduate programmes—particularly among students from regions reliant on private language schools as entry points, though direct impacts on university recruitment remain uncertain pending further closures or policy shifts.  \nAdmissions teams should monitor agent partnerships and student origin countries where language school closures are concentrated, while reviewing how their foundation programme messaging addresses pathway security and visa compliance to reassure prospective applicants amid growing sectoral uncertainty.",
-      "impact": "Low",
-      "sources": [],
-      "dests": [
-        "UK",
-        "Canada",
-        "Australia"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 4,
-      "title": "Canada cuts, NZ grows as Australia and US rethink international education",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/canada-cuts-nz-grows-as-australia-and-us-rethink-international-education/",
+      "title": "Hong Kong VTC courses touted as short cut to residency for babies of mainland mothers",
+      "source": "SCMP (Education)",
+      "color": "#7b241c",
+      "url": "https://www.scmp.com/news/hong-kong/education/article/3373694/hong-kong-vtc-courses-touted-short-cut-residency-babies-mainland-mothers",
       "pubDate": "2026-11-09",
-      "summary": "At AIEC 2026, education leaders highlighted that policy uncertainty, public trust, and student outcomes are reshaping global competition for international students. Canada has implemented cuts to its international education sector, New Zealand is experiencing growth, and both Australia and the United States are re-evaluating their approaches to international education.",
-      "insight": "Canada’s policy cuts signal potential volatility in student flows from shared source markets, possibly increasing competition for high-demand cohorts in the US, UK, Australia, and NZ—though direct spillover effects remain uncertain without clearer data on student redirection patterns.  \nAdmissions teams should track real-time application trends from Canada-adjacent markets (e.g., India, Nigeria, Philippines), monitor visa processing timelines and post-study work rule updates in all four countries, and assess how messaging around stability and outcomes resonates amid growing policy scrutiny.",
-      "impact": "Low",
-      "sources": [],
-      "dests": [
-        "Canada",
-        "Australia",
-        "New Zealand"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 5,
-      "title": "AIECA backs mandatory agent accreditation as Hill signals regulatory rethink",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/aieca-backs-mandatory-agent-accreditation-as-hill-signals-regulatory-rethink/",
-      "pubDate": "2026-11-09",
-      "summary": "The Australian International Education Contractors Association (AIECA) has endorsed mandatory accreditation for education agents and a government-supported regulatory framework. Australia’s Assistant Minister for Education, Jason Clare, has indicated openness to regulatory reform but ruled out implementing a costly licensing scheme.",
-      "insight": "This development signals potential tightening of agent standards in Australia, which may indirectly influence student confidence and application patterns from key Asian markets—though direct impacts on demand or visa rules remain unconfirmed pending formal policy details.  \nAdmissions teams should monitor Australian government consultations on agent regulation and track whether partner agents in India, China, or Southeast Asia adjust service models or compliance practices, as this could affect referral volumes and application quality.",
-      "impact": "Low",
-      "sources": [],
-      "dests": [
-        "Australia"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 6,
-      "title": "Hong Kong develops university hubs to attract global talent",
-      "source": "VnExpress (EN)",
-      "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/education/hong-kong-develops-university-hubs-to-attract-global-talent-5141075.html",
-      "pubDate": "2026-11-10",
-      "summary": "Hong Kong is developing three large university towns near the mainland Chinese border. The initiative aims to attract top global academics, enhance research capabilities, and foster industry partnerships.",
-      "insight": "Hong Kong’s university hub initiative may indirectly influence global student demand by reinforcing perceptions of Greater China as a high-quality, strategically connected education destination—though its impact on traditional Anglophone markets remains uncertain and likely gradual.  \nAdmissions teams should monitor enrolment trends among Chinese students in Hong Kong versus Western destinations, as well as any policy shifts in visa pathways or scholarship offerings that could signal evolving preferences or competitive pressures.",
+      "summary": "Agencies in mainland China are promoting Vocational Training Council (VTC) courses to pregnant women as a low-cost pathway—under HK$100,000 including commission—to secure Hong Kong residency and passports for their newborns. These agencies claim the resulting Hong Kong permanent identity would facilitate easier admission to top-tier mainland universities and eligibility for civil service jobs, though the article notes criticism without specifying its nature.",
+      "insight": "This news signals potential shifts in mainland Chinese families’ education and residency strategies, possibly reducing long-term demand for Western undergraduate degrees if Hong Kong’s residency pathways via vocational study gain traction—though actual enrolment impact remains uncertain without data on uptake or policy durability.  \nAdmissions teams should monitor HK immigration policy updates and VTC enrolment trends among mainland students, while assessing whether such schemes influence perceptions of Hong Kong as a stepping stone to global education or civil service advantages in China.",
       "impact": "Low",
       "sources": [
         "China"
@@ -122,35 +23,56 @@
       "insightSource": "qwen"
     },
     {
-      "id": 7,
-      "title": "Loạt đại học Mỹ đóng cửa vì 'khát' sinh viên",
-      "source": "VnExpress (Giáo dục)",
-      "color": "#b94500",
-      "url": "https://vnexpress.net/loat-dai-hoc-my-dong-cua-vi-khat-sinh-vien-5141361.html",
-      "pubDate": "2026-11-08",
-      "summary": "A number of long-established universities and colleges in the United States are closing due to financial shortfalls and declining student enrollment. Experts predict this wave of closures will continue.",
-      "insight": "This news reflects broader financial and demographic pressures on US higher education, potentially reshaping international student perceptions of institutional stability—though direct impacts on demand from Southeast Asia remain uncertain without evidence of shifting enrolment patterns or visa policy changes.  \nAdmissions teams should monitor regional sentiment surveys, competitor institution closures or mergers in the US, and any resulting adjustments in SEVIS reporting or I-20 issuance trends, while reviewing their own value propositions around academic continuity and post-study outcomes.",
+      "id": 2,
+      "title": "AIEC 2026: Australia rethinks its international education promise",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/aiec-2026-australia-rethinks-its-international-education-promise/",
+      "pubDate": "2026-11-10",
+      "summary": "The 40th Australian International Education Conference (AIEC 2026) was held in Sydney, where the international education sector addressed pressing challenges including visa policy uncertainty and intensifying global competition. Attendees emphasized the need to strengthen Australia’s credibility and value proposition for international students and the broader public.",
+      "insight": "Australia’s public reckoning with visa policy uncertainty and global competition at AIEC 2026 signals potential softening in its appeal to students from key Asian and Pacific markets, though demand resilience remains high amid strong graduate outcomes and post-study work rights.  \nAdmissions teams should track Australian visa refusal trends, competitor marketing shifts in India and Southeast Asia, and student sentiment metrics—particularly around perceived stability and value—while maintaining balanced portfolio diversification across destination countries.",
       "impact": "Low",
+      "sources": [],
+      "dests": [
+        "Australia"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 3,
+      "title": "Why the Philippines’ new TNE strategy could make it South East Asia’s partnership hotspot",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/why-the-philippines-new-tne-strategy-could-make-it-south-east-asias-partnership-hotspot/",
+      "pubDate": "2026-11-06",
+      "summary": "The Philippines’ new transnational education (TNE) strategy is positioned to make it a partnership hotspot in Southeast Asia due to its large youth population, extensive higher education system, and strong government support. Higher education leaders cited these factors as key enablers for expanding TNE partnerships, according to The PIE News.",
+      "insight": "The Philippines’ new TNE strategy may gradually shift regional student mobility patterns, as stronger local partnerships could reduce outbound demand from Southeast Asia—though direct impact on Western enrolments remains uncertain without evidence of declining applications or visa policy changes.  \nAdmissions teams should monitor Philippine TNE partnership announcements and enrolment trends among ASEAN nationals, particularly any shifts in application volumes or destination preferences over the next 12–18 months.",
+      "impact": "Medium",
       "sources": [
         "Southeast Asia"
       ],
       "dests": [],
-      "translated": true,
-      "origLang": "vi",
+      "translated": false,
+      "origLang": null,
       "relevanceScore": 7,
       "insightSource": "qwen"
     },
     {
-      "id": 8,
-      "title": "UK business schools’ finances strained amid fall in international enrolments",
+      "id": 4,
+      "title": "ASEAN-UK higher education partnerships must reflect local priorities",
       "source": "The PIE News",
       "color": "#7b341e",
-      "url": "https://thepienews.com/business-schools-finances-strained-following-fall-in-international-students-enrolments/",
-      "pubDate": "2026-11-09",
-      "summary": "Almost 70% of UK business schools are reporting a decline in international enrolments. This drop is exacerbating already-strained financial conditions, partly due to government policies.",
-      "insight": "A decline in UK business school international enrolments may reflect broader shifts in student preferences, visa policy perceptions, or regional competition—but causality remains unclear, as local factors like tuition hikes or post-study work rule changes could be driving the trend more than global demand shifts.  \nAdmissions teams should track competitor messaging from UK institutions, monitor source-market social media sentiment about UK study, and assess whether their own value propositions—especially around career outcomes and visa stability—need refinement amid evolving comparative narratives.",
-      "impact": "Low",
-      "sources": [],
+      "url": "https://thepienews.com/asean-uk-higher-education-partnerships-must-reflect-local-priorities/",
+      "pubDate": "2026-11-10",
+      "summary": "ASEAN and UK higher education leaders have advocated for more locally driven partnerships in higher education. These collaborations should be supported by clear regulation and funding to strengthen joint efforts in skills development, research, and artificial intelligence.",
+      "insight": "This news signals growing regional emphasis on locally relevant, regulation-backed higher education partnerships in ASEAN, which may gradually influence student preferences toward institutions demonstrating authentic regional engagement—though direct impacts on enrolment demand remain uncertain and likely medium-term.  \nAdmissions teams should monitor ASEAN governments’ evolving funding priorities for skills and AI education, as well as UK universities’ new partnership models, to identify potential collaboration or articulation opportunities that could shape future recruitment pathways and messaging.",
+      "impact": "Medium",
+      "sources": [
+        "Southeast Asia"
+      ],
       "dests": [
         "UK"
       ],
@@ -160,22 +82,60 @@
       "insightSource": "qwen"
     },
     {
-      "id": 9,
-      "title": "Brazilian students want more than a degree abroad: this is where Ireland emerges",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/brazilian-students-want-more-than-a-degree-abroad-this-is-where-ireland-emerges/",
-      "pubDate": "2026-11-09",
-      "summary": "Irish universities have an opportunity to attract more Brazilian students by understanding their priorities and clearly communicating the value of an Irish education. The article highlights that Brazilian students seek more than just a degree abroad, positioning Ireland as an emerging destination for them.",
-      "insight": "Brazilian students’ growing interest in Ireland suggests shifting preferences toward English-speaking destinations offering strong post-study work pathways and cultural appeal—though it remains unclear whether this reflects broader Latin American demand or a temporary niche trend amid tightening UK/US visa policies.  \nAdmissions teams should track Brazilian application volumes and sentiment toward Ireland’s graduate immigration schemes, while reviewing their own value propositions on employability, cost-of-living, and community support to ensure competitiveness in a diversifying market.",
+      "id": 5,
+      "title": "Vietnam requires schools to have at least one English-fluent leader",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/education/vietnam-requires-schools-to-have-at-least-one-english-fluent-leader-5143011.html",
+      "pubDate": "2026-11-10",
+      "summary": "Vietnam has introduced new criteria requiring at least one principal or vice principal at general education schools to be fluent in English. This requirement is part of the country’s broader initiative to establish English as a second language.",
+      "insight": "This policy signals Vietnam’s intensified national commitment to English proficiency, potentially reinforcing demand for high-quality Anglophone higher education—though direct impact on enrolment volumes remains uncertain without evidence of correlated shifts in student aspirations or affordability.  \nAdmissions teams should monitor Vietnamese university entrance exam trends, English test score distributions, and scholarship uptake patterns over the next 2–3 years to assess whether this reform accelerates preparedness or alters destination preferences among high-achieving cohorts.",
       "impact": "Low",
       "sources": [
-        "Latin America"
+        "Southeast Asia"
       ],
       "dests": [],
       "translated": false,
       "origLang": null,
       "relevanceScore": 7,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 6,
+      "title": "India in QS Rankings: climbing the ladder, but missing the goalpost?",
+      "source": "The Hindu (Edu)",
+      "color": "#145a32",
+      "url": "https://www.thehindu.com/education/india-in-qs-rankings-climbing-the-ladder-but-missing-the-goalpost/article71685269.ece",
+      "pubDate": "2026-11-11",
+      "summary": "No Indian institution ranks within the global top 100 for academic reputation, the indicator carrying the highest weightage of 30% in the QS Rankings. In 2027, only about 6% of Indian institutions improved their faculty–student ratio, while approximately 30% saw a decline, following a steep 63% decline in the prior year.",
+      "insight": "This news signals potential softening in India’s higher education brand perception globally, which may gradually influence student preferences toward established Western institutions—though direct shifts in application volumes remain uncertain without corroborating enrollment data.  \nAdmissions teams should monitor Indian application trends by institution tier and discipline, while assessing whether declining faculty–student ratios correlate with increased inquiries or yield from India, particularly for research-intensive programs.",
+      "impact": "Low",
+      "sources": [
+        "India"
+      ],
+      "dests": [],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 7,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 7,
+      "title": "Global PBSA leaders outline China’s new student-centric era",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/global-pbsa-leaders-outline-chinas-new-student-centric-era/",
+      "pubDate": "2026-11-10",
+      "summary": "Global leaders in the private student accommodation (PBSA) sector have highlighted a structural shift in key university hubs from supply shortages to market oversupply. The article discusses China’s emerging student-centric era in international student housing and education, as reported by The PIE News.",
+      "insight": "China’s shift toward a student-centric model in PBSA signals growing domestic capacity and expectations, potentially influencing outbound student preferences—though direct impacts on demand for Western study remain uncertain amid broader geopolitical and economic factors.  \nAdmissions teams should monitor Chinese student surveys on housing priorities, visa processing trends, and enrolment data from universities with strong China recruitment, while assessing whether enhanced domestic PBSA options correlate with changes in application volumes or destination choices.",
+      "impact": "Low",
+      "sources": [
+        "China"
+      ],
+      "dests": [],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 6,
       "insightSource": "qwen"
     }
   ]
