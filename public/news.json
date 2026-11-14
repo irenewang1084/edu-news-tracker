@@ -1,22 +1,78 @@
 {
-  "updated": "2026-11-13T07:33:33Z",
-  "count": 5,
-  "totalFetched": 173,
+  "updated": "2026-11-14T07:13:48Z",
+  "count": 10,
+  "totalFetched": 179,
   "articles": [
     {
       "id": 1,
-      "title": "Global survey tracks universities’ foreign enrolment for 2026 and outlook for 2027",
+      "title": "Amidst high visa refusal rates and falling commencements, Australian government opens consultation on reforms to Genuine Student test and financial requirements",
       "source": "ICEF Monitor",
       "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/11/global-survey-tracks-universities-foreign-enrolment-for-2026-and-outlook-for-2027/",
-      "pubDate": "2026-11-12",
-      "summary": "The 2026 Global Enrolment Benchmark Survey by Studyportals, in partnership with NAFSA and Oxford Test of English, has been released, highlighting recruitment challenges for US and UK universities in attracting international students. Canadian institutions report greater optimism about international student enrolment compared to the previous year.",
-      "insight": "This survey signals potential shifts in international student demand, with US and UK institutions facing heightened recruitment challenges amid evolving geopolitical perceptions and visa policy scrutiny—though it remains unclear whether these reflect structural declines or short-term volatility in key source markets.  \nAdmissions teams should monitor real-time application data from priority regions like India and Nigeria, track competitor enrolment trends in Canada and Australia, and assess how recent visa rule changes in their own countries align with shifting student sentiment on post-study work and cost-of-living concerns.",
-      "impact": "Low",
+      "url": "https://monitor.icef.com/2026/11/amidst-high-visa-refusal-rates-and-falling-commencements-australian-government-opens-consultation-on-reforms-to-genuine-student-test-and-financial-requirements/",
+      "pubDate": "2026-11-05",
+      "summary": "The Australian government has opened a consultation on potential reforms to the Genuine Student test and financial requirements for international student visa applications. This follows concerns about high visa refusal rates and declining student commencements, with Assistant Minister for International Education Julian Hill announcing the initiative at the Australian International Education Conference in late October.",
+      "insight": "Australia’s consultation on Genuine Student and financial requirement reforms signals possible easing of visa barriers, which could modestly improve its competitiveness—though actual policy changes, timing, and impact on enrolment demand remain uncertain amid broader global mobility trends.  \nAdmissions teams should track the consultation outcomes and any revised guidance from Home Affairs, while reviewing how their current messaging around Australian study pathways aligns with evolving perceptions of visa accessibility and post-study work prospects.",
+      "impact": "Medium",
       "sources": [],
       "dests": [
-        "UK",
+        "Australia"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 9,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 2,
+      "title": "New HEPI paper says the Home Office must share responsibility for international students with other Departments if the Government is to hit its own target for educational exports",
+      "source": "HEPI",
+      "color": "#4a235a",
+      "url": "https://www.hepi.ac.uk/2026/11/05/new-policy-note-one-sector-two-regulators/",
+      "pubDate": "2026-11-05",
+      "summary": "A new HEPI Policy Note argues that the Home Office must share responsibility for international students with other government departments to achieve the UK Government’s target for educational exports. The paper highlights growing political scrutiny of international students within broader immigration debates.",
+      "insight": "This news signals potential policy recalibration in the UK, where heightened Home Office involvement in international student oversight could lead to tighter visa scrutiny or administrative delays—though actual changes remain uncertain and dependent on interdepartmental coordination and political priorities.  \nAdmissions teams should monitor UKVI processing times, guidance updates, and student sentiment in key markets like India and Nigeria, while reviewing contingency plans for application timelines and alternative destination messaging in case of perceived UK policy volatility.",
+      "impact": "Medium",
+      "sources": [],
+      "dests": [
+        "UK"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 9,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 3,
+      "title": "Canada announces targets for new international student arrivals through 2029",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/11/canada-announces-targets-for-new-international-student-arrivals-through-2029/",
+      "pubDate": "2026-11-11",
+      "summary": "The Canadian government has announced temporary immigration targets for 2027, 2028, and 2029 as part of the 2027–2029 Immigration Levels Plan, released on 5 November alongside the federal budget. The plan sets an annual cap of 370,000 study permits for new international student arrivals during those years.",
+      "insight": "Canada’s 370,000-per-year cap on new study permits signals a deliberate move to stabilize international student numbers after rapid growth and associated pressures, potentially redirecting some applicant interest toward alternative destinations—but demand shifts will depend on concurrent visa policy changes, tuition trends, and perceptions of post-study work opportunities elsewhere.  \nAdmissions teams should track Canadian provincial processing times, post-graduation work permit approvals, and sentiment shifts in key source markets like India and Nigeria, while reviewing their own value propositions around affordability, pathway clarity, and employment outcomes relative to Canada’s recalibrated offer.",
+      "impact": "Medium",
+      "sources": [],
+      "dests": [
         "Canada"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 9,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 4,
+      "title": "Colleges report declines in international enrollment amid federal restrictions",
+      "source": "Higher Ed Dive",
+      "color": "#1e5631",
+      "url": "https://www.highereddive.com/news/colleges-report-declines-in-international-enrollment-amid-federal-restricti/874434/",
+      "pubDate": "2026-11-11",
+      "summary": "A recent survey found that nearly 60% of U.S. colleges experienced a decline in international graduate student enrollment this fall, while 45% reported a drop in international undergraduate enrollment. These declines are occurring amid federal restrictions on international students.",
+      "insight": "This news suggests U.S. federal policy shifts may be dampening international student demand, particularly for graduate programs, though it remains unclear how much this reflects broader global trends versus U.S.-specific visa or perception challenges.  \nAdmissions teams should monitor application volume and yield by region and level, track competitor messaging on visa support and post-study work rights, and assess whether source market sentiment surveys show growing concerns about U.S. policy stability.",
+      "impact": "High",
+      "sources": [],
+      "dests": [
+        "USA"
       ],
       "translated": false,
       "origLang": null,
@@ -24,14 +80,35 @@
       "insightSource": "qwen"
     },
     {
-      "id": 2,
-      "title": "UK student visa applications down 31% as Russell Group warns of volatility",
+      "id": 5,
+      "title": "English UK spearheads effort to strengthen protections for language students affected by school closures",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/11/english-uk-spearheads-effort-to-strengthen-protections-for-language-students-affected-by-school-closures/",
+      "pubDate": "2026-11-03",
+      "summary": "English UK is leading an initiative to enhance protections for language students impacted by school closures. Recent closures have occurred across Ireland, the UK, Canada, the US, Australia, and Malta, straining partnerships between language schools and education agents.",
+      "insight": "This news signals potential volatility in the language pathway sector, which may indirectly affect demand for foundation and undergraduate programmes—particularly among students from regions reliant on private language schools as entry points, though direct impacts on university recruitment remain uncertain pending further closures or policy shifts.  \nAdmissions teams should monitor agent partnerships and student origin countries where language school closures are concentrated, while reviewing how their foundation programme messaging addresses pathway security and visa compliance to reassure prospective applicants amid growing sectoral uncertainty.",
+      "impact": "Low",
+      "sources": [],
+      "dests": [
+        "UK",
+        "Canada",
+        "Australia"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 6,
+      "title": "Reframing compliance from institutional burden to student protection",
       "source": "The PIE News",
       "color": "#7b341e",
-      "url": "https://thepienews.com/uk-student-visa-applications-down-31-as-russell-group-warns-of-volatility/",
+      "url": "https://thepienews.com/reframing-compliance-from-institutional-burden-to-student-protection/",
       "pubDate": "2026-11-12",
-      "summary": "UK student visa applications declined by 31% in October compared to October of the previous year. The Russell Group has issued new warnings about ongoing volatility in the international student market.",
-      "insight": "A 31% year-on-year drop in UK student visa applications suggests possible softening demand, tighter visa scrutiny, or shifting preferences among international students—though it may also reflect temporary policy adjustments or seasonal reporting anomalies rather than a structural trend.  \nAdmissions teams should track real-time application volumes and visa refusal rates across key source markets, while reviewing messaging around post-study work rights and cost-of-living support to ensure competitiveness amid evolving global mobility perceptions.",
+      "summary": "The article argues that compliance in UK universities is often perceived as a stressful institutional burden, but it can be reframed as a mechanism for student protection. Authors Ewa Borkowska and Sandy Bhangal highlight that fulfilling due diligence obligations delivers tangible benefits for students, not just regulatory adherence.",
+      "insight": "This reframing signals growing institutional emphasis on student welfare as a compliance priority, which may subtly influence international applicants’ perceptions of safety and support—though direct shifts in demand or visa rules remain unconfirmed and likely gradual.  \nAdmissions teams should monitor how peer institutions communicate compliance-related safeguards in marketing, and assess whether enhanced due diligence narratives resonate with agents and students from high-risk origin regions during consultations.",
       "impact": "Low",
       "sources": [],
       "dests": [
@@ -43,33 +120,33 @@
       "insightSource": "qwen"
     },
     {
-      "id": 3,
-      "title": "Hong Kong VTC courses touted as short cut to residency for babies of mainland mothers",
-      "source": "SCMP (Education)",
-      "color": "#7b241c",
-      "url": "https://www.scmp.com/news/hong-kong/education/article/3373694/hong-kong-vtc-courses-touted-short-cut-residency-babies-mainland-mothers",
-      "pubDate": "2026-11-09",
-      "summary": "Agencies in mainland China are promoting Vocational Training Council (VTC) courses to pregnant women as a low-cost pathway—under HK$100,000 including commission—to secure Hong Kong residency and passports for their newborns. These agencies claim the resulting Hong Kong permanent identity would facilitate easier admission to top-tier mainland universities and eligibility for civil service jobs, though the article notes criticism without specifying its nature.",
-      "insight": "This news signals potential shifts in mainland Chinese families’ education and residency strategies, possibly reducing long-term demand for Western undergraduate degrees if Hong Kong’s residency pathways via vocational study gain traction—though actual enrolment impact remains uncertain without data on uptake or policy durability.  \nAdmissions teams should monitor HK immigration policy updates and VTC enrolment trends among mainland students, while assessing whether such schemes influence perceptions of Hong Kong as a stepping stone to global education or civil service advantages in China.",
+      "id": 7,
+      "title": "Vietnam to end IELTS bonus points in university admissions from 2028",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/education/vietnam-to-end-ielts-bonus-points-in-university-admissions-from-2028-5144311.html",
+      "pubDate": "2026-11-13",
+      "summary": "Vietnam will eliminate IELTS bonus points in university admissions starting in 2028. Students with IELTS certificates or academic competition awards will no longer receive additional points for university entrance.",
+      "insight": "This policy shift may gradually increase outbound student demand from Vietnam as high-achieving candidates seek alternative pathways to competitive degrees, though its impact depends on concurrent domestic reforms and global perceptions of value-for-cost in Western education.  \nAdmissions teams should monitor Vietnamese student application volumes and IELTS score distributions post-2025, while assessing whether partner agents begin positioning their institutions as natural alternatives to domestic bonus-point advantages.",
       "impact": "Low",
       "sources": [
-        "China"
+        "Southeast Asia"
       ],
       "dests": [],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 7,
+      "relevanceScore": 8,
       "insightSource": "qwen"
     },
     {
-      "id": 4,
-      "title": "Vietnam requires schools to have at least one English-fluent leader",
+      "id": 8,
+      "title": "70-year-old Vietnamese university urged to rank among world's top 150 in selected fields by 2030",
       "source": "VnExpress (EN)",
       "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/education/vietnam-requires-schools-to-have-at-least-one-english-fluent-leader-5143011.html",
-      "pubDate": "2026-11-10",
-      "summary": "Vietnam has introduced new criteria requiring at least one principal or vice principal at general education schools to be fluent in English. This requirement is part of the country’s broader initiative to establish English as a second language.",
-      "insight": "This policy signals Vietnam’s intensified national commitment to English proficiency, potentially reinforcing long-term demand for high-quality English-medium education abroad—though direct impacts on student mobility remain uncertain without evidence of shifting parental priorities or reduced domestic language training capacity.  \nAdmissions teams should track Vietnamese university entrance exam reforms, English test score trends, and scholarship program expansions, while assessing whether this policy correlates with increased applications to English-speaking countries in upcoming recruitment cycles.",
+      "url": "https://e.vnexpress.net/news/news/education/70-year-old-vietnamese-university-urged-to-rank-among-world-s-top-150-in-selected-fields-by-2030-5143524.html",
+      "pubDate": "2026-11-11",
+      "summary": "Vietnamese Prime Minister Le Minh Hung directed the 70-year-old National Economics University (NEU) to rank among the world’s top 150 universities in selected fields by 2030. He also instructed NEU to reach the top 100 globally in those fields by 2035.",
+      "insight": "This news signals growing ambition in Vietnam’s higher education sector, which may gradually influence student demand as domestic options improve—though it remains uncertain whether this will meaningfully reduce outbound mobility to English-speaking destinations in the near term.  \nAdmissions teams should monitor NEU’s actual progress on global rankings, scholarship expansions, and enrolment trends among high-achieving Vietnamese students, particularly those historically targeting business/economics programmes abroad.",
       "impact": "Low",
       "sources": [
         "Southeast Asia"
@@ -81,19 +158,38 @@
       "insightSource": "qwen"
     },
     {
-      "id": 5,
-      "title": "UK business schools report declining international enrolments and predict the downturn will persist through 2027",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/11/uk-business-schools-report-declining-international-enrolments-and-predict-the-downturn-will-persist-through-2027/",
-      "pubDate": "2026-11-11",
-      "summary": "UK business schools reported declining international enrolments in the 2026 Chartered Association of Business Schools Annual Membership Survey and anticipate the downturn will continue through 2027. This trend is attributed primarily to current and forthcoming UK government policies that are complicating overseas recruitment and deterring some international students.",
-      "insight": "UK business schools’ reported enrolment decline—tied to restrictive UK immigration policies—may signal softening demand from key source markets, though it’s unclear whether this reflects broader regional shifts or UK-specific policy impacts amid global competition for talent.  \nAdmissions teams should track application trends from overlapping source countries (e.g., India, Nigeria, China), assess competitor messaging around visa stability and post-study work rights, and review their own policy responsiveness—not as an immediate crisis, but as part of ongoing market intelligence refinement.",
+      "id": 9,
+      "title": "Brazil strengthens position as source market amid decline in global student mobility",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/brazil-strengthens-position-as-source-market-amid-decline-in-global-student-mobility/",
+      "pubDate": "2026-11-13",
+      "summary": "Global student mobility is declining according to market intelligence, but Brazil’s position as a source market for international students remains stable. The profile of Brazilian students studying abroad, however, has been changing.",
+      "insight": "While global student mobility declines, Brazil’s stable outbound numbers suggest resilience in Latin American demand—though shifting student profiles (e.g., socioeconomic background, destination preferences, or field of study) may reflect evolving affordability, visa accessibility, or perceptions of value, not yet fully captured in aggregate data.  \nAdmissions teams should track Brazilian applicants’ application patterns, scholarship uptake, and post-application conversion rates—and benchmark against regional peers—to detect early signals of changing priorities before broader market shifts consolidate.",
       "impact": "Low",
-      "sources": [],
-      "dests": [
-        "UK"
+      "sources": [
+        "Latin America"
       ],
+      "dests": [],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 7,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 10,
+      "title": "JEE Main 2027: NTA clarifies category selection for Indian nationals, NRIs and OCI candidates",
+      "source": "Times of India (Edu)",
+      "color": "#d4820a",
+      "url": "https://timesofindia.indiatimes.com/education/news/jee-main-2027-nta-clarifies-category-selection-for-indian-nationals-nris-and-oci-candidates/articleshow/135821226.cms",
+      "pubDate": "2026-11-14",
+      "summary": "The National Testing Agency has clarified that JEE Main 2027 applicants must select their category based on nationality and Aadhaar card status, with Indian nationals possessing an Aadhaar card required to choose the Indian Nationals category. Registration for the exam runs from October 24 to November 22, 2026, and the examination is scheduled for January 20–28, 2027.",
+      "insight": "This JEE Main 2027 category clarification signals tightening administrative alignment between Indian domestic admissions and nationality documentation, potentially reinforcing perceptions among high-achieving Indian students that rigorous domestic pathways remain viable—though its direct impact on outbound mobility trends remains uncertain without concurrent policy shifts in visa or scholarship frameworks.  \nAdmissions teams should monitor whether this procedural emphasis coincides with increased NRI/OCI application volumes to Indian institutions in early 2027, and assess if partner schools in India report shifting counselling conversations around global versus domestic enrolment trade-offs.",
+      "impact": "Low",
+      "sources": [
+        "India"
+      ],
+      "dests": [],
       "translated": false,
       "origLang": null,
       "relevanceScore": 7,
