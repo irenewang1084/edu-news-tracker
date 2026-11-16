@@ -1,41 +1,40 @@
 {
-  "updated": "2026-11-15T07:25:06Z",
-  "count": 6,
-  "totalFetched": 178,
+  "updated": "2026-11-16T07:31:54Z",
+  "count": 9,
+  "totalFetched": 165,
   "articles": [
     {
       "id": 1,
-      "title": "UK student visa applications down 31% as Russell Group warns of volatility",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/uk-student-visa-applications-down-31-as-russell-group-warns-of-volatility/",
-      "pubDate": "2026-11-12",
-      "summary": "UK student visa applications declined by 31% in October compared to October of the previous year. The Russell Group has issued new warnings about ongoing volatility in the international student market.",
-      "insight": "A 31% year-on-year drop in UK student visa applications suggests possible softening demand, tighter visa scrutiny, or shifting preferences among international students—though it may also reflect temporary policy adjustments or seasonal reporting anomalies rather than a structural trend.  \nAdmissions teams should track real-time application volumes and visa refusal rates across key source markets, while reviewing messaging around post-study work rights and cost-of-living support to ensure competitiveness amid evolving global mobility perceptions.",
-      "impact": "Low",
+      "title": "Colleges report declines in international enrollment amid federal restrictions",
+      "source": "Higher Ed Dive",
+      "color": "#1e5631",
+      "url": "https://www.highereddive.com/news/colleges-report-declines-in-international-enrollment-amid-federal-restricti/874434/",
+      "pubDate": "2026-11-11",
+      "summary": "A recent survey found that nearly 60% of U.S. colleges experienced a decline in international graduate student enrollment this fall, while 45% reported a drop in international undergraduate enrollment. These declines are occurring amid federal restrictions on international students.",
+      "insight": "This news suggests U.S. federal policy shifts may be dampening international student demand, particularly for graduate programs, though it remains unclear how much this reflects broader global trends versus U.S.-specific visa or perception challenges.  \nAdmissions teams should monitor application volume and yield by region and level, track competitor messaging on visa support and post-study work rights, and assess whether source market sentiment surveys show growing concerns about U.S. study conditions.",
+      "impact": "High",
       "sources": [],
       "dests": [
-        "UK"
+        "USA"
       ],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 9,
+      "relevanceScore": 8,
       "insightSource": "qwen"
     },
     {
       "id": 2,
-      "title": "Global survey tracks universities’ foreign enrolment for 2026 and outlook for 2027",
+      "title": "Amidst high visa refusal rates and falling commencements, Australian government opens consultation on reforms to Genuine Student test and financial requirements",
       "source": "ICEF Monitor",
       "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/11/global-survey-tracks-universities-foreign-enrolment-for-2026-and-outlook-for-2027/",
-      "pubDate": "2026-11-12",
-      "summary": "The 2026 Global Enrolment Benchmark Survey by Studyportals, in partnership with NAFSA and Oxford Test of English, has been released, highlighting recruitment challenges for US and UK universities in attracting international students. Canadian institutions report greater optimism about international student enrolment compared to the previous year.",
-      "insight": "This survey signals potential shifts in international student demand, with US and UK institutions facing heightened recruitment challenges amid evolving geopolitical perceptions and visa policy scrutiny—though it remains unclear whether these reflect structural declines or short-term volatility in key source markets.  \nAdmissions teams should monitor real-time application data from priority regions like India and Nigeria, track competitor enrolment trends in Canada and Australia, and assess how recent visa rule changes in their own countries align with shifting student sentiment on post-study work and cost-of-living concerns.",
-      "impact": "Low",
+      "url": "https://monitor.icef.com/2026/11/amidst-high-visa-refusal-rates-and-falling-commencements-australian-government-opens-consultation-on-reforms-to-genuine-student-test-and-financial-requirements/",
+      "pubDate": "2026-11-05",
+      "summary": "The Australian government has opened a consultation on potential reforms to the Genuine Student test and financial requirements for international student visa applications. This follows concerns about high visa refusal rates and declining student commencements, with Assistant Minister for International Education Julian Hill announcing the initiative at the Australian International Education Conference in late October.",
+      "insight": "Australia’s consultation on Genuine Student and financial requirement reforms signals possible easing of visa barriers, which could modestly improve its competitiveness—though actual policy changes, timing, and impact on enrolment demand remain uncertain amid broader global mobility trends.  \nAdmissions teams should track the consultation outcomes and any revised guidance from Home Affairs, while reviewing how their current messaging around Australian study pathways aligns with evolving perceptions of visa accessibility and post-study work prospects.",
+      "impact": "Medium",
       "sources": [],
       "dests": [
-        "UK",
-        "Canada"
+        "Australia"
       ],
       "translated": false,
       "origLang": null,
@@ -44,78 +43,139 @@
     },
     {
       "id": 3,
-      "title": "Germany and Ireland emerge as preferred destinations for higher education for Indian students",
-      "source": "The Hindu (Edu)",
-      "color": "#145a32",
-      "url": "https://www.thehindu.com/news/national/karnataka/germany-and-ireland-emerge-as-preferred-destinations-for-higher-education-for-indian-students/article71683039.ece",
-      "pubDate": "2026-11-10",
-      "summary": "Germany and Ireland have become preferred destinations for Indian students pursuing higher education. Of the more than 60,000 Indian students heading to Germany, 12,000—representing 20%—are from Karnataka, according to Karan Lalit, Executive Director, South Asia, TOEFL and GRE.",
-      "insight": "This trend signals growing Indian student interest in non-traditional English-speaking destinations offering tuition-free or low-cost STEM education and post-study work pathways—potentially reflecting shifting priorities around affordability, ROI, and immigration outcomes, though direct impact on Anglophone nations remains uncertain without parallel data on declining applications.  \nAdmissions teams should monitor Karnataka-specific application trends, track German/Irish visa success rates and graduate employment data shared by Indian agents, and assess whether their own scholarship offerings, work-integrated learning, and regional alumni engagement compare competitively for high-achieving STEM applicants from southern India.",
-      "impact": "Low",
-      "sources": [
-        "India",
-        "South Asia"
+      "title": "New HEPI paper says the Home Office must share responsibility for international students with other Departments if the Government is to hit its own target for educational exports",
+      "source": "HEPI",
+      "color": "#4a235a",
+      "url": "https://www.hepi.ac.uk/2026/11/05/new-policy-note-one-sector-two-regulators/",
+      "pubDate": "2026-11-05",
+      "summary": "A new HEPI Policy Note argues that the Home Office must share responsibility for international students with other government departments to achieve the UK Government’s target for educational exports. The paper highlights growing political scrutiny of international students within broader immigration debates.",
+      "insight": "This news signals potential policy recalibration in the UK, where heightened Home Office involvement in international student oversight could lead to tighter visa scrutiny or administrative delays—though actual changes remain uncertain and dependent on interdepartmental coordination and political priorities.  \nAdmissions teams should monitor UKVI processing times, appeals data, and official guidance updates, while reviewing messaging to source markets to proactively address perceptions of visa complexity or unwelcoming policy signals.",
+      "impact": "Medium",
+      "sources": [],
+      "dests": [
+        "UK"
       ],
-      "dests": [],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 7,
+      "relevanceScore": 8,
       "insightSource": "qwen"
     },
     {
       "id": 4,
-      "title": "UK business schools report declining international enrolments and predict the downturn will persist through 2027",
+      "title": "Canada announces targets for new international student arrivals through 2029",
       "source": "ICEF Monitor",
       "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/11/uk-business-schools-report-declining-international-enrolments-and-predict-the-downturn-will-persist-through-2027/",
+      "url": "https://monitor.icef.com/2026/11/canada-announces-targets-for-new-international-student-arrivals-through-2029/",
       "pubDate": "2026-11-11",
-      "summary": "UK business schools reported declining international enrolments in 2025 and anticipate the downturn will continue through 2027, according to the 2026 Chartered Association of Business Schools Annual Membership Survey. The primary cause cited is current and forthcoming UK government policies that are complicating overseas recruitment and deterring some foreign students.",
-      "insight": "UK business schools’ reported enrolment decline—attributed to restrictive visa policies and negative perceptions of UK study conditions—may indicate shifting preferences among international students, though it remains unclear whether this reflects broader regional trends or sector-specific challenges in management education.  \nAdmissions teams should track application volumes and yield rates from key source markets, particularly for postgraduate business programmes, while assessing how their own visa support, cost transparency, and post-study work offerings compare with the UK’s evolving proposition.",
-      "impact": "Low",
+      "summary": "The Canadian government has announced temporary immigration targets for 2027, 2028, and 2029 as part of the 2027–2029 Immigration Levels Plan, released on 5 November alongside the federal budget. The plan sets an annual cap of 370,000 study permits for new international student arrivals during those years.",
+      "insight": "Canada’s 370,000-per-year cap on new study permits signals a deliberate move to stabilize international student numbers after recent growth and scrutiny, potentially shifting demand toward alternative destinations—but actual enrolment shifts depend on how strictly the cap is enforced and whether students perceive Canada as still accessible relative to visa processing times and post-study work prospects.  \nAdmissions teams should track Canadian application trends by region and cohort, monitor policy implementation details (e.g., exemptions for degree programs or provincial nominee pathways), and assess whether messaging around stability, affordability, and graduate outcomes needs refinement in key source markets where Canada remains a strong comparator.",
+      "impact": "Medium",
       "sources": [],
       "dests": [
-        "UK"
+        "Canada"
       ],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 7,
+      "relevanceScore": 8,
       "insightSource": "qwen"
     },
     {
       "id": 5,
-      "title": "Hong Kong urged to look beyond university rankings to attract international students",
-      "source": "SCMP (Education)",
-      "color": "#7b241c",
-      "url": "https://www.scmp.com/news/hong-kong/education/article/3374423/hong-kong-urged-look-beyond-university-rankings-attract-international-students",
-      "pubDate": "2026-11-14",
-      "summary": "Leaders of top British universities have urged Hong Kong to move beyond university rankings in its “Study in Hong Kong” campaign, emphasizing the need for government-backed career incentives and clear post-study visa pathways to attract and retain international students. They also countered concerns that AI is devaluing higher education, advocating instead for a shift from routine essay-writing to collaborative problem-solving in campus learning.",
-      "insight": "This news signals growing global recognition that rankings alone no longer suffice to attract international students, as institutions and governments increasingly prioritise tangible post-study outcomes—though direct implications for US/UK/AU/NZ recruitment remain uncertain without parallel policy shifts in those countries.  \nAdmissions teams should monitor whether Hong Kong’s proposed career incentives and streamlined visa pathways trigger emulation elsewhere, particularly in ASEAN or Middle Eastern source markets where similar concerns about graduate employability and residency prospects are rising.",
+      "title": "English UK spearheads effort to strengthen protections for language students affected by school closures",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/11/english-uk-spearheads-effort-to-strengthen-protections-for-language-students-affected-by-school-closures/",
+      "pubDate": "2026-11-03",
+      "summary": "English UK is leading an initiative to enhance protections for language students impacted by school closures. Recent closures have occurred across Ireland, the UK, Canada, the US, Australia, and Malta, straining partnerships between language schools and education agents.",
+      "insight": "This news signals potential volatility in the language pathway sector, which may indirectly affect demand for foundation and undergraduate programmes—especially where students rely on accredited language schools as visa-compliant entry routes—though direct impacts on university recruitment remain uncertain pending regulatory follow-up.  \nAdmissions teams should monitor shifts in agent partnerships, student inquiries from key source markets (e.g., China, Brazil, Vietnam), and any UKVI or Home Office guidance updates on English language verification, particularly for students transitioning from closed or non-accredited providers.",
       "impact": "Low",
       "sources": [],
       "dests": [
-        "UK"
+        "UK",
+        "Canada",
+        "Australia"
       ],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 7,
+      "relevanceScore": 8,
       "insightSource": "qwen"
     },
     {
       "id": 6,
-      "title": "MEC quer expandir ensino superior público com vagas de ensino a distância no novo governo Lula",
-      "source": "Folha de S.Paulo",
-      "color": "#154360",
-      "url": "https://redir.folha.com.br/redir/online/educacao/rss091/*https://www1.folha.uol.com.br/educacao/2026/11/mec-quer-expandir-ensino-superior-publico-com-vagas-de-ensino-a-distancia-no-novo-governo-lula.shtml",
+      "title": "Vietnam to end IELTS bonus points in university admissions from 2028",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/education/vietnam-to-end-ielts-bonus-points-in-university-admissions-from-2028-5144311.html",
       "pubDate": "2026-11-13",
-      "summary": "The Ministry of Education (MEC) plans to expand public and free higher education opportunities in the new Lula administration by increasing distance learning (EaD) vacancies. The expansion will focus on technology-related fields, including programming and artificial intelligence, as well as shorter-duration technological undergraduate programs (tecnólogos).",
-      "insight": "Brazil’s push to scale public, free EaD degrees—especially in tech and shorter tecnólogos—may gradually reduce outbound demand from price-sensitive students, though impact on high-intent, quality-focused applicants to English-speaking nations remains uncertain amid broader economic and visa factors.  \nAdmissions teams should track enrolment trends in these new Brazilian EaD programs and survey prospective students on perceptions of local vs. international tech credentials, particularly regarding AI and programming pathways.",
+      "summary": "Vietnam will eliminate IELTS bonus points in university admissions starting in 2028. Students with IELTS certificates or academic competition awards will no longer receive additional points for university entrance.",
+      "insight": "This policy shift may gradually increase outbound student demand from Vietnam as high-achieving candidates seek alternative pathways to competitive degrees, though its impact depends on concurrent domestic reforms and global perceptions of value-for-cost in Western education.  \nAdmissions teams should monitor Vietnamese student application volumes and IELTS score distributions post-2025, while assessing whether partner agents begin positioning their institutions as natural alternatives to domestic bonus-point advantages.",
+      "impact": "Low",
+      "sources": [
+        "Southeast Asia"
+      ],
+      "dests": [],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 7,
+      "title": "Are HK$500,000 ‘one-stop’ student hostel packages risking Hong Kong’s reputation?",
+      "source": "SCMP (Education)",
+      "color": "#7b241c",
+      "url": "https://www.scmp.com/news/hong-kong/education/article/3374501/are-hk500000-one-stop-student-hostel-packages-risking-hong-kongs-reputation",
+      "pubDate": "2026-11-16",
+      "summary": "Some Hong Kong hostel operators are selling “one-stop” accommodation and tutoring packages to non-local students for up to HK$500,000, making dubious claims that risk Hong Kong’s reputation as an education hub. The University of Hong Kong denied any affiliation with a self-proclaimed lecturer linked to one such operator.",
+      "insight": "This news may signal growing scrutiny of education-linked accommodation models in Hong Kong, potentially influencing Chinese students’ perceptions of value and regulatory safety—though direct spillover to Western destinations remains uncertain without evidence of broader regional policy shifts.  \nAdmissions teams should monitor Chinese social media and agent feedback for emerging concerns about cost transparency or academic integrity in third-party student services, while reviewing their own housing partnerships for compliance and reputational alignment.",
       "impact": "Low",
       "sources": [
         "China"
       ],
       "dests": [],
-      "translated": true,
-      "origLang": "pt",
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 8,
+      "title": "US universities oppose proposed $70,000 OPT fee: Could Indian students lose post-study work opportunities?",
+      "source": "Times of India (Edu)",
+      "color": "#d4820a",
+      "url": "https://timesofindia.indiatimes.com/education/news/us-universities-oppose-proposed-70000-opt-fee-could-indian-students-lose-post-study-work-opportunities/articleshow/135874245.cms",
+      "pubDate": "2026-11-16",
+      "summary": "The US Department of Homeland Security has proposed a $70,000 fee for an initial Optional Practical Training (OPT) recommendation and $30,000 for subsequent recommendations for international students, with the fee payable by the recommending institution rather than the student. The American Council on Education and 36 other higher education organizations have jointly urged the government to withdraw the proposal.",
+      "insight": "This proposed $70,000 OPT fee—though currently unenacted and facing strong institutional opposition—could dampen US appeal for Indian students if implemented, potentially shifting demand toward countries with more predictable, affordable post-study work pathways, though broader visa policy stability remains the stronger driver of choice.  \nAdmissions teams should track the proposal’s regulatory progress and monitor Indian student application trends across destinations, while preparing transparent, timely messaging about US work-authorization options to mitigate uncertainty without preempting policy outcomes.",
+      "impact": "Low",
+      "sources": [
+        "India"
+      ],
+      "dests": [
+        "USA"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 9,
+      "title": "Visa barriers push students from US and UK to Asia and Europe: survey",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/education/visa-barriers-push-students-from-us-and-uk-to-asia-and-europe-survey-5145059.html",
+      "pubDate": "2026-11-16",
+      "summary": "A global university survey found that international students are increasingly choosing universities in Asia and continental Europe over those in the United States and Britain. This shift is attributed to tighter visa regulations in the US and UK.",
+      "insight": "This news signals a potential recalibration in student demand, as tightening US and UK visa policies appear to be nudging applicants toward Asia and continental Europe—though causality remains correlational and source-market-specific factors like costs, safety, and post-study opportunities also shape decisions.  \nAdmissions teams should monitor application trends by region and nationality, track policy updates in key source markets, and assess how their visa support, immigration clarity, and post-study pathways compare with emerging competitors—noting that sentiment shifts may unfold gradually rather than abruptly.",
+      "impact": "Low",
+      "sources": [],
+      "dests": [
+        "USA",
+        "UK"
+      ],
+      "translated": false,
+      "origLang": null,
       "relevanceScore": 6,
       "insightSource": "qwen"
     }
