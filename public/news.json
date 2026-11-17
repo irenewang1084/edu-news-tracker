@@ -1,78 +1,80 @@
 {
-  "updated": "2026-11-16T07:31:54Z",
+  "updated": "2026-11-17T08:43:35Z",
   "count": 9,
-  "totalFetched": 165,
+  "totalFetched": 176,
   "articles": [
     {
       "id": 1,
-      "title": "Colleges report declines in international enrollment amid federal restrictions",
-      "source": "Higher Ed Dive",
-      "color": "#1e5631",
-      "url": "https://www.highereddive.com/news/colleges-report-declines-in-international-enrollment-amid-federal-restricti/874434/",
-      "pubDate": "2026-11-11",
-      "summary": "A recent survey found that nearly 60% of U.S. colleges experienced a decline in international graduate student enrollment this fall, while 45% reported a drop in international undergraduate enrollment. These declines are occurring amid federal restrictions on international students.",
-      "insight": "This news suggests U.S. federal policy shifts may be dampening international student demand, particularly for graduate programs, though it remains unclear how much this reflects broader global trends versus U.S.-specific visa or perception challenges.  \nAdmissions teams should monitor application volume and yield by region and level, track competitor messaging on visa support and post-study work rights, and assess whether source market sentiment surveys show growing concerns about U.S. study conditions.",
-      "impact": "High",
+      "title": "New Zealand student visa data: Only 64% of Indian applications approved in 2026; what applicants should know",
+      "source": "Times of India (Edu)",
+      "color": "#d4820a",
+      "url": "https://timesofindia.indiatimes.com/education/news/new-zealand-student-visa-data-only-64-of-indian-applications-approved-in-2026-what-applicants-should-know/articleshow/135885749.cms",
+      "pubDate": "2026-11-16",
+      "summary": "Between January and September 2026, Immigration New Zealand approved 64.1% of student visa applications from Indian nationals, significantly lower than the overall approval rate of 80.8%, based on 12,279 decisions made out of 13,895 applications received. Despite this lower approval rate for Indian applicants, New Zealand’s international student population grew to approximately 63,000.",
+      "insight": "This data suggests potential tightening of New Zealand’s student visa scrutiny for Indian nationals, which may indirectly influence Indian students’ destination preferences—though it’s unclear whether this reflects broader policy shifts or temporary processing factors amid rising global application volumes.  \nAdmissions teams should monitor India-specific approval trends across all target countries, review pre-application support resources for documentation rigor, and assess whether partner agents report increased student concerns about New Zealand’s visa predictability relative to alternatives.",
+      "impact": "Low",
+      "sources": [
+        "India"
+      ],
+      "dests": [
+        "New Zealand"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 9,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 2,
+      "title": "Breaking news: US court strikes down rule that would have ended Duration of Status (D/S) for international students",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/11/breaking-news-us-court-strikes-down-rule-that-would-have-ended-duration-of-status-d-s-for-international-students/",
+      "pubDate": "2026-11-17",
+      "summary": "On 16 November 2026, a U.S. federal judge in the District of Massachusetts struck down the Department of Homeland Security’s final rule that would have eliminated the Duration of Status (D/S) policy for international students, exchange visitors, and representatives of foreign media. The court ruled the rule was “arbitrary and capricious” under the Administrative Procedure Act.",
+      "insight": "This ruling temporarily preserves D/S for F-1, J-1, and I visa holders, potentially sustaining enrolment confidence among prospective students from high-volume markets like India, China, and Nigeria—though broader immigration policy uncertainty and economic factors remain stronger demand drivers than this single legal outcome.  \nAdmissions teams should track whether DHS appeals the decision or issues revised regulations, while reviewing messaging around visa stability and post-study work pathways to ensure alignment with current policy realities and student concerns in key source regions.",
+      "impact": "Low",
       "sources": [],
       "dests": [
         "USA"
       ],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 2,
-      "title": "Amidst high visa refusal rates and falling commencements, Australian government opens consultation on reforms to Genuine Student test and financial requirements",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/11/amidst-high-visa-refusal-rates-and-falling-commencements-australian-government-opens-consultation-on-reforms-to-genuine-student-test-and-financial-requirements/",
-      "pubDate": "2026-11-05",
-      "summary": "The Australian government has opened a consultation on potential reforms to the Genuine Student test and financial requirements for international student visa applications. This follows concerns about high visa refusal rates and declining student commencements, with Assistant Minister for International Education Julian Hill announcing the initiative at the Australian International Education Conference in late October.",
-      "insight": "Australia’s consultation on Genuine Student and financial requirement reforms signals possible easing of visa barriers, which could modestly improve its competitiveness—though actual policy changes, timing, and impact on enrolment demand remain uncertain amid broader global mobility trends.  \nAdmissions teams should track the consultation outcomes and any revised guidance from Home Affairs, while reviewing how their current messaging around Australian study pathways aligns with evolving perceptions of visa accessibility and post-study work prospects.",
-      "impact": "Medium",
-      "sources": [],
-      "dests": [
-        "Australia"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 8,
+      "relevanceScore": 9,
       "insightSource": "qwen"
     },
     {
       "id": 3,
-      "title": "New HEPI paper says the Home Office must share responsibility for international students with other Departments if the Government is to hit its own target for educational exports",
-      "source": "HEPI",
-      "color": "#4a235a",
-      "url": "https://www.hepi.ac.uk/2026/11/05/new-policy-note-one-sector-two-regulators/",
-      "pubDate": "2026-11-05",
-      "summary": "A new HEPI Policy Note argues that the Home Office must share responsibility for international students with other government departments to achieve the UK Government’s target for educational exports. The paper highlights growing political scrutiny of international students within broader immigration debates.",
-      "insight": "This news signals potential policy recalibration in the UK, where heightened Home Office involvement in international student oversight could lead to tighter visa scrutiny or administrative delays—though actual changes remain uncertain and dependent on interdepartmental coordination and political priorities.  \nAdmissions teams should monitor UKVI processing times, appeals data, and official guidance updates, while reviewing messaging to source markets to proactively address perceptions of visa complexity or unwelcoming policy signals.",
-      "impact": "Medium",
+      "title": "US judge tosses new visa rules for foreign students, journalists",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/education/us-judge-tosses-new-visa-rules-for-foreign-students-journalists-5145548.html",
+      "pubDate": "2026-11-17",
+      "summary": "A U.S. federal judge invalidated a Trump administration policy that sought to impose stricter time limits on visas for foreign students and journalists. The ruling blocks the implementation of the new visa rules, which would have curtailed the duration of stay for these nonimmigrant categories.",
+      "insight": "This ruling temporarily preserves existing visa duration flexibility for international students, potentially easing concerns about abrupt policy shifts—but its long-term impact on student demand remains uncertain given broader geopolitical and economic factors influencing study destination choices.  \nAdmissions teams should monitor subsequent appeals or replacement policies from the U.S. government, while reviewing messaging around visa stability and comparing U.S. conditions with those in the UK, Australia, and New Zealand to ensure competitive positioning remains accurate and timely.",
+      "impact": "Low",
       "sources": [],
       "dests": [
-        "UK"
+        "USA"
       ],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 8,
+      "relevanceScore": 9,
       "insightSource": "qwen"
     },
     {
       "id": 4,
-      "title": "Canada announces targets for new international student arrivals through 2029",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/11/canada-announces-targets-for-new-international-student-arrivals-through-2029/",
-      "pubDate": "2026-11-11",
-      "summary": "The Canadian government has announced temporary immigration targets for 2027, 2028, and 2029 as part of the 2027–2029 Immigration Levels Plan, released on 5 November alongside the federal budget. The plan sets an annual cap of 370,000 study permits for new international student arrivals during those years.",
-      "insight": "Canada’s 370,000-per-year cap on new study permits signals a deliberate move to stabilize international student numbers after recent growth and scrutiny, potentially shifting demand toward alternative destinations—but actual enrolment shifts depend on how strictly the cap is enforced and whether students perceive Canada as still accessible relative to visa processing times and post-study work prospects.  \nAdmissions teams should track Canadian application trends by region and cohort, monitor policy implementation details (e.g., exemptions for degree programs or provincial nominee pathways), and assess whether messaging around stability, affordability, and graduate outcomes needs refinement in key source markets where Canada remains a strong comparator.",
-      "impact": "Medium",
+      "title": "Tighter compliance not tactic to manage international student numbers, says UK Home Office",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/tighter-compliance-not-tactic-to-manage-international-student-numbers-says-uk-home-office/",
+      "pubDate": "2026-11-16",
+      "summary": "The UK Home Office has stated that there is no blanket policy to control the number of international students entering the UK through visa refusals or stricter compliance measures. This clarification was published in an article on The PIE News.",
+      "insight": "The UK Home Office’s denial of a deliberate cap on international student numbers suggests visa policy remains formally aligned with growth objectives, though rising refusal rates and compliance scrutiny may still dampen applicant confidence—particularly among students from high-risk or lower-income regions where perceptions of fairness and predictability heavily influence choice.  \nAdmissions teams should track UK visa refusal trends by nationality and institution type, review messaging around post-study work rights and compliance support, and assess whether partner agents or regional counsellors report shifting sentiment—not as an immediate crisis, but as part of ongoing market intelligence refinement.",
+      "impact": "Low",
       "sources": [],
       "dests": [
-        "Canada"
+        "UK"
       ],
       "translated": false,
       "origLang": null,
@@ -81,53 +83,53 @@
     },
     {
       "id": 5,
-      "title": "English UK spearheads effort to strengthen protections for language students affected by school closures",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/11/english-uk-spearheads-effort-to-strengthen-protections-for-language-students-affected-by-school-closures/",
-      "pubDate": "2026-11-03",
-      "summary": "English UK is leading an initiative to enhance protections for language students impacted by school closures. Recent closures have occurred across Ireland, the UK, Canada, the US, Australia, and Malta, straining partnerships between language schools and education agents.",
-      "insight": "This news signals potential volatility in the language pathway sector, which may indirectly affect demand for foundation and undergraduate programmes—especially where students rely on accredited language schools as visa-compliant entry routes—though direct impacts on university recruitment remain uncertain pending regulatory follow-up.  \nAdmissions teams should monitor shifts in agent partnerships, student inquiries from key source markets (e.g., China, Brazil, Vietnam), and any UKVI or Home Office guidance updates on English language verification, particularly for students transitioning from closed or non-accredited providers.",
-      "impact": "Low",
-      "sources": [],
+      "title": "Vietnamese student enrollment in US hits record high despite overall decline",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/education/vietnamese-student-enrollment-in-us-hits-record-high-despite-overall-decline-5145503.html",
+      "pubDate": "2026-11-17",
+      "summary": "Nearly 27,300 Vietnamese students are currently studying in the United States, the highest number ever recorded. This figure represents growth for Vietnam despite an overall decline in international student enrollment in the U.S.",
+      "insight": "Vietnam’s record-high enrollment amid broader U.S. international student declines suggests growing relative appeal—potentially driven by scholarship access, bilateral education ties, or shifting perceptions of U.S. visa stability—though causality remains unclear without granular data on visa issuance rates or cohort-specific motivations.  \nAdmissions teams should track Vietnamese applicants’ program preferences, funding sources, and post-study work uptake trends, while benchmarking against peer institutions’ recruitment investments in Vietnam to assess whether sustained growth warrants expanded local outreach or partnership development.",
+      "impact": "High",
+      "sources": [
+        "Southeast Asia"
+      ],
       "dests": [
-        "UK",
-        "Canada",
-        "Australia"
+        "USA"
       ],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 8,
+      "relevanceScore": 7,
       "insightSource": "qwen"
     },
     {
       "id": 6,
-      "title": "Vietnam to end IELTS bonus points in university admissions from 2028",
-      "source": "VnExpress (EN)",
-      "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/education/vietnam-to-end-ielts-bonus-points-in-university-admissions-from-2028-5144311.html",
-      "pubDate": "2026-11-13",
-      "summary": "Vietnam will eliminate IELTS bonus points in university admissions starting in 2028. Students with IELTS certificates or academic competition awards will no longer receive additional points for university entrance.",
-      "insight": "This policy shift may gradually increase outbound student demand from Vietnam as high-achieving candidates seek alternative pathways to competitive degrees, though its impact depends on concurrent domestic reforms and global perceptions of value-for-cost in Western education.  \nAdmissions teams should monitor Vietnamese student application volumes and IELTS score distributions post-2025, while assessing whether partner agents begin positioning their institutions as natural alternatives to domestic bonus-point advantages.",
+      "title": "Du học sinh Việt đến Mỹ đông kỷ lục giữa làn sóng sụt giảm",
+      "source": "VnExpress (Giáo dục)",
+      "color": "#b94500",
+      "url": "https://vnexpress.net/du-hoc-sinh-viet-den-my-dong-ky-luc-giua-lan-song-sut-giam-5145403.html",
+      "pubDate": "2026-11-17",
+      "summary": "Nearly 27,300 Vietnamese students are studying in the United States, the highest number on record. This growth contrasts with an overall decline in international student enrollment in the U.S.",
+      "insight": "Vietnamese student enrollment in the U.S. reaching a record 27,300—amid broader international declines—suggests sustained demand from this high-performing Southeast Asian market, though it remains unclear whether this reflects unique policy advantages, scholarship uptake, or shifting regional preferences rather than a broad trend reversal.  \nAdmissions teams should track Vietnamese application volumes, visa approval rates, and competitor activity in Vietnam—including U.S. institutions’ recruitment investments and messaging—while benchmarking against peer destinations to assess relative appeal and inform targeted outreach adjustments.",
       "impact": "Low",
       "sources": [
         "Southeast Asia"
       ],
       "dests": [],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 8,
+      "translated": true,
+      "origLang": "vi",
+      "relevanceScore": 7,
       "insightSource": "qwen"
     },
     {
       "id": 7,
-      "title": "Are HK$500,000 ‘one-stop’ student hostel packages risking Hong Kong’s reputation?",
+      "title": "Hong Kong VTC courses touted as short cut to residency for babies of mainland mothers",
       "source": "SCMP (Education)",
       "color": "#7b241c",
-      "url": "https://www.scmp.com/news/hong-kong/education/article/3374501/are-hk500000-one-stop-student-hostel-packages-risking-hong-kongs-reputation",
-      "pubDate": "2026-11-16",
-      "summary": "Some Hong Kong hostel operators are selling “one-stop” accommodation and tutoring packages to non-local students for up to HK$500,000, making dubious claims that risk Hong Kong’s reputation as an education hub. The University of Hong Kong denied any affiliation with a self-proclaimed lecturer linked to one such operator.",
-      "insight": "This news may signal growing scrutiny of education-linked accommodation models in Hong Kong, potentially influencing Chinese students’ perceptions of value and regulatory safety—though direct spillover to Western destinations remains uncertain without evidence of broader regional policy shifts.  \nAdmissions teams should monitor Chinese social media and agent feedback for emerging concerns about cost transparency or academic integrity in third-party student services, while reviewing their own housing partnerships for compliance and reputational alignment.",
+      "url": "https://www.scmp.com/news/hong-kong/education/article/3373694/hong-kong-vtc-courses-touted-short-cut-residency-babies-mainland-mothers",
+      "pubDate": "2026-11-09",
+      "summary": "Agencies in mainland China are promoting Vocational Training Council (VTC) courses to pregnant women as a low-cost pathway—under HK$100,000 including commission—to secure Hong Kong residency and passports for their newborns. These agencies claim the resulting Hong Kong permanent identity would facilitate easier admission to top-tier mainland universities and eligibility for civil service jobs, though the article notes criticism without specifying its nature.",
+      "insight": "This news signals potential shifts in mainland Chinese families’ education and residency strategies, possibly reducing long-term demand for Western undergraduate degrees if Hong Kong’s residency pathways via vocational study gain traction—though actual enrolment impact remains uncertain without data on uptake or policy durability.  \nAdmissions teams should monitor HK immigration policy updates and VTC enrolment trends among mainland students, while assessing whether such schemes influence perceptions of Hong Kong as a stepping stone to global education or civil service advantages in China.",
       "impact": "Low",
       "sources": [
         "China"
@@ -135,47 +137,46 @@
       "dests": [],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 8,
+      "relevanceScore": 6,
       "insightSource": "qwen"
     },
     {
       "id": 8,
-      "title": "US universities oppose proposed $70,000 OPT fee: Could Indian students lose post-study work opportunities?",
-      "source": "Times of India (Edu)",
-      "color": "#d4820a",
-      "url": "https://timesofindia.indiatimes.com/education/news/us-universities-oppose-proposed-70000-opt-fee-could-indian-students-lose-post-study-work-opportunities/articleshow/135874245.cms",
-      "pubDate": "2026-11-16",
-      "summary": "The US Department of Homeland Security has proposed a $70,000 fee for an initial Optional Practical Training (OPT) recommendation and $30,000 for subsequent recommendations for international students, with the fee payable by the recommending institution rather than the student. The American Council on Education and 36 other higher education organizations have jointly urged the government to withdraw the proposal.",
-      "insight": "This proposed $70,000 OPT fee—though currently unenacted and facing strong institutional opposition—could dampen US appeal for Indian students if implemented, potentially shifting demand toward countries with more predictable, affordable post-study work pathways, though broader visa policy stability remains the stronger driver of choice.  \nAdmissions teams should track the proposal’s regulatory progress and monitor Indian student application trends across destinations, while preparing transparent, timely messaging about US work-authorization options to mitigate uncertainty without preempting policy outcomes.",
-      "impact": "Low",
-      "sources": [
-        "India"
-      ],
-      "dests": [
-        "USA"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 9,
-      "title": "Visa barriers push students from US and UK to Asia and Europe: survey",
-      "source": "VnExpress (EN)",
-      "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/education/visa-barriers-push-students-from-us-and-uk-to-asia-and-europe-survey-5145059.html",
-      "pubDate": "2026-11-16",
-      "summary": "A global university survey found that international students are increasingly choosing universities in Asia and continental Europe over those in the United States and Britain. This shift is attributed to tighter visa regulations in the US and UK.",
-      "insight": "This news signals a potential recalibration in student demand, as tightening US and UK visa policies appear to be nudging applicants toward Asia and continental Europe—though causality remains correlational and source-market-specific factors like costs, safety, and post-study opportunities also shape decisions.  \nAdmissions teams should monitor application trends by region and nationality, track policy updates in key source markets, and assess how their visa support, immigration clarity, and post-study pathways compare with emerging competitors—noting that sentiment shifts may unfold gradually rather than abruptly.",
+      "title": "UK business schools report declining international enrolments and predict the downturn will persist through 2027",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/11/uk-business-schools-report-declining-international-enrolments-and-predict-the-downturn-will-persist-through-2027/",
+      "pubDate": "2026-11-11",
+      "summary": "UK business schools reported declining international enrolments in the 2026 Chartered Association of Business Schools Annual Membership Survey and anticipate the downturn will continue through 2027. This trend is attributed primarily to current and forthcoming UK government policies that are complicating overseas recruitment and deterring some international students.",
+      "insight": "UK business schools’ reported enrolment decline—tied to restrictive UK immigration policies—may signal softening demand from key source markets, though it remains unclear whether this reflects broader global shifts or UK-specific policy impacts.  \nAdmissions teams should monitor application trends from overlapping origin regions (e.g., India, Nigeria, China), track competitor messaging on visa stability, and assess whether peer institutions are adjusting recruitment tactics in response to perceived UK policy risk.",
       "impact": "Low",
       "sources": [],
       "dests": [
-        "USA",
         "UK"
       ],
       "translated": false,
       "origLang": null,
+      "relevanceScore": 6,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 9,
+      "title": "Tiến sĩ ở Australia lập nhóm nghiên cứu toàn sinh viên Việt Nam",
+      "source": "VnExpress (Giáo dục)",
+      "color": "#b94500",
+      "url": "https://vnexpress.net/tien-si-o-australia-lap-nhom-nghien-cuu-toan-sinh-vien-viet-nam-5136135.html",
+      "pubDate": "2026-11-15",
+      "summary": "Dr. Le Minh Trung, a researcher at Monash University in Australia, leads a research group composed entirely of Vietnamese undergraduate and graduate students. After teaching classes at Monash, he conducts online research sessions with the group, resulting in dozens of papers published at top-tier international AI conferences.",
+      "insight": "This news hints at growing academic confidence among Southeast Asian students, potentially reflecting stronger interest in research-intensive pathways abroad—but it’s unclear whether this reflects broader demand shifts or remains an isolated case driven by individual mentorship.  \nAdmissions teams should monitor Vietnamese and wider Southeast Asian application trends for research-focused programs, especially those with remote collaboration components, while assessing how alumni success stories like this influence institutional reputation and student decision-making.",
+      "impact": "Low",
+      "sources": [
+        "Southeast Asia"
+      ],
+      "dests": [
+        "Australia"
+      ],
+      "translated": true,
+      "origLang": "vi",
       "relevanceScore": 6,
       "insightSource": "qwen"
     }
