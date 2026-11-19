@@ -1,36 +1,55 @@
 {
-  "updated": "2026-11-18T08:07:13Z",
-  "count": 4,
-  "totalFetched": 173,
+  "updated": "2026-11-19T08:09:47Z",
+  "count": 9,
+  "totalFetched": 181,
   "articles": [
     {
       "id": 1,
-      "title": "Canada announces targets for new international student arrivals through 2029",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/11/canada-announces-targets-for-new-international-student-arrivals-through-2029/",
-      "pubDate": "2026-11-11",
-      "summary": "The Canadian government has announced temporary immigration targets for 2027, 2028, and 2029 as part of the 2027–2029 Immigration Levels Plan, released on 5 November alongside the federal budget. The plan sets an annual cap of 370,000 study permits for new international student arrivals during those years.",
-      "insight": "Canada’s 370,000-per-year cap on new study permits signals a deliberate move to stabilize international student numbers after recent growth and scrutiny, potentially shifting demand toward alternative destinations—but actual enrolment shifts depend on how strictly the cap is enforced and whether it affects perceived quality or post-study work prospects.  \nAdmissions teams should track Canadian visa processing times, provincial policy adjustments, and real-time source-market sentiment—especially among high-potential applicants from India, Nigeria, and China—to assess whether this cap meaningfully alters competitor attractiveness or creates near-term recruitment opportunities.",
-      "impact": "Medium",
+      "title": "DHS’ 4-year cap on student visa stays struck down by federal judge",
+      "source": "Higher Ed Dive",
+      "color": "#1e5631",
+      "url": "https://www.highereddive.com/news/dhs-4-year-cap-on-student-visa-stays-struck-down-by-federal-judge/874977/",
+      "pubDate": "2026-11-17",
+      "summary": "A federal judge struck down the Department of Homeland Security’s four-year cap on student visa stays. The judge ruled that the law does not grant DHS broad and open-ended authority to undermine the student visa program.",
+      "insight": "This ruling temporarily removes a restrictive U.S. visa policy, potentially improving perceived stability and long-term study prospects for international students—though broader U.S. visa processing delays, costs, and post-study work rules remain dominant demand drivers across all destination countries.  \nAdmissions teams should track whether this decision leads to measurable increases in U.S.-bound applications from key markets like India or China, while continuing to benchmark against UK, Australia, and New Zealand’s evolving post-study work and dependant policies.",
+      "impact": "High",
       "sources": [],
       "dests": [
-        "Canada"
+        "USA"
       ],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 8,
+      "relevanceScore": 9,
       "insightSource": "qwen"
     },
     {
       "id": 2,
-      "title": "Federal court scraps Trump’s four-year limit on international students’ stays",
+      "title": "UKVI rejects 80% of students called to interview as visa refusals surge",
       "source": "The PIE News",
       "color": "#7b341e",
-      "url": "https://thepienews.com/federal-court-scraps-trumps-four-year-limit-on-international-students-stays/",
+      "url": "https://thepienews.com/ukvi-rejects-80-of-students-called-to-interview-as-visa-refusals-surge/",
+      "pubDate": "2026-11-18",
+      "summary": "New data obtained by The PIE shows that UK Visas and Immigration (UKVI) rejected 79% of prospective international students who were called for a credibility interview over a six-month period. This high refusal rate coincides with an overall surge in student visa refusals.",
+      "insight": "This news signals potential tightening of UK student visa scrutiny, which may dampen UK appeal for risk-averse applicants—though it’s unclear whether this reflects broader policy shifts or temporary operational factors affecting applicant selection.  \nAdmissions teams should monitor UK refusal trends by nationality and qualification type, while reviewing pre-application support to ensure documentation rigor aligns with heightened credibility expectations.",
+      "impact": "High",
+      "sources": [],
+      "dests": [
+        "UK"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 9,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 3,
+      "title": "US court strikes down rule that would have ended Duration of Status (D/S) for international students",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/11/breaking-news-us-court-strikes-down-rule-that-would-have-ended-duration-of-status-d-s-for-international-students/",
       "pubDate": "2026-11-17",
-      "summary": "A federal court in Massachusetts has struck down a Department of Homeland Security rule that imposed a four-year limit on the stays of international students, exchange visitors, and foreign media representatives. The ruling reinstates the previous Duration of Status policy, which allowed these individuals to remain in the U.S. for the duration of their approved programs plus applicable grace periods.",
-      "insight": "This ruling temporarily eases U.S. visa uncertainty for international students by restoring indefinite program-based stays, potentially improving the U.S.’s competitiveness against the UK, Australia, and New Zealand—though broader immigration sentiment and enforcement practices remain key demand drivers.  \nAdmissions teams should track how U.S. universities communicate this change to prospective students, monitor application trends from high-intent markets like India and China, and assess whether peer institutions adjust messaging or recruitment timelines in response.",
+      "summary": "On 16 November 2026, a U.S. federal judge in the District of Massachusetts struck down the Department of Homeland Security’s final rule that would have eliminated the Duration of Status (D/S) policy for international students, exchange visitors, and foreign media representatives. The court ruled the rule was “arbitrary and capricious” under the Administrative Procedure Act.",
+      "insight": "This ruling preserves the current D/S framework for F-1, J-1, and I visa holders, potentially sustaining enrolment confidence among prospective students from high-volume regions like India, China, and Nigeria—though broader immigration policy uncertainty and economic factors remain stronger demand drivers than this single litigation outcome.  \nAdmissions teams should track subsequent DHS appeals or revised regulatory proposals, while updating compliance training and advising agents on stable D/S validity—no immediate policy changes are expected, but continued vigilance on U.S. visa adjudication trends and competitor messaging is prudent.",
       "impact": "Low",
       "sources": [],
       "dests": [
@@ -38,43 +57,122 @@
       ],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 8,
+      "relevanceScore": 9,
       "insightSource": "qwen"
     },
     {
-      "id": 3,
-      "title": "US proposes tougher Green Card sponsorship rules; what Indian graduates seeking EB-2 and EB-3 visas should know",
+      "id": 4,
+      "title": "Vietnamese student enrollment in US hits record high despite overall decline",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/education/vietnamese-student-enrollment-in-us-hits-record-high-despite-overall-decline-5145503.html",
+      "pubDate": "2026-11-17",
+      "summary": "Nearly 27,300 Vietnamese students are currently studying in the United States, the highest number ever recorded. This figure represents growth for Vietnam despite an overall decline in international student enrollment in the U.S.",
+      "insight": "Vietnam’s record-high enrollment amid broader U.S. international student declines suggests growing relative appeal—potentially driven by scholarship access, bilateral education ties, or shifting perceptions of U.S. visa stability—though causality remains unclear without granular data on visa issuance rates or cohort-specific motivations.  \nAdmissions teams should track Vietnamese applicants’ program preferences, funding sources, and post-study work uptake trends, while benchmarking against peer institutions’ recruitment investments in Vietnam to assess whether sustained growth warrants expanded local outreach or partnership development.",
+      "impact": "High",
+      "sources": [
+        "Southeast Asia"
+      ],
+      "dests": [
+        "USA"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 7,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 5,
+      "title": "US Open Doors 2026: Why Indian student enrolments are falling even as post-study work numbers surge",
       "source": "Times of India (Edu)",
       "color": "#d4820a",
-      "url": "https://timesofindia.indiatimes.com/education/news/us-proposes-tougher-green-card-sponsorship-rules-what-indian-graduates-seeking-eb-2-and-eb-3-visas-should-know/articleshow/135947362.cms",
+      "url": "https://timesofindia.indiatimes.com/education/news/us-open-doors-2026-why-indian-student-enrolments-are-falling-even-as-post-study-work-numbers-surge/articleshow/135977791.cms",
+      "pubDate": "2026-11-19",
+      "summary": "The Open Doors 2026 report shows Indian graduate student enrolments in the US fell 34.4% to 116,609 in 2025–26, while the number of Indian students on Optional Practical Training (OPT) rose 26.8% to a record 182,201. Although India remains the largest source of international students in the US, declining new enrolments, visa challenges, rising costs, and global competition are affecting Indian postgraduate study abroad trends.",
+      "insight": "The sharp drop in new Indian graduate enrolments—despite rising OPT participation—suggests potential shifts in timing, pathway preferences, or destination diversification, though it remains unclear whether this reflects temporary visa processing delays, strategic deferrals, or deeper erosion of US appeal for initial study.  \nAdmissions teams should track Indian student applications across entry points (e.g., foundation, undergraduate, direct PhD), monitor OPT-to-H-1B transition rates and UK/Australia post-study work policy updates, and assess whether service partners report changing counselling narratives around US value proposition.",
+      "impact": "High",
+      "sources": [
+        "India"
+      ],
+      "dests": [],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 7,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 6,
+      "title": "Du học sinh Việt đến Mỹ đông kỷ lục giữa làn sóng sụt giảm",
+      "source": "VnExpress (Giáo dục)",
+      "color": "#b94500",
+      "url": "https://vnexpress.net/du-hoc-sinh-viet-den-my-dong-ky-luc-giua-lan-song-sut-giam-5145403.html",
+      "pubDate": "2026-11-17",
+      "summary": "Nearly 27,300 Vietnamese students are studying in the United States, the highest number on record. This growth contrasts with an overall decline in international student enrollment in the U.S.",
+      "insight": "Vietnamese student enrollment in the U.S. reaching a record 27,300—amid broader international declines—suggests sustained demand from this high-performing Southeast Asian market, though it remains unclear whether this reflects unique policy advantages, scholarship uptake, or shifting regional preferences rather than a broad trend reversal.  \nAdmissions teams should track Vietnamese application volumes, visa approval rates, and competitor activity in Vietnam—including U.S. institutions’ recruitment investments and messaging—while benchmarking against peer destinations to assess relative appeal and inform targeted outreach adjustments.",
+      "impact": "Low",
+      "sources": [
+        "Southeast Asia"
+      ],
+      "dests": [],
+      "translated": true,
+      "origLang": "vi",
+      "relevanceScore": 7,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 7,
+      "title": "Campus France recebe inscrições para brasileiros estudarem na França em 2027",
+      "source": "Folha de S.Paulo",
+      "color": "#154360",
+      "url": "https://redir.folha.com.br/redir/online/educacao/rss091/*https://www1.folha.uol.com.br/educacao/2026/11/campus-france-recebe-inscricoes-para-brasileiros-estudarem-na-franca-em-2027.shtml",
       "pubDate": "2026-11-18",
-      "summary": "The US Department of Labor has proposed stricter Green Card sponsorship rules under the PERM program, including longer job advertisements, stricter recruitment requirements, additional restrictions on employers that have conducted layoffs, and the removal of Schedule A exemptions. Published on November 17, 2026, the proposal is open for public comment and does not impact F-1, OPT, or STEM OPT eligibility.",
-      "insight": "This proposal signals potential long-term tightening of US permanent residency pathways for Indian graduates, which may subtly influence perceptions of post-study settlement viability—though immediate impacts on student enrollment decisions remain uncertain given the proposal’s consultative stage and separation from temporary visa categories.  \nAdmissions teams should monitor public comment outcomes and final rule implementation timelines, while reviewing messaging around US career pathways to ensure transparency about evolving green card prospects without amplifying unwarranted concern among prospective Indian applicants.",
+      "summary": "Campus France is currently accepting applications from Brazilian students who wish to pursue undergraduate or master’s degree programs in France starting in 2027. The announcement was published on November 18, 2026, at 6:00 a.m.",
+      "insight": "This news signals potential shifts in Brazilian student preferences toward European destinations, possibly reflecting evolving perceptions of affordability, post-study work opportunities, or geopolitical factors—though it remains unclear whether this represents a structural trend or short-term response to specific policy changes in France or competing countries.  \nAdmissions teams should monitor Brazilian application volumes and enrolment trends over the next 12–18 months, particularly for undergraduate and master’s programs, while reviewing their value propositions on cost, career outcomes, and visa stability relative to France’s updated offerings.",
+      "impact": "Low",
+      "sources": [
+        "China",
+        "Latin America"
+      ],
+      "dests": [],
+      "translated": true,
+      "origLang": "pt",
+      "relevanceScore": 7,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 8,
+      "title": "Shoolini and Edinburgh partner on engineering degrees across India and the UK",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/shoolini-and-edinburgh-partner-on-engineering-degrees-across-india-and-the-uk/",
+      "pubDate": "2026-11-19",
+      "summary": "Shoolini University and the University of Edinburgh have partnered to offer joint engineering degree programs spanning India and the UK. Students will study engineering in both countries, with Shoolini subsidising the program and strengthening teaching and research collaboration with Edinburgh.",
+      "insight": "This partnership signals growing demand for transnational engineering education, potentially reflecting Indian students’ increasing preference for globally recognised degrees with mobility—though it remains unclear whether this will divert applicants from traditional Anglophone destinations or instead raise overall aspiration levels.  \nAdmissions teams should monitor uptake and graduate outcomes of this programme, as well as any policy shifts in UK-India academic collaboration or student visa pathways, to assess whether similar dual-location models could strengthen their own value proposition in the Indian market.",
       "impact": "Low",
       "sources": [
         "India"
       ],
       "dests": [
-        "USA"
+        "UK"
       ],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 8,
+      "relevanceScore": 7,
       "insightSource": "qwen"
     },
     {
-      "id": 4,
-      "title": "“Students are talking”: NUS president warns moving goalposts are costing Brand UK",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/students-are-talking-nus-president-warns-moving-goalposts-are-costing-brand-uk/",
-      "pubDate": "2026-11-17",
-      "summary": "Favour Samuel, the first international student to serve as president of NUS England, has warned that shifting immigration rules and visa refusals are damaging the UK’s global reputation among international students. She highlighted that students are openly sharing their negative experiences, which is eroding “Brand UK.”",
-      "insight": "This news signals potential softening in UK appeal for international students, as visible policy volatility and negative peer narratives may dampen demand—though empirical enrolment data and regional variations mean the impact remains uncertain and likely uneven across source markets.  \nAdmissions teams should track real-time sentiment shifts in key feeder countries via social listening and agent feedback, while reviewing how their visa support, post-study work messaging, and comparative value propositions differentiate them amid growing global competition for mobile talent.",
-      "impact": "Low",
+      "id": 9,
+      "title": "Canada announces targets for new international student arrivals through 2029",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/11/canada-announces-targets-for-new-international-student-arrivals-through-2029/",
+      "pubDate": "2026-11-11",
+      "summary": "The Canadian government announced temporary immigration targets for 2027, 2028, and 2029 as part of the 2027–2029 Immigration Levels Plan, released on 5 November alongside the federal budget. The plan sets an annual cap of 370,000 permits for new international student arrivals to support sustainable immigration, stability, predictability, and economic growth.",
+      "insight": "Canada’s 370,000-per-year cap on new international student permits signals a deliberate shift toward managed growth, which may indirectly influence global student mobility patterns—though demand shifts in other destinations will depend on how source markets perceive Canada’s stability versus competing nations’ policy consistency and post-study opportunities.  \nAdmissions teams should monitor real-time application trends from key shared source markets (e.g., India, Nigeria, Philippines), track visa processing times and refusal rates in Canada, and assess whether its tightened controls create modest near-term opportunity to reinforce their own value propositions around employability and regulatory clarity.",
+      "impact": "Medium",
       "sources": [],
       "dests": [
-        "UK"
+        "Canada"
       ],
       "translated": false,
       "origLang": null,
