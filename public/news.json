@@ -1,17 +1,17 @@
 {
-  "updated": "2026-11-23T08:28:32Z",
-  "count": 7,
-  "totalFetched": 150,
+  "updated": "2026-11-24T10:32:30Z",
+  "count": 9,
+  "totalFetched": 152,
   "articles": [
     {
       "id": 1,
-      "title": "DHS’ 4-year cap on student visa stays struck down by federal judge",
+      "title": "Court blocks DHS policy limiting international student training opportunities",
       "source": "Higher Ed Dive",
       "color": "#1e5631",
-      "url": "https://www.highereddive.com/news/dhs-4-year-cap-on-student-visa-stays-struck-down-by-federal-judge/874977/",
-      "pubDate": "2026-11-17",
-      "summary": "A federal judge struck down the Department of Homeland Security’s four-year cap on student visa stays. The judge ruled that the law does not grant DHS broad and open-ended authority to undermine the student visa program.",
-      "insight": "This ruling temporarily removes a restrictive U.S. visa policy, potentially improving perceived stability and long-term study prospects for international students—though actual demand shifts will depend on broader factors like tuition costs, post-study work rights, and geopolitical sentiment across key source markets.  \nAdmissions teams should track U.S. government appeals or new regulatory proposals, while benchmarking how peer institutions in the UK, Australia, and New Zealand position their own visa pathways and graduate outcomes to maintain competitive appeal.",
+      "url": "https://www.highereddive.com/news/court-blocks-dhs-policy-limiting-international-student-training-opportuniti/875132/",
+      "pubDate": "2026-11-18",
+      "summary": "A federal judge ruled that higher education groups challenging new Department of Homeland Security limits on the Curricular Practical Training (CPT) program are likely to succeed. As a result, the court blocked the DHS policy restricting international student training opportunities.",
+      "insight": "This ruling temporarily halts U.S. restrictions on Curricular Practical Training, potentially preserving post-study work access for international students—a key factor in destination choice—though broader visa policy uncertainty and competing global pathways mean demand shifts remain contingent on enforcement and appeals.  \nAdmissions teams should track the legal outcome’s finality, DHS’s next steps, and comparative CPT/OPT clarity versus UK/Australia/NZ graduate work rights, while ensuring recruitment messaging accurately reflects current U.S. training eligibility without overpromising pending policy resolution.",
       "impact": "High",
       "sources": [],
       "dests": [
@@ -19,121 +19,160 @@
       ],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 9,
+      "relevanceScore": 10,
       "insightSource": "qwen"
     },
     {
       "id": 2,
-      "title": "Canada announces targets for new international student arrivals through 2029",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/11/canada-announces-targets-for-new-international-student-arrivals-through-2029/",
-      "pubDate": "2026-11-11",
-      "summary": "The Canadian government has announced temporary immigration targets for 2027, 2028, and 2029 as part of the 2027–2029 Immigration Levels Plan, released on 5 November alongside the federal budget. The plan sets an annual cap of 370,000 study permits for new international student arrivals during those years.",
-      "insight": "Canada’s 370,000-per-year cap on new study permits signals a deliberate move to stabilize international student numbers after recent growth and scrutiny, potentially shifting demand toward alternative destinations—but actual enrolment shifts depend on how strictly the cap is enforced and whether it affects perceived quality or post-study work prospects.  \nAdmissions teams should track Canadian visa processing times, provincial policy adjustments, and real-time source-market sentiment—especially among high-potential applicants from India, Nigeria, and China—to assess whether this cap meaningfully alters competitor attractiveness or creates near-term recruitment opportunities.",
+      "title": "International students decrease, Australian universities massively lay off students",
+      "source": "VnExpress (Giáo dục)",
+      "color": "#b94500",
+      "url": "https://vnexpress.net/du-hoc-sinh-giam-dai-hoc-australia-o-at-sa-thai-5144836.html",
+      "pubDate": "2026-11-24",
+      "summary": "The University of Melbourne cut nearly 180 employees due to a decline in international student numbers and five consecutive years of insufficient revenue. Other Australian universities are implementing similar staff reductions.",
+      "insight": "This news signals potential softening in Australia’s appeal to international students, possibly reflecting broader shifts in source market preferences, visa policy perceptions, or value-for-money calculations—though it may also stem from institution-specific financial management rather than systemic demand decline.  \nAdmissions teams should monitor Australian competitor enrolment data, visa refusal trends, and student sentiment surveys from key markets like India and China, while assessing whether their own value propositions align with evolving expectations around post-study work rights and cost-of-living transparency.",
       "impact": "Medium",
       "sources": [],
       "dests": [
-        "Canada"
+        "Australia"
       ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 9,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 3,
-      "title": "US court strikes down rule that would have ended Duration of Status (D/S) for international students",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/11/breaking-news-us-court-strikes-down-rule-that-would-have-ended-duration-of-status-d-s-for-international-students/",
-      "pubDate": "2026-11-17",
-      "summary": "On 16 November 2026, a U.S. federal judge in the District of Massachusetts struck down the Department of Homeland Security’s final rule that would have eliminated the Duration of Status (D/S) policy for international students, exchange visitors, and foreign media representatives. The court ruled the regulation was “arbitrary and capricious” under the Administrative Procedure Act.",
-      "insight": "This ruling preserves the current D/S framework for F-1, J-1, and I visa holders, potentially sustaining enrolment stability for U.S. institutions—though its direct impact on global demand remains uncertain given broader geopolitical, economic, and reputational factors influencing student choices.  \nAdmissions teams should monitor U.S. DHS appeals activity, policy developments in other destination countries responding to this decision, and source-market sentiment shifts—particularly among Asian and Latin American prospects weighing U.S. visa predictability against alternatives like the UK’s Graduate Route or Australia’s post-study work reforms.",
-      "impact": "Low",
-      "sources": [],
-      "dests": [
-        "USA"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 9,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 4,
-      "title": "New Zealand moves graduate work visa applications online, extends post-study work rights for Indian PhD graduates",
-      "source": "Times of India (Edu)",
-      "color": "#d4820a",
-      "url": "https://timesofindia.indiatimes.com/education/news/new-zealand-moves-graduate-work-visa-applications-online-extends-post-study-work-rights-for-indian-phd-graduates/articleshow/136088415.cms",
-      "pubDate": "2026-11-23",
-      "summary": "New Zealand has moved Post-Study Work Visa and Short-Term Graduate Work Visa applications to its enhanced Immigration Online platform, effective November 23, 2026. The country has also expanded post-study work visa eligibility to certain graduate diploma holders, introduced a six-month graduate work visa for eligible international students, and extended the maximum post-study work visa duration for Indian PhD graduates from three to four years.",
-      "insight": "This policy shift signals New Zealand’s targeted effort to retain high-value Indian STEM talent, potentially intensifying competition for top PhD candidates—though broader demand impacts remain uncertain given limited scope and regional specificity.  \nAdmissions teams should monitor Indian student application trends to NZ universities and track whether these changes correlate with shifts in enrolment or visa decision timelines, especially for PhD and graduate diploma pathways.",
-      "impact": "Low",
-      "sources": [
-        "India"
-      ],
-      "dests": [
-        "New Zealand"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 9,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 5,
-      "title": "Record £400m Erasmus+ funding opens international opportunities for UK",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/record-400m-erasmus-funding-opens-international-opportunities-for-uk/",
-      "pubDate": "2026-11-19",
-      "summary": "Applications have opened for a record £400 million in Erasmus+ funding for the UK. More than 100,000 people across the UK are expected to benefit from international education, training, and development opportunities through this funding.",
-      "insight": "This £400m Erasmus+ funding boost signals renewed UK government commitment to international mobility, potentially reinforcing perceptions of the UK as an accessible, globally connected study destination—though its direct impact on non-EU undergraduate demand remains uncertain amid broader visa and post-study work policy shifts.  \nAdmissions teams should monitor uptake patterns among UK-based Erasmus+ participants (e.g., short-term exchanges, staff mobility) for early indicators of strengthened institutional partnerships or shifting student preferences, while cross-referencing with Home Office visa statistics and source-market sentiment surveys over the next 6–12 months.",
-      "impact": "High",
-      "sources": [],
-      "dests": [
-        "UK"
-      ],
-      "translated": false,
-      "origLang": null,
+      "translated": true,
+      "origLang": "vi",
       "relevanceScore": 8,
       "insightSource": "qwen"
     },
     {
-      "id": 6,
-      "title": "Campus France recebe inscrições para brasileiros estudarem na França em 2027",
+      "id": 3,
+      "title": "New Enamed gets closer to exams applied in the USA and other countries",
       "source": "Folha de S.Paulo",
       "color": "#154360",
-      "url": "https://redir.folha.com.br/redir/online/educacao/rss091/*https://www1.folha.uol.com.br/educacao/2026/11/campus-france-recebe-inscricoes-para-brasileiros-estudarem-na-franca-em-2027.shtml",
-      "pubDate": "2026-11-18",
-      "summary": "Campus France is currently accepting applications from Brazilian students who wish to pursue undergraduate or master’s degree programs in France starting in 2027. The announcement was published on November 18, 2026, at 6:00 a.m.",
-      "insight": "This news signals potential shifts in Brazilian student preferences toward European destinations, possibly reflecting evolving perceptions of affordability, post-study work opportunities, or geopolitical factors—though it remains unclear whether this represents a structural trend or short-term response to specific policy changes in France or competing countries.  \nAdmissions teams should monitor Brazilian application volumes and yield rates over the next 6–12 months, while reviewing their value propositions—especially scholarship offerings, career support, and visa guidance—to ensure competitiveness amid growing diversification of destination choices among high-potential Latin American applicants.",
+      "url": "https://redir.folha.com.br/redir/online/educacao/rss091/*https://www1.folha.uol.com.br/educacao/2026/11/novo-enamed-se-aproxima-de-exames-aplicados-nos-eua-e-em-outros-paises.shtml",
+      "pubDate": "2026-11-21",
+      "summary": "Brazil’s Enamed (National Medical Training Assessment Examination) has been made mandatory for new doctors’ registration following a law sanctioned by President Lula in early November 2026. This change aligns Brazil with other countries that require standardized assessments to verify minimum medical training standards before licensure.",
+      "insight": "Brazil’s new mandatory Enamed exam may gradually shift some Latin American students—particularly those previously considering domestic medical training—toward international programs in the USA, UK, Australia, or New Zealand, though demand impacts remain uncertain given local capacity, cost barriers, and existing bilateral recognition pathways.  \nAdmissions teams should track Enamed pass rates, Brazilian Ministry of Education policy updates, and student survey data on post-Enamed intentions—noting that any meaningful enrollment uptick would likely unfold over 2–3 years and require targeted outreach to pre-med and early-med cohorts.",
       "impact": "Low",
       "sources": [
-        "China",
         "Latin America"
       ],
-      "dests": [],
+      "dests": [
+        "USA"
+      ],
       "translated": true,
       "origLang": "pt",
       "relevanceScore": 8,
       "insightSource": "qwen"
     },
     {
-      "id": 7,
-      "title": "200k UK-EU youth mobility places agreed as tuition fee decision delayed",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/200k-uk-eu-youth-mobility-places-agreed-as-tuition-fee-decision-delayed/",
-      "pubDate": "2026-11-20",
-      "summary": "The UK and EU have agreed on a youth mobility scheme providing 100,000 places for young people from each side to live, work, and study in the other region for up to three years, totaling 200,000 places. A decision regarding university tuition fees for participants in the scheme has been delayed by six months.",
-      "insight": "This agreement signals potential shifts in European and UK youth mobility preferences, possibly dampening short-term demand for traditional degree pathways among 18–30-year-olds—though its direct impact on international undergraduate or postgraduate enrolments remains uncertain given the scheme’s focus on work-and-study flexibility rather than formal academic credit.  \nAdmissions teams should monitor uptake data and participant feedback over the next 6–12 months, particularly regarding whether delayed tuition fee clarity affects enrolment decisions, and assess how their institutions’ short-course, placement-integrated, or dual-award offerings might align with evolving mobility trends.",
+      "id": 4,
+      "title": "China Proposes Tougher Rules to Curb Skills Certification Fraud",
+      "source": "Sixth Tone",
+      "color": "#922b21",
+      "url": "https://www.sixthtone.com/news/1019293/China Proposes Tougher Rules to Curb Skills Certification Fraud",
+      "pubDate": "2026-11-24",
+      "summary": "China has introduced a draft regulation that would establish the first dedicated rules for vocational skills certifications. The draft prohibits certification institutions from issuing certificates without conducting proper assessments.",
+      "insight": "This regulatory move signals China’s intensified focus on vocational education quality and credential integrity, which may gradually shift domestic perceptions of overseas academic versus vocational pathways—though direct impacts on international student demand remain uncertain and likely medium- to long-term.  \nAdmissions teams should monitor Chinese provincial education authorities’ implementation timelines and any resulting shifts in vocational training enrolment or outbound mobility patterns, particularly among non-degree-seeking students, while continuing to assess how this aligns with broader national upskilling priorities.",
+      "impact": "Low",
+      "sources": [
+        "China"
+      ],
+      "dests": [],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 5,
+      "title": "UK business schools report declining international enrolments and predict the downturn will persist through 2027",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/11/uk-business-schools-report-declining-international-enrolments-and-predict-the-downturn-will-persist-through-2027/",
+      "pubDate": "2026-11-11",
+      "summary": "UK business schools reported declining international enrolments in the 2026 Chartered Association of Business Schools Annual Membership Survey and anticipate the downturn will continue through 2027. This trend is attributed primarily to current and forthcoming UK government policies that are complicating overseas recruitment and deterring some international students.",
+      "insight": "UK business schools’ reported enrolment decline—tied to restrictive UK immigration policies—may signal softening demand from key source markets, though it remains unclear whether this reflects broader global shifts or UK-specific policy impacts.  \nAdmissions teams should monitor application trends from overlapping origin regions (e.g., India, Nigeria, China), track competitor messaging on visa stability, and assess whether peer institutions are adjusting recruitment tactics in response to perceived UK policy risk.",
       "impact": "Low",
       "sources": [],
       "dests": [
         "UK"
       ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 7,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 6,
+      "title": "Number of Hong Kong students in US down 27% over past 10 years",
+      "source": "SCMP (Education)",
+      "color": "#7b241c",
+      "url": "https://www.scmp.com/news/hong-kong/education/article/3374698/number-hong-kong-students-us-down-27-over-past-10-years",
+      "pubDate": "2026-11-17",
+      "summary": "The number of international students from Hong Kong studying in the United States has declined by nearly 27 percent over the past decade. In the most recent school year, however, there was a slight 0.5 percent year-on-year increase, driven primarily by a 4.1 percent rise in undergraduate enrollment.",
+      "insight": "The 27% decade-long decline in Hong Kong students in the US likely reflects shifting geopolitical perceptions, tightened visa scrutiny, and growing competition from other English-speaking destinations—but causality remains complex and may also involve demographic and economic factors.  \nAdmissions teams should monitor Hong Kong-specific application trends, visa processing times, and sentiment shifts via local education fairs and agent feedback, while assessing whether recent modest US undergraduate growth signals a potential inflection point worth targeted outreach.",
+      "impact": "Low",
+      "sources": [
+        "China"
+      ],
+      "dests": [
+        "USA"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 7,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 7,
+      "title": "Brazil has the fourth worst proficiency in English in Latin America, says survey",
+      "source": "Folha de S.Paulo",
+      "color": "#154360",
+      "url": "https://redir.folha.com.br/redir/online/educacao/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/brasil-tem-quarta-pior-proficiencia-em-ingles-na-america-latina-diz-levantamento.shtml",
+      "pubDate": "2026-11-20",
+      "summary": "Brazil ranks fourth lowest in English proficiency among Latin American countries, according to the EF English Proficiency Index 2026 survey conducted by Education First. The survey was published on November 20, 2026, at 2:10 pm.",
+      "insight": "Brazil’s low English proficiency ranking may indirectly influence demand for pre-sessional and pathway programs in English-speaking countries, though actual enrollment shifts depend more on economic conditions, visa policies, and institutional support than proficiency scores alone.  \nAdmissions teams should monitor Brazilian applicants’ uptake of English preparation options, IELTS/TOEFL waiver trends, and partnerships with local language providers—while avoiding assumptions that proficiency metrics alone predict application volume or conversion rates.",
+      "impact": "Low",
+      "sources": [
+        "Latin America"
+      ],
+      "dests": [],
+      "translated": true,
+      "origLang": "pt",
+      "relevanceScore": 7,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 8,
+      "title": "Indonesia, Thailand have most Southeast Asian universities in top 100 of global science ranking",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/education/indonesia-thailand-have-most-southeast-asian-universities-in-top-100-of-global-science-ranking-5146613.html",
+      "pubDate": "2026-11-23",
+      "summary": "Indonesia and Thailand have the most Southeast Asian universities in the top 100 of a newly released global interdisciplinary science ranking. Indonesia has four universities in the top 100, while Thailand has three.",
+      "insight": "This ranking signals growing regional academic confidence in Indonesia and Thailand, which may gradually influence student aspirations—though it’s unclear whether stronger domestic options will reduce outbound mobility or instead raise overall demand for high-quality education globally.  \nAdmissions teams should monitor enrolment trends from these countries, especially in STEM fields, and assess whether partnerships with top-ranked universities there could enhance recruitment credibility or pathway opportunities.",
+      "impact": "Low",
+      "sources": [
+        "Southeast Asia"
+      ],
+      "dests": [],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 7,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 9,
+      "title": "US study abroad ROI under threat? Microsoft, Adobe PERM suspensions and IBM sponsorship cuts hit Indian STEM graduates; what students planning a Master’s degree need to know",
+      "source": "Times of India (Edu)",
+      "color": "#d4820a",
+      "url": "https://timesofindia.indiatimes.com/education/news/us-study-abroad-roi-under-threat-microsoft-adobe-perm-suspensions-and-ibm-sponsorship-cuts-hit-indian-stem-graduates-what-students-planning-a-masters-degree-need-to-know/articleshow/136122459.cms",
+      "pubDate": "2026-11-24",
+      "summary": "US technology companies including Microsoft, Adobe, and IBM are scaling back or suspending H-1B and Green Card sponsorship for international employees, particularly affecting Indian STEM graduates pursuing Master’s degrees in the US. These changes—driven by PERM restrictions, heightened immigration scrutiny, and declining international student enrollment—are increasing uncertainty around post-study employment and permanent residency prospects for Fall 2027 applicants.",
+      "insight": "This news may dampen perceived US ROI for Indian STEM Master’s applicants, potentially shifting demand toward the UK, Australia, and New Zealand—though actual enrollment impacts depend on broader factors like visa policy stability and alternative job market access.  \nAdmissions teams should track Indian student application trends by destination and program type over the next 6–12 months, while reviewing messaging around career outcomes, employer partnerships, and post-study work pathways to ensure transparency and responsiveness.",
+      "impact": "Low",
+      "sources": [
+        "India"
+      ],
+      "dests": [],
       "translated": false,
       "origLang": null,
       "relevanceScore": 7,
