@@ -1,62 +1,63 @@
 {
-  "updated": "2026-11-24T10:32:30Z",
-  "count": 9,
-  "totalFetched": 152,
+  "updated": "2026-11-25T09:26:06Z",
+  "count": 10,
+  "totalFetched": 165,
   "articles": [
     {
       "id": 1,
-      "title": "Court blocks DHS policy limiting international student training opportunities",
-      "source": "Higher Ed Dive",
-      "color": "#1e5631",
-      "url": "https://www.highereddive.com/news/court-blocks-dhs-policy-limiting-international-student-training-opportuniti/875132/",
-      "pubDate": "2026-11-18",
-      "summary": "A federal judge ruled that higher education groups challenging new Department of Homeland Security limits on the Curricular Practical Training (CPT) program are likely to succeed. As a result, the court blocked the DHS policy restricting international student training opportunities.",
-      "insight": "This ruling temporarily halts U.S. restrictions on Curricular Practical Training, potentially preserving post-study work access for international students—a key factor in destination choice—though broader visa policy uncertainty and competing global pathways mean demand shifts remain contingent on enforcement and appeals.  \nAdmissions teams should track the legal outcome’s finality, DHS’s next steps, and comparative CPT/OPT clarity versus UK/Australia/NZ graduate work rights, while ensuring recruitment messaging accurately reflects current U.S. training eligibility without overpromising pending policy resolution.",
-      "impact": "High",
+      "title": "US court strikes down rule that would have ended Duration of Status (D/S) for international students",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/11/breaking-news-us-court-strikes-down-rule-that-would-have-ended-duration-of-status-d-s-for-international-students/",
+      "pubDate": "2026-11-17",
+      "summary": "On 16 November 2026, a U.S. federal judge in the District of Massachusetts struck down the Department of Homeland Security’s final rule that would have eliminated the Duration of Status (D/S) policy for international students, exchange visitors, and foreign media representatives. The court ruled the regulation was “arbitrary and capricious” under the Administrative Procedure Act.",
+      "insight": "This ruling preserves the current D/S framework for F-1, J-1, and I visa holders, potentially sustaining enrolment stability for U.S. institutions—though its direct impact on global demand remains uncertain given broader geopolitical, economic, and reputational factors influencing student choices.  \nAdmissions teams should monitor U.S. DHS appeals activity, policy developments in other destination countries responding to this decision, and source-market sentiment shifts—particularly among Asian and Latin American prospects weighing U.S. visa predictability against alternatives like the UK’s Graduate Route or Australia’s post-study work reforms.",
+      "impact": "Low",
       "sources": [],
       "dests": [
         "USA"
       ],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 10,
+      "relevanceScore": 9,
       "insightSource": "qwen"
     },
     {
       "id": 2,
-      "title": "International students decrease, Australian universities massively lay off students",
-      "source": "VnExpress (Giáo dục)",
-      "color": "#b94500",
-      "url": "https://vnexpress.net/du-hoc-sinh-giam-dai-hoc-australia-o-at-sa-thai-5144836.html",
-      "pubDate": "2026-11-24",
-      "summary": "The University of Melbourne cut nearly 180 employees due to a decline in international student numbers and five consecutive years of insufficient revenue. Other Australian universities are implementing similar staff reductions.",
-      "insight": "This news signals potential softening in Australia’s appeal to international students, possibly reflecting broader shifts in source market preferences, visa policy perceptions, or value-for-money calculations—though it may also stem from institution-specific financial management rather than systemic demand decline.  \nAdmissions teams should monitor Australian competitor enrolment data, visa refusal trends, and student sentiment surveys from key markets like India and China, while assessing whether their own value propositions align with evolving expectations around post-study work rights and cost-of-living transparency.",
-      "impact": "Medium",
-      "sources": [],
-      "dests": [
-        "Australia"
-      ],
-      "translated": true,
-      "origLang": "vi",
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 3,
-      "title": "New Enamed gets closer to exams applied in the USA and other countries",
-      "source": "Folha de S.Paulo",
-      "color": "#154360",
-      "url": "https://redir.folha.com.br/redir/online/educacao/rss091/*https://www1.folha.uol.com.br/educacao/2026/11/novo-enamed-se-aproxima-de-exames-aplicados-nos-eua-e-em-outros-paises.shtml",
+      "title": "ICE detains Chinese-born Princeton PhD student at airport after neuroscience conference",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/ice-detains-chinese-born-princeton-phd-student-at-airport-after-neuroscience-conference-5147463.html",
       "pubDate": "2026-11-21",
-      "summary": "Brazil’s Enamed (National Medical Training Assessment Examination) has been made mandatory for new doctors’ registration following a law sanctioned by President Lula in early November 2026. This change aligns Brazil with other countries that require standardized assessments to verify minimum medical training standards before licensure.",
-      "insight": "Brazil’s new mandatory Enamed exam may gradually shift some Latin American students—particularly those previously considering domestic medical training—toward international programs in the USA, UK, Australia, or New Zealand, though demand impacts remain uncertain given local capacity, cost barriers, and existing bilateral recognition pathways.  \nAdmissions teams should track Enamed pass rates, Brazilian Ministry of Education policy updates, and student survey data on post-Enamed intentions—noting that any meaningful enrollment uptick would likely unfold over 2–3 years and require targeted outreach to pre-med and early-med cohorts.",
+      "summary": "U.S. Immigration and Customs Enforcement (ICE) detained a Chinese-born Princeton University PhD student at a Washington-area airport on Thursday after she attended a neuroscience conference. Her lawyers have filed a challenge to the detention in federal court.",
+      "insight": "This incident may heighten anxiety among Chinese students and families about U.S. visa enforcement unpredictability, potentially dampening demand or shifting preferences toward perceived lower-risk destinations—though isolated cases alone don’t confirm systemic policy shifts.  \nAdmissions teams should track official U.S. visa refusal/detention data, consult on-the-ground agents in China for sentiment shifts, and ensure pre-departure briefings address lawful travel protocols—not as crisis response, but as prudent risk communication.",
       "impact": "Low",
       "sources": [
-        "Latin America"
+        "China"
       ],
       "dests": [
         "USA"
       ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 9,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 3,
+      "title": "Campus France recebe inscrições para brasileiros estudarem na França em 2027",
+      "source": "Folha de S.Paulo",
+      "color": "#154360",
+      "url": "https://redir.folha.com.br/redir/online/educacao/rss091/*https://www1.folha.uol.com.br/educacao/2026/11/campus-france-recebe-inscricoes-para-brasileiros-estudarem-na-franca-em-2027.shtml",
+      "pubDate": "2026-11-18",
+      "summary": "Campus France is currently accepting applications from Brazilian students who wish to pursue undergraduate or master’s degree programs in France starting in 2027. The announcement was published on November 18, 2026, at 6:00 a.m.",
+      "insight": "This news signals potential shifts in Brazilian student preferences toward European destinations, possibly reflecting evolving perceptions of affordability, post-study work opportunities, or geopolitical factors—though it remains unclear whether this represents a structural trend or short-term response to specific policy changes in France or competing countries.  \nAdmissions teams should monitor Brazilian application volumes and enrolment trends over the next 12–18 months, particularly for undergraduate and master’s programs, while reviewing their value propositions on cost, career outcomes, and visa pathways relative to France’s updated offerings.",
+      "impact": "Low",
+      "sources": [
+        "China",
+        "Latin America"
+      ],
+      "dests": [],
       "translated": true,
       "origLang": "pt",
       "relevanceScore": 8,
@@ -64,16 +65,16 @@
     },
     {
       "id": 4,
-      "title": "China Proposes Tougher Rules to Curb Skills Certification Fraud",
-      "source": "Sixth Tone",
-      "color": "#922b21",
-      "url": "https://www.sixthtone.com/news/1019293/China Proposes Tougher Rules to Curb Skills Certification Fraud",
-      "pubDate": "2026-11-24",
-      "summary": "China has introduced a draft regulation that would establish the first dedicated rules for vocational skills certifications. The draft prohibits certification institutions from issuing certificates without conducting proper assessments.",
-      "insight": "This regulatory move signals China’s intensified focus on vocational education quality and credential integrity, which may gradually shift domestic perceptions of overseas academic versus vocational pathways—though direct impacts on international student demand remain uncertain and likely medium- to long-term.  \nAdmissions teams should monitor Chinese provincial education authorities’ implementation timelines and any resulting shifts in vocational training enrolment or outbound mobility patterns, particularly among non-degree-seeking students, while continuing to assess how this aligns with broader national upskilling priorities.",
+      "title": "Study abroad without heavy loans: Government scholarships in South Korea, Hungary and Italy, and where each stands for 2027 intakes",
+      "source": "Times of India (Edu)",
+      "color": "#d4820a",
+      "url": "https://timesofindia.indiatimes.com/education/news/study-abroad-without-heavy-loans-government-scholarships-in-south-korea-hungary-and-italy-and-where-each-stands-for-2027-intakes/articleshow/136154926.cms",
+      "pubDate": "2026-11-25",
+      "summary": "Indian students planning to study abroad in 2027 can pursue fully funded government scholarships offered by South Korea, Hungary, and Italy, though none has officially confirmed its 2027 application window. South Korea’s graduate scholarship round is anticipated around February 2027, while Hungary’s 2027/28 Stipendium Hungaricum call and Italy’s next MAECI scholarship announcement remain pending.",
+      "insight": "This news signals potential softening in demand for paid international education among Indian students, as growing awareness of fully funded government scholarships in South Korea, Hungary, and Italy may divert some high-achieving applicants—though actual 2027 intake impacts remain uncertain pending official announcements.  \nAdmissions teams should monitor application trends from India across STEM and humanities disciplines, track scholarship announcement timelines in those three countries, and assess whether their institutional aid packages or articulation pathways need recalibration to retain competitive appeal amid shifting funding expectations.",
       "impact": "Low",
       "sources": [
-        "China"
+        "India"
       ],
       "dests": [],
       "translated": false,
@@ -83,13 +84,52 @@
     },
     {
       "id": 5,
-      "title": "UK business schools report declining international enrolments and predict the downturn will persist through 2027",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/11/uk-business-schools-report-declining-international-enrolments-and-predict-the-downturn-will-persist-through-2027/",
-      "pubDate": "2026-11-11",
-      "summary": "UK business schools reported declining international enrolments in the 2026 Chartered Association of Business Schools Annual Membership Survey and anticipate the downturn will continue through 2027. This trend is attributed primarily to current and forthcoming UK government policies that are complicating overseas recruitment and deterring some international students.",
-      "insight": "UK business schools’ reported enrolment decline—tied to restrictive UK immigration policies—may signal softening demand from key source markets, though it remains unclear whether this reflects broader global shifts or UK-specific policy impacts.  \nAdmissions teams should monitor application trends from overlapping origin regions (e.g., India, Nigeria, China), track competitor messaging on visa stability, and assess whether peer institutions are adjusting recruitment tactics in response to perceived UK policy risk.",
+      "title": "India and Cyprus discuss academic ties, student mobility under higher education MoU",
+      "source": "Times of India (Edu)",
+      "color": "#d4820a",
+      "url": "https://timesofindia.indiatimes.com/education/news/india-and-cyprus-discuss-academic-ties-student-mobility-under-higher-education-mou/articleshow/136148599.cms",
+      "pubDate": "2026-11-25",
+      "summary": "India and Cyprus are discussing the implementation of their recently signed Memorandum of Understanding on Higher Education and Research. The discussions, involving India’s High Commissioner to Cyprus and Cyprus’s Permanent Secretary of the Ministry of Education, focused on academic cooperation, student mobility, and joint research initiatives, with a follow-up meeting scheduled for January 2027.",
+      "insight": "This MoU between India and Cyprus signals growing bilateral academic infrastructure, which could modestly influence Indian student mobility patterns—though it’s too early to infer meaningful diversion from traditional Anglophone destinations given Cyprus’s limited scale and capacity.  \nAdmissions teams should track enrolment trends in Cypriot universities among Indian students over the next 12–24 months and assess whether joint degree pathways or scholarship announcements emerge, as these may indicate evolving preferences or partnership opportunities.",
+      "impact": "Low",
+      "sources": [
+        "India"
+      ],
+      "dests": [],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 6,
+      "title": "New York beats California as top US state for foreign students; Nepal, Bangladesh and Pakistan record all-time highs amid shifting enrolment trends",
+      "source": "Times of India (Edu)",
+      "color": "#d4820a",
+      "url": "https://timesofindia.indiatimes.com/education/news/new-york-beats-california-as-top-us-state-for-foreign-students-nepal-bangladesh-and-pakistan-record-all-time-highs-amid-shifting-enrolment-trends/articleshow/136152214.cms",
+      "pubDate": "2026-11-25",
+      "summary": "New York surpassed California as the top U.S. destination for international students in 2025/26, hosting 133,715 students, according to the IIE’s Open Doors 2026 report. Overall U.S. international student enrollment fell 2.7% to 1.14 million—the first annual decline since 2020/21—with Indian students remaining the largest group despite a 6.5% drop, while Nepal, Bangladesh, and Pakistan all recorded all-time high enrollments.",
+      "insight": "New York’s rise over California as the top U.S. destination—amid a modest 2.7% national enrollment decline—may reflect shifting preferences toward perceived affordability, urban opportunity, or post-study work clarity, though causality remains unclear without granular data on student decision drivers or visa processing trends.  \nAdmissions teams should track regional enrollment shifts across South Asia—especially Nepal, Bangladesh, and Pakistan’s record highs—and assess whether evolving source-market sentiment, agent partnerships, or institutional outreach strategies align with these emerging demand patterns.",
+      "impact": "High",
+      "sources": [
+        "India",
+        "South Asia"
+      ],
+      "dests": [],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 7,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 7,
+      "title": "200k UK-EU youth mobility places agreed as tuition fee decision delayed",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/200k-uk-eu-youth-mobility-places-agreed-as-tuition-fee-decision-delayed/",
+      "pubDate": "2026-11-20",
+      "summary": "The UK and EU have agreed on a youth mobility scheme providing 100,000 places for young people from each side to live, work, and study in the other region for up to three years, totaling 200,000 places. A decision regarding university tuition fees for participants in the scheme has been delayed by six months.",
+      "insight": "This agreement signals potential shifts in European and UK youth mobility preferences, possibly dampening short-term demand for traditional degree pathways among 18–30-year-olds—though its direct impact on international undergraduate or postgraduate enrolments remains uncertain given the scheme’s focus on work-and-study flexibility rather than formal academic credit.  \nAdmissions teams should monitor uptake of the UK-EU youth mobility places and any subsequent policy spillovers—such as revised visa rules or fee frameworks—as well as sentiment shifts among EU students weighing structured degrees versus gap-year-style mobility, particularly when designing targeted outreach for 2025 intakes.",
       "impact": "Low",
       "sources": [],
       "dests": [
@@ -101,81 +141,60 @@
       "insightSource": "qwen"
     },
     {
-      "id": 6,
-      "title": "Number of Hong Kong students in US down 27% over past 10 years",
-      "source": "SCMP (Education)",
-      "color": "#7b241c",
-      "url": "https://www.scmp.com/news/hong-kong/education/article/3374698/number-hong-kong-students-us-down-27-over-past-10-years",
-      "pubDate": "2026-11-17",
-      "summary": "The number of international students from Hong Kong studying in the United States has declined by nearly 27 percent over the past decade. In the most recent school year, however, there was a slight 0.5 percent year-on-year increase, driven primarily by a 4.1 percent rise in undergraduate enrollment.",
-      "insight": "The 27% decade-long decline in Hong Kong students in the US likely reflects shifting geopolitical perceptions, tightened visa scrutiny, and growing competition from other English-speaking destinations—but causality remains complex and may also involve demographic and economic factors.  \nAdmissions teams should monitor Hong Kong-specific application trends, visa processing times, and sentiment shifts via local education fairs and agent feedback, while assessing whether recent modest US undergraduate growth signals a potential inflection point worth targeted outreach.",
-      "impact": "Low",
-      "sources": [
-        "China"
-      ],
-      "dests": [
-        "USA"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 7,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 7,
-      "title": "Brazil has the fourth worst proficiency in English in Latin America, says survey",
-      "source": "Folha de S.Paulo",
-      "color": "#154360",
-      "url": "https://redir.folha.com.br/redir/online/educacao/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/brasil-tem-quarta-pior-proficiencia-em-ingles-na-america-latina-diz-levantamento.shtml",
-      "pubDate": "2026-11-20",
-      "summary": "Brazil ranks fourth lowest in English proficiency among Latin American countries, according to the EF English Proficiency Index 2026 survey conducted by Education First. The survey was published on November 20, 2026, at 2:10 pm.",
-      "insight": "Brazil’s low English proficiency ranking may indirectly influence demand for pre-sessional and pathway programs in English-speaking countries, though actual enrollment shifts depend more on economic conditions, visa policies, and institutional support than proficiency scores alone.  \nAdmissions teams should monitor Brazilian applicants’ uptake of English preparation options, IELTS/TOEFL waiver trends, and partnerships with local language providers—while avoiding assumptions that proficiency metrics alone predict application volume or conversion rates.",
-      "impact": "Low",
-      "sources": [
-        "Latin America"
-      ],
-      "dests": [],
-      "translated": true,
-      "origLang": "pt",
-      "relevanceScore": 7,
-      "insightSource": "qwen"
-    },
-    {
       "id": 8,
-      "title": "Indonesia, Thailand have most Southeast Asian universities in top 100 of global science ranking",
-      "source": "VnExpress (EN)",
-      "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/education/indonesia-thailand-have-most-southeast-asian-universities-in-top-100-of-global-science-ranking-5146613.html",
-      "pubDate": "2026-11-23",
-      "summary": "Indonesia and Thailand have the most Southeast Asian universities in the top 100 of a newly released global interdisciplinary science ranking. Indonesia has four universities in the top 100, while Thailand has three.",
-      "insight": "This ranking signals growing regional academic confidence in Indonesia and Thailand, which may gradually influence student aspirations—though it’s unclear whether stronger domestic options will reduce outbound mobility or instead raise overall demand for high-quality education globally.  \nAdmissions teams should monitor enrolment trends from these countries, especially in STEM fields, and assess whether partnerships with top-ranked universities there could enhance recruitment credibility or pathway opportunities.",
+      "title": "15 đại học đông du học sinh nhất Mỹ",
+      "source": "VnExpress (Giáo dục)",
+      "color": "#b94500",
+      "url": "https://vnexpress.net/15-dai-hoc-dong-du-hoc-sinh-nhat-my-5146574.html",
+      "pubDate": "2026-11-22",
+      "summary": "New York University is the university in the United States with the highest number of international students. It holds this position despite having the highest tuition fees among U.S. universities.",
+      "insight": "NYU’s top ranking for international enrollment—despite its high tuition—suggests price sensitivity may be receding among certain student cohorts, possibly reflecting shifting priorities toward brand prestige, location, or post-study opportunities, though causality remains unclear without data on visa outcomes or regional economic shifts.  \nAdmissions teams should track enrollment trends by origin country and program level at peer institutions, while reviewing their own value propositions around affordability, career support, and regional alumni networks—particularly for Southeast Asian applicants where competition is intensifying.",
       "impact": "Low",
       "sources": [
         "Southeast Asia"
       ],
       "dests": [],
-      "translated": false,
-      "origLang": null,
+      "translated": true,
+      "origLang": "vi",
       "relevanceScore": 7,
       "insightSource": "qwen"
     },
     {
       "id": 9,
-      "title": "US study abroad ROI under threat? Microsoft, Adobe PERM suspensions and IBM sponsorship cuts hit Indian STEM graduates; what students planning a Master’s degree need to know",
-      "source": "Times of India (Edu)",
-      "color": "#d4820a",
-      "url": "https://timesofindia.indiatimes.com/education/news/us-study-abroad-roi-under-threat-microsoft-adobe-perm-suspensions-and-ibm-sponsorship-cuts-hit-indian-stem-graduates-what-students-planning-a-masters-degree-need-to-know/articleshow/136122459.cms",
-      "pubDate": "2026-11-24",
-      "summary": "US technology companies including Microsoft, Adobe, and IBM are scaling back or suspending H-1B and Green Card sponsorship for international employees, particularly affecting Indian STEM graduates pursuing Master’s degrees in the US. These changes—driven by PERM restrictions, heightened immigration scrutiny, and declining international student enrollment—are increasing uncertainty around post-study employment and permanent residency prospects for Fall 2027 applicants.",
-      "insight": "This news may dampen perceived US ROI for Indian STEM Master’s applicants, potentially shifting demand toward the UK, Australia, and New Zealand—though actual enrollment impacts depend on broader factors like visa policy stability and alternative job market access.  \nAdmissions teams should track Indian student application trends by destination and program type over the next 6–12 months, while reviewing messaging around career outcomes, employer partnerships, and post-study work pathways to ensure transparency and responsiveness.",
+      "title": "Du học sinh Việt ở Mỹ chuộng những ngành nào nhất?",
+      "source": "VnExpress (Giáo dục)",
+      "color": "#b94500",
+      "url": "https://vnexpress.net/du-hoc-sinh-viet-tai-my-chuong-nganh-nao-nhat-5146105.html",
+      "pubDate": "2026-11-23",
+      "summary": "Approximately one in four Vietnamese students studying in the United States chooses Business and Management as their field of study. Mathematics and Computer Science is the second most popular field but has experienced the steepest decline in enrollment among Vietnamese students in the U.S.",
+      "insight": "Vietnamese students’ strong preference for Business and Management—chosen by ~25%—suggests enduring demand for applied, career-oriented programs, though the sharp decline in Mathematics and Computer Science enrollment may reflect shifting perceptions of job prospects, visa hurdles, or global tech sector volatility rather than a broad market reversal.  \nAdmissions teams should track Vietnamese enrollment trends by field over the next 12–18 months, particularly in STEM versus business disciplines, while reviewing scholarship targeting, articulation pathways, and employer engagement strategies to align with evolving graduate outcomes expectations.",
       "impact": "Low",
       "sources": [
-        "India"
+        "Southeast Asia"
       ],
       "dests": [],
-      "translated": false,
-      "origLang": null,
+      "translated": true,
+      "origLang": "vi",
       "relevanceScore": 7,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 10,
+      "title": "Kiến nghị Đức công nhận bằng phổ thông của Việt Nam",
+      "source": "VnExpress (Giáo dục)",
+      "color": "#b94500",
+      "url": "https://vnexpress.net/kien-nghi-duc-cong-nhan-bang-pho-thong-cua-viet-nam-5148775.html",
+      "pubDate": "2026-11-25",
+      "summary": "Vietnam’s Minister of Education and Training, Hoang Minh Son, has formally requested that Germany recognize Vietnam’s 2018 general education curriculum. This recognition would allow Vietnamese high school graduates to enroll directly in German universities without completing a one-year preparatory program.",
+      "insight": "This development signals potential long-term shifts in Southeast Asian student mobility, as enhanced Germany–Vietnam academic recognition could modestly reduce demand for Anglophone destinations—though actual enrolment impacts remain uncertain given Vietnam’s still-growing outbound student numbers and diverse destination preferences.  \nAdmissions teams should monitor Vietnamese student application trends over the next 12–24 months, particularly in STEM and business fields, and assess whether German pathway partnerships or dual-degree offerings warrant strategic review amid evolving regional credential recognition dynamics.",
+      "impact": "Low",
+      "sources": [
+        "Southeast Asia"
+      ],
+      "dests": [],
+      "translated": true,
+      "origLang": "vi",
+      "relevanceScore": 6,
       "insightSource": "qwen"
     }
   ]
