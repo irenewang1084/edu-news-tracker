@@ -1,20 +1,81 @@
 {
-  "updated": "2026-11-26T09:05:29Z",
-  "count": 6,
-  "totalFetched": 167,
+  "updated": "2026-11-27T09:19:07Z",
+  "count": 10,
+  "totalFetched": 154,
   "articles": [
     {
       "id": 1,
-      "title": "Number of Hong Kong students in US down 27% over past 10 years",
-      "source": "SCMP (Education)",
-      "color": "#7b241c",
-      "url": "https://www.scmp.com/news/hong-kong/education/article/3374698/number-hong-kong-students-us-down-27-over-past-10-years",
+      "title": "US court strikes down rule that would have ended Duration of Status (D/S) for international students",
+      "source": "ICEF Monitor",
+      "color": "#1a3a5c",
+      "url": "https://monitor.icef.com/2026/11/breaking-news-us-court-strikes-down-rule-that-would-have-ended-duration-of-status-d-s-for-international-students/",
       "pubDate": "2026-11-17",
-      "summary": "The number of international students from Hong Kong studying in the United States has declined by nearly 27 percent over the past decade. In the most recent school year, however, there was a slight 0.5 percent year-on-year increase, driven primarily by a 4.1 percent rise in undergraduate enrollment.",
-      "insight": "The 27% decade-long decline in Hong Kong students in the US likely reflects shifting geopolitical perceptions, tightened visa scrutiny, and growing competition from other English-speaking destinations—but causality remains complex due to overlapping policy, economic, and educational factors.  \nAdmissions teams should track Hong Kong-specific application trends, scholarship uptake, and enrolment volatility by level (especially undergrad vs. grad), while benchmarking against peer institutions’ Hong Kong recruitment performance and local agent feedback.",
+      "summary": "On 16 November 2026, a U.S. federal judge in the District of Massachusetts struck down the Department of Homeland Security’s final rule that would have eliminated the Duration of Status (D/S) policy for international students, exchange visitors, and foreign media representatives. The court ruled the regulation was “arbitrary and capricious” under the Administrative Procedure Act.",
+      "insight": "This ruling preserves the current D/S framework for F-1, J-1, and I visa holders, potentially sustaining enrolment stability for U.S. institutions—though its direct impact on global demand remains uncertain given broader geopolitical, economic, and reputational factors influencing student choices.  \nAdmissions teams should monitor U.S. DHS appeals activity, policy developments in other destination countries responding to this decision, and source-market sentiment shifts—particularly among Asian and Latin American prospects weighing U.S. visa predictability against alternatives like the UK’s Graduate Route or Australia’s post-study work reforms.",
+      "impact": "Low",
+      "sources": [],
+      "dests": [
+        "USA"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 9,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 2,
+      "title": "Australia student visa approvals: Indian offshore grant rate falls below 50%, while VET approvals hit 13%: Why 2027 applicants face tougher visa scrutiny and higher costs",
+      "source": "Times of India (Edu)",
+      "color": "#d4820a",
+      "url": "https://timesofindia.indiatimes.com/education/news/australia-student-visa-approvals-indian-offshore-grant-rate-falls-below-50-while-vet-approvals-hit-13-why-2027-applicants-face-tougher-visa-scrutiny-and-higher-costs/articleshow/136210945.cms",
+      "pubDate": "2026-11-27",
+      "summary": "As of November 20, 2026, only 44,900 prospective international students held active Australian student visas against an annual planning level of 295,000 commencements. Indian offshore higher education visa approval rates fell to 49.1% for July–September 2026—down from 84.9% a year earlier—while VET visa approvals dropped to 13%, contributing to increased scrutiny and higher costs for February 2027 applicants.",
+      "insight": "This news signals tightening Australian visa scrutiny—particularly for Indian students—potentially redirecting some demand toward alternative destinations like the US, UK, or NZ, though actual enrolment shifts depend on concurrent policy changes, economic conditions, and student perceptions rather than visa data alone.  \nAdmissions teams should monitor real-time application volumes and conversion rates from India, track competitor messaging around visa support and post-study work rights, and assess whether enhanced pre-application guidance or financial counselling could mitigate rising applicant anxiety and attrition.",
       "impact": "Low",
       "sources": [
-        "China"
+        "India"
+      ],
+      "dests": [
+        "Australia"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 9,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 3,
+      "title": "Campus France recebe inscrições para brasileiros estudarem na França em 2027",
+      "source": "Folha de S.Paulo",
+      "color": "#154360",
+      "url": "https://redir.folha.com.br/redir/online/educacao/rss091/*https://www1.folha.uol.com.br/educacao/2026/11/campus-france-recebe-inscricoes-para-brasileiros-estudarem-na-franca-em-2027.shtml",
+      "pubDate": "2026-11-18",
+      "summary": "Campus France is currently accepting applications from Brazilian students who wish to pursue undergraduate or master’s degree programs in France starting in 2027. The announcement was published on November 18, 2026, at 6:00 a.m.",
+      "insight": "This news signals potential shifts in Brazilian student preferences toward European destinations, possibly reflecting evolving perceptions of affordability, post-study work opportunities, or geopolitical factors—though it remains unclear whether this represents a structural trend or short-term response to specific policy changes in France or competing countries.  \nAdmissions teams should monitor Brazilian application volumes and enrolment trends over the next 12–18 months, particularly for undergraduate and master’s programs, while reviewing their value propositions on cost, career outcomes, and visa stability relative to France’s updated offerings.",
+      "impact": "Low",
+      "sources": [
+        "China",
+        "Latin America"
+      ],
+      "dests": [],
+      "translated": true,
+      "origLang": "pt",
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 4,
+      "title": "Low funding for postdoc roles fuelling brain drain, govt. funds only 2,500 positions",
+      "source": "The Hindu (Edu)",
+      "color": "#145a32",
+      "url": "https://www.thehindu.com/education/the-ecosystem-divide-why-indian-bright-minds-thrive-abroad-but-stall-at-home/article71450553.ece",
+      "pubDate": "2026-11-26",
+      "summary": "India allocates only $13 per person annually for research, compared to $250 in China and over $2,100 in the United States. The country has just 262 full-time-equivalent researchers per million people and funds only 2,500 postdoctoral positions, contributing to a brain drain.",
+      "insight": "This news signals potential long-term shifts in demand from Indian STEM graduates, as chronic underfunding of postdoctoral research may increase incentives to pursue advanced training and careers abroad—though immediate enrolment impacts remain uncertain given India’s still-growing overall student mobility.  \nAdmissions teams should monitor trends in Indian PhD applications and post-study work visa uptake, while assessing whether partner institutions or industry linkages can be leveraged to position their postdoc pathways as credible alternatives to domestic research careers.",
+      "impact": "Low",
+      "sources": [
+        "China",
+        "India"
       ],
       "dests": [
         "USA"
@@ -25,94 +86,72 @@
       "insightSource": "qwen"
     },
     {
-      "id": 2,
-      "title": "Du học sinh giảm, đại học Australia ồ ạt sa thải",
-      "source": "VnExpress (Giáo dục)",
-      "color": "#b94500",
-      "url": "https://vnexpress.net/du-hoc-sinh-giam-dai-hoc-australia-o-at-sa-thai-5144836.html",
-      "pubDate": "2026-11-24",
-      "summary": "The University of Melbourne has cut nearly 180 staff positions due to a sustained decline in international student numbers and insufficient revenue to cover expenses for five consecutive years. Several other Australian universities are following a similar path of large-scale staff reductions.",
-      "insight": "This news signals potential softening in demand from Southeast Asian students for Australian higher education, possibly reflecting broader shifts in destination preferences, affordability concerns, or perceptions of post-study work value—though it may also stem from Australia-specific policy or market saturation rather than global trends.  \nAdmissions teams should monitor application volume and yield trends from Southeast Asia, compare visa grant rates and processing times across destinations, and assess whether competitor institutions are adjusting scholarships or pathway offerings to retain market share amid tightening enrolment conditions.",
-      "impact": "Low",
-      "sources": [
-        "Southeast Asia"
-      ],
-      "dests": [
-        "Australia"
-      ],
-      "translated": true,
-      "origLang": "vi",
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 3,
-      "title": "India steps up push to take higher education global; 21 foreign universities now operational in country",
+      "id": 5,
+      "title": "Fully funded PhD abroad 2027: Apply now for Ireland’s €25,000 UCD fellowship and UNESCO-TWAS science grants",
       "source": "Times of India (Edu)",
       "color": "#d4820a",
-      "url": "https://timesofindia.indiatimes.com/education/news/india-steps-up-push-to-take-higher-education-global-21-foreign-universities-now-operational-in-country/articleshow/136183908.cms",
-      "pubDate": "2026-11-26",
-      "summary": "Union Minister for Education Pralhad Joshi chaired a meeting with key officials to advance the internationalisation of Indian higher education. As of now, 21 foreign higher education institutions are operational in India, and 268 CBSE schools are functioning across 26 countries.",
-      "insight": "India’s move to host 21 foreign universities signals growing domestic capacity and ambition in higher education, potentially moderating outbound student growth—but demand for elite global degrees remains strong, so impact on Western enrolments is likely gradual and uneven across disciplines and institutions.  \nAdmissions teams should track enrolment trends at these new Indian campuses, especially in STEM and business, while monitoring whether CBSE school expansions correlate with shifts in student aspirations or early-stage application behaviour in key feeder regions.",
+      "url": "https://timesofindia.indiatimes.com/education/news/fully-funded-phd-abroad-2027-apply-now-for-irelands-25000-ucd-fellowship-and-unesco-twas-science-grants/articleshow/136210469.cms",
+      "pubDate": "2026-11-27",
+      "summary": "Two fully funded PhD scholarships for 2027 entry are currently accepting applications: the University College Dublin Iseult Honohan Scholarship, offering full tuition fees and a €25,000 annual stipend for up to four years in social sciences, and the ANSO-CAS-TWAS/UNESCO scholarship, providing tuition waivers, monthly stipends, and additional benefits for eligible international candidates. The application deadlines are January 15, 2027, for the UCD scholarship and February 28, 2027, for the ANSO-C",
+      "insight": "This news signals growing competition for high-achieving Chinese STEM and social sciences students, as Ireland and multilateral bodies expand attractive, fully funded PhD pathways—potentially influencing perceptions of value and destination choice, though direct impact on Anglophone demand remains uncertain without longitudinal enrolment data.  \nAdmissions teams should track application volumes and yield rates from China for 2027 PhD intakes, particularly in social sciences and interdisciplinary fields, while reviewing stipend competitiveness and visa support offerings relative to these new benchmarks.",
       "impact": "Low",
       "sources": [
-        "India"
+        "China"
       ],
       "dests": [],
       "translated": false,
       "origLang": null,
       "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 4,
-      "title": "Indian students choosing UK master's courses for jobs, not just degrees: AI course interest rises 43% as employability drives study abroad decisions",
-      "source": "Times of India (Edu)",
-      "color": "#d4820a",
-      "url": "https://timesofindia.indiatimes.com/education/news/indian-students-choosing-uk-masters-courses-for-jobs-not-just-degrees-ai-course-interest-rises-43-as-employability-drives-study-abroad-decisions/articleshow/136183708.cms",
-      "pubDate": "2026-11-26",
-      "summary": "Indian students are increasingly selecting UK master’s programmes based on employment prospects rather than solely for academic qualifications, with interest in Artificial Intelligence and Machine Learning courses rising 42.6% year-on-year, according to LeapScholar’s UK Study-to-Work Report 2026, which draws on over 6,400 counselling conversations. The report identifies growing demand for technology courses, concerns about salaries and education costs, a gap in awareness about employer sponsorship, and notes evolving visa rules and competition from alternative study destinations like Germany and Ireland.",
-      "insight": "This signals a broader shift toward employment-led decision-making among Indian students, where perceived ROI—especially in high-demand tech fields—is increasingly prioritized over institutional prestige or academic reputation alone, though it remains unclear how directly this UK trend translates to other destinations.  \nAdmissions teams should track Indian student inquiries and application patterns for AI/ML and related STEM programmes, while auditing their career support offerings, employer partnerships, and post-study work messaging to ensure alignment with evolving expectations around job readiness and visa pathway clarity.",
-      "impact": "Low",
-      "sources": [
-        "India"
-      ],
-      "dests": [
-        "UK"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 8,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 5,
-      "title": "Push immigration minister to back international students, Canadian MP urges",
-      "source": "The PIE News",
-      "color": "#7b341e",
-      "url": "https://thepienews.com/push-immigration-minister-to-back-international-students-canadian-mp-urges/",
-      "pubDate": "2026-11-25",
-      "summary": "A Canadian MP, serving as parliamentary secretary to the minister of foreign affairs, urged stakeholders to continue advocating for stronger federal government support for international students, research collaboration, and the arts and humanities. The statement was reported by The PIE News.",
-      "insight": "This news reflects growing political recognition of international students’ value in Canada, potentially reinforcing perceptions of Canada as a welcoming destination—though direct impacts on demand or policy for US/UK/AU/NZ recruiters remain uncertain without concrete regulatory changes.  \nAdmissions teams should monitor Canadian immigration policy updates and student sentiment shifts in key source markets, particularly if advocacy leads to faster processing, expanded work rights, or enhanced post-study pathways that could indirectly influence comparative destination choices.",
-      "impact": "Low",
-      "sources": [],
-      "dests": [
-        "Canada"
-      ],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 7,
       "insightSource": "qwen"
     },
     {
       "id": 6,
-      "title": "Gần 100 sinh viên Ấn Độ, Bhutan học ngành y tại Việt Nam",
+      "title": "Japan looks to Bangladesh, Nepal for farmhands as Vietnamese recruiters struggle to fill jobs",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/japan-looks-to-bangladesh-nepal-for-farmhands-as-vietnamese-recruiters-struggle-to-fill-jobs-5148042.html",
+      "pubDate": "2026-11-26",
+      "summary": "Japan is seeking farmworkers from Bangladesh and Nepal to address labor shortages on its aging farms. This shift follows a slowdown in the supply of workers from Vietnam and the Philippines.",
+      "insight": "Japan’s pivot toward Bangladesh and Nepal for agricultural labor may indirectly signal shifting migration perceptions in these countries, potentially influencing student aspirations toward work-integrated study pathways—but direct impacts on tertiary enrolment demand remain speculative and context-dependent.  \nAdmissions teams should monitor evolving bilateral agreements, vocational education promotion in Bangladesh and Nepal, and any resulting upticks in interest for agri-science or applied programs, while avoiding premature assumptions about enrollment shifts.",
+      "impact": "High",
+      "sources": [
+        "Southeast Asia",
+        "South Asia"
+      ],
+      "dests": [],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 7,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 7,
+      "title": "Are UGC regulations becoming a barrier for foreign university campuses in India?",
+      "source": "The Hindu (Edu)",
+      "color": "#145a32",
+      "url": "https://www.thehindu.com/education/are-ugc-regulations-becoming-a-barrier-for-foreign-university-campuses-in-india/article71742739.ece",
+      "pubDate": "2026-11-25",
+      "summary": "The University Grants Commission (UGC) has the authority to cancel approval for foreign university campuses operating in India if their activities are deemed “against the interest of India.” The UGC also retains sole discretion to interpret its regulations and impose “any other conditions” as it deems necessary.",
+      "insight": "This UGC policy shift introduces regulatory uncertainty for foreign universities in India, potentially dampening student confidence in India-based campuses and indirectly influencing perceptions of academic stability—though its direct impact on outbound demand to traditional destinations remains unclear pending implementation clarity.  \nAdmissions teams should monitor Indian student application trends, especially from high-propensity regions, and track how domestic regulatory developments intersect with broader sentiment around international education quality and visa pathway reliability.",
+      "impact": "Low",
+      "sources": [
+        "India"
+      ],
+      "dests": [],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 7,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 8,
+      "title": "Kiến nghị Đức công nhận bằng phổ thông của Việt Nam",
       "source": "VnExpress (Giáo dục)",
       "color": "#b94500",
-      "url": "https://vnexpress.net/gan-100-sinh-vien-an-do-bhutan-hoc-nganh-y-tai-viet-nam-5148630.html",
+      "url": "https://vnexpress.net/kien-nghi-duc-cong-nhan-bang-pho-thong-cua-viet-nam-5148775.html",
       "pubDate": "2026-11-25",
-      "summary": "Nearly 100 new students from India and Bhutan have enrolled in the medical program at DNU University. The students began their studies recently.",
-      "insight": "This news hints at growing diversification in medical education demand among South Asian students, possibly reflecting shifting perceptions of affordability, quality, or visa accessibility in non-traditional destinations—though it’s unclear whether this signals broader regional trend shifts or isolated institutional success.  \nAdmissions teams should monitor enrolment patterns and scholarship uptake among Indian and Bhutanese applicants to UK/Australia/NZ medical programs, while assessing whether Vietnamese program structures (e.g., English-medium delivery, clinical placement models) are influencing student expectations or application strategies.",
+      "summary": "Vietnam’s Minister of Education and Training, Hoang Minh Son, has formally requested that Germany recognize Vietnam’s 2018 general education curriculum. This recognition would allow Vietnamese high school graduates to enroll directly in German universities without completing a one-year preparatory program.",
+      "insight": "This development signals potential long-term shifts in Southeast Asian student mobility, as enhanced Germany–Vietnam academic recognition could modestly reduce demand for Anglophone destinations—though actual enrolment impacts remain uncertain given Vietnam’s still-growing outbound student numbers and diverse destination preferences.  \nAdmissions teams should monitor Vietnamese student application trends by destination over the next 12–24 months and assess whether German recognition catalyses broader regional curriculum alignment efforts that might indirectly influence credential evaluation policies or pathway partnerships elsewhere.",
       "impact": "Low",
       "sources": [
         "Southeast Asia"
@@ -121,6 +160,45 @@
       "translated": true,
       "origLang": "vi",
       "relevanceScore": 7,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 9,
+      "title": "Teachers race to master English as Vietnam pushes for bilingual education",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/education/teachers-race-to-master-english-as-vietnam-pushes-for-bilingual-education-5149059.html",
+      "pubDate": "2026-11-26",
+      "summary": "Vietnamese teachers are rapidly acquiring English language proficiency and artificial intelligence skills to comply with the government’s new bilingual education requirements. This effort is occurring amid increasing workloads and significant pressure to adapt to evolving educational standards.",
+      "insight": "This development signals potential long-term shifts in Vietnamese students’ English readiness and expectations of bilingual instruction, though direct impacts on near-term application volumes or destination preferences remain uncertain amid broader economic and policy variables.  \nAdmissions teams should monitor Vietnam’s bilingual curriculum rollout pace, teacher training outcomes, and any resulting changes in national English test participation or secondary school partnerships—using these as early indicators of evolving student preparedness and institutional engagement patterns.",
+      "impact": "Low",
+      "sources": [
+        "Southeast Asia"
+      ],
+      "dests": [],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 7,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 10,
+      "title": "Brasil atinge recorde de alunos no ensino superior e mais pretos, pardos e indígenas nas federais pela 1ª vez",
+      "source": "Folha de S.Paulo",
+      "color": "#154360",
+      "url": "https://redir.folha.com.br/redir/online/educacao/rss091/*https://www1.folha.uol.com.br/educacao/2026/11/brasil-atinge-recorde-de-alunos-no-ensino-superior-e-mais-pretos-pardos-e-indigenas-nas-federais-pela-1a-vez.shtml",
+      "pubDate": "2026-11-26",
+      "summary": "Brazil reached a record 10.6 million students enrolled in higher education in the previous year, representing a 4% increase from the prior year. For the first time, students who self-identify as Black, Brown, or Indigenous constituted the majority of enrollees in federal universities.",
+      "insight": "Brazil’s domestic higher education expansion—especially increased access for historically underrepresented groups—may modestly reduce outbound student demand, though strong graduate and niche program appeal to Brazilian students remains likely amid persistent quality and opportunity perceptions.  \nAdmissions teams should monitor Brazilian enrolment trends in their institutions, scholarship uptake, and shifts in application volumes by demographic subgroup, while continuing to highlight unique academic and post-study value propositions to maintain competitiveness.",
+      "impact": "High",
+      "sources": [
+        "China",
+        "Latin America"
+      ],
+      "dests": [],
+      "translated": true,
+      "origLang": "pt",
+      "relevanceScore": 6,
       "insightSource": "qwen"
     }
   ]
