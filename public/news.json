@@ -1,21 +1,21 @@
 {
-  "updated": "2026-11-27T09:19:07Z",
-  "count": 10,
-  "totalFetched": 154,
+  "updated": "2026-11-28T08:38:35Z",
+  "count": 7,
+  "totalFetched": 165,
   "articles": [
     {
       "id": 1,
-      "title": "US court strikes down rule that would have ended Duration of Status (D/S) for international students",
-      "source": "ICEF Monitor",
-      "color": "#1a3a5c",
-      "url": "https://monitor.icef.com/2026/11/breaking-news-us-court-strikes-down-rule-that-would-have-ended-duration-of-status-d-s-for-international-students/",
-      "pubDate": "2026-11-17",
-      "summary": "On 16 November 2026, a U.S. federal judge in the District of Massachusetts struck down the Department of Homeland Security’s final rule that would have eliminated the Duration of Status (D/S) policy for international students, exchange visitors, and foreign media representatives. The court ruled the regulation was “arbitrary and capricious” under the Administrative Procedure Act.",
-      "insight": "This ruling preserves the current D/S framework for F-1, J-1, and I visa holders, potentially sustaining enrolment stability for U.S. institutions—though its direct impact on global demand remains uncertain given broader geopolitical, economic, and reputational factors influencing student choices.  \nAdmissions teams should monitor U.S. DHS appeals activity, policy developments in other destination countries responding to this decision, and source-market sentiment shifts—particularly among Asian and Latin American prospects weighing U.S. visa predictability against alternatives like the UK’s Graduate Route or Australia’s post-study work reforms.",
+      "title": "UK study visa refusals hit highest rate in over a decade as withdrawals soar",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/uk-study-visa-refusals-hit-highest-rate-in-over-a-decade-as-withdrawals-soar/",
+      "pubDate": "2026-11-26",
+      "summary": "The UK study visa refusal rate has reached 6.4%, the highest level in over ten years. Withdrawn applications during the peak recruitment quarter increased by more than 370% compared to the previous year.",
+      "insight": "The UK’s rising study visa refusal rate and surge in withdrawn applications may reflect tightening compliance scrutiny or shifting applicant preparedness, potentially dampening UK appeal—though it remains unclear whether this signals broader demand erosion or isolated administrative trends.  \nAdmissions teams should track real-time visa outcome data by source country, monitor peer institutions’ UK application volumes, and assess whether prospective students are expressing heightened concerns about UK visa complexity in counselling interactions or digital engagement metrics.",
       "impact": "Low",
       "sources": [],
       "dests": [
-        "USA"
+        "UK"
       ],
       "translated": false,
       "origLang": null,
@@ -24,180 +24,120 @@
     },
     {
       "id": 2,
-      "title": "Australia student visa approvals: Indian offshore grant rate falls below 50%, while VET approvals hit 13%: Why 2027 applicants face tougher visa scrutiny and higher costs",
-      "source": "Times of India (Edu)",
-      "color": "#d4820a",
-      "url": "https://timesofindia.indiatimes.com/education/news/australia-student-visa-approvals-indian-offshore-grant-rate-falls-below-50-while-vet-approvals-hit-13-why-2027-applicants-face-tougher-visa-scrutiny-and-higher-costs/articleshow/136210945.cms",
+      "title": "Canada plans 2027 pilot to speed up study-permit processing",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/canada-plans-2027-pilot-to-speed-up-study-permit-processing/",
       "pubDate": "2026-11-27",
-      "summary": "As of November 20, 2026, only 44,900 prospective international students held active Australian student visas against an annual planning level of 295,000 commencements. Indian offshore higher education visa approval rates fell to 49.1% for July–September 2026—down from 84.9% a year earlier—while VET visa approvals dropped to 13%, contributing to increased scrutiny and higher costs for February 2027 applicants.",
-      "insight": "This news signals tightening Australian visa scrutiny—particularly for Indian students—potentially redirecting some demand toward alternative destinations like the US, UK, or NZ, though actual enrolment shifts depend on concurrent policy changes, economic conditions, and student perceptions rather than visa data alone.  \nAdmissions teams should monitor real-time application volumes and conversion rates from India, track competitor messaging around visa support and post-study work rights, and assess whether enhanced pre-application guidance or financial counselling could mitigate rising applicant anxiety and attrition.",
+      "summary": "Canada is developing a pilot program set to launch in 2027 that will involve a select group of designated learning institutions (DLIs) to improve study-permit processing times and reduce avoidable refusals. The initiative aims to streamline the application process for international students through collaboration with these institutions.",
+      "insight": "Canada’s 2027 pilot to accelerate study-permit processing and reduce refusals may modestly improve its competitiveness for international students, particularly from markets sensitive to visa delays or uncertainty—though actual demand shifts will depend on implementation fidelity and concurrent policy changes elsewhere.  \nAdmissions teams should track Canada’s pilot rollout timing, participating DLIs, and early outcome metrics (e.g., processing time reductions, refusal rate trends), while benchmarking against their own visa processing stability and student support infrastructure.",
       "impact": "Low",
-      "sources": [
-        "India"
+      "sources": [],
+      "dests": [
+        "Canada"
       ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 8,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 3,
+      "title": "Australian universities cut jobs as international student numbers decline",
+      "source": "VnExpress (EN)",
+      "color": "#d35400",
+      "url": "https://e.vnexpress.net/news/news/education/australian-universities-cut-jobs-as-international-student-numbers-decline-5149898.html",
+      "pubDate": "2026-11-28",
+      "summary": "Major Australian universities, including the University of Melbourne, are cutting hundreds of jobs due to mounting financial deficits caused by a decline in international student numbers. The job cuts are part of cost-reduction measures implemented in response to the revenue shortfall.",
+      "insight": "This news signals potential shifts in global student mobility, as Australia’s financial strain from falling international enrolments may prompt tighter visa policies or reduced marketing—though it’s unclear if this reflects broader demand erosion or country-specific factors like post-pandemic recovery delays.  \nAdmissions teams should monitor Australian policy updates, competitor enrolment trends, and source-market sentiment surveys—noting that regional recruitment strategies may need rebalancing if students perceive diminished value or opportunity there.",
+      "impact": "Low",
+      "sources": [],
       "dests": [
         "Australia"
       ],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 9,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 3,
-      "title": "Campus France recebe inscrições para brasileiros estudarem na França em 2027",
-      "source": "Folha de S.Paulo",
-      "color": "#154360",
-      "url": "https://redir.folha.com.br/redir/online/educacao/rss091/*https://www1.folha.uol.com.br/educacao/2026/11/campus-france-recebe-inscricoes-para-brasileiros-estudarem-na-franca-em-2027.shtml",
-      "pubDate": "2026-11-18",
-      "summary": "Campus France is currently accepting applications from Brazilian students who wish to pursue undergraduate or master’s degree programs in France starting in 2027. The announcement was published on November 18, 2026, at 6:00 a.m.",
-      "insight": "This news signals potential shifts in Brazilian student preferences toward European destinations, possibly reflecting evolving perceptions of affordability, post-study work opportunities, or geopolitical factors—though it remains unclear whether this represents a structural trend or short-term response to specific policy changes in France or competing countries.  \nAdmissions teams should monitor Brazilian application volumes and enrolment trends over the next 12–18 months, particularly for undergraduate and master’s programs, while reviewing their value propositions on cost, career outcomes, and visa stability relative to France’s updated offerings.",
-      "impact": "Low",
-      "sources": [
-        "China",
-        "Latin America"
-      ],
-      "dests": [],
-      "translated": true,
-      "origLang": "pt",
       "relevanceScore": 8,
       "insightSource": "qwen"
     },
     {
       "id": 4,
-      "title": "Low funding for postdoc roles fuelling brain drain, govt. funds only 2,500 positions",
-      "source": "The Hindu (Edu)",
-      "color": "#145a32",
-      "url": "https://www.thehindu.com/education/the-ecosystem-divide-why-indian-bright-minds-thrive-abroad-but-stall-at-home/article71450553.ece",
-      "pubDate": "2026-11-26",
-      "summary": "India allocates only $13 per person annually for research, compared to $250 in China and over $2,100 in the United States. The country has just 262 full-time-equivalent researchers per million people and funds only 2,500 postdoctoral positions, contributing to a brain drain.",
-      "insight": "This news signals potential long-term shifts in demand from Indian STEM graduates, as chronic underfunding of postdoctoral research may increase incentives to pursue advanced training and careers abroad—though immediate enrolment impacts remain uncertain given India’s still-growing overall student mobility.  \nAdmissions teams should monitor trends in Indian PhD applications and post-study work visa uptake, while assessing whether partner institutions or industry linkages can be leveraged to position their postdoc pathways as credible alternatives to domestic research careers.",
+      "title": "Number of Hong Kong students in US down 27% over past 10 years",
+      "source": "SCMP (Education)",
+      "color": "#7b241c",
+      "url": "https://www.scmp.com/news/hong-kong/education/article/3374698/number-hong-kong-students-us-down-27-over-past-10-years",
+      "pubDate": "2026-11-17",
+      "summary": "The number of international students from Hong Kong studying in the United States has declined by nearly 27 percent over the past decade. In the most recent school year, however, there was a slight 0.5 percent year-on-year increase, driven primarily by a 4.1 percent rise in undergraduate enrollment.",
+      "insight": "The 27% decade-long decline in Hong Kong students in the US likely reflects shifting geopolitical perceptions, tightened visa scrutiny, and growing competition from other English-speaking destinations—but causality remains complex and may also involve demographic and economic factors.  \nAdmissions teams should monitor Hong Kong-specific application trends, visa processing times, and sentiment shifts via local education fairs and agent feedback, while assessing whether recent modest US undergraduate growth signals a potential inflection point worth targeted outreach.",
       "impact": "Low",
       "sources": [
-        "China",
-        "India"
+        "China"
       ],
       "dests": [
         "USA"
       ],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 8,
+      "relevanceScore": 7,
       "insightSource": "qwen"
     },
     {
       "id": 5,
-      "title": "Fully funded PhD abroad 2027: Apply now for Ireland’s €25,000 UCD fellowship and UNESCO-TWAS science grants",
-      "source": "Times of India (Edu)",
-      "color": "#d4820a",
-      "url": "https://timesofindia.indiatimes.com/education/news/fully-funded-phd-abroad-2027-apply-now-for-irelands-25000-ucd-fellowship-and-unesco-twas-science-grants/articleshow/136210469.cms",
+      "title": "Fundação Estudar promove evento gratuito sobre universidades britânicas",
+      "source": "Folha de S.Paulo",
+      "color": "#154360",
+      "url": "https://redir.folha.com.br/redir/online/educacao/rss091/*https://www1.folha.uol.com.br/educacao/2026/11/fundacao-estudar-promove-evento-gratuito-sobre-universidades-britanicas.shtml",
       "pubDate": "2026-11-27",
-      "summary": "Two fully funded PhD scholarships for 2027 entry are currently accepting applications: the University College Dublin Iseult Honohan Scholarship, offering full tuition fees and a €25,000 annual stipend for up to four years in social sciences, and the ANSO-CAS-TWAS/UNESCO scholarship, providing tuition waivers, monthly stipends, and additional benefits for eligible international candidates. The application deadlines are January 15, 2027, for the UCD scholarship and February 28, 2027, for the ANSO-C",
-      "insight": "This news signals growing competition for high-achieving Chinese STEM and social sciences students, as Ireland and multilateral bodies expand attractive, fully funded PhD pathways—potentially influencing perceptions of value and destination choice, though direct impact on Anglophone demand remains uncertain without longitudinal enrolment data.  \nAdmissions teams should track application volumes and yield rates from China for 2027 PhD intakes, particularly in social sciences and interdisciplinary fields, while reviewing stipend competitiveness and visa support offerings relative to these new benchmarks.",
+      "summary": "The Estudar Foundation is hosting a free online event called “Study in the UK Day” on Saturday, 28 November 2026, aimed at Brazilian students interested in studying in the United Kingdom. The event will feature representatives from British universities and international education organizations and will cover information about institutions and financing opportunities.",
+      "insight": "This news signals growing interest among Brazilian students in UK higher education, potentially reflecting broader regional shifts toward English-speaking destinations amid evolving visa policies and financing concerns—though it remains unclear whether this represents a sustained trend or short-term outreach momentum.  \nAdmissions teams should monitor Brazilian application volumes and scholarship uptake over the next 12–18 months, while assessing whether similar foundation-led events emerge in China or other Latin American countries to inform targeted engagement strategies.",
       "impact": "Low",
       "sources": [
-        "China"
+        "China",
+        "Latin America"
       ],
-      "dests": [],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 8,
+      "dests": [
+        "UK"
+      ],
+      "translated": true,
+      "origLang": "pt",
+      "relevanceScore": 7,
       "insightSource": "qwen"
     },
     {
       "id": 6,
-      "title": "Japan looks to Bangladesh, Nepal for farmhands as Vietnamese recruiters struggle to fill jobs",
-      "source": "VnExpress (EN)",
-      "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/japan-looks-to-bangladesh-nepal-for-farmhands-as-vietnamese-recruiters-struggle-to-fill-jobs-5148042.html",
+      "title": "UK TNE expands amid Uzbekistan’s higher education boom",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/uk-tne-expands-amid-uzbekistans-higher-education-boom/",
+      "pubDate": "2026-11-25",
+      "summary": "The number of higher education students in Uzbekistan has increased nearly six-fold since 2015, coinciding with rapid expansion of UK transnational education (TNE) provision in the country. A key challenge for UK TNE is now maintaining academic standards within Uzbekistan’s locally embedded and increasingly diverse higher education system.",
+      "insight": "Uzbekistan’s higher education expansion and UK TNE growth suggest rising domestic capacity may gradually temper outbound student demand, though it remains uncertain whether this will significantly reduce enrolment interest in Western universities over the medium term.  \nAdmissions teams should monitor Uzbek student application trends, scholarship uptake, and partnerships with local institutions—particularly those offering UK-accredited programmes—as potential indicators of shifting preferences or competitive pressure.",
+      "impact": "Low",
+      "sources": [],
+      "dests": [
+        "UK"
+      ],
+      "translated": false,
+      "origLang": null,
+      "relevanceScore": 6,
+      "insightSource": "qwen"
+    },
+    {
+      "id": 7,
+      "title": "Nepal’s new rules could push responsible education agencies out of business",
+      "source": "The PIE News",
+      "color": "#7b341e",
+      "url": "https://thepienews.com/nepals-new-rules-could-push-responsible-education-agencies-out-of-business/",
       "pubDate": "2026-11-26",
-      "summary": "Japan is seeking farmworkers from Bangladesh and Nepal to address labor shortages on its aging farms. This shift follows a slowdown in the supply of workers from Vietnam and the Philippines.",
-      "insight": "Japan’s pivot toward Bangladesh and Nepal for agricultural labor may indirectly signal shifting migration perceptions in these countries, potentially influencing student aspirations toward work-integrated study pathways—but direct impacts on tertiary enrolment demand remain speculative and context-dependent.  \nAdmissions teams should monitor evolving bilateral agreements, vocational education promotion in Bangladesh and Nepal, and any resulting upticks in interest for agri-science or applied programs, while avoiding premature assumptions about enrollment shifts.",
-      "impact": "High",
+      "summary": "Nepal has introduced new regulations requiring education agencies to deposit NPR 2.5 million, a requirement that could force smaller, responsible agencies out of business. Additionally, new ownership rules restrict universities with stakes in local education agencies, potentially affecting their operations and leaving students more dependent on unregistered advisers.",
+      "insight": "Nepal’s new agency regulations may gradually reduce the number of trusted, compliant pathways for students to access overseas education, potentially dampening short-term application volumes or shifting demand toward institutions with direct recruitment infrastructure in Nepal.  \nAdmissions teams should monitor Nepali student application trends over the next 1–2 intake cycles and assess whether partner agencies report increased operational friction, while reviewing their local engagement models to ensure resilience against regulatory fragmentation.",
+      "impact": "Low",
       "sources": [
-        "Southeast Asia",
         "South Asia"
       ],
       "dests": [],
       "translated": false,
       "origLang": null,
-      "relevanceScore": 7,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 7,
-      "title": "Are UGC regulations becoming a barrier for foreign university campuses in India?",
-      "source": "The Hindu (Edu)",
-      "color": "#145a32",
-      "url": "https://www.thehindu.com/education/are-ugc-regulations-becoming-a-barrier-for-foreign-university-campuses-in-india/article71742739.ece",
-      "pubDate": "2026-11-25",
-      "summary": "The University Grants Commission (UGC) has the authority to cancel approval for foreign university campuses operating in India if their activities are deemed “against the interest of India.” The UGC also retains sole discretion to interpret its regulations and impose “any other conditions” as it deems necessary.",
-      "insight": "This UGC policy shift introduces regulatory uncertainty for foreign universities in India, potentially dampening student confidence in India-based campuses and indirectly influencing perceptions of academic stability—though its direct impact on outbound demand to traditional destinations remains unclear pending implementation clarity.  \nAdmissions teams should monitor Indian student application trends, especially from high-propensity regions, and track how domestic regulatory developments intersect with broader sentiment around international education quality and visa pathway reliability.",
-      "impact": "Low",
-      "sources": [
-        "India"
-      ],
-      "dests": [],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 7,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 8,
-      "title": "Kiến nghị Đức công nhận bằng phổ thông của Việt Nam",
-      "source": "VnExpress (Giáo dục)",
-      "color": "#b94500",
-      "url": "https://vnexpress.net/kien-nghi-duc-cong-nhan-bang-pho-thong-cua-viet-nam-5148775.html",
-      "pubDate": "2026-11-25",
-      "summary": "Vietnam’s Minister of Education and Training, Hoang Minh Son, has formally requested that Germany recognize Vietnam’s 2018 general education curriculum. This recognition would allow Vietnamese high school graduates to enroll directly in German universities without completing a one-year preparatory program.",
-      "insight": "This development signals potential long-term shifts in Southeast Asian student mobility, as enhanced Germany–Vietnam academic recognition could modestly reduce demand for Anglophone destinations—though actual enrolment impacts remain uncertain given Vietnam’s still-growing outbound student numbers and diverse destination preferences.  \nAdmissions teams should monitor Vietnamese student application trends by destination over the next 12–24 months and assess whether German recognition catalyses broader regional curriculum alignment efforts that might indirectly influence credential evaluation policies or pathway partnerships elsewhere.",
-      "impact": "Low",
-      "sources": [
-        "Southeast Asia"
-      ],
-      "dests": [],
-      "translated": true,
-      "origLang": "vi",
-      "relevanceScore": 7,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 9,
-      "title": "Teachers race to master English as Vietnam pushes for bilingual education",
-      "source": "VnExpress (EN)",
-      "color": "#d35400",
-      "url": "https://e.vnexpress.net/news/news/education/teachers-race-to-master-english-as-vietnam-pushes-for-bilingual-education-5149059.html",
-      "pubDate": "2026-11-26",
-      "summary": "Vietnamese teachers are rapidly acquiring English language proficiency and artificial intelligence skills to comply with the government’s new bilingual education requirements. This effort is occurring amid increasing workloads and significant pressure to adapt to evolving educational standards.",
-      "insight": "This development signals potential long-term shifts in Vietnamese students’ English readiness and expectations of bilingual instruction, though direct impacts on near-term application volumes or destination preferences remain uncertain amid broader economic and policy variables.  \nAdmissions teams should monitor Vietnam’s bilingual curriculum rollout pace, teacher training outcomes, and any resulting changes in national English test participation or secondary school partnerships—using these as early indicators of evolving student preparedness and institutional engagement patterns.",
-      "impact": "Low",
-      "sources": [
-        "Southeast Asia"
-      ],
-      "dests": [],
-      "translated": false,
-      "origLang": null,
-      "relevanceScore": 7,
-      "insightSource": "qwen"
-    },
-    {
-      "id": 10,
-      "title": "Brasil atinge recorde de alunos no ensino superior e mais pretos, pardos e indígenas nas federais pela 1ª vez",
-      "source": "Folha de S.Paulo",
-      "color": "#154360",
-      "url": "https://redir.folha.com.br/redir/online/educacao/rss091/*https://www1.folha.uol.com.br/educacao/2026/11/brasil-atinge-recorde-de-alunos-no-ensino-superior-e-mais-pretos-pardos-e-indigenas-nas-federais-pela-1a-vez.shtml",
-      "pubDate": "2026-11-26",
-      "summary": "Brazil reached a record 10.6 million students enrolled in higher education in the previous year, representing a 4% increase from the prior year. For the first time, students who self-identify as Black, Brown, or Indigenous constituted the majority of enrollees in federal universities.",
-      "insight": "Brazil’s domestic higher education expansion—especially increased access for historically underrepresented groups—may modestly reduce outbound student demand, though strong graduate and niche program appeal to Brazilian students remains likely amid persistent quality and opportunity perceptions.  \nAdmissions teams should monitor Brazilian enrolment trends in their institutions, scholarship uptake, and shifts in application volumes by demographic subgroup, while continuing to highlight unique academic and post-study value propositions to maintain competitiveness.",
-      "impact": "High",
-      "sources": [
-        "China",
-        "Latin America"
-      ],
-      "dests": [],
-      "translated": true,
-      "origLang": "pt",
       "relevanceScore": 6,
       "insightSource": "qwen"
     }
